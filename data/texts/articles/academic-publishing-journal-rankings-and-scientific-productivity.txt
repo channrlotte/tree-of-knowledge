@@ -1,0 +1,158 @@
+﻿ПРОБЛЕМЫ РАЗВИТИЯ СИСТЕМЫ ОБРАЗОВАНИЯ
+127
+DOI: 10.23683/2073-6606-2017-15-4-127-135
+ACADEMIC PUBLISHING, JOURNAL RANKINGS, ÂND SCIENTIFIC PRGDUCTIVITY
+Svetlana VERSHININA,
+Institute of Mathematics and Computer Science,
+University of Tyumen, Tyumen, Russia, e-mail: [email protected];
+Oksana TARASOVA,
+Institute of Management and Business, Tyumen Industrial University, Tyumen, Russia, e-mail: [email protected];
+Wadim STRIELKOWSKI,
+Centre for Scientometrics Research, Prague Business School, Prague, Czech Republic, University of California, Berkeley, Berkeley, United States, e-mail: [email protected]
+О :> о
+z
+Academic publishing, rankings, and scientific productivity constitute an essential	§
+part of every researcher's career. Publications in prestigious academic journals have	^
+a significant impact on the institutional rankings and help researchers to the grant	g
+funding. Nevertheless, the issue of «where» to publish became more important than	^
+«what» to publish. The academic race ignited the emotional discussion about the phenomenon of the so-called «predatory» journals that allegedly publish scientific «rubbish» for money without proper peer review. Czech Republic is one of the countries that seem to be particularly obsessed with the issue of «predatory» journals which led to a storm in the Czech academic teacup. Everyone in the Czech Republic (including the top management of the country's leading universities and Academy of Sciences) was and is still publishing in the journals that were once considered "predatory" by Jeffrey Beall (i.e. journals published by MDPI or Hindawi). Many Czech academics get promoted based on publishing their monographs in obscure publishing houses located in apartment blocks or publishing papers in the journals they are editing bypassing the peer review (a famous "Tereza Stockelová controversy"). According to some estimates, between 2009 and 2013 Czech universities made approximately $2 million on papers and monographs published in «predatory» publishing outlets. The case of «predatory» journals was used by some less-productive institutes of the Czech Academy of Sciences to question the system of world's established academic metrics such as Scopus and Web of Science. However, moving away from the world-renowned databases and creating national publication standards would most certainly allow small groups of local
+© С. Вершинина, О. Тарасова, В. Стриелковски, 2017
+academics to control the system of academic rankings and productivity. Academic database such as Scopus and Web of Science offer international and non-involved objectivity and therefore are fair and transparent.
+Keywords: academic rankings, publishing, scientific productivity, bibliometrics, predatory journals, Scopus, Web of Science
+JEL classifications: A31, B30, B41, C80
+АКАДЕМИЧЕСКАЯ ПУБЛИКАЦИОННАЯ АКТИВНОСТЬ, РЕЙТИНГИ ЖУРНАЛОВ И НАУЧНАЯ ПРОДУКТИВНОСТЬ
+Светлана ВЕРШИНИНА,
+Институт математики и информатики, Тюменский университет,
+А	Тюмень, Россия,
+т
+О
+о
+то
+0
+1
+C с со
+м о
+e-mail: [email protected];
+Оксана ТАРАСОВА,
+Институт управления и бизнеса, Тюменский индустриальный университет,
+Тюмень, Россия, e-mail: [email protected];
+Вадим СТРИЕЛКОВСКИ,
+Наукометрический центр, Пражская бизнес-школа, Прага, Чехия, Калифорнийский университет, Беркли,
+Беркли, США, e-mail: [email protected]
+Публикационная активность, рейтинги и научная продуктивность -неотъемлемая часть карьеры каждого исследователя. Публикации в престижных академических журналах оказывают значительное влияние на институциональные рейтинги и помогают исследователям получить грантовое финансирование. Тем не менее вопрос о том, «где» публиковаться, стал важнее вопроса о том, «что» публиковать. Академическая гонка зажгла эмоциональную дискуссию о феномене так называемых «хищнических» журналов, которые якобы публикуют научный «мусор» за деньги без надлежащего экспертного рецензирования. Чешская Республика - одна из стран, которые, похоже, особенно одержимы проблемой «хищных» журналов, породивших бурю в стакане воды. Все в Чешской Республике (включая высшее руководство ведущих университетов страны и Академии наук) издавались и продолжают издаваться в журналах, которые когда-то считались «хищническими» в соответствии со списком, составленным Джеффри Биллом. Многие чешские ученые получают повышение на основе публикации своих монографий в малоизвестных издательствах, расположенных в многоквартирных домах, или публикаций статей в журналах, которые они редактируют, в обход экспертной оценки (знаменитый «спор Терезы Штоккеловой»). По некоторым оценкам, в период между 2009 и 2013 годами чешские университеты заработали около 2 миллионов долларов благодаря
+публикации статей и монографий в «хищнических» издательствах. Существование «хищнических» журналов заставило некоторые менее производительные институты Чешской Академии наук подвергнуть сомнению систему общемировых академических показателей мира, таких как Scopus и Web of Science. Однако отход от всемирно известных баз данных и создание национальных стандартов публикаций, несомненно, позволят небольшим группам местных ученых контролировать систему академических рейтингов и научной продуктивности. Научные базы данных, такие как Scopus и Web of Science, предлагают объективную и беспристрастную систему оценки на основе международных критериев, а, следовательно, - справедливую и прозрачную.
+Ключевые слова: академическое ранжирование; публикационная активность; научная продуктивность; библиометрические показатели; хищнические журналы; Scopus; Web of Science
+о
+OL
+Introduction	5
+In the past, there have been many long debates on how to measure the individual £ scientific productivity and academic output (Turnovec, 2005; Gregor and Schneider, 2005; ^ Munich, 2006; Turnovec, 2007; Machacek and Kolcunova, 2008). All of these debates can be o summarized by one common thing: whoever is making the rankings of academic output, is also setting the rules of the game. As a result, the rankings favor their own creators or their friends and colleagues.
+Academic publishing, journal rankings, and scientific productivity represent an al- ~> pha and omega of every researcher's career. Publishing in prestigious academic jour- ^ nals has an important impact on institutional rankings and helps to obtain research funding. However, recently the issue of "where" to publish became more important o than "what" to publish. The academic rat race led to the appearance of the so-called "predatory" journals that allegedly publish scientific "rubbish" for money without proper peer review.
+In some countries, the "predatory journals affair" was used by some less-productive academics for questioning the system of world's established academic metrics such as Scopus and Web of Science. The problem is that when one moves away from the world-renowned databases and attempts to creates national publication standards, small groups of well-organized, almost mafia-like local academics are corrupting the system of academic rankings and promotions. Renown database such as Scopus and Web of Science at least offer international and non-involved objectivity and transparency.
+This paper focuses on how the issue of academic rankings and productivity can be manipulated in order to gain benefits. We describe the recent case from the Czech Republic, a "Tereza Stockelova controversy" that involves Tereza Stockelova, an Editor-in-Chief of the English edition of the Sociologicky casopis (Czech Sociological Review) and the member of the Editorial Board of the Czech edition of the same journal, who used her position in order to get a promotion at the Charles University in Prague bypassing academic rules and ethical standards.
+Measuring scientific productivity
+Although opinions might vary when it comes to determining the measures of scientific productivity (see e.g. Jacob and Lefgren, 2011), one of the most probable determinants might be the age of the scientists. Wroblowsky (2010) or Kelchtermans and Veugelers
+TO
+TO >
+m
+C O z
+0
+1
+C cz
+co
+NJ O
+(2011) point out that there can be found clear patterns within every scientist's life path indicating more and less productive periods in her or her career.
+This paradox is not new, since the same tendency has been known to scientists for quite a long time. Beard (1881) explained that the productivity of scientists grew to the age of forty and then gradually declined. He also showed that seventy percent of academic work in the world was done before the age of 45 and eighty percent of the research output is conducted before the age of 50 (Beard divided the life path of a scientists into several "ages" or phases). An illustration of the Beard's Law is shown in Chart 1.
+Chart 1: Beard's Law of scientific productivity Source: Wroblowsky (2010) based on Beard (1881).
+Lehman (1953) examined the discoveries listed in prominent histories of science and created the charts depicting the number of discoveries made in 5-year periods. He found that more discoveries are made by young scientists than by old ones. This is of course quite logical because the relationship between research and publication productivity and the phase of academic career can be easily explained. The number of publications dramatically increases before the defense of the PhD dissertation (or before the defense of the habilitation or the professorship), which is a result of the need of publishing for obtaining the PhD (or a title of docent or professor). However, there is usually a delay stemming from long peer-review process and the time needed to publish papers in good peer-reviewed journals, so the benefits from the increased research activity before the defense of the PhD dissertation appear in the following years (young PhD students tend to over-publish in order to maximize their chances of getting published).
+However, some researchers do not follow the path described by the Beard's Law. Sometimes, rules can be bended, if necessary, to obtain a title of docent or professor. This is what happened in case of Tereza Stockelova, an Editor-in-Chief of the English edition of the Sociologicky casopis (Czech Sociological Review) who got her promotion used her influence at the journal (indexed in Scopus and Web of Science) despite her negative attitude to both databases (which she calls "bloodsuckers") (Broz et al., 2017).
+Predatory journals and Beall's List
+The term "predatory" journals was coined by Jeffrey Beall, a librarian from the University of Colorado Denver (Beall, 2012; Beall, 2017). Although Jeffrey Beall is considered to be an academic expert in questionable publishing practices by many scientists, his "list" is
+not officially recognized, by any means, in many countries (for example in the Czech Republic where the Research, Development and Innovation Council, the governmental body, judged the academic value of any given publication based on whether or whether no the journal in question is listed in Scopus or Web of Science databases) (Research, Development and Innovation Council of the Czech Republic, 2013)). However, the rise of the "predatory" journals and publishers became quite a subject (see Chart 2).
+Chart 2: The rise of alleged "predatory" journals and publishers (2011-2016)
+Source: Beall's List (2016).
+The issue of "predatory" journals seem to bother Czech academics more than anyone in the world. The researchers from this small nation seem to be especially preoccupied with it (Grancay et al., 2017). According to the estimates made by Veda zije ("Science Lives"), a public initiative, between 2009 and 2013 an army of researchers with affiliations from the majority of Czech universities made around 2 million US dollars on papers and monographs in "predatory" publishing outlets (Veda zije, 2015). Publishing diploma theses as research monographs with Lambert Academic Publishing, allegedly a "predatory" and "vanity press" outlet, was very popular and some highly-ranked university managers even encouraged their students to do so (Novotny, 2015).
+The problematic "Beall's List" did not survive for long. In January 2017, Jeffrey Beall shut down his blog, removed his "List" from the Internet and stopped all his online activities altogether (even though he is still invited as a speaker to various conferences on "predatory" publishing, most often to the countries that he used to blame for recognizing the papers published in the "predatory" journals). However, academic publishing became even more difficult without the "Beall's List" (Strielkowski, 2017). An interesting parallel can be drawn: when Robert James Woolsey took over the Central Intelligence Agency (CIA) in 1993 when the USSR was collapsing, he said: "We have slain a large dragon. But we live now in a jungle filled with a bewildering variety of poisonous snakes. And in many ways, the dragon was easier to keep track of" (CIA, 2003). The same can be said about the "Beall's List": it was troublesome and hardly credible when it existed, but it is now being replaced by even worse replicas and fabrications.
+He that is without sin among you, let him first cast a stone
+Czech social scientists do not bother much about publishing their results in English in top academic journals. If looking at the productivity of Czech sociologists and historians,
+LO
+,o
+o
+CM
+co 3
+O
+O z O O
+LU
+CZ
+TO
+the publication output is below the average. Most of these scientists publish their research in Czech language and in local peer-reviewed journals, proceedings, or monographs. Locally-published books and monographs were considered to be of higher importance for boosting careers and acquiring academic position and degrees. They still are in some fields of the Czech science.
+Nevertheless, many Czech (especially social) scientists are fighting academic wars and escalating the academic witch hunts on "predatory journals". Anyone can be blamed of publishing a paper in the "predatory" outlet (either knowingly or unknowingly) by the rivals, opponents or journalist (linked to the rivals or opponents and probably paid by them for their fake stories). One would only wonder why this is happening.
+One Czech research institution that profited from the debate on the "predatory" journals and pushed hard on escalating this issue is the Czech Academy of Sciences. In 2009, the Czech government wanted to introduce dramatic cuts to the funding of the Academy. The whole situation resulted in massive protests by the employees of the Academy led by the sociologists, philosophers, historians and other social scientists who did not add much to its research publication output. Barricades were constructed, and protests were organized. The government revoked its decision but introduced a system of funding based A on publication outputs in journals listed in Scopus and Web of Science. Almost a decade m later, the same people who protested for "saving the Czech science" are struggling with o the research criteria imposed on them and are looking for ways how to swindle.
+0	In the face of all that Czech scientific storm in the teacup, it is quite comical that if,
+1	just for one moment, we would accept that "predatory journals indexed in Scopus and Web S of Sciences" really existed, or would believe in the "Beall's List", we would also find out
+that most of the Czech scientists (including the top officials of the leading universities << and research institutions in the country) published their papers in "predatory journals".
+It is very easy to show why: o	For instance, there was a well-known case of MDPI, a publishing house from Switzer-
+< land. In 2014, MDPI was added to Beall's List. However, Open Access Scholarly Publishers 0 Association (OASPA) investigation concluded that MDPI met the OASPA membership cri-0 teria (MDPI, 2014). Subsequently, MDPI was removed from Mr. Beall's list on the 28th of << October 2015. MDPI's journals currently appear in UK's prestigious ABS Academic Journal ^ Guide 2015. Many Czech academics, including the highly-ranked officials of the most pres-4 tigious universities in the country publish their papers in MDPI journals such as Sensors, Viruses, or BioMed Research International (e.g. Kalousova et al., 2015). They also publish extensively in PLoS ONE (e.g. Subhanova et al., 2013), a journal that pioneered the Open Access and that Jeffrey Bell repeatedly criticised marking it as a failure (Beall, 2017). Another example of the accused publisher was Hindawi, an Egyptian publisher which was once considered predatory by Beall and added to his list just to be removed a year later. Many top Czech researchers and academics published their papers in Hindawi journals too. Should they also be considered "predators" who are blood-sucking the state budget for science, research and publications "till the last drop"? As the Holy Bible (1611) puts it: "he that is without sin among you, let him first cast a stone".
+Mediocre researcher as a star performer: a case of Tereza Stockelova
+Tereza Stockelova finished her Master studies in Sociology at the Charles University in Prague in 2001 and then completed her doctoral studies at the same university. Then, she became an assistant professor/lecturer at the Faculty of Humanities at Charles University in Prague. She has also joined the Institute of Sociology of the Czech Academy of Sciences as a researcher and soon became an Editor-in-Chief of the English edition of the Sociologicky casopis (Czech Sociological Review)- an academic journal indexed by Scopus and Web of Science databases and published by the Institute of Sociology of the Czech Academy of Sciences.
+Then, Stockelová's academic career high rocketed. She published several books (one of them was called "Nebezpecné známosti" (Dangerous Liaisons) after the "Les Liaisons Dangereuses", a 1782 novel by Pierre Choderlos de Laclos) and quickly got her promotion as an Associate Professor.
+However, Stockelová's biggest achievement, a story of modern-day Marquise de Mer-teuil and the Vicomte de Valmont playing with science, was published at Sociologické na-kladatelství (SLON), a publishing house that is registered in an apartment in a residential building at the outskirts of Prague and features long-deceased academics in its Scientific Board (SLON, 2017).
+This is not the only surprising discovery about Stockelová's suspicious activities. As it has been mentioned earlier, she is also an Editor-in-Chief of the English edition of the Sociologicky casopis (Czech Sociological Review) and the member of the Editorial Board of the Czech edition of the same journal.
+Stockelová published several papers in the journal she edits. This is especially funny, since she poses as a fighter against "predatory publishing" and a critic of Scopus and Web of Science (Stockelová and Vostal, 2017), but does not hesitate to publish her 2-page editorials and "open letters" as articles in the journal she edits bypassing the peer review and using it for her own political agenda. She knows very well that her "papers" will be indexed in Web of Science database and thus read and appreciated by the academic com- ¡o munity. For example, recently Stockelová wrote and published a paper in the very journal she edits criticizing European Sociological Association (Stockelová, 2016) for setting up the conference fees for their Prague conference too high or charging an extra €40 for the conference dinner in a luxury restaurant at Vltava River (whoever did not have the €40, did ° not have to attend, so what is the big deal?).
+Stockelová's case is a clear example of how some academics are hiding behind the agenda of "predatory" journals to increase their visibility. However, in the same time, they are also engaged in "predatory" practices on the daily basis bypassing the peer review and g using their connections to get published and promoted. This situation is highly unethical and should be changed.
+Conclusions and final remarks
+Academic performance and rankings will always be a point of controversy. While academics are fighting over who is better and who published more papers in more prestigious journals, the general public just does not give a damn, since it does not understand what the debate is all about.
+Nevertheless, it becomes clear that many academics are unlikely to survive outside the walls of their universities and research institutions since they have a poor command of languages, lack any international experience and thus are simply unemployable outside higher education and academia. This is the reason why many researchers and academics are prepared to go to great length to hold on to their jobs and use intrigues, false accusations, involvement of the corrupt journalists in tycoon-owned suspicious mass media in order to cut their hefty portion of the academic pie in the on-going "predatory" journals' storm in a teacup.
+One can clearly see that moving away from the world-renowned databases and creating national publication standards would most certainly make small groups of local academics in charge of making decisions about which articles (and which journals) are good and which are bad, and who is going to get promoted and who is going to be fired. Academic database such as Scopus and Web of Science offer international (and non-involved objectivity) and therefore seem to be a more fair and transparent choice.
+Acknowledgements
+The authors would like to thank two anonymous reviewers for valuable conceptual and editorial suggestions on earlier drafts of the article.
+o
+O O
+OL
+mTEPAWPA/REFERENCES
+Beall, J. (2012). Predatory publishers are corrupting open access. Nature, 489(7415), 179, http://dx.doi.org/10.1038/489179a.
+Beall, J. (2017). What I learned from predatory publishers. Biochemia medica:Biochem-ia Medica, 27(2), 273-278, http://dx.doi.org/10.11613/BM.2017.029.
+Beall's List (2016). Beall's List (https://scholarlyoa.com/2016/01/05/bealls-list-of-predatory-publishers-2016 - accessed on 30.10.2017).
+Beard, G. M. (1881). American Nervousness, Its Causes and Consequences. New York: Putnam, http://dx.doi.org/10.1037/10585-000.
+Broz, L., Stockelova, T., and Vostal F. (2017). Predators and bloodsuckers in academic publishing (https://derivace.wordpress.com/ - accessed on 30.10.2017).
+CIA (1993). Robert James Woolsey's testimony to SSCI, 2nd of February 1993 (www.cia. gov/library - accessed on 07.10.2017).
+Grancay, M., Vveinhardt, J., and Sumilo, E. (2017). Publish or perish: how Central and Eastern European economists have dealt with the ever-increasing academic publishing requirements 2000-2015. Scientometrics, 111(3), 1813-1837, http://dx.doi.org/10.1007/
+R s11192-017-2332-z
+>	Gregor, M. (2006). Hodnoceni ekonomickych pracovisf a ekonomu: Koho, proc, cim a
+C jak. Politicka ekonomie, 3(54), 394-414, https://doi.org/10.18267/j.polek.566.
+N	Gregor, M., and Schneider, O. (2005). The world is watching: rankings of Czech and Slovak
+0	economics departments. Czech Journal of Economics and Finance, 55 (11-12), 518-530.
+C	Holy Bible (1611). The Gospel According to John (authorized King James Version),
+>	chapter 8, verses 3-7.
+Jacob, B. A., and Lefgren, L. (2011). The impact of research grant funding on scientific
+>	productivity. Journal ofPublicEconomics, 95(9), 1168-1177.
+2	Kalousova, M., Dusilova-Sulkova, S., Zakiyanov, O., Kostirova, M., Safranek, R., Tesar, V. and
+1	Zima, T. (2015). Vitamin D Binding Protein Is Not Involved in Vitamin D Deficiency in Pa> tients with Chronic Kidney Disease. BioMedResearch International, article ID 492365,1-8,
+o1 https://doi.org/10.1155/2015/492365.
+i	Kelchtermans, S., and Veugelers, R. (2011). The great divide in scientific productivity:
+>	Why the average scientist does not exist. Industrial and Corporate Change, 20(1), 295-336,
+>	https://doi.org/10.1093/icc/dtq074.
+4	Lehman, H. C. (1953). Age andAchievement. Princeton: Princeton University Press.
+Machacek, M., and Kolcunova, E. (2008). Hirschovo cislo a zebricky ceskych ekonomu. Politicka ekonomie, 56 (2), 229-241, https://doi.org/10.18267/j~.polek.638.
+MDPI (2014). Response to Mr. Jeffrey Beall's Repeated Attacks on MDPI (www.mdpi. com/about/announcement/534 - accessed on 07.10.2017).
+Munich, D. (2006). Recent Publication Productivity of Czech Economists. Czech Journal of Economics and Finance, 56(11-12), 522-533.
+Novotny, J. (2015). Predatorska vydavatelstvi utoci. Vysavaji cesky rozpocet na vedu. Euro, December (https://www.euro.cz/archiv/predatorska-vydavatelstvi-utoci-vysavaji-c esky-rozpocet-na-vedu-1255068 - accessed on 10.11.2017).
+Research, Development and Innovation Council of the Czech Republic (2013). Methodology of remuneration for academic publications in the Czech Republic for the years of 2013-2016 (http://www.vyzkum.cz/FrontClanek.aspx?idsekce=685899 - accessed on 02.10.2017).
+SLON (2017). SLON: Sociologicke nakladatelstvi (www.slon-knihy.cz - accessed on 30.09.2017).
+Stockelova, T. (2016). Sociological imagination for Future ESA Conferences. Socio-logicky casopis - Czech Sociological Review, 52(3), 403-404.
+Stockelova, T., and Vostal, F. (2017). Academic stratospheres-cum-underworlds: when highs and lows of publication cultures meet. Aslib Journal of Information Management, 69(5), 516-528, https://doi.org/10.1108/AJIM-01-2017-0013.
+Strielkowski, W. (2017). Bell's List is missed. Nature, 544, 416, https://doi. org/10.1038/544416b.
+Subhanova, I., Muchova, L., Lenicek, M., Vreman, H. J., Luksan, O., Kubickova, K., Kre-idlova, M., Zima, T. Vitek, L., and Urbanek, P. (2013). Expression of biliverdin reductase A in peripheral blood leukocytes is associated with treatment response in HCV-infected patients. PloS ONE, 8(3), e5755, https://doi.org/10.1371/journal.pone.0057555.
+Turnovec, F. (2005). Institucionalni vedecky kapital a individuals vykonnost ekonomu. Czech Journal of Economics and Finance, 55(11-12), 531-545.
+Turnovec, F. (2007). Publication Portfolio of the Czech Economists and Problems of Rankings. Ekonomicky casopis, 7, 623-645.
+Veda zije (2016). Vysoke skoly cerpalyprostredky zMSMTza diplomovepracepretistene jako odborne knihy [Universities received money from the Ministry of Education, Youth and Sport for diploma theses printed as scientific monographs] (http://vedazije.cz/ node/5101 - accessed on 29.10.2017).
+Wroblowsky, T. (2010). Age, academic career and scientific performance of Czech economists. Central European Review of Economic Issues, 13, 201-206 (https://doi.org/10.7327/
+cerei.2010.12.02).	^
+z
+LO £ o
+CM
+co 3
+o o
+z O O
+LU
+CZ
+LU

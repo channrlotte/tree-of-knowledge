@@ -1,0 +1,134 @@
+﻿УДК 332.05	ЗОИДОВ КОБИЛЖОН ХОДЖИЕВИЧ
+к.ф.-м.н., доцент, заведующий лабораторией Интеграции российской экономики в мировое хозяйство
+ФГБУН «Институт проблем рынка РАН» e-mail: [email protected]
+ПОНОМАРЕВА СВЕТЛАНА ВАСИЛЬЕВНА
+к.э.н., доцент кафедры «Экономика и управление промышленным производством» ФГБОУ ВО «Пермский национальный исследовательский
+политехнический университет», e-mail: [email protected]
+СИМОНОВА ЕКАТЕРИНА ЮРЬЕВНА
+соискатель кафедры «Экономика и управление промышленным производством» ФГБОУ ВО «Пермский национальный исследовательский политехнический университет»
+e-mail: [email protected]
+ЮРЬЕВА АННА АНАТОЛЬЕВНА,
+к.э.н., доцент,
+Заместитель директора по научной работе, Ученый секретарь ФГБУН «Институт проблем рынка РАН»,
+e-mail: [email protected]
+ПЕРСПЕКТИВЫ РАЗВИТИЯ ЦИФРОВОЙ ЭКОНОМИКИ В РОССИИ1
+Аннотация. Статья посвящена феномену применения цифровой экономики в России. Раскрываются проблемы, связанные с применением цифровых технологий в РФ. Основное внимание в работе авторы акцентируют на том, что в настоящее время в экономике крупнейшими компаниями являются представители сферы цифровизации. Выделяются и описываются характерные особенности цифровой экономики, а именно, её прямое применение и необходимость. На основе изучения фактологического материала установлено, что отечественные предприятия готовы к применению инновационных технологий. Обосновывается мысль о том, что существует необходимость в технологическом обновлении, а то есть в производстве и использовании инновационных технологий. Проанализировано состояние развития цифровой экономики РФ и за рубежом. Выявлены основные перспективные направления развития цифровой экономики в России. Представлена тенденция роста доли цифровой экономики в ВВП России, а также рассмотрены сценарии её развития. Актуальность темы исследования обуславливается объективной неизбежностью трансформации всей мировой экономики, в том числе экономики России, в её новое состояние, которое получило название «цифровая экономика». Для России очень важно воспользоваться сложившимся переходным моментом в мировой экономике и выйти на новый социально-технический уровень с целью обеспечения конкурентоспособных позиций на рынке. В этой связи, объектом исследования выступают отечественные предприятия, функционирующие в условиях цифровой экономики, а предметом - цифровые технологии, имеющие приоритетное значение в экономическом развитии России. Цель исследования - анализ состояния цифровой экономики в Российской Федерации, a также рассмотрение перспектив её развития. В научной работе были использованы следующие методы научного познания материалов исследования: анализ, индукция, дедукция, сравнительный метод, описание, трендовый анализ и пр. Научной проблемой применения цифровой экономики в России является уровень использования персональных компьютеров и сети «Интернет», а также серьезный разрыв в цифровых навыках между отдельными группами населения. Ключевые слова: цифровая экономика, цифровизация, цифровые технологии, стратегия развития, информационно-телекоммуникационные технологии.
+1 Статья подготовлена при финансовой поддержке Российского фонда фундаментальных исследований (проект № 18-010-01205 а).
+ZOIDOV KOBILZHON KHODJIEVICH
+Candidate of Physical and Mathematical Sciences, Associate Professor, Head of the Laboratory of Integration of the Russian Economy into the International Economy of FSBIS "Institute of Market Problems of the RAS",
+e-mail: [email protected]
+PONOMAREVA SVETLANA VASILIEVNA
+Candidate of Economic Sciences, Associate Professor of the Department of "Economics and Management of Industrial Production" of FSBEI of HE "Perm National Research Polytechnic University",
+e-mail: [email protected]
+SIM ON OVA EKATERINA
+Applicant at the Department of Economics and Management of Industrial Production, of FSBEI of HE "Perm National Research Polytechnic University"
+e-mail: [email protected]
+YURIEVA ANNA ANATOLEVNA
+Cand. of Sci. (Econ.), Associate Professor, Scientific Secretary,
+Market Economy Institute of RAS, e-mail: [email protected]
+PROSPECTS FOR THE DEVELOPMENT OF THE DIGITAL ECONOMY IN RUSSIA
+Abstract. The article is devoted to the phenomenon of the use of the digital economy in Russia. Discloses the problems associated with the use of digital technologies in the Russian Federation. The authors focus their attention on the fact that currently the largest companies in the economy are representatives of the digitalization industry. Characteristic features of the digital economy are distinguished and described, namely, its direct application and necessity. Based on the study of the factual material, it was established that domestic enterprises are ready to use innovative technologies. The idea that there is a need for technological renewal, and that is, in the production and use of innovative technologies, is justified. Analyzed the state of development of the digital economy of the Russian Federation and abroad. The main promising areas for the development of the digital economy in Russia are identified. The tendency of growth of the share of the digital economy in Russia's GDP is presented, and scenarios for its development are also considered. The relevance of the research topic is due to the objective inevitability of the transformation of the entire world economy, including the Russian economy, into its new state, which has been called the "digital economy". For Russia, it is very important to take advantage of the current transitional moment in the global economy and reach a new social and technical level in order to ensure competitive positions in the market. In this regard, the object of study are domestic enterprises operating in the digital economy, and the subject is digital technologies that are of priority importance in the economic development of Russia. The purpose of the study is to analyze the state of the digital economy in the Russian Federation, as well as to consider the prospects for its development. The following research methods were used in scientific work: analysis, induction, deduction, comparative method, description, trend analysis, etc. The scientific problem of using digital economy in Russia is the level of use of personal computers and the Internet, as well as a serious gap in digital skills between individual population groups.
+Keywords: digital economy, digitalization, digital technologies, development strategy, information and telecommunication technologies.
+Цифровая экономика становится неотделимой частью повседневной жизни человека. Сегодня сложно представить деятельность человека без электронных технологий. Начиная с общения и приобретения покупок и заканчивая выпуском товаров и независимой работой компании - всё переходит в цифровую среду[8].
+В публикациях организации экономического развития и сотрудничества [ОЭСР (Organization for Economic Cooperation and Development - OECD)] термин «цифровая экономика» используется в отношении рынков функционирующих на базе ИКТ используемых для осуществления торговли информационными, цифровыми товарами или оказания услуг посредством Интернета [5].
+Степень изученности материалов исследования. Среди отечественных авторов, которые занимались изучаемой проблематикой, стоит отметить Карягин М.С. [11], Кочеткова Е.Ю. [7], Цветков В.А. [21], Добрынин А.П. [9], Куприяновский В.П.[14], Авдеева И.Л.[6], Шо-махова З.А. [20].и др. Среди зарубежных: Брайан А.[3], Уильямсон О.[5], Хьюгмэн К.[2], Боден М.[1], Негропонте Н.[4]. Шваб К.[19]и др.
+Иванов В. дал наиболее широкое определение: "Цифровая экономика - это виртуальная среда, дополняющая нашу реальность" [17].
+Таким образом, для формирования цифровой экономики необходимо не только присутствие условий для создания новых цифровых технологий, но и присутствие направленности на применение передовых инновационных моделей организации бизнеса, торговли, логистики, производства[1].
+По уровню развития цифровая экономика отстает в развитии от стран ЕС и США (см. табл. 1) [4].
+Таблица 1
+Вклад цифровой экономики в ВВП России по сравнению с другими странами, 2016 г. [19].
+Страна	Доля	Расходы	Инвестиции	Государств ей и ые	Экспорт	Импорт
+Б	домохозянст	компании б	расходы на	икт,%	ИКТ,%
+ВВП.	Е В ЦНфрОЕСН
+%	сфере. %
+США	10г9	5,3	5,0	1,3	1,4	-2,1
+Китай	10.0	4,8	1,8	0,4	5,8	-2,7
+Страны ЕС	8,2	3,7	3,9	1,0	2,5	-2,9
+Бразилия	б,2	2,7	3,6	0,8	од	-1,0
+Индия	2,2	2,0	0,5	2,9	-2,1
+Россия	2,6	2,2	0,5	0,5	-1,8
+Доля цифровой экономики в совокупном ВВП России составляет 3,9 % (см. рис.1), что почти в два-три раза ниже, чем в США, Китае, странах ЕС и Бразилии [5].
+12
+О
+США Китай Страны Бразилия Индия Россия
+ЕС
+Рис. 1. Доля цифровой экономики в ВВП России и других стран в 2016г., % [составлено авторами по[19]
+Как следует из таблицы 1, цифровые расходы домохозяйств составляют 2,6 % ВВП России. Несмотря на то, что вклад в цифровые расходы домохозяйств является наиболее значимым в освоение новых технологий, данный показатель в среднем ниже, чем у стран-лидеров [19].
+Также в компаниях мало используют цифровые технологии и, соответственно, также мало инвестируют в использование технологических достижений, повышение производительности и создание новых продуктов и услуг.
+Россия;
+3,9%
+Рис. 2. Инвестиции компаний в цифровизацию в 2016 г.,%[составлено авторами по[19]].
+В России объем инвестиций частных компаний в цифровизацию составляет всего 2,2 % ВВП, тогда как в США он достигает 5 %, в странах Западной Европы- 3,9 %, в Бразилии-3,6 % (см. рис.2)[2].
+В следствии сокращается конкурентоспособность российских компаний на мировом рынке, которая на сегодняшний день находится на низком уровне из-за присутствия большого количества иностранных компаний в сферах электронной торговли, социальных и поисковых сетей [15].
+Проанализируем, какие проблемы могут встать на пути России к цифровой экономике [20].
+1.Низкий уровень использования информационных технологий в образовании.
+2.Отсутствие инфраструктуры для выхода уникальной отечественной информационной продукции на мировом рынке, притом, что в России имеются интересные новации в сфере нейротехнологий, роботизации и иных отраслях цифровой экономики.
+З.Недооценка текущих цифровых перспектив и их воздействия на эффективность роста бизнеса в основной массе отраслей, что отражается в наиболее низком уровне их применении по сравнению с развитыми странами мира.
+С целью преодоления отмеченных проблем на государственном уровне необходимо создать благоприятные условия для обучения и развития талантливого молодого поколения в сфере науки, технологий и инноваций, применяя при этом инновационные формы организации учебной, научной и исследовательской деятельности.
+Предпосылки развития цифровой экономики в России[13]:
+-	система Российского традиционного образования обладает большими возможностями с целью подготовки креативных, творческих специалистов цифровой экономики. Это важное значение, так как в условиях цифровой экономики человек будет сконцентрирован, в общем, на осуществлении новых перспективных возможностей и системной организации взаимодействия в экосистеме людей и машин, а рутинные операции будут осуществлять машины[12];
+-	существует уникальное организационно-технологическое инженерное решение по развитию успешной масштабируемой глобальной инфраструктуры индустриальных экосистем
+цифровой экономики[16];
+- существование санкций представляет собой барьер для вторжения в Россию технологий и бизнес-моделей, созданных в «доцифровую» эру.
+Рассмотрим прогноз доли цифровой экономики в ВВП России.
+Рис. 3. Доля цифровой экономики в ВВП России в период за 2011- 2016гг. и прогноз до 2020г., % [составлено авторами]
+Данные рисунка 3 свидетельствуют о положительной динамике роста доли цифровой экономики в ВВП России, данную тенденцию до 2020 г. можно описать линейным уравнением у=0,3859х-0,9804 при коэффициенте аппроксимации равном 0,9084, таким образом, при сохранении данной динамики в 2020г. доля цифровой экономики в ВВП России должна составить не менее 4,8 %.
+Представим на рисунке 4 сценарии развития цифровизации в России.
+СЦЕНАРИИ РАЗВИТИЯ ЦИФРОВШАЦИИ В РОССИИ
+1
+сценарий
+сценарии
+сценарии
+4
+сценарий
+без адресного стимулврования цифровой составляющей экономики ее доля в ВВП продолжит стагнироватъ, что приведет к росту отставания от лидеров до 15-20 лет[б]
+предусматривает умеренный рост доли цифровой экономики в ВВП. Обеспечить его можно будет в случае полномасштабного внедрения уже начатых инициатив в оаластн развития и охвата государственных, оптимизации существующих электронных процессов, исключения нх дублирования в офлайн[6]
+предусматривает целостный подход к изменениям как на уровне государства так и на уровне отдельных отраслей и компаний. Это путь Китая который за 5 лет сделал качественный скачок в развитии цифровой экономики (рост проникновения интернета с 16 % до 48 %)[б]
+предусматривает процесс цнфровизашш в России медленнее по сравнению с развиты;.!и странами. Причина ¡роется в стагнации объема инвестиций в цифровую экономику и в вые о ¡¡ей импортной с оставляющей! со ставлено авторами]
+Рис. 4. Сценарии развития цифровизации в России
+Таким образом, у России есть предпосылки развития цифровой экономики, которые в будущем позволят выстроить собственные приоритетные ниши для цифровых инноваций, где с наименьшими затратами можно не только добиться самостоятельности на внутреннем рынке, но и стать признанным мировым лидером.
+Литература
+1.Billon	M., Lera-Lopez F.,Marco R. ICT use by households and firms in the EU: links and determinants from a multivariate perspective //Review of World Economics. 2016. Vol. 152 Iss. 4. P. 629-654.
+2.	Coccia M. General sources of general purpose technologies in complex societies: Theory of global leadership-driven innovation, warfare and human development // Technology in Society. 2015. №42. С. 199-226.
+3.Forecasting	the world in 2018 DECEMBER 29.2017 The Financial Times [Электронныйресурс] // URL: https://www.ft.com/content/d18f4518-eca7-11e7-bd17-521324c81e23 (датаобращения 13.10.2018)
+4.Revolutionizing	Business // Harvard Business Review. - 2014. International Digital Economy and Society Index (I-DESI) //European Commission. - 2016.
+5.The	Future of Productivity. Preliminary version // OECD. - 2015. The New High-Tech Strategy. Innovations for Germany // Federal Ministry of Education
+6.Авдеева	И.Л. Анализ перспектив развития цифровой экономики в России и за рубежом // Цифровая экономика и «Индустрия 4.0»: проблемы и перспективы. Труды научно-практической конференции с международным участием. - 2017. С. 21.
+7.Аверьянов	М.А., Евтушенко С.Н., Кочеткова Е.Ю. Цифровое общество: Новые вызовы // Экономические стратегии.2016 г. №7 (141). C.90-91
+8.Всемирный	банк. 2016 год. Доклад о мировом развитии 2016 «Цифровые дивиденды» [Электронный ресурс] // URL: https://openknowledge.worldbank.org/bitstream/ handle/10986/23347/210 (дата обращения 13.10.2018)
+9.Добрынин	А.П., Черних К.Ю., Куприяновский В.П. «Цифровая экономика - различные пути к эффективному применению технологий» // А.П. Добрынин, К.Ю. Черних, В.П. Куприяновский // InternationalJournalofOpenInformationTechnologies. - 2016. - №1 (4). C. 4-10.
+10.Доклад	«Цифровая экономика: глобальные тренды и практика российского бизнеса». [Электронныйресурс]// URL: https://imi.hsi.ru/pr2017 (дата обращения 13.10.2018).
+11.Карягин	М. Информатизация в России: госуслуги, цифровая экономика и «технологический пере-кос//Инфометр - 2017. - [Электронный ресурс] // URL: http://infometer.org/blogi/informatizacziya-v-rossii (дата обращения 11.10.2018)
+12.Кешелава	А.В., Буданов В.Г., Румянцев В.Ю. и др. Введениев «Цифровую» экономику». ВНИИГео-систем, 2017. C. 28.
+13.Кунгуров	Д. Россиян ждет цифровая экономика/Д. Кунгуров // Утро.ру. - 2016 г. [Электронный ресурс] // URL: https://utro. ru/articles/2016/12/04/1307336.shtml. (дата обращения 12.10.2018)
+14.Куприяновский	В.П., Синягов С.А., Липатов С.И. «Цифровая экономика - «Умный способ работать» //В.П. Куприяновский, С.А. Синягов, С.И. Липатов // InternationalJournalofOpenInformationTechnologies. - 2016. 2 (4). C.26-32.
+15.Развитие	цифровой экономики в России как ключевой фактор экономического роста и повышения качества жизни населения: монография / Нижний Новгород: издательство «Профессиональная наука», 2018.
+16.Развитие	цифровой экономики в России. 2016г. [Электронный адрес URL: http://gosbook.ru/ node/94904] (дата обращения 10.10.2018)
+17.РИА	Новости [Электронный ресурс] //URL: https://ria.ru/science/20170616/1496663946.html (дата обращения 10.10.2018)
+18.Цифровая	Россия: новая реальность. 19 июля 2017 г. McKinseyGlobalInstitute [Электронный ресурс] // URL:http://www.tadviser.ru/images/c/c2/Digital-Russia-report.pdf (дата обращения 11.10.2018).
+19.Шваб	К. Четвертая промышленная революция. М.: Издательство «Э», 2017. С. 16.
+20.Шомахова	З.А. Цифровая экономика - светлое будущее // В сборнике: Проблемы и перспективы экономического развития регионов. Сборник статей Всероссийской научно-практической конференции, посвященная 45-летию образования Института экономики и финансов. - 2017. С. 180.
+21.Цветков	В.А., Зиядуллаев Н.С., Зоидов К.Х., Янкаускас К.С. Проблемы и перспективы развития цифровой экономики в России. Стратегические тренды трансформации социально-экономических систем в рамках цифровой экономики / Материалы международной научно-практической конференции. Москва, 27-28 февраля 2018 г. / Под ред. чл.-корр. РАН В.А. Цветкова, к.ф.-м.н., доцента К.Х. Зоидова. - М.: ИПР РАН, 2018. - 248 с. С. 207-215.
+References:
+1.	Billon M., Lera-Lopez F.,Marco R. ICT use by us and firms in the EU: links and determinants from a multivariate perspective //Review of World Economics. 2016. Vol. 152 Iss. 4. 629-654.
+2.	Coccia M. General sources of general purpose technologies in complex societies: Theory of global leadership-driven innovation, warfare, and human development // Technology in Society. 2015. No. 42. P. 199-226.
+3.	Forecasting the world in 2018 OCTOBER 29.2017 The Financial Times [Electronic resource] // URL: https://www.ft.com/content/d18f4518-eca7-11e7-bd17-521324c81e23 (accessed 13.10.2018)
+4.	Revolutionizing Business // Harvard Business Review. - 2014. International Digital Economy and Society Index (I-DESI) //European Commission. - 2016.
+5.	The Future of Productivity. Preliminary version // OECD. - 2015. The New High-Tech Strategy. Innova-
+tions for Germany / / Federal Ministry of Education
+6.	Avdeeva I. L. analysis of prospects of development of digital economy in Russia and abroad // Digital economy and industry 4.0" problems and prospects. Proceedings of the scientific-practical conference with international participation. - 2017. P.21.
+7.	Averyanov M. A., Yevtushenko S. N., Kochetkova E. Digital society: New challenges /Economic strate-gies.2016№7 (141). C. 90-91
+8.	World bank. 2016. The world development report 2016 Digital dividend"[Electronic resource] // URL: https://openknowledge.worldbank.org/bitstream/handle/10986/23347/210 (accessed 13.10.2018)
+9.	Dobrynin, A. P., K. Y. Cherny, V. P. Chuprynousky Digital economy - the different ways to the effective use of technology"// A. P. Dobrynin, K. Y. Cherny, V. P. Chuprynousky // International Journal of Open Information Technologies. - 2016. - №1 (4).4-10.
+10.	The report Digital economy and the global mpeH6dbi and practice of Russian business" [Electronic resource] // URL: https://imi.hsi.ru/pr2017 (accessed 13.10.2018)
+11.	Karyagin M. Informatization in Russia: public services, digital economy and "technological bias// Infometer - 2017. - [Electronic resource] // URL: http://infometer.org/blogi/informatizacziya-v-rossii (accessed 11.10.2018)
+12.	Keshelava A. V., Budanov V. G., Rumyantsev V. Yu. and others. Vvedenie Digital econo-my"Vniigeosystems, 2017. C. 28.
+13.	Kungurov D. Russians waiting for the digital economy / D. Kungurov / / Morning.ru. - 2016 [Electronic resource] / / URL: https://utro ahhh! EN/articles/2016/12/04/1307336.shtml. (date of circulation 12.10.2018)
+14.	Chuprynousky V. P., Sinyakov S. A., Lipatov S. I., Digital economy - ""he Smart way to work"// V. P. Su-prunovskiy, S. A. Sinyakov, Lipatov S. I. // International Journal of Open Information Technologies. - 2016. 2 (4). C. 26-32.
+15.	The development of the digital economy in Russia as a key factor in economic growth and improving the quality of life of the population: monograph / Nizhny Novgorod: publishing house Professional science," 2018.
+16.	Development of digital economy in Russia. 2016. [E-mail address URL: http://gosbook.ru/node/94904] (accessed 10.10.2018)
+17.	RIA Novosti [Electronic resource] // URL: https://ria.ru/science/20170616/1496663946.html (accessed 10.10.2018)
+18.	Digital Russia: a new reality. 19 Jul 2017 McKinsey Global Institute [Electronic resource] // URL:http://www.tadviser.EN/images/c/c2/Digital-Russia-report.pdf (accessed 11.10.2018)
+19.	Schwab K. the Fourth industrial revolution. M.: Publishing House E"'2017. P. 16.
+20.	Shomakhova Z. a bright future: the Problems and prospects of economic development of the regions. Collection of articles of the all-Russian scientific-practical conference dedicated to the 45th anniversary of the Institute of Economics and Finance. - 2017. P. 180.
+21.	Tsvetkov V.A., Ziyadullaev N.S. Zoidov K.Kh., Jankauskas K.S. Problems and prospects of development of the digital economy in Russia. Strategic trends in the transformation of socio-economic systems in the digital economy / Materials of the international scientific-practical conference. Moscow, 27-28 February 2018 / Edited by Corresponding Member of the Russian Academy of Sciences V.A. Tsvetkov, PhD in Physics and Mathematics, Associate Professor K. Kh. Zoidov - M. : MEI RAS, 2018. - 235 p. P. 207-215.

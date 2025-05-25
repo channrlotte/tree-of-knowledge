@@ -1,0 +1,239 @@
+﻿НАУКА и ОБРАЗОВАН И Е
+Эл № ФС77 - 48211. Государственная регистрация №0421200025. ISSN 1994-0408
+Доступность российской научной периодики: значение Ulrich's Periodicals Directory и веб-сайтов изданий # Об, июнь 2013 D01:_10.7463/0613.0585718
+Кириллова О. В., Диментов А. В., Тестерман Г.
+УДК 002.6:004.65
+Учебно-консультационный центр НП НЭИКОН, Москва, Российская Федерация
+ООО «ВЦИ», Москва, Российская Федерация Компания Проквест (ProQuest), Нью-Джерси, США
+[email protected] [email protected] halyna.testerman@proquest. com
+Представление российской научной периодики в международном научно-информационном пространстве приобрело в настоящее время особую актуальность. Основной причиной этого можно считать принятие на государственном уровне руководящих документов, в значительной степени определяющих дальнейшую судьбу журналов, о которой говорят, что если они не будут представлены и найдены в зарубежных ресурсах, то грозит им, если не гибель, то нищенское существование. Будем думать, что это не так, однако, в этой крайней точки зрения есть немалая доля истины.
+До недавнего времени редакции и издательства журналов жили своей внутренней, точнее, «внутрироссийской», жизнью, ориентируясь на требования ВАКа, который, хотя и принял в качестве «достаточного» критерия включения в «Перечень ВАК» индексирование в определенных зарубежных базах данных (БД), в то же время основными оставались требования, при выполнении которых можно было войти в формируемый перечень и без включения в зарубежные БД. Дискредитация «Перечня ВАК», расширенного до объема двух третей всего потока российских научных и околонаучных журналов, и принятие на государственном уровне нескольких руководящих документов, регулирующих отчетность о научной деятельности по данным о числе публикаций в глобальных индексах цитирования, привело к тому, что журналы стали придерживаться точки зрения, что главными для российских научных журналов в ближайшее время будут приняты критерии, предъявляемые Web of Science и Scopus.
+Надеемся, что все-таки этого не произойдет, и наши аттестующие органы будут благоразумны и не примут такого крайнего решения, а найдут оптимальный подход к оценке статей, публикующих результаты научных исследований, представляемых к защите кандидатских и докторских диссертаций. В то же время акцент на интернационализацию нашего журнального потока имеет и немало положительных сторон. Хотя совершенно понятно, что все российские научные журналы не смогут попасть в глобальные индексы цитирования, но ориентир на международные стандарты способствует повышению качества самих журналов, а также расширению присутствия их как в различных зарубежных Интернет-ресурсах, так и в российском и глобальном Интернете благодаря развитию своих русскоязычных и англоязычных сайтов.
+Одной из важных зарубежных БД, в которых более, чем желательно присутствие российских журналов, является Ulrich's Periodicals Directory (Ulrich's, http://ulrichsweb.com), генерируемой и поддерживаемой компанией Serials Solution, входящей в семейство издательств, принадлежащих ProQuest. С 1932 г. до недавнего времени этот ресурс, издававшийся в виде печатного, четырехтомного издания, принадлежал американскому издательству Bowker [1]. И сейчас это издательство ежегодно выпускает 4-х томное издание этого справочника [2]. Издание является англоязычным, вся информация дается на английском языке, либо транслитерируется. Для транслитерации русскоязычных названий изданий и организаций применяется система транслитерации Библиотеки конгресса (LC).
+Данным справочником пользуется большинство создателей информационных ресурсов, реферирующих и индексирующих журналы, которым необходимо получить характеристику журналов по разным параметрам. Эти же генераторы дают в Ulrich's информацию о журналах, которые они обрабатывают и включают в свои БД. Таким образом, Ulrich's является для генераторов других БД источником информации о существующем мировом потоке этого вида изданий. Одновременно с этим сами генераторы является источником информации для Ulrich's. Генераторы более 400 информационных изданий - баз данных, индексов, реферативных журналов - ежегодно дают сведения об отражаемых ими журналах в эту регистрационную БД. Кроме того, в Ulrich's также дают информацию 100 ведущих провайдеров (агрегаторы) электронных ресурсов и крупнейшие службы доставки документов ведущих библиотек и информационных центров мира (Библиотека конгресса, Британская библиотека, INIST (Франция) и др.). Данные об отражении журнала в базах данных и службах доставки вносятся в том случае, если журнал уже зарегистрирован в Ulrich's.
+Излишне говорить о том, что Ulrich's является основным источником данных для информационных служб и библиотек различного уровня и специализации, желающих получить более полную информацию об интересующем их мировом журнальном потоке и имеющих целью управление комплектованием этого вида изданий в своих организациях.
+Когда журналы подают заявку в индексы цитирования Scopus и Web of Science, эксперты пользуются данными о журналах из этой БД. Кроме уточнения информации, отсутствующей в заявках, они смотрят в целом на наличие регистрации журнала в Ulrich's. Включение журнала в эту БД считается естественным для зарубежных издателей. В основном выявлением журналов, отсутствующих в Ulrich's, занимаются сотрудники этой компании, ответственные за регистрацию журналов. Одним из основных источников информации для них являются сайты журналов. И чем полнее дана информация на сайте журнала, тем полнее будет представлена о журнале информация в этой БД.
+Почему так важно для журналов быть зарегистрированными в этой международной, единственной такого рода базе данных - справочнике по периодическим и продолжающимся изданиям? Ulrich's Periodicals Directory - регистрационная база данных, включающая в настоящее время описания более 220 тыс. текущих периодических (regular) и продолжающихся (irregular) изданий на 200 языках от 90 тыс. издающих организаций. Еженедельно в Ulrich's вносится информация об отсутствовавших ранее в этой БД изданиях и о прекращении или прерывании имеющихся. В 2012 г. эта БД пополнилась более, чем на 10 тыс. новых описаний изданий мира, в неё были внесены данные о прекращении около 3,5 тыс. других изданий. Включаемые в Ulrich's издания индексируются по классификатору этой БД, составленному первоначально на основе классификации Библиотеки конгресса США и состоящему из 950 предметных рубрик [3]. На каждый формат издания - печатный (print), электронный (online), CD-ROM, микроформа - дается отдельное описание. Таким образом, одно издание может иметь несколько описаний в зависимости от числа имеющихся форматов. Оригинальная и переводная версии журналов также имеют самостоятельные записи. Так как из Ulrich's не исключаются прекращенные издания и на каждый формат одного наименования журнала составляется отдельная запись, в совокупности объем БД по числу записей в настоящее время достигает 683 тыс., из них 344 тыс. записей относятся к текущим изданиям (active). Кроме научных изданий (academic/scholarly), которые в числе других относятся к типу издания «journal», в Ulrich's включаются газеты (newspapers), информационные бюллетени (newsletters), популярные издания (magazines), отраслевые (специализированные) издания (trade), монографические серии (monographic series), труды (proceedings), справочники (directories), бюллетени (bulletins) и другие. Так как общая http: / / techno ma g. bmstu.ru/doc/585718.html	411
+статистика в Ulrich's учитывает отдельно печатные и электронные издания, то, не считая 20 тыс. оригинальных электронных изданий (Electronic only), из которых 17 тыс. доступны в online, можно с уверенностью сказать, что остальные электронные издания относятся к версиям печатных изданий (78 тыс.). Текущих научных печатных изданий в Ulrich's на сегодняшний день зарегистрировано 76,3 тыс. Имеются в виду издания, которым присвоен статус «Academic/scholarly» в этой БД. Электронных научных изданий, включая «Electronic only», зарегистрировано 46,6 тыс. Оригинальные электронные версии составляют от этого количества 17% (8 тыс.).
+Какая же ситуация в Ulrich's с регистрацией российских изданий? В настоящее время в Ulrich's включено 5,6 тыс. описаний текущих (active) российских периодических и продолжающихся изданий различных форматов, в т.ч. 64% (около 3,6 тыс.) - печатные издания и 24% (около 1,4 тыс.) - электронные (online) издания всех типов. Научные печатные издания составляют 33% (1,2 тыс.) от всех печатных, и электронные научные -60% (0,8 тыс.) от всех электронных. Издания на CD-ROM составляют 5% (90% это реферативные журналы ВИНИТИ РАН в электронной форме), примерно столько же составляют издания в микроформе. В число электронных включены как оригинальные электронные журналы (Electronic only) - 133 издания, так и электронные версии печатных изданий (1,3 тыс.). Наличие открытого доступа зафиксировано только у 106 изданий. Как правило, это означает, что журнал включен в справочник Directory of Open Access Journals (DOAJ). Из научных журналов наличие в Интернете зарегистрировано для 836 изданий. Реферируются и индексируются в различных информационных службах (в большем объеме, в РЖ ВИНИТИ) 1,5 тыс. журналов. Только около 60% из них зарегистрированы как научные (Academic/scholarly) и около 6% - как отраслевые (Trade). Для остальных 34% тип издания не определен. В основном это журналы общественно-политического и гуманитарного профилей. Около 1 тыс. журналов отмечены как рецензируемые, и около 2 тыс. журналов имеют вэб-сайты, из них 1 тыс. - научные.
+Хотя полные данные в Ulrich's включают почти 50 элементов, однако описания российских периодических изданий довольно часто бывают неполными. Так, для 25% изданий нет характеристики типа издания (serial type: journal, magazine, newsletter, newspaper, proceedings, monograph series и т.д.), и для 40% изданий не определен тип содержания (content type: academic/scholarly (научное), consumer (потребительское), trade (отраслевое, специализированное), government (официальное) и т.д.). В тоже время такие данные, как название, формат, тематика, страна, издательство, язык, периодичность, код издания по Классификации Дьюи (Dewey Number) являются обязательными и имеются практически для всех изданий. Обязательными, при наличии, является данные об ISSN, но 10.7463/0613.0585718	412
+этот элемент не является для Ulrich's критерием отбора, поэтому включаются также издания, не имеющие ISSN. Однако для научных журналов наличие ISSN это важный показатель серьезности издания.
+Значительная часть журналов имеют данные о начальном годе выпуска (Start Year), редакционное описание журнала (Editorial Description), историю издания (изменение названия), информацию о других версиях журнала (Related Titles) по формату или по языку и др.
+К "Ключевым характеристикам" ("Key Features") журнала Ulrich's относит наличие следующей информации:
+-	регистрация в Copyright Clearance Center (CCC);
+-	реферирование и индексирование (Abstracted or Indexed);
+-	вэб-сайт журнала (Website URL);
+-	доступность онлайн (Available Online);
+-	открытый доступ (Open Access);
+-	рецензирование журнала (Refereed / Peer-reviewed);
+-	импакт-фактор (включения в Journal Citation Reports);
+-	только электронная форма (Electronic-only) и др.
+Определяя эти характеристики как «ключевые», создатели этой БД демонстрируют важность наличия для журналов этих данных. Безусловно, не все эти данные обязательны. Все зависит от уровня и формата журнала.
+Данные об онлайн-доступности через Интернет-провайдеров, о реферировании и индексировании журналов, наличии в фондах крупнейших библиотек (Библиотеки конгресса, Британской библиотеки и т.д.), включении в фонды служб доставки занимают значительный объем в этой БД. Степень онлайн доступности определяется также предоставлением журналами рассылки RSS, backfiles (архива) и препринтов. Все эти данные специалисты Ulrich's вносят на основе полученных данных с сайтов журналов, списков журналов об обрабатываемых журналах, направляемых генераторами БД, службами доставки и Интернет-провайдерами, а также (как вариант) на основании анкет, направляемых редакциями журналов в Ulrich's [4].
+Российские журналы часто не знают, в каких ресурсах они представлены, т.к., как уже было сказано выше, источником информации не всегда является сам журнал. В таблице 1 перечислены наиболее крупные агрегаторы, на платформах которых представлены российские журналы. В скобках указано количество российских журналов на этих платформах. Эти данные относятся ко всем типам изданий, но, безусловно, основную часть в этом статистике занимают научные журналы.
+http : / / techno ma g. bmstu.ru/doc/585718.html	413
+Таблица 1
+Перечень Интернет-провайдеров - платформ издательств и агрегаторов, включающих российские журналы по данным Ulrich's
+Наименование Интернет-провайдера (число журналов на платформе провайдера)
+EBSCOhost (339)
+East View Information Services (298)
+Springer-Verlag (286)
+Swets (277)
+OhioLINK (264)
+OCLC (261)
+жшшхтшжттшттш (255)
+Ingenta (247)
+National Institute of Standards and Technology (216)
+National Institute of Informatics (158)
+Scholars Portal (157)
+CASPUR (142)
+Ovid (141)
+ProQuest (125)
+Universitätsbibliothek Regensburg (88) Dow Jones Factiva (76) Kluwer (74)
+Steklov Mathematical Institute RAS (48) ISI Emerging Markets (47) NewspaperDirect.com (39) LexisNexis (36)
+Directory of Open Access Journals (28)
+National Science and Technology Library (China) (24)
+Multiple Vendors (23)
+Colorado Alliance of Research Libraries (20) Copyright Clearance Center (20)
+China Educational Publications Import & Export Corporation (18) Gale (15) Elsevier (14) NewsBank (11)
+Как видим из представленных данных, полнота сведений о российских журналах в Ulrich's Periodicals Directory оставляет желать лучшего. В настоящее время в России издается более 7 тыс. наименований печатных периодических изданий, около 3 тыс. из них - научные издания. Сравнение этих данных с данными Ulrich's говорит о том, что этой БД в настоящее время отражено не более 30-40% всех периодических и продолжающихся изданий России и 40% научных журналов. Поэтому задача быстрого
+наполнения этой БД информацией о российских журналах является достаточно актуальной.
+Решить эту задачу могут помочь сами журналы, развивая свои сайты, которые являются в современном мире основным источником информации о журнале для российского и международного сообщества. Сайты журналов, их качество и наполнение обладают высокой степенью важности при рассмотрении заявляемых журналов экспертами зарубежных баз данных и глобальных индексов цитирования (в частности, БД Scopus). Причем, если для Ulrich's достаточно наличие русскоязычного сайта, так как анализом сайта и извлечением данных с сайта занимается русскоязычный сотрудник Ulrich's, то для Scopus и некоторых других реферативных БД и платформ агрегаторов важен именно англоязычный сайт, на котором представлены все необходимые сведения и хорошо просматривается уровень журнала и его редакционно-издательский процесс.
+О каких сведениях на сайте журнала можно говорить с точки зрения предоставления наиболее полной информации для Ulrich's Periodicals Directory? Как уже было сказано выше, наиболее полные описания журналов в Ulrich's включают около 50 элементов данных (полей), по которым в большинстве случаев можно проводить поиск. Значительная часть информации формируется на основе сведений из других источников, но основная часть берется с сайтов. Таким образом, если взять за основу полные описания, то с сайта журнала могут быть получены следующие данные:
+Название издания (Title); ISSN;
+Периодичность (Frequency);
+Тип издания (Serial Type - Journal, Magazine, Bulletin, Newsletter, Newspaper, Monographi с и др.) - определяется по описанию и содержанию издания;
+Формат (Format - Print, Online) - на каждый формат составляется свое описание;
+Статус (Status - Active, Ceased, Merged и т.д. - активный, прекращен, слит и т.д.) -т.к. описание в БД сохраняется, то его прекращение фиксируется таким образом;
+Предметные рубрики издания (Subject Codes) - определяются по описанию журнала на сайте;
+Издатель (Publisher);
+Страна (Country);
+Первый год издания (Start Year);
+История (History) - описание изменения названия, годы изменений, слияние, разделение журнала и т.д.;
+Тип содержания (Content Type) - научное (Academic/Scholarly), отраслевое, специализированное (Trade), официальное (Government), потребительское, массовое (Consumer), библиографическое (Bibliography) и т.п.;
+Описание журнала редакцией (Editorial Description) - редакционная характеристика контента журнала (аннотация);
+Адрес сайта журнала (Website);
+Язык (Language) - язык полного текста и аннотаций (авторских резюме);
+Число страниц в выпуске (Page per Issue)
+Другие названия, имеющие отношение к изданию (Related Titles) -другие форматы, если есть;
+Альтернативные названия журнала (Alternative Title) - названия переводных версий;
+Аббревиатура названия (Abbreviated Title);
+Параллельное название (Parallel Title) - параллельное название на английском
+языке;
+Сокращенное название (Short Title);
+Ключевые характеристики (Key Futures) - см. перечень выше;
+Другие характеристики - наличие рекламы (Advertising included), доступность архива (Back issues available), наличие указателей, библиографии и др. (анализируются оглавления выпусков);
+Данные о главном редакторе (Editors, Editors Contact) - фамилия, контакты;
+Данные об издателе и учредителе (Publishers, Publishers Contact, Publisher & Ordering Details) - фамилия, издательство, организация - учредитель, контакты, адрес и т.д.;
+Тираж печатного издания, цена подписки и др.
+Каждому журналу присваивается идентификационный номер - Title ID.
+На рисунке 1 представлен пример достаточно полного описания одного из российских журналов.
+I Save to List SB Email & Download Print Jf Corrections 3 Expand All ® Collapse All
+▼ Basic Description
+Title	Forsait: nauchnyi zhurnal	website ии.
+ISSN	1995-459X	other Features	Back issues available Charts included
+Publisher	Natsional'nyi Issledovatel'skii Universitet "Vysshaya Shkola Ek<	Free sample available
+Country	Russian Federation	illustrations included Inden to Articles Maps included
+Status	Active
+Start Year	2007	Statistics
+Frequency	Quarterly	Editors	Leonid Gokiiberg (Editor)
+T Publisher К Ordering Details
+Language of Text	Text in: Russian	Commercial Publisher
+Summaries in: Russian, English	Natsional'nyi Issledovatel'skii Urwersitet *Vysshaya Shkola Ekaroimkí
+Refereed ||f!	Yes	Address: Slavyanskaya ul 4, btág 2, office 410-421, Moscow, 101000 Russian Federation
+Abstracted / Indexed	Yes	Phone: 7-4«-62407lS
+Fax: 7-495-6240715
+Serial Type	Journal	Website: htta:/i'www.hse.ni
+Content Type	Academic / Scholarly	corporate Author
+Natsional'nyi Issledovatel'skii Umverytet "Vysshaya Shkola Екоомпйо"
+Format	Print
+Address: Slavyanskaya ul 4, bWg 2, office 410-421, Moscow, 101000 Russian Federation
+Website	http://www.foresight-journal.hse.ru	Phone: 7-495-6240715
+Email	foresiaht-journalise, ru	Fa*: 7-495-624C71S
+Website: http://www.hse.ru
+Description	Aims to support the creation of Foresight culture in Russia tihr	T Abstracting & indexing
+future-oriented innovation development. Also provides a fram	Abstracting & Indexing Databases	• VJNTTIRAN » Referativnyi ?liurnal
+▼ Subject Classifications
+Subject
+BUSINESS AND ECONOMICS ©	T Demographics
+Dewey #	330	Circulation	900 ccntroled per issue 100 paid per issue
+¥ Additional litle Details
+Parallel Language Title	Foresight - Russia
+Key Features	Abstracted or Indexed
+Refereed / Peer-reviewed
+Website URL
+Other Features	Back issues available
+Charts included
+Free sample available
+Рисунок 1. Пример описания российского журнала в Ulrich's Periodicals Directory
+В таблице 2 представлен перечень наиболее продуктивных 100 российских издательств, журналы которых включены в Ulrich's. В скобках указано число записей, относящихся к этому издательству. Это могут быть записи как одного издания в нескольких форматах (печатный, электронный, микроформа), так и записи прекращенных, слитых и других названий, которые уже не актуальны. Необходимо заметить, что в этот список входят также зарубежные издательства, выпускающие переводные версии русскоязычных журналов.
+Таблица 2
+Перечень наиболее продуктивных издательств, издающих оригинальные или переводные версии российских журналов
+Название издательства (число изданий)
+VINTI RAN (SC7)
+M A I K Nauka - Interperiodica (334)
+Izdatel'stvo Nauka (295)
+Gosudarstvennyi Komitet Rossiiskoi Federatsii po Statistike (81)
+Izdatel'stvo Moskovskogo Gosudarstvennogo Universiteta im. M. V. Lomonosova (59)
+Rossiiskaya Knizhnaya Palata (59)
+Izdatel'stvo NotaBene (52)
+Sanoma Independent Media (48)
+Pervoe Sentyabrya (46)
+Rossiiskaya Akademiya Nauk * Institut Nauchnoi Informatsii po Obshchestvennym Naukam
+^45)_
+Izdatel'skii Dom Ekonomicheskaya Gazeta (42) Interfax Ltd. (41) Media Sfera (38)
+Sankt-Peterburgskaya Izdatel'skaya Firma Nauka (36) Izdatel'stvo Shkola Press (34)
+Izdatel'skii Dom Sankt-Peterburgskogo Gosudarstvennogo Universiteta (33) Idatel'stvo Rossiiskoi Gosudarstvennoi Biblioteki Pashkov Dom (30) Izdatel'stvo Sibirskogo Otdeleniya Rossiiskoi Akademii Nauk (30) Edipresse-Konliga ZAO (29) Izdatel'stvo Meditsina (29)
+Yuzhno-Ural'skii Gosudarstvennyi Universitet (29)
+Izdatel'stvo Finpress (28)
+Izdatel'skii Dom Provintsiya (27)
+Izdatel'stvo Otkrytye Sistemy (27)
+Izdatel'skii Dom Burda (26)
+Voronezhskii Gosudarstvennyi Universitet (26)
+Izdatel'stvo Samarskii Universitet (23)
+Moskovskii Gosudarstvennyi Oblastnoi Universitet (21)
+Argumenty i Fakty (18)
+Bauer Media (17)
+Zabaikal'skii Gosudarstvennyi Universitet (17) Redaktsiya Zhurnala Vestnik Molodych Uchenych (16) Ministerstvo Oborony Rossiiskoi Federatsii (15) Moskovskii Komsomolets (15) Rossiiskaya Akademiya Estestvoznaniya (15) S K Press (15)
+Informatsionno-Izdatel'skii Tsentr po Geologii i Nedropol'zovaniu Geoinformmark (14)
+Izdatel'skii Dom Bionika (14)
+Nauka i Tekhnologii (14)
+Udmurtskii Gosudarstvennyi Universitet (14)
+Vserossiiskii Nauchno-Issledovatel'skii Institut Mezhotraslevoi Informatsii (14)
+Vserossiiskii Nauchno-Issledovatel'skii Institut Organizatsii Upravleniya i Ekonomiki
+Neftegazovoi Promyshlennosti (VNIIOENG) (14)
+Ivanovskii Gosudarstvennyi Universitet (13)
+Izdatel'skii Dom Dinastiya (13)
+Izdatel'stvo Mashinostroenie (13)
+Izdatel'stvo Folium (12)
+Izdatel'stvo Za Rulem (12)
+Nezavisimaya Gazeta (12)
+Izdatel'stvo Pishchevaya Promyshlennost' (11)
+Izdatel'stvo Ruda i Metally (11) Izdatel'stvo S-Info (11)
+Kazanskii (Privolzhskii) Federalnyi Universitet (11)
+Moskovskii Gorodskoi Psikhologo-Pedagogicheskii Universitet (11)
+NauchTekhLi tIzdat (11)
+Rossiiskii N.I.I. Problem Transporta (11)
+Akademicheskoe Izdatel'stvo Geo (10)
+Astrakhanskiy Gosudarstvennyi Tekhnicheskii Universitet (10)
+Penzenskii Gosudarstvennyi Universitet (10)
+Analitika Rodis (9)
+Biznes Shkola Intel-Sintez (9)
+Izdatel'stvo Kompaniya Sputnik+ (9)
+Izdatel'stvo N-L (9)
+Redaktsiya Zhurnala Narodnoe Obrazovanie (9) Rossiiskaya Akademiya Nauk * Institut Ekonomiki (9)
+Rossiiskaya Akademiya Nauk * Sibirskoe Otdelenie, Gosudarstvennaya Publichnaya
+Nauchno-Tekhnicheskaya Biblioteka (9)
+Rossiiskaya Akademiya Nauk * Zoologicheskii Institut (9)
+Izdatel'skii Dom HORS (8)
+Izdatel'skii Dom Karapuz (8)
+Izdatel'skii Dom Kommersant (8)
+Izdatel'skii Dom Logos Press (8)
+Izdatel'skii Dom S P N (8)
+Izdatel'stvo Eskulap (8)
+Izdatel'stvo Granitsa (8)
+Izdatel'stvo Instituta Matematiki Rossiiskoi Akademii Nauk (8) Izdatel'stvo Ostrov (8) K M K Scientific Press Ltd. (8)
+Moskovskii Gosudarstvennyi Institut Mezhdunarodnyh Otnoshenii (8) Vsesoyuznyi Nauchno-Issledovatel'skii Institut Patentnoi Informatsii (VNIIPI) (8) Berator-Press (7)
+Izdatel'skii Dom Russkii Vrach (7) Izdatel'sko-Proizvodsvennoe Ob'edinenie Pisatelei (7) Izdatel'stvo Radiotekhnika (7)
+Rossiiskaya Akademiya Nauk * Institut Mirovoi Ekonomiki i Mezhdunarodnykh Otnoshenii
+œ_
+Standarty i Kachestvo (7) Ekspert (6)
+Gruner + Jahr Z A O (6) Hachette Filipacchi (6) I D R (6)
+Izdatel'skii Dom L K Press (6) Izdatel'stvo Kazanskogo Universiteta (6)
+Izdatel'stvo Novoe Vremya (6) Izdatel'stvo Pediatr (6)
+Kazanskii Gosudarstvennyi Tekhnicheskii Universitet im. A.N. Tupoleva (6) Ministerstvo Putei Soobshcheniya Rossiiskoi Federatsii (6) Ministerstvo Sotsyal'noi Zashchity Naseleniya (6) Mortekhinformreklama (6) Nauchnyi Izdatel'skii Dom Issledovatel' (6)
+Redaktsiya Mezhdunarodnogo Ezhenedel'nika Finansovaya Gazeta (6) T.S.N.I.I. Geodezii Aeros'emki i Kartografii im. F.N. Krasovskogo (6) Turpion Ltd. (6)
+Так как данные в Ulrich's представляются на английском языке или транслитерируются, то понятно, что наличие англоязычного сайта значительно облегчает составление описания журнала сотрудниками Ulrich's.
+Облегчает также составление и направление в Ulrich's полной анкеты. В приложении приведена полная анкета, которую можно найти на сайте ulrichsweb.com, а также можно запросить анкету у одного из авторов данной статьи - Галины Тестерман (Halyna Testerman, [email protected]), специалиста по метаданным Ulrich's, ответственной за наполнение БД записями о российских журналах.
+Если журнал имеет сайт хотя бы на русском языке и имеет необходимые обязательные сведения (см. выше), то на адрес электронной почты Г. Тестерман достаточно направить информацию с названием журнала, ISSN и адресом сайта. В таком случае специалист по метаданным Ulrich's (в данном случае Галина Тестерман) сама создаст запись и составит описание журнала, зарегистрировав, таким образом, издание в системе.
+Для создания и развитие сайта журнала, как на русском, так и на английском языках, можно воспользоваться готовыми решениями, предлагаемыми НП НЭИКОН и ООО «ВЦИ». Одновременно с этим авторы могут предложить усовершенствовать редакционно-издательский процесс, внедрив издательскую систему Elpub, представляющую собой облачного электронного помощника редакционной коллегии научного журнала, превращающего подготовку научного контента к публикации в простой, но соответствующий международным стандартам процесс. Elpub формализует все процессы деятельности редакционной коллегии: от получения статьи от автора, через многоэтапное рецензирование и корректуру, до подготовки номера к печати. Деятельность редакционной коллегии по приему и работе с рукописью статьи визуализируется на сайте журнала. Elpub создана с учетом методических рекомендаций по
+редакционной подготовке научных журналов для включения в зарубежные индексы цитирования.
+Список литературы
+1.	Patterson C.D. Origins of Systematic Serials Control. Remembering Carolyn Ulrich // Reference Services Review. 1988. Vol. 16, iss. 2. Режим доступа:
+http:// www. ul ri chsweb .com/ ul ri chsweb/carolynUl rich.asp (дата обращения 05.05.2013).
+2.	Ulrich's Periodicals Directory™ 2013. Режим доступа: http://www.bowker.com/en-US/products/printed_directories/servprintdir_dir_upd.shtml (дата обращения 05.05.2013).
+3.	Ulrich's Global Serials Intelligence. Publisher Outreach Program. Режим доступа: http://www.serialssolutions.com/assets/resources/Brochure-Ulrichs-Publisher-Outreach.pdf (дата обращения 05.05.2013).
+4.	Кириллова О.В. Периодические и продолжающиеся издания в реферативных базах данных: количественная и качественная оценки // Научно-техническая информация. Сер. 1. 2007. № 8. С. 26-34.
+Работа поддержана ФЦП «Исследования и разработки по приоритетным направлениям развития научно-технологического комплекса России на 2007-2013 годы», государственный контракт № 14.514.11.4028 по теме «Проведение проблемно-ориентированных исследований для разработки платформы по управлению деятельностью распределенной редакционной коллегии электронного издания» (шифр заявки «2012-1.4-07-514-0050»).
+SCIENTIFIC PERIODICAL OF THE BAUMAN MSTU
+SCIENCE and EDUCATION
+EL № FS77 ■ 48211. №0421200025. ISSN 1994-0408
+electronic scientific and technical journal
+Availability of Russian scientific periodicals: meaning of Ulrich's Periodicals
+Directory and publishers' web-sites
+# 06, June 2013
+DOI: 10.7463/0613.0585718
+Kirillova O.V., Dimentov A.V., Halyna Testerman
+Russia, Moscow, Training and Consulting Center NEICON
+Russia, Moscow, Ltd. "VTSI" Company ProQuest, New Jersey, United States
+[email protected] [email protected] halyna.testerman@proquest. com
+The ambition of Russian periodicals to join international scientific and informational space and citation indexes, which is regulated by state documents, can't be successful without increasing the qualitative level and availability of journals by means of indexing in the leading foreign databases. Ulrich's Periodicals Directory is the main source of information about journals for the international society and experts of citation indexes. This base covers more than 220 thousand existent journals published in 200 languages and in 90 thousand publishing houses. The authors analyze data on Russian periodicals in Ulrich's database. The main statistical and actual data on Russian journals contained in this database are presented in the article. The analysis results showed that only 40% of Russian periodicals are represented in this database. As journal websites are the main source of information for Ulrich's and other databases, including citation indexes, creation and development of websites is a crucial problem. Solving this problem would allow publishers to get the most complete image of Russian periodicals in Ulrich's database and provide a better "visibility" and "availability" of Russian scientific journals for the international scientific and information community. This article presents basic recommendations on the structure and content of information on a website along with the strategy of its development into a full-fledged publishing platform.
+Publications with keywords: Russian periodicals, scientific journals, global information resources, foreign databases, indexing, Ulrich's Periodicals Directory, registration, data sources, journals' websites, publishing platforms
+Publications with words: Russian periodicals, scientific journals, global information resources, foreign databases, indexing, Ulrich's Periodicals Directory, registration, data sources, journals' websites, publishing platforms
+References
+1.	Patterson C.D. Origins of Systematic Serials Control. Remembering Carolyn Ulrich. Reference Services Review, 1988, vol. 16, iss. 2. Available at:
+http://www.ulrichsweb.com/ulrichsweb/carolynUlrich.asp , accessed 05.05.2013.
+2.	Ulrich's Periodicals Directory™ 2013. Available at: http://www.bowker.com/en-US/products/printed_directories/servprintdir_dir_upd.shtml , accessed 05.05.2013.
+3.	Ulrich's Global Serials Intelligence. Publisher Outreach Program. Available at:
+http://www.serialssolutions.com/assets/resources/Brochure-Ulrichs-Publisher-Outreach.pdf , accessed 05.05.2013.
+4.	Kirillova O.V. Periodicheskie i prodolzhayushchiesya izdaniya v referativnykh bazakh dannykh: kolichestvennaya i kachestvennaya otsenki [Periodicals and serials in abstract databases: quantitative and qualitative evaluation]. Nauchno-tekhnicheskayainformatsiya. Ser.1 [Scientific and technical information. Ser. 1], 2007, no. 8, pp. 26-34.

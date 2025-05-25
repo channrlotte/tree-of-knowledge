@@ -1,0 +1,635 @@
+﻿RUSSIAN JOURNAL OF EARTH SCIENCES, VOL. 4, NO. 3, PAGES 187-209, JUNE 2002
+Rare earth elements in rocks and minerals from alkaline plutons of the Kola Peninsula, NW Russia, as indicators of alkaline magma evolution
+A. A. Arzamastsev1, F. Bea2, L. V. Arzamastseva1, and P. Montero2
+1	Geological Institute, Kola Science Center, Russian Academy of Sciences, Apatity
+2	University of Granada, Dept. of Mineralogy and Petrology, Fuentenueva s/n., 18002, Granada, Spain
+Abstract. In order to elucidate evolutionary paths for the alkaline ultramafic series of the Kola province, we studied distribution of rare earth elements (REE) in rocks and constituent minerals of the rock sequence dunite, clinopyroxenite, melilitolite, meltejgite, ijolite, nepheline syenite. Abundances of REE and other trace elements were measured in olivine, melilite, clinopyroxene, nepheline, apatite, perovskite, titanite, and magnetite. Distribution of most trace elements in Kovdor-type rocks is shown to differ fundamentally from that in the Khibiny alkaline ultramafic suite and to have been controlled by perovskite crystallization. Primary olivine melanephelinitic melts of the Kovdor series are demonstrated to be characterized by early crystallization of perovskite, the most important REE mineral. Perovskite co-precipitating with olivine and clinopyroxene leads to a sharp REE depletion of the residual melt, to produce REE-depleted derivatives, ijolites and nepheline syenites. By contrast, the genesis of the Khibiny alkaline ultramafic series was complicated by mixing of minor batches of phonolitic melt with the primary olivine melanephelinitic magma, which led to changes in the crystallization order of REE-bearing titanates and Ti-silicates and to enrichment of late melt batches in the most incompatible elements. As a result, Khibiny ijolites have the highest REE abundances, which are accommodated by high-REE apatite and titanite.
+1.	Introduction
+In the northeastern Baltic Shield, the Paleozoic stage of tectonic and magmatic reactivation involved generation of alkaline plutonic complexes, which have been customarily divided into two rock suites: (i) alkaline ultramafic rocks associated with carbonatites (Kovdor, Vuoriyarvi, Afrikanda, Seblyavr, etc., massifs) and (ii) agpaitic nepheline syenites, represented in the vast Khibiny and Lovozero plutons. Available isotope ages indicate that all the Paleozoic alkaline massifs of the Kola province were coeval, and their parental melts were derived from the same mantle sources [Kramm and
+Copyright 2002 by the Russian Journal of Earth Sciences.
+Paper number TJE02094.
+ISSN: 1681-1208 (online)
+The online version of this paper was published 15 May 2002. URL: http://rjes.wdcb.ru/v04/tje02094/the02094.htm
+Kogarko, 1994; Kramm et al., 1993]. The hallmark of the region’s alkaline rocks is their immense abundances of REE, Y, Sr, Zr, Hf, Nb, Ta, and Th. These are either concentrated in apatite, titanite, perovskite, and other accessories or, given their concentrations in melts were high enough, form their own discrete minerals, such as loparite, pyrochlore, and eu-dialyte, whose economic deposits provide the basis for the region’s mining industry.
+Geologic observations and experimental evidence suggest that alkaline ultramafic rocks forming parts of carbon-atite complexes originated through crystal fractionation in nephelinitic melts, which resulted, at early stages, in olivine, clinopyroxene, and melilite cumulates and their complementary foidolites and nepheline syenites [Arzamastsev et al., 2001; Dawson et al., 1995; Ivanikov et al., 1998; Kukharenko et al., 1965; Nielsen, 1994; Verhulst et al., 2000]. Available data on behavior of incompatible elements during magma-genesis suggest that with advancing magma crystallization, elements such as Sr, Zr, Hf, Nb, Ta, Th, and REE are likely to become enriched in terminal melt derivatives of the
+Figure 1. Location scheme for Paleozoic igneous occurrences in northeastern Baltic Shield. Intrusions: 1 - Khibiny, 2 - Lovozero, 3 - Niva, 4 - Mavraguba, 5 - Kovdor, 6 - Sokli, 7 - Sallanlatva, 8 - Vuoriyarvi, 9 - Kandaguba, 10 - Afrikanda, 11 - Ozernaya Varaka, 12 - Lesnaya Varaka, 13 - Salmagora, 14 -Ingozero, 15 - Cape Turiy, 16 - Kurga, 17 - Kontozero, 18 - Ivanovka, 19 - Seblyavr. Terrane location scheme, after [Balagansky et al., 1998].
+alkaline ultramafic series. This is indeed the case in alkaline ultramafics of the Khibiny massif, at whose lower horizons large fragments of such bodies are found surrounded by agpaitic syenites [Arzamastsev et al., 1998; Galakhov, 1975]. However, in the majority of alkaline ultramafic plu-tons region-wide, terminal crystallization products (ijolites, nepheline syenites, and cancrinite syenites) are appreciably depleted in elements such as Nb, Ta, and rare earths.
+This work is intended to study how the above trace elements behave in alkaline ultramafic suites and, in particular, to find out why rare earth elements follow different distribution patterns in ultramafic carbonatite intrusions and in the Khibiny massif. Our study draws on mineralogic and geochemical data on representative samples from the Kovdor, Vuoriyarvi, Cape Turiy, Salmagora, and Afrikanda massifs, the Lesnaya Varaka and Ozernaya Varaka intrusions, and the Khibiny complex. ICP-MS analyses were made on whole-rock samples and on separates of coexisting perovskite, apatite, titanite, clinopyroxene, melilite, olivine, nepheline, and magnetite. Data obtained enable us to identify those factors responsible for the diversity of REE distribution pat-
+terns in alkaline ultramafic suites and, in particular, to assess the role of high-REE accessory phases-loparite, apatite, and titanite.
+2.	Geologic Structure of the Intrusions
+In the northeastern Baltic Shield, intracratonic magma-tism that spanned some 40 to 50 m.y. can be divided into three episodes. The initial episode, from 405 to 380 Ma, coinciding with the final phase of Caledonian orogeny, involved inception of the Khibiny, Lovozero, and Kontozero calderas in the foreland of the Caledonian front, accompanied by sub-alkaline volcanism and emplacement of ultramafite and Ne-syenite intrusions. The principal period of igneous activity, between 380 and 360 Ma, gave rise to the multiphase Khibiny and Lovozero plutons and to alkaline ultramafic intrusions associated with carbonatites [Kramm and Kogarko, 1994; Kramm et al., 1993] (Figure 1). The final episode resulted in dike swarms and diatremes made up of alkaline picrites,
+Figure 2. Scheme showing geologic structure of the Kovdor massif, simplified after [Ternovoi, 1977]. 1 - carbonatite, 2 -phoscorite, 3 - nepheline syenite, 4 - foidolite, 5 - olivine-diopside-phlogopite rocks, 6 - olivine-monticellite-melilite rocks, 7 - melilite rocks, 8 - pyroxenite, 9 - peridotite and dunite, 10 - Precambrian basement.
+melanephelinites, melilitites, and kimberlites [Arzamastsev et al., 2001].
+2.1.	Alkaline Ultramafic Plutonic Suites Forming Parts of Carbonatite intrusions (Kovdor Type)
+Plutonic alkaline ultramafic suites are found forming parts of multiphase intrusions. Lithologic zonation of the intrusive bodies portrays the following order of emplacement of rocks that constitute the series (i) dunite, (ii) pyroxen-ite, (iii) melilite-bearing rocks (turjaite, melilitolite, okaite), (iv) melteigite, (v) ijolite, (vi) nepheline/cancrinite syenite, and (vii) carbonatites and phoscorites. The complete set of lithologies is represented in the Kovdor, Cape Turiy, and Vuoriyarvi massifs, whereas in the rest of intrusions only particular groups of rock varieties are exposed at the present topographic surface. In most intrusions, olivine and clinopy-roxene cumulates make up their cores, melilite rocks and foidolites occurring in peripheral zones (Figure 2). Nepheline and cancrinite syenites either make up detached satellite bodies near the intrusions (e.g., the Maly Kovdor) or fill in veins in alkaline ultramafics (Ozernaya Varaka). Boss-like carbonatite bodies, surrounded by carbonatite stockworks,
+usually are located centrally in the intrusions, but occasionally they are displaced from geometric centers of the ring bodies of alkaline ultramafites. The order of emplacement, based on generalized field evidence from all the intrusions of the region, is consistent with that reported for alkaline ul-tramafic intrusions worldwide [Kogarko et al., 1995; Le Bas, 1987; Nielsen, 1987; Woolley, 1987]. Alkaline ultramafic intrusions occur in spatial association with bodies of olivine melteigite porphyry and with dikes and diatremes of alkaline picrite, Ol-melanephelinite, nephelinite, and melilitite.
+2.2.	Alkaline Ultramafic Plutonic Suites Forming Parts of Agpaitic Syenite Complexes (Khibiny Type)
+Although exposed portions of the Khibiny and Lovozero plutons are dominated by agpaitic syenites, geophysical data verified by drilling reveal alkaline ultramafic rocks [Galakhov, 1975] and carbonatites [Dudkin et al., 1984] within the Khibiny massif and ultramafic and melilite rocks [Arzamast-sev et al., 1998] within the Lovozero massif. According to our own data [Arzamastsev et al., 1998], volumetrically, alkaline ultramafic rocks make up at least 30% of the Khibiny pluton and 25% of the Lovozero pluton within the 12.5 km depth range accessible to gravity surveying. The plutons are thus shown to comprise the complete series of rocks typical of alkaline ultramafic massifs of the province: peridotites, pyroxenites, melilitolites, melteigites, ijolites, and carbon-atites. The Khibiny complex displays at least three phases of emplacement of alkaline ultramafic melts with intervening stages of Ne-syenite magma injection (Figure 3). The peridotites, pyroxenites, and melilitolites originated at the earliest formative phase of the massif (Phase I, Figure 3b), which preceded agpaitic syenite injections. The ring melteig-itesijolite intrusion (Phase II, Figure 3d) took shape after the emplacement of nepheline syenites forming the margin of the Khibiny massif, but prior to the formation of the Ne-syenites found in its core. The Khibiny alkaline ultramafic series culminated in carbonatites (Phase III, Figure 3g), which cut through the Ne-syenite core of the massif and carry pyrox-enite, ijolite, and melteigite xenoliths.
+As regards the Lovozero massif, alkaline ultramafics are encountered mostly in its northeast part, where large blocks and xenoliths of peridotites and melilitic rocks occurring among nepheline syenites suggest that these rocks originated at the earliest stage of emplacement of the complex. Foidolites are not widespread in the massif, their presence being evidenced by sporadic, Ne-syenite-hosted, ijolite and melteigite xenoliths, recovered in cores from a number of drillholes.
+3.	Analytical Techniques and Sample Preparation
+Sixty-nine representative samples, collected from drill-cores and outcrops in the Khibiny, Lovozero, Kovdor,
+Figure 3. Hypothetical model for the formation of the Khibiny complex [Arzamastsev et al., 1998]. Symbols: 1 -carbonatite, 2 - pulaskite, 3 - nepheline syenite in the core of the massif (foyaite), 4 - kalsilite/nepheline syenite, juvite, and apatite rocks, 5 - ijolite and melteigite, 6 - nepheline syenite in the rim of the massif, 7 - olivine pyroxenite and melilitolite, 8 - alkaline volcanites, 9 - Precambrian basement, 10 - fault. (a)-(g) - phases of emplacement of the massif.
+Afrikanda, Cape Turiy, Lesnaya Varaka, Ozernaya Varaka, Seblyavr, Salmagora, Sallanlatva, Vuoriyarvi, and Ivanovka intrusions, were selected for this study from a total of more than 500 samples. Modal-mineral compositions of the samples are listed in Table 1.
+Whole-rock major element analyses were carried out
+at the Geological Institute, Kola Science Center, Russian Academy of Sciences, using a routine technique of sample fusion with 2Na2 CO3+1Na-tethraborate followed by dissolution in HCl. Si, Al, Mg, Ca, Fe, Ti, Ni, Co, Cr, and V were measured by atomic absorption on a Perkin Elmer 403 instrument with an accuracy (coefficient of variation, CV) better than 3% (G. Gulyuta, analyst). Na, K, Li, Rb, and Cs were measured by flame photometry (CV ~5%); P and S, by photocolorimetry and polarography from the same solutions with an accuracy of ~5% and ~10%, respectively; and F and Cl, by the ion-selective electrodes method (CV ~15%). The Fe2+/Fe3+ ratio was measured by titration (CV ~10%). H2O and CO2 were analyzed by the gravimetric method (CV ~10%).
+Trace elements were analyzed by ICP-MS at the University of Granada. Sample charges of 0.1 g were allowed to stand for 30 min in an HNO3 + HF mixture in Teflon-lined containers at T = 180°C and ~200 p.s.i., evaporated until dry, and dissolved in 100 ml of 4% HNO3. Each specimen was analyzed three times on an ELAN-5000 PE SCIEX instrument using a rhenium within-lab standard. Accuracies were ±2 rel.% and ±5 rel.% or better for concentrations of 50 and 5 ppm, respectively.
+Major elements in minerals were measured at the Geological Institute, Kola Science Center, on a Cameca MS-46 ion microprobe using natural and synthetic standards. Acceleration voltage was 30 kV for Sr and Zr and 20 kV for the rest of the elements; sample current was 20-40 nA, and ion beam diameter, 1.5-3 ^m.
+Mineral grains separated for trace-element analysis were inspected under an optical microscope in order to reject foreign inclusions. A number of samples were inspected under a scanning electron microscope. Minerals were separated on a magnetic separator and in heavy liquids. Finally, 8-10 mg charges were cleaned by repeated hand-picking to 99.9 vol % purity. Trace element abundances in sample charges were measured by ICP-MS as described above.
+4.	Petrography of the Rocks and Distribution of REE-bearing Mineral Phases
+Ultramafic rocks. Kovdor-type dunites, Ol-clinopyro-xenites, and pyroxenites are adcumulates and mesocumu-lates with olivine and clinopyroxene as cumulus phases and ore minerals, phlogopite, spinel, and nepheline as intercumulus (Table 1). The only primary high-REE minerals are perovskite and apatite. In the dunites, perovskite occurs sporadically as an intercumulus phase forming small roundish grains (Figure 4a). In the pyroxenites, perovskite is present as an early cumulus phase accounting for as much as 40 vol % in Vuoriyarvi rocks, 19-31 vol % in Afrikanda, and 11-16 vol % in the Salmagora massif [Korobeinikov et al., 1998; Kukharenko et al., 1965]. In ultramafic rocks, apatite is less common, dunites containing no more than 0.2% and pyroxenites usually bearing up to 3% apatite by volume. The only exception is Vuoriyarvi and Afrikanda
+ARZAMASTSEY ET AL.: RARE EARTH ELEMENTS IN ROOKS AND MINERALS Table І. Modal-mineral compositions of alkaline ultramafic rocks (vol %)
+Ol	Cpx	Mel	Ne	Mic	Prv	Ap	Ttn	Mag	Others
+4/4GG	KVD	Dunite	92	<1	8	Spl 1
+22Т/43	KVD	Turjaite	5	5Т	5	2G	1	<1	12
+252/1GG	KVD	Turjaite	3	5б	3	33	<1	<1	3
+Т/394	KVD	Foidolite	б5	2G	8	<1	Т
+Т/348	KVD	Foidolite	б5	1G	1G	<1	2	3	4	Amph 5
+5^4G	KVD	Foidolite	ТТ	5	Т	3	3	5
+5/бЮ	KVD	Foidolite	3Т	55	3	2	3
+V3G	KVD	Foidolite	58	35	2	1	Cal 5
+Т/92.8	KVD	Foidolite	б9	2G	1	<1	5	3	1
+2Т/б5	KVD	Foidolite	5	ТG	1G	5	<1	4	5
+MK-1G	KVD	Nepheline syenite	2G	35	1G	1	3	1	Fsp 3G
+AFR-1	AFR	Peridotite
+AFR-5	AFR	Pyroxenite	ТG	8	1Т	1	5
+AFR-б	AFR	Pyroxenite	ТG	14	5	3	Grt 8
+25-AFR	AFR	Pyroxenite	9G	2	5	1	1	Cal 1
+Z-б	LSV	Dunite	95	<1	5
+SL-23	SLM	Dunite	8Т	1	1	<1	1G	Spl 1
+SL-24	SLM	Pyroxenite	Т5	5	5	3	5	1	б
+93/192	VUO	Pyroxenite	ТG	2	1G	<1	18
+282/224	VUO	Pyroxenite	84	12	1	1G
+282/251	VUO	Pyroxenite	бб	5	1G	1	18
+25V2G8	VUO	Melteigite	б5	3G	2	1	1
+25/15	SLN	Ijolite	5G	44	1	2	2	Cal 1
+2б/151	SLN	Ijolite	4G	5G	1	1	9
+31/2GG	SLN	Ijolite	45	4G	2	1	2	5	Cal 5
+2б/151	SLN	Ijolite	3Т	52	1	3	2	4	Cal 1
+8-OV	OZV	Melteigite	Т1	5	5	<1	8	5	5
+1G1G/1G52	KHI	Peridotite	6G	2G	1G	<1	1	б
+A-1G44	KHI	Peridotite	4G	24	5	29	1	1
+A-1G36	KHI	Pyroxenite	5Т	3	15	<1	1	5	Amph 18
+A-1087	KHI	Pyroxenite	бТ	5	15	б	2	5
+A-1G38	KHI	Pyroxenite	3	39	2	3G	1	1	1G	Amph 14
+1G1G/1G59	KHI	Turjaite	5	5G	2G	<1	2	25	Grt 1
+ЮЮ/11б5	KHI	Turjaite	5	45	2G	<1	<1	15	Mtc 1G, Spl 3
+455/345	KHI	Melteigite	б5	23	2	3	Т
+4бб/552	KHI	Melteigite	6G	18	1G	2	5	5	Fsp <1
+1119/2Т9	KHI	Melteigite	бб	11	5	Т	8	Fsp 3
+ЮЮ/118б	KHI	Ijolite	24	2G	3G	1	3	3	19	Fsp 3
+1GТ2/53G	KHI	Ijolite	5G	3б	1	9	2	Fsp 2
+455/4G2	KHI	Ijolite	45	45	3	1	3	1	Fsp 2
+1б3б/Т21	KHI	Ijolite	21	55	2	3	3	2	Fsp 14
+1152/83	KHI	Ijolite	33	4Т	1	1	5	3	Fsp 1G
+Note: Mineral composition were determined by thin-section counting on 1000 points. Hereinafter in Tables: KVD — Kovdor, LSV — Lesnaya Varaka, SLM — Salmagora, AFR — Afrikanda, VUO — Vuoriyarvi, OZV — Ozernaya Varaka, SLN — Sallanlatva, KHI — Khibiny. Ol — olivine, Cpx — clinopyroxene, Mel — melilite, Mic — mica, Ne — nepheline, Prv — perovskite, Ap — apatite, Mag — magnetite, Mtc — monticellite, Spl — spinel, Ttn — titanite, Grt — Ca-Ti-garnet, Cal — calcite, Fsp — K-Na-feldspar, Amph — amphibole.
+pyroxenites, in which apatite accounts for as much as 8% of rock volume [Kukharenko et al., 1965]. Besides perovskite and apatite, the pyroxenites contain sporadic titanite that forms secondary segregations partially replacing perovskite and magnetite.
+Ultramafic rocks encountered in the Khibiny and Lovozero
+massifs are represented by peridotites and, chiefly, by pyroxenites, which are texturally and compositionally similar to ultramafics of the Kovdor suite. Pyroxene with characteristic cumulus features is in places partially replaced by richterite and/or phlogopite. REE-bearing accessories are represented by apatite and titanite (up to 6 and 2 vol %,
+50 jim
+01
+(a)
+Prv
+|%
+Cpx
+Figure 4. Perovskite segregations in rocks of the alkaline ultramafic series (backscattered electrons raster photomicrographs): a - primary perovskite (Prv) in olivine (Ol) from Kovdor dunite, sample 4/400; b - secondary perovskite overgrown on magnetite (Mag) and melilitolite + phlogopite (Phl) grains, Kovdor, sample 252/100.
+respectively; Table 1). An important distinction is that per-ovskite is a rare accessory in all ultramafic rocks from the Khibiny.
+Melilite-bearing rocks, dominantly uncompahgrites and turjaites, form independent intrusion phases in the Kov-dor and other alkaline ultramafic massifs. In the Khibiny and Lovozero, melilite rocks are encountered as xenoliths. Melilite together with phlogopite compose large oikocrysts with clinopyroxene and nepheline inclusions. REE-bearing phases, represented by perovskite, apatite, and, less frequently, titanite, occur sporadically. Intersticial segregations of magnetite are not infrequently rimmed by secondary per-ovskite (Figure 4b), indicative of a Ti-bearing phase having been exsolved from primary titanomagnetite [Nielsen et al., 1997].
+Foidolites occur widely in both the Kovdor and Khibiny alkaline ultramafic suites. The rocks are ortho- and mesocu-mulates with nepheline segregations varying in habit from anhedral to euhedral in less and more leucocratic rocks, respectively. Clinopyroxene makes up zoned segregations whose compositions are different in the Kovdor and Khibiny suites. In foidolites of the Kovdor and other alkaline ultra-mafic massifs, pyroxene is represented by diopside, which makes up grain cores, while grain rims are composed of aegirine-augite. Pyroxenes in Khibiny ijolite-melteigites are more alkaline than in the Kovdor suite and, unlike the latter, are composed of aegirine-augite rimmed by aegirine. Accordingly, late amphiboles developed after clinopyroxene have different compositions, mostly pargasitic in Kovdor foido-lites and corresponding to richterite or magnesiocataphorite in the Khibiny suite.
+Distribution patterns of REE-bearing accessories are different in Kovdor and Khibiny foidolites. In Kovdor, Vuori-
+yarvi, and Cape Turiy melteigites and ijolites, the early-generation perovskite, just as apatite and titanite, is a typical accessory phase. Not infrequently, the perovskite is observed to be replaced by titanite. The mean titanite abundance in ijolites is <1 vol %. Apatite abundances in foidolites attain a critical maximum of 1.2 wt % in the most melanocratic lithologies [Arzamastseva and Arzamast-sev, 1996].
+Unlike the Kovdor suite, Khibiny foidolites contain apatite and titanite not only as late magmatic accessories, but also as widespread primary REE minerals. Both apatite and titanite are most abundant in melanocratic foidolite varieties, where they account for 4 and 5 vol % on average, respectively. A distinctive feature of Khibiny foidolites is that they lack primary perovskite.
+Nepheline- and cancrinite syenites in Kovdor-type massifs show evidence of early crystallization of light-colored phases, nepheline and K-Na-feldspar. Just as in foidolites, pyroxene is represented by zoned grains of diopside rimmed by aegirine-augite. REE-bearing accessories are titanite and apatite.
+Arzamastsev et al. [1998] showed that neither Khibiny nor Lovozero agpaitic Ne-syenites are cogenetic with rocks of the alkaline ultramafic series. This is evidenced, in particular, by the fact that the REE-bearing mineral assemblage in agpaitic syenites differs fundamentally from that in the alkaline ultramafic rocks. Lovozero lujavrites have as much as 90 vol % eudialyte and 12 vol % loparite, while in Khibiny Ne-syenites the most widespread primary magmatic phases are eudialyte and apatite. Distribution, composition, and origin of these economically important minerals were studied by Kogarko [1977, 1999] and Kravchenko et al. [1992] and are beyond the scope of this work.
+5.	Results
+5.1. Rock Chemistry
+5.1.1.	Major elements. Bulk-rock analyses representative of Kovdor- and Khibiny-type alkaline ultramafic suites are listed in Tables 2 and 3. Compositional variation trends for both suites, plotted on the totality of major-element analyses amassed to date (Figure 5), show the ultramafic portion to be controlled by precipitation of olivine and clinopyrox-ene, whereas the foidolite trend is controlled by fractionation of clinopyroxene and nepheline. The decrease in Mg# through this rock sequence from 0.90 in dunites to 0.56 in Ne-syenites of the Kovdor suite is correlative with variations of Ni, Cr, Co, V, and Sc.
+The following distinctions exist between the Kovdor and Khibiny suites in terms of major-element abundances. Khibiny foidolites are relatively lower in MgO and higher in SiO2 and alkalis (Figure 5). Thus, weighted mean abundances of these oxides in Khibiny foidolites are 43.62 wt % SiO2, 9.40 wt % Na2O, 3.59 wt % K2O, and in Kovdor-type foidolite intrusions, 41.64 wt % SiO2, 8.10 wt % Na2O, 2.73 wt % K2O. The high contents of silica and alkalis are manifest in modal-mineral compositions of Khibiny foidolites, such that K-Na-feldspar is a characteristic accessory mineral in ijolites, where it accounts for as much as 10 vol %. Among other distinctions between Kovdor and Khibiny rocks, one should note the higher F content of Khibiny rocks and the differences in TiO2 and P2Ob distributions. Thus, in Kovdor suite the highest TiO2 abundances are detected in pyrox-enites, which have 8-15 wt % MgO on average, whereas in Khibiny suite TiO2 is highest in the most evolved rocks, ijolites and melteigites, which have 3-7 wt % MgO.
+5.1.2.	Rare earth elements (REE). Chondrite-normalized plots for REE from both rock suites, listed in Tables 4 and 5, are shown in Figure 6. Along with data for specific samples, all the plots display the REE pattern for the weighted mean composition of alkaline ultramafic rocks of the Kola province [Arzamastsev et al., 2001].
+All the Kovdor-type alkaline ultramafic rocks lack Eu anomaly and show depletion in the light REE relative to the heavy REE (Figure 6). The lowest total REE contents and (La/Yb)N ratios (11.7-17.4) were detected in olivine cumulates from the Kovdor, Lesnaya Varaka, and Salmagora massifs. By contrast, pyroxenites from the majority of massifs, which contain perovskite and, to a lesser extent, apatite, are sharply REE-enriched relative to the mean composition of alkaline ultramafic rocks. These rocks have steeper REE patterns with (La/Yb)N = 52-226. More evolved derivatives (melilitolites, foidolites, and Ne/cancrinite syenites) have lower REE contents compared to the mean alkaline ultramafic rock composition for the province, at 5x10 to 3x102 times the chondritic level. Therefore, with advancing differentiation of the Kovdor suite, late-stage ijolite and Ne-syenite derivatives become progressively depleted in REE.
+Khibiny alkaline ultramafic rocks have a REE distribution pattern which is sharply dissimilar to the Kovdor suite (Figure 6). By and large, REE abundances of perovskite-
+free peridotites and pyroxenites are close to the estimated mean values for the alkaline ultramafic series. Due to low (La/Yb)N ratios, ranging 31.4-53.4, the light REE contents are G.5-G^ times the mean values for the alkaline ultramafic series, whereas the medium and heavy REE contents are 2 times higher than the mean values. Just as in pyroxenites, REE abundances in Khibiny melilite rocks are within the range of mean values established for the alkaline ultramafic rocks. On the other hand, the latest derivatives in the suite, ijolites and melteigites, are markedly REE-enriched relative to the mean composition of alkaline ultramafic rocks of the province. In particular, melteigites from the Khibiny layered complex, which have up to 8 vol % titanite and 5 vol % apatite, show 2x1G3 times the chondritic REE concentrations. To sum up, the Khibiny alkaline ultramafic suite is characterized by a progressive REE enrichment of its late derivatives.
+5.2.	REE distribution in minerals
+5.2.1.	REE-bearing phases. Perovskite. Two generations of perovskite have been reported from alkaline ultra-mafic rocks of the province. Generation I perovskites originate from the early igneous stage of alkaline ultramafite crystallization, as evidenced by the fact that melt inclusions in these perovskites match trapped portions of the primary melt compositionally [Kogarko et al., 1991; Veksler et al., 1998b]. Generation II perovskite, found mainly in melilitolites and foidolites, makes up rims around per-ovskite I and around magnetite. According to [Mitchell, 1996b], the early-generation perovskites are compositionally close to the ideal formula CaTiO3, whereas late perovskite segregations follow a loparite trend associated with enrichment in Na, LREE, Nb, and Th. Established are appreciable compositional distinctions between the early and late generations of the perovskites extracted for analysis. Generation I perovskites (Table 6) have the lowest REE, Nb, Ta, Y, U, Th, and Sr abundances, which have been detected in Vuoriyarvi pyroxenites. On the other hand, in Generation II perovskites, as represented by samples from Kovdor melilitolites and Ozernaya Varaka ijolites, the listed elements have 2 to 10 times the concentrations of the early magmatic perovskites. Overall, all the perovskites are sharply LREE enriched ((La/Yb)N = 207-518) (Figure 7). Compared to perovskites from other carbonatite assemblages worldwide, the varieties under study are closely similar to those from the Oldoinyo Lengai foidolites [Dawson et al., 1995] and kimber-lites [Mitchell and Reed, 1988] in terms of REE contents, but the latter have higher (La/Yb)N ratios.
+Apatite. Besides Ca, P, and F, apatites from all the rocks under study have appreciable abundances of Sr, Y, and REE (Table 6), the late apatite generation having highest values. Apatites from pyroxenites and foidolites of the Kovdor, Afrikanda, Sallanlatva, and Khibiny plutons have very narrow ranges of both total REE contents and (La/Yb)N, 57278. Chondrite-normalized REE spectra (Figure 7) for apatites are nearly parallel and broadly correlative to the REE abundances of host rocks. The earlier report on Eu anomaly
+Figure 5. Major oxides (wt %) vs. MgO in alkaline ultramafic rocks of the Kovdor (empty circles) and Khibiny (solid circles) type.
+Table 2. Whole-rock major element analyses (wt %) for carbonatite-bearing alkaline ultramafic massifs of the Kola province
+Rock	DUN DUN	DUN	PRD PRX	PRX	PRX	PRX	PRX	PRX MELT	MELT	MLG	MLG	MLG
+Massif	KVD LSV	SLM	AFR AFR	AFR	VUO	VUO	VUO	SLM KVD	KVD	KVD	KVD	KVD
+Sample 4/400 Z-6 SL-23 AFR-1 AFR-5 AFR-6 93/192 2S2/224 2S2/251 SL-24 22T/43 252/100 7/394 T/34S 5/T40
+SiO2	3T.S1 3S.T4	3S.5S	13.SS 37.6S	32.17	43.21	34.24	26.97	39.33 41.25	41.10	44.10	4S.24	3S.35
+TiO2	0.24 0.35	0.52	22.30 1.69	7.19	4.14	12.2S	S.63	3.S6 0.79	0.47	1.26	0.22	1.29
+Al2O3	1.20 0.3S	0.96	0.41 3.36	7.41	3.SS	3.63	4.02	7.05 10.90	S.02	10.15	1.24	4.01
+Fe2 O3	1.4S 3.74	4.90	1S.59 4.4S	10.95	7.15	S.S5	19.09	6.90 3.74	2.6S	4.37	2.46	S.TS
+FeO	9.01 11.22	6.07	11.10 4.S1	9.41	4.36	5.76	12.71	9.12 4.3S	3.22	6.19	3.43	12.36
+MnO	0.20 0.23	0.24	0.23 0.13	0.22	0.14	0.1S	0.34	0.21 0.10	0.09	0.15	0.17	0.21
+MgO	44.05 43.30	39.67	15.72 S.S1	9.1S	12.60	11.07	9.69	S.41 10.10	9.90	10.27	14.76	14.41
+CaO	4.17 0.69	3.3S	14.1S 2S.S7	15.95	22.4S	21.56	15.70	20.9S 19.60	26.40	14.47	22.50	14.6S
+Na2 O	0.10 0.03	0.0S	0.09 0.S2	1.55	0.50	0.43	0.37	1.6S 4.65	3.7S	4.56	1.43	0.46
+K2O	0.05 0.03	0.51	0.06 0.06	1.29	0.21	0.52	0.52	0.37 2.10	1.35	2.54	0.77	2.02
+P2O5	0.03 0.04	0.04	0.01 S.05	1.01	0.19	0.19	0.16	0.3S 0.05	0.07	0.12	1.76	0.0S
+CO2	0.24 0.16	0.10	0.79 0.20	0.27	0.36	0.26	0.2S	0.30 0.2S	0.40	0.21	1.73	0.6S
+Stot.	0.0S 0.02	0.05	n.a. 0.21	0.25	n.a.	n.a.	0.02	n.a. n.a.	n.a.	n.a.	n.a.	0.01
+F	0.01 0.01	0.01	n.a. 0.40	0.07	0.03	0.04	0.03	0.02 0.06	0.05	0.07	0.1S	0.07
+H2O	0.72 0.50	3.96	1.S2 0.47	3.07	0.44	0.56	0.55	1.33 1.42	1.S6	0.SS	0.S9	2.1S
+Total	99.39 99.44	99.07	99.1S 100.04	99.99	99.69	99.57	99.0S	99.94 99.42	99.39	99.34	99.7S	99.59
+mg#	0.90 0.S7	0.92	0.37 0.77	0.64	0.S4	0.59	0.36	0.62 0.S0	0.S5	0.75	0.SS	0.6S
+Rock	MLG	IJL	IJL	IJL	IJL	IJL	IJL	IJL	NFS	NFS	AVER*
+Massif	OZV	SLN	SLN	SLN	SLN	KVD	KVD	KVD	OZV	KVD
+Sample	S-OV	31/200	25/110	25/15	26/151	5/610	7/30	27/65	Z-12 MK-10
+SiO2	45.40	41.49	35.93	41.93	41.25	44.56	44.44	42.92	55.79	51.S3	37.20
+TiO2	0.S5	1.29	0.43	0.73	0.7S	0.13	0.34	1.92	0.44	0.S2	2.6S
+Al2O3	3.S7	14.31	19.03	15.94	16.20	19.56	12.50	7.20	19.07	16.52	7.20
+Fe2O3	3.55	5.96	1.42	4.4S	6.57	1.17	0.22	4.56	1.66	2.1S	S.96
+FeO	6.76	4.51	2.47	6.71	4.67	2.01	7.43	7.92	1.72	4.70	6.1S
+MnO	0.24	0.16	0.06	0.17	0.13	0.10	0.1S	0.14	0.05	0.12	0.25
+MgO	S.97	5.34	4.77	5.35	5.62	5.66	5.26	11.S6	0.61	3.3S	12.62
+CaO	22.67	12.93	13.44	11.16	11.30	9.52	14.74	17.40	2.39	4.44	17.11
+Na2O	2.52	7.SS	11.44	S.53	S.77	9.94	7.29	2.67	11.35	S.5S	2.97
+K2O	0.34	2.S2	3.04	2.S4	2.99	4.04	2.69	0.64	2.43	3.64	1.S7
+P2O5	3.41	1.S9	5.36	0.76	0.67	0.79	1.00	0.20	0.21	0.54	1.20
+CO2	0.26	0.43	1.19	n.a.	0.59	0.S1	1.10	0.S0	1.S9	0.44	1.76
+Stot.	0.01	0.10	0.30	0.04	0.05	0.01	n.a.	n.a.	n.a.	0.10	-
+F	0.20	0.06	0.27	0.04	0.03	0.06	0.05	0.06	0.03	0.10	—
+LOI	0.62	0.66	1.34	0.S5	0.41	1.15	0.S1	1.29	1.65	1.S6	—
+Total	99.67	99.S3	100.49	99.53	100.03	99.51	9S.05	99.5S	99.29	99.25	100.00
+mg#	0.70	0.49	0.69	0.59	0.6S	0.S3	0.56	0.73	0.25	0.56	0.61
+Note: Hereinafter in Tables: n.a. — not analyzed, n.d. — not detected, mg# = Mg/(Mg+Fe2+). Rock symbols: DUN — dunite, PRD - peridotite, PRX - pyroxenite, MEL - melilitolite, MELT - turjaite, MLG - melteigite, IJL - ijolite, NFS - nepheline syenite. AVER* - weighted mean composition of the alkaline ultramafic series of the Kola province, after Arzamastsev et al. [2001].
+[Kravchenko et al., 1979] has not been confirmed by any single measurement. Comparison with other provinces in terms of REE contents and patterns shows that apatite compositions under study resemble those from carbonatites of the Alno, Sokli, and Fen massifs [Hornig-Kjarsgaard, 1998].
+Titanite. We have analyzed late titanites, which replace
+perovskite in Afrikanda pyroxenites (sample 25-AFR), and groundmass titanites from Ozernaya Varaka and Khibiny ijo-lites. Comparison shows that Khibiny varieties are appreciably enriched in Sr, whereas Ozernaya Varaka and Afrikanda titanites have elevated concentrations of Zr, Hf, U, and Th (Table 7). All the varieties have narrow ranges of REE con-
+Table 3. Whole-rock major element analyses (wt %) for the Khibiny alkaline ultramafic series
+Rock	PRD	PRD	PRX	PRX	PRX	MEL	MEL	MLG	MLG	MLG	MLG	IJL	IJL	IJL	IJL
+Sample A-1044 1010/ A-1036 A-1087 A-1038 1052	1010/ 1010/ 1119/ 1059 1165 279	455/ 345	466/ 1010/ 552 1186	1072/ 530	455/ 1636/ 1152/ 402 721 83
+SiO2	43.62	38.26	41.60	37.53	41.37	28.01	29.98	41.24	37.56	44.00	39.52	43.48	44.81	43.67	46.07
+TiO2	3.41	3.51	4.91	2.90	4.18	6.01	2.84	6.42	7.73	4.60	7.25	2.67	1.97	1.61	2.28
+Al2O3	5.21	4.29	5.92	11.09	7.37	6.12	3.58	4.87	3.38	3.64	9.17	18.85	17.44	21.03	17.84
+Fe2 O3	5.41	10.31	4.33	5.90	8.90	15.57	10.51	9.23	11.60	11.72	8.00	4.88	5.31	4.53	5.17
+FeO	7.06	5.25	11.25	4.04	5.22	5.83	5.18	8.22	11.81	7.70	7.00	3.17	3.19	3.95	2.90
+MnO	0.19	0.28	0.23	0.17	0.23	0.26	0.29	0.48	0.61	0.33	0.28	0.16	0.21	0.22	0.29
+MgO	17.85	19.93	11.67	6.49	13.38	9.20	16.58	5.74	7.17	8.32	7.01	3.35	3.94	1.54	1.79
+CaO	9.36	12.60	11.20	18.40	9.09	23.43	28.46	13.61	14.68	13.41	11.74	7.70	7.91	4.63	3.94
+Na2 O	2.26	0.65	3.47	5.69	3.18	1.35	0.67	4.93	3.30	4.02	4.56	10.58	10.74	13.21	11.58
+K2O	2.91	2.06	2.11	1.78	3.60	0.86	0.04	1.73	0.81	1.46	2.36	4.45	3.78	3.42	5.20
+P2O5	0.36	0.42	0.38	2.97	0.36	0.77	0.37	1.88	0.99	0.27	1.25	0.65	0.22	1.00	0.37
+CO2	0.14	0.38	0.23	0.96	0.32	0.49	0.35	n.a.	0.05	0.05	0.32	0.31	0.07	0.15	0.08
+Stot.	0.03	0.16	0.12	0.40	0.04	0.04	0.02	0.30	n.a.	n.a.	0.19	n.a.	n.a.	0.04	n.a.
+F	0.45	1.06	0.60	0.14	0.91	0.58	0.16	0.43	0.20	0.36	0.32	0.09	0.07	0.21	0.26
+H2O	1.01	0.68	1.52	1.27	1.32	1.53	0.46	0.72	0.33	1.08	0.48	0.20	0.48	0.70	1.23
+Total	99.27	99.84	99.54	99.73	99.47	100.05	99.49	99.80	100.22	100.96	99.45	100.54	100.14	99.91	99.00
+mg#	0.82	0.87	0.65	0.74	0.82	0.74	0.85	0.38	0.52	0.66	0.64	0.65	0.69	0.25	0.29
+tents and relatively low (La/Yb)N ratios (40-53), which results in gently sloping, straight chondrite-normalized patterns (Figure 7).
+5.2.2.	Rock-forming minerals. Olivine. To analyze trace element contents, we selected the purest olivine grains of Fo82-9i composition from Kovdor and Lesnaya Varaka dunites. This, however, did not ensure the absence of magnetite microinclusions, which are distributed evenly within olivine crystals. Scanning electron microscopy detects extremely thin perovskite rims around primary chromite inclusions in olivine. On the one hand, positive correlation of Nb and Ta with REE in olivine (Table 8) implies the presence of perovskite microinclusions. On the other hand, all the olivine specimens analyzed show negative Eu anomaly, also observable in magnetite that coexists with olivine (Figure 8). The highest Eu oxidation degree (Eu/Eu* < 0.08) was established in Lesnaya Varaka dunites, which contain significant amounts of magnetite. Based on this evidence, we assume that a considerable fraction of REE contained in olivine grains is concentrated not in this mineral proper, but in perovskite and magnetite microinclusions.
+Clinopyroxene. In early cumulates of the alkaline ul-tramafic series, clinopyroxene is represented by diopside Di8oHd1BAcB, with foidolites and nepheline syenites containing zoned segregations that range in composition from augite DiBBHd40AcB to aegirine-augite DiB0Hd30Ac20 [Arzamastsev and Arzamastseva, 1993; Kukharenko et al., 1965]. A study of zoned pyroxene grains using the laser ablation technique [Arzamastsev et al., 2001b] shows that zone-to-zone variations of major elements within crystals are not accompanied by any marked variations in the contents of trace elements, in particular, REE. This is further supported by analyses of pyroxene separates from pyroxenites, melilitolites, and ijo-
+lites from carbonatite massifs of the province, which reveal a narrow range of REE variations in all the groups of rocks (Table 8). The higher REE contents are observed in rock varieties from Khibiny ijolites, although all the rocks have the same REE distribution pattern. Plots shown in Figure 8 demonstrate all the clinopyroxenes to be enriched in Yb and Lu relative to Dy, Ho, and Er.
+Melilite. Microprobe measurements on melilites from rocks of the Kovdor massif yield the following composition (mol %): Mg-akermanite, 49-70; Fe-akermanite, 5-11; Na-melilite, 36-40. Compared with previously published data on melilite compositions in the rocks of the province [Bell et al., 1996], the analyzed melilites have higher Mg/Fe ratios, a feature typical of Ne-free alkaline ultramafites [Mitchell, 1996a; Rass, 1986]. Overall, the melilite is high in Sr due to the isomorphous replacement Sr2+ ^ Ca2+. Unlike Khibiny melilites, Kovdor ones display no appreciable enrichment in Sr (Table 8). Compared with the scanty reported REE measurements on melilites from various provinces [Mitchell, 2001; Onuma et al., 1981], Kovdor specimens have somewhat lowered total REE contents and straight patterns with relatively high (La/Yb)N ratios of 178-203 (Figure 8).
+Nepheline. Nepheline compositions in rocks of the Kovdor-type alkaline ultramafic intrusions range from Ne77.8-82.5Ks9.6-18.9 Qz 1.4-3.2	to	Ne78.6-81.6KsiB.2-20.1
+Qz1.4-3.2 in foidolites and Ne-syenites, respectively. Nephelines from Khibiny foidolites are higher in the kalsilite end-member and silica (Ne68.4-72.8Ks21.B-26.1Qz4.8-7.4). Because of high Fe2O3 contents in the matrix of nepheline, all the nepheline grains are replete with aegirine microlites representing exsolution products. REE contents in all the nepheline varieties range from low to very low (Table 8). Chondrite-normalized REE patterns are straight (Figure 8), nephelines from Khibiny ijolites having negative Eu anomaly
+Table 4. Whole-rock trace element analyses (ppm) for carbonatite-bearing alkaline ultramafic massifs of the Kola province
+Rock	DUN DUN	DUN	PRD	PRX	PRX	PRX	PRX	PRX	PRX	MELT	MELT	MLG	MLG	MLG
+Massif	KVD	LSV	SLM	AFR	AFR	AFR	VUO	VUO	VUO	SLM	KVD	KVD	KVD	KVD	KVD
+Sample	4/400	Z-6 SL-23 AFR-1 AFR-5 AFR-6 93/192 282/224 282/251 SL-24 227/43 252/100 7/394 7/348 5/740
+Li	n.d.	2.58	3.32	2.11	n.d.	4.80	n.d.	0.81	1.86	6.22	n.d.	n.d.	n.d.	n.d.	n.d.
+Rb	4.53	0.94	18.7	1.54	5.05	25.0	10.4	18.9	11.69	11.7	47.3	35.8	69.6	23.4	63.0
+Cs	n.d.	0.08	0.29	0.05	n.d.	0.11	n.d.	0.24	0.19	0.14	0.36	0.20	0.61	0.12	0.75
+Be	0.18	0.26	0.86	0.47	2.37	6.20	1.73	1.29	1.12	7.03	8.42	9.19	1.81	2.62	1.90
+Sr	74.5	7.67	160	766	1525	1313	399	677	369	1103	1998	3050	358	563	298
+Ba	21.1	12.3	152	30.7	20.6	25.7	151	297	222	801	1011	951	401	103	937
+Sc	7.82	7.09	8.80	31.3	14.9	14.4	79.0	89.5	43.0	46.2	12.6	2.34	28.5	97.5	13.5
+V	20.8	20.8	58.3	190	177	210	142	202	375	355	73.1	41.6	171	191	190
+Cr	1462	2124	2725	27.3	23.2	10.2	30.3	116	171	38.6	3.96	5.07	1083	51.1	30.4
+Co	112	168	93.9	96.4	35.8	69.0	35.8	46.1	85.1	52.4	36.7	35.1	49.6	12.9	69.1
+Ni	1480	1432	1961	54.5	40.6	29.7	59.8	75.3	148	54.5	145	85.4	321	21.5	231
+Cu	18.1	7.58	25.8	49.9	314	216	34.5	58.1	33.8	415	17.6	26.1	162	12.3	28.2
+Zn	70.0	79.9	85.9	201	34.2	108	48.3	144	208	148	183	219	79.8	44.1	194
+Ga	3.84	1.91	2.68	27.5	12.9	28.1	16.9	26.5	31.7	18.3	15.9	15.9	14.8	5.27	16.5
+Y	1.49	0.69	2.38	49.3	66.9	25.9	27.9	78.5	36.3	29.4	3.18	3.76	6.20	10.3	3.51
+Nb	8.64	3.00	10.3	1412	31.6	379	208	818	561	238.3	12.7	10.8	18.8	18.5	32.4
+Ta	0.41	0.38	0.44	132	1.89	41.7	20.4	42.2	48.5	13.7	0.86	0.73	0.46	0.93	2.80
+Zr	21.0	6.31	80.9	111	419	472	456	450	482	425	98.5	25.8	113	190	210
+Hf	0.55	n.d.	1.93	4.75	12.9	5.72	18.0	15.9	17.3	11.9	2.88	0.68	2.99	4.78	2.59
+Sn	2.18	0.78	n.d.	7.38	4.96	5.21	6.37	7.79	11.0	7.37	2.71	1.83	3.43	3.93	4.99
+Pb	0.98	0.71	0.48	5.43	13.0	5.93	1.65	3.16	1.48	4.15	2.50	3.53	5.05	2.14	1.73
+U	0.29	n.d.	0.43	16.2	1.53	6.19	3.28	14.5	6.54	5.38	0.22	0.24	0.45	0.50	0.83
+Th	0.95	0.29	0.48	201	7.36	72.7	15.9	87.3	43.0	12.2	0.81	0.88	1.07	3.80	2.30
+La	5.16	0.95	5.39	1724	354	475	224	1046	513	172	28.5	42.6	21.2	42.5	8.25
+Ce	11.1	1.66	10.1	4827	551	1037	502	2800	1343	368	52.9	76.2	50.0	99.6	18.5
+Pr	1.24	0.17	1.13	359	53.0	111	57.5	256	144	43.2	5.71	8.08	6.09	12.2	2.32
+Nd	3.37	0.55	4.08	1131	189	386	222	888	516	142	19.9	27.4	22.1	47.7	8.14
+Sm	0.60	0.11	0.70	124	31.1	44.2	35.5	125	70.0	20.2	2.69	3.74	3.57	7.30	1.58
+Eu	0.23	0.02	0.21	29.4	9.23	10.1	9.26	33.1	17.7	5.36	0.52	0.84	0.95	1.99	0.36
+Gd	0.32	0.08	0.65	78.9	24.8	23.2	24.1	86.9	47.3	13.8	1.62	2.06	2.28	5.15	1.02
+Tb	0.05	0.02	0.09	8.57	3.18	2.31	2.70	10.1	5.35	1.74	0.16	0.22	0.28	0.59	0.14
+Dy	0.32	0.09	0.47	24.3	16.0	8.19	10.9	32.1	17.6	7.64	0.71	0.90	1.42	2.59	0.77
+Ho	0.06	0.02	0.10	2.96	2.74	1.10	1.52	4.52	2.26	1.23	0.13	0.14	0.26	0.41	0.14
+Er	0.19	0.05	0.26	4.72	5.92	2.14	2.65	7.55	3.76	2.70	0.28	0.32	0.63	0.90	0.40
+Tm	0.03	0.01	0.04	0.43	0.67	0.25	0.31	0.75	0.36	0.36	0.04	0.04	0.10	0.13	0.07
+Yb	0.21	0.06	0.24	2.23	3.50	1.48	1.67	3.65	1.80	2.03	0.25	0.23	0.67	0.93	0.42
+Lu	0.03	0.01	0.04	0.23	0.49	0.21	0.23	0.41	0.21	0.27	0.04	0.03	0.12	0.14	0.08
+(La/Yb)N	17.4	11.7	15.7	521	71.1	226	94.2	193	192	59.6	81.9	128	22.3	32.0	13.9
+(Eu/Eu* = 0.13), evidently due to the presence of magnetite microinclusions, rather than aegirine ones only. On the other hand, in nephelines from Kovdor ijolites, which are least abundant in aegirine microlites, Eu anomaly is expressed poorly (Eu/Eu* = 0.69).
+5.2.3.	REE distribution in coexisting mineral phases. Data on REE distribution in principal REE- bearing phases—perovskite, apatite, and titanite (Tables 6, 7)— enable us to calculate partition coefficients for these phases.
+Comparison of coefficients obtained for the coexisting pairs perovskite/apatite (Dprv/Ap), perovskite/titanite (DPrv/Tit), and apatite/titanite (DAp/Tit) (Table 9) shows that in early pyroxene-perovskite cumulates, REE partition preferentially into the perovskite. Overall, during magmatic crystallization, REE enter the above minerals in the following order: perovskite > apatite > titanite. According to our calculations, the early-generation perovskite (sample AFR-5) extracts medium- and heavy REE most strongly (DPrv/Ap for Tb-Lu > 3), whereas in perovskite Ilsapatite pairs (sam-
+Table 4. Continued
+Rock	MLG	IJL	IJL	IJL	IJL	IJL	IJL	IJL	SFN	SFN	AVER*
+Massif	OZV	SLN	SLN	SLN	SLN	KVD	KVD	KVD	OZV	KVD
+Sample	8-OV	31/200	25/110	25/15	26/151	5/610	Т/30	2Т/65	Z-12	MK-10
+Li	4.20	3.Т1	2.92	n.d.	n.d.	n.d.	n.d.	5.21	4.36	43.4	13.5
+Rb	Т.91	46.Т	42.Т	50.1	52.9	54.6	63.Т	15.5	20.0	131	49.3
+Cs	0.12	0.30	0.24	0.04	n.d.	0.04	0.01	n.d.	2.91	0.94	0.64
+Be	2.56	2.90	2.40	1.Т8	1.Т2	6.52	10.0	1.29	4.53	4.2Т	—
+Sr	1106	561	8Т9	359	388	281	Т30	429	96Т	1039	2094
+Ba	31.6	88.6	8Т.9	Т6.2	6Т.1	129	163	210	956	1101	1116
+Sc	11.9	4.Т5	2.89	8.01	13.5	22.3	11.6	49.Т	1.11	10.Т	24.8
+V	200	1Т5	46.Т	101	94.9	85.4	1Т5	294	66.6	124	104
+Cr	59.1	46.0	15.3	13.3	19.6	5.16	Т6.0	409	12.4	55.4	293
+Co	32.5	31.6	11.8	31.6	33.1	Т.55	23.0	53.Т	3.38	18.9	42.5
+Ni	24.4	16.Т	Т.Т3	19.4	18.2	Т.55	30.8	130	1.99	31.9	243
+Cu	12.0	135	65.0	62.6	118	9.05	23.4	205	4.60	58.4	—
+Zn	Т5.1	Т0.Т	10.4	59.4	58.5	22.Т	96.0	61.9	18.0	102	—
+Ga	10.6	21.Т	18.0	18.3	19.5	20.1	30.Т	13.1	1Т.4	20.8	—
+Y	20.5	19.3	26.Т	6.25	6.33	4.66	Т.21	10.6	1.96	12.5	33.6
+Nb	29.0	48.0	18.6	16.3	16.3	20.4	65.3	16.1	135	52.8	95.8
+Ta	2.05	5.53	1.52	0.54	0.81	2.16	3.99	0.Т3	10.2	2.8Т	5.50
+Zr	164	182	Т4.4	58.2	55.4	264	283	82.8	146	155	34Т
+Hf	3.55	4.36	2.0Т	1.Т1	1.80	5.41	4.Т9	3.24	2.53	3.Т3	Т.65
+Sn	2.42	3.Т0	3.91	2.43	2.69	3.12	3.19	3.54	4.8Т	3.30	—
+Pb	1.59	1.9Т	10.6	2.69	3.39	1.2Т	2.53	4.13	1.53	13.3	—
+U	0.83	0.40	1.03	0.49	0.44	0.50	1.54	0.38	0.Т2	1.68	2.15
+Th	12.2	4.36	10.3	1.86	2.33	Т.02	1Т.2	1.31	0.Т5	8.56	8.51
+La	169	38.6	113	21.6	22.6	32.0	55.4	18.5	12.8	52.1	131
+Ce	315	83.1	216	40.0	44.1	Т0.2	118	36.2	30.0	88.Т	249
+Pr	34.1	9.86	23.Т	4.42	4.99	Т.93	13.1	4.19	3.66	8.40	2Т.4
+Nd	116	38.2	86.3	15.5	18.3	28.Т	46.0	16.1	12.8	2Т.3	96.9
+Sm	15.1	6.65	12.Т	2.55	3.12	4.22	5.94	2.92	1.ТТ	3.99	14.4
+Eu	3.60	2.01	3.63	0.80	0.91	1.12	1.45	0.9Т	0.49	0.Т8	3.60
+Gd	11.1	6.02	10.9	2.06	2.33	2.69	3.4Т	2.52	1.34	2.84	10.2
+Tb	1.28	0.8Т	1.39	0.25	0.28	0.30	0.3Т	0.3Т	0.1Т	0.39	1.26
+Dy	5.26	4.84	6.01	1.31	1.38	1.32	1.48	2.0Т	0.68	2.16	6.02
+Ho	0.82	0.84	1.11	0.25	0.25	0.20	0.2Т	0.40	0.10	0.44	1.05
+Er	1.8Т	2.03	2.50	0.58	0.5Т	0.42	0.Т1	0.99	0.20	1.26	2.42
+Tm	0.25	0.30	0.32	0.09	0.08	0.06	0.10	0.15	0.03	0.19	0.32
+Yb	1.50	1.ТТ	1.Т1	0.60	0.54	0.50	0.Т2	0.93	0.1Т	1.22	1.83
+Lu	0.25	0.30	0.23	0.11	0.10	0.08	0.12	0.14	0.03	0.18	0.26
+(La/Yb)N	Т6.2	14.Т	44.6	25.4	29.5	45.0	54.3	14.0	51.2	30.0	48.4
+ple 8-OV) the bulk of the heavy REE partition into the apatite. The results obtained are consistent with microprobe measurements on minerals from Ugandan clinopyroxenites and kamafugite lavas [Lloyd et al., 1996] and from the plutonic Oldoinyo Lengai alkaline ultramafic rocks [Dawson et al., 1994, 1995], which reveal a relative constancy of REE distribution in the perovskite-apatite pair (DPrv/Ap: La 9, Ce 16, Nd 9.5). DPrv/Ap values similar to those obtained by us for the late perovskite II-apatite pairs were established for Kaiserstuhl calcite carbonatites [Hornig-Kjarsgaard, 1998], DPrv/Ap in these rocks decreasing from 6.8-4.9 for the LREE
+to 3.0-1.5 for the MREE through to 0.5 for Yb.
+5.2.4.	Estimating REE distribution between minerals and rocks. In view of the fact that alkaline ul-tramafic rocks under study are differentiates, and their chemistries do not necessarily correspond to compositions of those melts that precipitated the mineral phases contained in these rocks, estimates of mineral/melt partition coefficients (Dminerai) may be very tentative. Hence, when calculating D REE for early phases from pyroxene and olivine
+ARZAMASTSEV ET AL.: RARE EARTH ELEMENTS IN ROOKS AND MINERALS Table 5. Whole-rock major element analyses (wt %) for the Khibiny alkaline ultramafic massif
+Rock	PRD	PRD	PRX	PRX	PRX	MEL	MEL	MLG MLG	MLG	MLG	IJL	IJL	IJL	IJL
+Sample	A-1044 1010/1052 A-1036 A-1087 A-1038 1010/ 1010/ 1119/ 1059 1165 279	455/ 345	466/ 1010/ 1072/ 455/ 1636/ 1152/ 552 1186 530 402 721 83
+Li	36.6	8.0	46.1	2.6	84.3	6.00	7.50	32.4	12.2	28.4	22.3	28.5	7.90	14.5	44.2
+Rb	115.4	138.4	112.7	23.9	207.8	58.5	1.10	51.8	15.9	37.7	86.0	23.4	34.4	71.3	97.6
+Cs	1.30	2.60	1.52	0.32	2.20	0.79	0.03	0.55	0.32	0.22	0.60	3.62	0.19	0.78	0.95
+Be	0.99	2.54	7.39	4.68	5.46	5.61	3.17	7.36	3.02	3.34	4.25	6.53	5.73	5.70	15.3
+Sr	893	1126	995	748	1485	5933	539	6168	2544	3237	2194	31.3	1352	4974	3280
+Ba	558	1364	432	187	521	1063	49.4	1166	168	1114	852	357	335	49.2	2609
+Sc	21.4	23.9	28.2	19.0	21.1	42.0	24.0	23.3	26.5	22.3	20.0	2.50	19.5	2.67	5.50
+V	213	506	251	242	265	298	83.1	547	673	739	428	1.80	276	322	208
+Cr	1131	1277	800	22.7	724	158	1061	92.7	112	39.1	135	72.8	51.4	38.9	83.4
+Co	80.7	98.0	66.1	27.7	62.5	83.8	102	49.8	65.1	75.6	45.9	2.6	16.0	10.9	14.8
+Ni	915	1018	428	37.8	568	278	994	77.2	104	61.9	134	37.4	29.1	5.61	64.3
+Cu	65.2	963	39.4	237	26.1	194	34	285	534	628	455	10.3	18.0	21.0	83.2
+Zn	157	190	305	131	226	277	159	247	429	143	325	80.8	105	102	200
+Ga	12.2	12.4	28.2	21.1	24.2	33.4	9.2	20.0	14.3	12.8	24.6	32.3	32.9	37.0	38.2
+Y	19.7	27.7	30.4	45.9	33.6	30.5	18.3	76.8	63.0	36.0	86.6	41.8	24.1	21.4	56.7
+Nb	39.0	73.4	104	154	94.8	312	157	304	261	169	371	215	110	101	387
+Ta	2.55	5.41	7.64	6.83	5.75	23.3	15.1	17.8	31.2	16.4	28.0	15.8	7.98	5.59	11.2
+Zr	220	345	481	429	453	480	173	1168	812	814	744	929	565	564	2131
+Hf	5.94	8.74	10.3	12.2	11.1	12.5	4.59	23.4	19.8	24.8	18.0	25.3	12.9	11.5	32.3
+Sn	0.34	1.96	2.73	3.10	2.01	5.92	1.40	7.53	5.00	4.19	5.40	8.12	2.17	11.5	6.31
+Pb	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	n.a.	6.42	n.a.	0.78	n.a.	8.21	n.a.	5.79	11.9
+U	0.41	1.56	1.76	3.05	1.86	4.45	2.97	4.44	0.85	0.20	1.57	3.68	1.08	1.45	8.51
+Th	2.67	5.04	9.09	6.10	7.22	27.9	19.2	16.9	3.99	0.85	23.4	23.2	3.19	5.30	19.6
+La	62.0	85.6	102	143	102	251	128	330	222	108	380	119	69.4	204	116
+Ce	138	176	223	255	216	465	270	652	441	250	747	238	150	332	200
+Pr	16.5	20.3	26.4	28.1	24.8	49.2	28.9	66.8	50.8	30.7	88.9	27.3	16.6	30.3	19.7
+Nd	68.4	79.9	105	112	99.0	173	103	235	190	116	323	97.6	62.2	96.1	67.3
+Sm	11.6	13.7	18.0	22.0	16.7	23.3	13.3	35.0	30.4	19.9	49.5	16.8	10.4	12.0	11.1
+Eu	3.29	3.92	5.08	7.11	4.70	6.18	3.47	10.2	8.97	5.77	14.3	1.68	3.04	3.24	3.40
+Gd	8.47	10.8	13.2	20.6	12.0	13.8	7.50	29.4	22.8	13.8	33.1	11.2	7.63	9.36	10.5
+Tb	1.03	1.39	1.65	2.82	1.64	1.66	0.90	3.98	3.08	1.93	4.37	1.73	1.05	1.20	1.68
+Dy	4.99	6.42	7.57	12.23	7.71	7.85	4.20	17.9	14.6	9.08	21.0	9.44	5.26	4.88	9.23
+Ho	0.81	1.04	1.22	1.88	1.34	1.18	0.69	3.09	2.46	1.61	3.42	1.97	0.93	0.86	2.01
+Er	1.85	2.45	2.63	4.03	3.04	2.67	1.64	6.94	5.61	3.62	7.83	5.31	2.37	1.97	5.63
+Tm	0.21	0.28	0.31	0.44	0.37	0.29	0.20	0.93	0.66	0.49	0.86	0.81	0.32	0.29	0.86
+Yb	1.21	1.54	1.82	2.40	2.19	1.66	1.20	5.17	4.06	3.23	4.80	4.71	2.20	1.95	5.05
+Lu	0.17	0.21	0.27	0.32	0.30	0.22	0.18	0.74	0.59	0.55	0.60	0.70	0.34	0.34	0.71
+(La/Yb)N	36.0	39.1	39.3	42.0	32.8	106.8	75.2	48.1	38.5	23.6	55.7	17.8	22.2	70.4	15.4
+cumulates, REE contents were correlated not with their host rocks, but with the mean composition for alkaline ultramafic rocks (Table 4), which best approximates composition of the melt parental to the series. Coefficients thus obtained are listed in Table 10 and are compared to published experimental values. In the plot showing Dprv/meit for the entire REE spectrum (Figure 9), partition coefficients for Kola perovskites, while plotting somewhat lower, stay nonetheless with the same trend as does DPrv/melt in melilite-olivine basalts, as determined by Onuma et al. [1981].
+In calculations of D REE for minerals from the more
+evolved members of the alkaline ultramafic series (ijolites), we assumed their constituent phases (clinopyroxene, melilite, apatite, and titanite) to have been in equilibrium with the host rocks. The obtained Dcpx/rock and DAp/rock values, listed in Table 11, broadly compare to those for minerals in alkaline volcanites from other regions [Caroff et al., 1993; Foley et al., 1996; Irving and Price, 1981; Larsen, 1979; Onuma et al., 1981]. On the other hand, partition coefficients for titanites from Khibiny and Ozernaya Varaka ijolites are lower than those for phonolite-hosted titanites [Worner et al., 1983].
+Figure б. Chondrite-normalized REE patterns for alkaline ultramafic rocks of the Kovdor and Khibiny types. In all the plots, heavy line shows REE pattern for the weighted mean composition of the alkaline ultramafic series. Normalizing values, after [Anders and Grevesse, 1989].
+6.	Discussion
+Petrologic evidence, supported by experimental data [Edgar, 1987; Le Bas, 1987; Onuma and Yamamoto, 1976; Pan and Longhi, 1989, 1990; Veksler et al., 1998a; Wilkinson and Stolz, 1983], indicate that the main process responsible for the genesis of alkaline ultramafic suites of various provinces worldwide was fractional crystallization of primary olivine melanephelinitic magma. Coherence of the rock formation sequence from early olivine- and clinopyroxene cumulates to melilitolite, foidolite, and Ne-syenite, is corroborated by geologic and petrographic observations. Estimates of magma compositions for the Kola alkaline province [Arzamastsev et al., 2001a] allow the inference that alka-
+line ultramafics of the Kovdor and Khibiny types originated from the same primary magma. This is further supported by isotope studies, indicative of a single mantle source for Khibiny and Kovdor alkaline rocks [Kramm and Kogarko, 1994]. Variation trends in major-element plots for both suites reflect sequential precipitation of olivine, clinopyrox-ene, and melilite. Foidolites are produced through a reaction that involves resorption of melilite and formation of diopside and nepheline:
+3CaMgSi2O6	+ 2NaAlSiO4	= Mg2SiO4
+diopside	nepheline	olivine
++ Ca2MgSi2O7 + NaCaAlSi2O7 + NaAlSi3Os . melilite (solid solution)	liquid
+100000
+10000
+1000
+100
+10
+100000
+10000
+1000
+100
+10
+100000
+10000
+1000
+100
+10
+Perovskite
+—i—232(224
+282*251
+k 	205297
+. —H—25-AFR
+: —o—AFR-1
+: —«—252/100
+—±— sew
+La Ce Pr Nd sm Eu Gd Tb Dy Ho Er TmYb Lu
+Apatite
+—•—1636/874
+. ——31/200
+25/110
+—B—25-£FR
+: —b—J&FR-5 '
+—♦— 7/92.8
+-4-8-OV
+1 1 1 1 La Ce Pr Nd	i i i i i i i i i —i Sm Eu Gd Tb Dy Ho Er Tm Yb Lu
+Titan ite
+: -S— 25-£FR
+. —*—8-OV
+i —•—301 /900
+-©—1636/874
+1636/721
+T 1----1---1--1---1--1---1--1--1---1--1---1--1 r
+La Ce Pr Nd	Sm Eu Gd Tb Dy Ho Er TmYb Lu
+Figure 7. Chondrite-normalized REE patterns for per-ovskite, apatite, and titanite from alkaline ultramafic rocks. Normalizing values, from [Anders and Grevesse, 1989].
+Published data concerning distribution of trace elements in the above principal mineral phases of the alkaline ultra-mafic series are indicative of REE, Sr, Y, Zr, Hf, Nb, and Ta enrichment of final derivatives. Indeed, taking into account that partition coefficients for these elements in the first phases to crystallize, olivine and diopside, and considerably lower than 1, incompatible elements should be concentrated in late ijolite and Ne-syenite melts. Such distribution is exemplified by Khibiny-type alkaline ultramafics, in which, as follows from the plot in Figure 5, late ijolites are abnormally high in REE, Sr, and Y. On the other hand, as appears from the diagram in Figure 5, within the Kovdor-type alkaline ultramafic series, late ijolites and nepheline syenites of the Maly Kovdor, Vuoriyarvi, and Ozernaya Varaka massifs are more strongly depleted in REE than early differentiates. A similar pattern is found in alkaline ultramafic suites of the Maimechas-Kotui province in Siberia [Egorov, 1991], the Gardiner complex in East Greenland [Nielsen et al., 1997],
+Figure 8. Chondrite-normalized REE patterns for rock-forming minerals of alkaline ultramafic rocks. Normalizing values, from [Anders and Grevesse, 1989].
+and Tanzanian plutonic alkaline suites [Dawson et al., 1995].
+Let us consider the main factors responsible for the differences in REE enrichment patterns between Kovdor- and Khibiny-type alkaline ultramafic rocks, which should include (i) conditions at which the primary alkaline ultramafic magma precipitates the principal REE phases (perovskite, apatite, and titanite), and (ii) changes in the composition of the primary magma and, accordingly, in the crystallization
+Table 6. Trace element abundances (ppm) in perovskite and apatite from rocks of the alkaline ultramafic series of the Kola province
+Mineral	Perovskite I	Perovskite II	Apatite
+Rock	PRX	PRD	PRX	MELT	IJL	PRX	IJL
+Massif	AFR	AFR	VUO	KVD	OZV	AFR	KVD	OZV	SLN	KHI
+Sample	25-AFR AFR-1	205/	282/	282/	252/	8-OV	25-AFR AFR-5	7/92.8	8-OV	31/	25/	1636/
+297	224	251	100	200	110	874
+Sr	894	1796	392	907	545	2168	3545	5846	1274	5005	9358	1997	3202	27612
+Ba	4.02	12.5	2.64	2.33	2.58	75.2	8.30	17.5	3.36	21.3	49.7	13.7	22.7	289
+Sc	0.28	9.12	4.48	0.04	4.59	n.d.	n.d.	n.d.	4.04	n.d.	n.d.	4.14	4.09	3.97
+V	52.1	91.1	34.7	57.7	37.7	173	173	137	39.3	46.8	64.0	26.5	39.7	20.2
+Cr	n.d.	12.6	9.82	11.9	13.2	16.1	6.50	n.d.	9.20	n.d.	n.d.	10.3	13.8	9.72
+Co	0.66	4.67	0.81	1.15	0.89	n.d.	n.d.	n.d.	0.70	n.d.	n.d.	0.77	0.89	0.75
+Ni	1.45	8.67	4.15	5.36	3.56	1.36	0.33	5.01	4.10	4.94	3.27	5.47	8.75	5.63
+Cu	80.8	96.4	61.5	72.1	35.1	164	1027	132	23.7	8.17	6.15	17.4	17.3	18.0
+Ga	11.2	40.8	14.5	25.6	23.5	78.5	111	9.75	3.22	17.2	22.1	3.24	6.66	14.9
+Y	60.0	111	64.4	142	98.6	350	203	131	50.0	149	178	54.9	86.1	134
+Nb	991	2915	159	1382	560	4060	8569	3.47	1.34	2.39	13.8	4.42	4.62	9.27
+Ta	52.4	234	25.5	91.0	53.7	190	551	0.56	0.06	0.33	3.86	0.12	0.16	0.24
+Zr	68.6	213	69.7	186	122	573	142	5.37	0.92	3.11	8.06	0.78	0.47	4.12
+Hf	2.25	8.98	2.18	6.40	4.19	16.7	4.54	0.42	0.12	0.38	0.70	0.13	0.15	0.22
+Pb	4.64	12.37	4.51	7.12	4.72	30.1	63.8	3.38	1.73	10.4	10.1	2.33	2.83	1.55
+U	27.5	34.7	10.3	26.3	19.2	41.5	137	5.61	0.88	22.0	11.3	0.83	3.26	0.74
+Th	63.1	456	130	140	129	961	2557	32.5	3.23	339	199	9.24	26.2	4.32
+La	1246	3510	880	1962	1629	6587	10700	1573	320	1417	2625	221	515	1798
+Ce	3081	9255	2301	4582	4274	14822	22177	2023	499	3068	4423	438	984	2740
+Pr	216	803	277	486	460	1645	2210	175	49.1	350	425	49.9	108	239
+Nd	683	2570	1039	1716	1621	5644	6719	554	169	1247	1315	184	379	755
+Sm	98.1	277	137	236	211	672	677	84.6	25.6	158	151	26.5	51.9	85.5
+Eu	25.2	66.9	35.0	63.6	54.6	162	159	25.8	7.86	38.3	40.2	7.74	14.3	23.2
+Gd	64.1	178.2	91.7	164	142	328	299	63.9	24.3	89.6	95.9	23.7	42.9	71.4
+Tb	7.36	18.8	9.55	18.0	15.4	35.9	31.1	7.93	2.91	9.30	10.8	2.81	4.89	8.22
+Dy	25.5	53.2	28.8	66.9	46.2	140	111	32.9	12.0	39.8	45.4	12.0	19.8	32.7
+Ho	3.63	6.52	3.92	8.24	6.17	21.1	14.3	5.17	2.02	6.18	7.23	2.19	3.38	5.00
+Er	5.91	10.5	6.11	13.7	10.0	36.2	24.0	9.53	4.18	12.0	15.3	4.78	7.12	9.66
+Tm	0.64	0.99	0.61	1.33	0.90	3.89	2.60	0.97	0.47	1.49	1.76	0.60	0.81	0.99
+Yb	2.80	4.89	2.73	6.38	4.40	19.83	13.92	4.83	1.81	7.16	9.80	2.61	3.80	4.35
+Lu	0.28	0.52	0.31	0.69	0.45	2.49	1.88	0.60	0.24	0.78	1.17	0.35	0.46	0.44
+(La/Yb)N	300.3	483.3	217.3	207.3	249.6	223.8	517.9	219.3	119.1	133.4	180.5	57.0	91.4	278.5
+order of principal and accessory mineral phases as a result of mixing with batches of phonolitic melt supplied from independent source.
+According to experimental data [Kogarko, 1990; Veksler and Teptelev, 1990] and to studies on melt inclusions [Kogarko et al., 1991; Veksler et al., 1998b], perovskite and apatite crystallized at early stages. This is evidenced by the fact that euhedral perovskite and apatite crystals contain inclusions that were homogenized at temperatures of >970°C and 1000-700°C, respectively [Kogarko, 1977; Nielsen et al., 1997]. Hence, crystallization paths of the alkaline ultra-mafic series must be considered with due account of REE-bearing phases, in the context of the six-component sys-
+tems SiO2-TiO2-Al2O3-CaO-MgO-Na2O and SiO2-P2Os-Al2 O3-CaO-MgO-Na2 O.
+In the pseudo-ternary nephelines-diopsides-titanite melting diagram (Figure 10), perovskite and the five remaining phases correspond to the mineral assemblage constituting rocks of the alkaline ultramafic series. According to [Veksler and Teptelev, 1990], perovskite forms a large crystallization field contiguous to the fields of all the phases except olivine. The primary alkaline ultramafic melt of composition A, which contains 2-3 wt % TiO2, plots in the diop-side crystallization field, so that resultant melts evolve toward the cotectic lines Di-Prv (points B and C) to produce olivine and pyroxene-perovskite cumulates and melil-
+Table 7. Trace element abundances (ppm) in titanite and magnetite from rocks of the alkaline ultramafic series of the Kola province
+Mineral	Titanite	Magnetite
+Rock	PRX	IJL	DUN	MELT
+Massif	AFR	OZV	KHI	KVD	LSV	KVD
+Sample	25-AFR	8-OV	301/500	1636/874	1636/721	4/400	Z-6	252/100
+Sr	801	987	4266	4386	2220	n.d.	4.08	56.2
+Ba	2.89	16.7	9.69	9.13	6.92	2.38	5.11	13.3
+Sc	n.d.	n.d.	n.d.	5.00	4.66	22.7	15.05	n.d.
+V	465	273	407	317	127	146	302	735
+Cr	0.29	0.86	3.27	17.7	13.7	20300	47780	118
+Co	n.d.	n.d.	n.d.	1.11	0.80	238	288	182
+Ni	2.34	2.21	2.21	5.51	3.64	3045	1962	796
+Cu	227	107	115	61.2	37.0	13.1	31.5	58.6
+Ga	7.86	21.3	16.0	11.9	6.92	44.1	35.9	30.8
+Y	229	270	334	231	123	1.88	0.22	7.09
+Nb	2299	6265	2659	2045	507	5.12	1.64	22.1
+Ta	101	593	250	92.5	35.7	0.74	0.23	1.90
+Zr	3351	2826	2356	1206	716	46.8	18.3	76.1
+Hf	113	73.0	69.0	36.4	17.5	1.54	0.74	2.02
+Pb	10.2	10.7	0.15	1.55	24.2	n.d.	0.17	n.d.
+U	13.2	13.2	3.12	1.48	1.17	0.01	n.d.	0.01
+Th	26.9	100	17.8	9.37	7.71	0.79	0.72	1.50
+La	693	1260	961	678	382	8.12	1.22	24.0
+Ce	1416	3323	2463	1813	989	12.8	2.25	53.7
+Pr	154	407	309	228	123	1.43	0.23	5.69
+Nd	556	1423	1148	840	442	4.28	0.57	20.3
+Sm	109	209	194	137	70.0	0.60	0.15	2.87
+Eu	36.3	59.6	58.7	41.4	20.7	0.01	n.d.	0.84
+Gd	98.0	135	143	109	54.7	0.35	0.05	1.93
+Tb	13.2	16.9	18.9	14.3	7.29	0.06	0.01	0.27
+Dy	62.5	78.6	90.3	63.1	32.2	0.34	n.d.	1.09
+Ho	10.2	12.8	14.8	10.3	5.33	0.05	n.d.	0.18
+Er	20.9	25.7	29.7	20.3	11.1	0.09	n.d.	0.39
+Tm	2.40	3.11	3.36	2.25	1.24	0.01	n.d.	0.04
+Yb	11.6	16.0	15.4	9.80	5.11	0.03	n.d.	0.18
+Lu	1.26	1.87	1.66	0.86	0.49	0.00	n.d.	0.02
+(La/Yb)N	40.1	53.2	42.1	46.6	50.4	173.0	—	95.8
+itolites. One factor controlling perovskite stability in melts is silica activity, described by the reactions CaTiO3 + SiO2 = CaTiSiO5 and 2CaTiO3 + NaAlSi3O8 = NaAlSiO4 + 2CaTiSiO5 [Carmichael et al., 1970; Veksler and Teptelev, 1990]. Hence, even small amounts of a more silicic material, when added to silica-undersaturated olivine melanephelinitic melt (the melt evolution course A1 — B1 — C1), prevent early crystallization of perovskite. As a result, Ti-silicates will crystallize not in initial melt derivatives in the form of per-ovskite, but in more evolved products (ijolites and nepheline syenites) in the form of titanite.
+The behavior of apatite during evolution of the alkaline ultramafic series can be approximated by the section NaAlSiO4-CaMgSi2O6-Ca5(PO4)3F (Figure 11), as
+discussed by Kogarko [1990], where the primary olivine melanephelinitic melt falls in the diopside crystallization field. Since the P2O5 content of the initial melt is 1.26 wt % (Table 2), apatite is unlikely to precipitate at early stages of rock crystallization. The fact that P2O5 distribution in all the members of the series points to the existence of a maximum of 2.8 wt % in melanocratic members of the foido-lite trend [Arzamastseva and Arzamastsev, 1996] suggests that apatite appears on the liquidus during crystallization of nepheline-pyroxene assemblages. Based on the above experimental models for crystallization of REE-bearing titanium minerals and phosphates, the following evolution paths for alkaline ultramafic suites of the Kola province can be considered.
+Table 8. Trace element abundances (ppm) in rock-forming minerals of the alkaline ultramafic series of the Kola province
+Mineral	Olivine	Pyroxene	Melilite	Nepheline
+Rock	DUN	PRX	MELT	IJL	MLG	MELT	IJL
+Massif	KVD	LSV	AFR	KVD	OZV	KHI	KVD	KVD	KHI
+Sample	4/400	4/898	Z-6	25-AFR	252/100	7/30	8-OV	301/500	227/43 252/100	7/30 455/402
+Rb	4.62	n.d.	n.d.	0.62	0.38	1.27	0.67	2.52	7.03	7.14	117	56.6
+Sr	92.5	5.32	1.22	474	301	260	553	2289	3689	3652	64.5	48.7
+Ba	4.11	3.55	n.d.	6.25	5.70	5.02	34.9	6.31	7.22	16.5	39.5	57.8
+Sc	n.d.	n.d.	n.d.	39.5	51.7	5.57	n.d.	6.17	n.d.	n.d.	9.23	14.2
+V	1.40	0.42	0.57	169	41.8	290	131	651	0.76	1.04	0.68	1.60
+Cr	3.00	4.55	17.6	4.19	n.d.	138	12.1	0.42	n.d.	n.d.	n.d.	n.d.
+Co	77.1	102	151	36.3	13.0	35.4	40.5	34.5	21.3	24.9	n.d.	n.d.
+Ni	917	1439	1267	17.9	74.1	42.8	15.2	9.75	4.47	6.55	n.d.	0.70
+Cu	3.91	5.15	1.24	216	8.92	6.39	71.0	10.8	3.20	3.23	4.77	2.80
+Ga	n.d.	n.d.	n.d.	8.61	2.43	11.44	8.82	6.58	15.8	16.3	45.3	39.4
+Y	7.05	1.73	0.51	4.63	5.67	4.19	7.45	17.6	3.54	4.33	2.02	1.68
+Nb	7.77	8.27	3.42	8.33	4.50	12.32	10.1	5.44	0.13	0.46	13.0	9.15
+Ta	0.80	0.79	0.52	0.51	0.98	0.44	0.95	0.34	0.01	0.08	1.06	0.71
+Zr	1.69	2.70	0.50	215	459	452	281	958	0.93	1.17	2.82	7.54
+Hf	0.12	0.06	0.06	9.10	12.6	7.18	8.29	24.9	0.03	0.09	0.11	0.20
+Pb	1.17	n.d.	0.14	3.65	n.d.	4.65	0.21	1.03	2.66	4.48	0.43	n.d.
+Th	3.08	4.32	0.95	0.54	1.69	1.88	1.55	0.75	0.29	0.79	3.92	0.28
+La	19.9	17.3	2.29	16.1	14.8	9.17	23.3	36.6	39.2	38.3	22.40	4.81
+Ce	33.0	29.8	3.85	29.1	32.4	22.6	52.5	84.9	70.2	66.2	40.3	9.42
+Pr	3.34	3.21	0.42	3.09	3.87	3.19	6.04	10.0	7.48	7.01	3.68	1.00
+Nd	11.5	9.44	1.31	11.1	15.4	12.1	22.4	38.0	25.2	25.2	12.6	3.35
+Sm	1.87	1.20	0.07	1.85	2.73	1.94	3.46	6.45	3.48	3.40	1.72	0.64
+Eu	0.33	0.19	0.002	0.53	0.68	0.35	0.94	1.95	0.67	0.78	0.30	0.03
+Gd	1.19	0.73	0.10	1.76	1.82	1.39	2.51	4.88	1.82	1.81	1.04	0.57
+Tb	0.18	0.08	0.02	0.25	0.23	0.14	0.34	0.66	0.19	0.20	0.12	0.07
+Dy	0.98	0.31	0.06	1.15	1.15	0.74	1.81	3.67	0.95	0.93	0.45	0.34
+Ho	0.19	0.02	0.01	0.16	0.19	0.14	0.30	0.71	0.15	0.13	0.05	0.05
+Er	0.48	0.02	n.d.	0.38	0.46	0.36	0.83	1.99	0.24	0.25	0.08	0.10
+Tm	0.07	0.001	n.d.	0.06	0.07	0.07	0.13	0.36	0.03	0.03	0.01	0.01
+Yb	0.51	n.d.	n.d.	0.58	0.52	0.95	1.00	3.39	0.16	0.13	0.03	0.07
+Lu	0.09	n.d.	n.d.	0.10	0.09	0.19	0.18	0.66	0.02	0.02	0.00	0.01
+(La/Yb)N	27.7	—	—	19.7	20.2	6.8	16.4	7.6	177.8 202.8	463.3	47.7
+6.1.	Evolution of the Kovdor-type alkaline ultramafic series
+According to the first scenario, which is apparently materialized in the Kovdor-type rock sequence, the olivine melanephelinitic melt A of Figure 10, after having precipitated olivine, will evolve toward the diopside-perovskite cotectic, where perovskite-clinopyroxene cumulates are formed. Early crystallization of a phase that has Dree ^1 will result in a dramatic depletion of residual melt, which will sequentially produce the series of REE-depleted derivatives (ijolites and nepheline syenites). The central role in early extraction of REE from melt was thus played by perovskite, although apatite may also have played a subordinate role at this stage, because it could, in principle, have reached the
+liquidus as well. With respect to the Kovdor-type alkaline ultramafic series, evidence for the model just proposed is as follows:
+(1)	The Afrikanda, Vuoriyarvi, Salmagora, and Cape Turiy massifs contain clinopyroxene-perovskite cumulates composed of primary magmatic perovskite. In some intrusions (Kovdor, Afrikanda, Ozernaya Varaka, Vuoriyarvi), local clinopyroxenite zones with up to 3% primary magmatic apatite have been found.
+(2)	The latest derivatives of the Kovdor series are sharply depleted in REE, Nb, Ta, and Sr relative to both the mean parental magma composition and to earlier cumulates.
+(3)	Primary REE-bearing accessories in late differentiates of the Kovdor series are relatively low in REE and Sr due to the melts being depleted in these elements. Thus, apatites from Ozernaya Varaka cancrinite syenites have as little
+Table 9. Partition coefficients between the coexisting perovskite, apatite, and titanite in the rocks of the alkaline ultramafic series
+DPer/Ap	DPer/Ap	DPer/Ap	DPer/Tit	DPer/Tit	DAp/Tit	DAp/Tit	DAp/Tit
+Rock	PRD	PRX	MLG	PRX	IJL	PRX	MLG	IJL
+Sample	AFR-5	25-AFR	8-OV	25-AFR	8-OV	25-AFR	8-OV	1636/874
+La	1.43	0.79	4.08	1.80	8.49	2.27	2.08	2.65
+Ce	1.79	1.52	5.01	2.18	6.67	1.43	1.33	1.51
+Pr	1.86	1.23	5.20	1.40	5.42	1.14	1.04	1.05
+Nd	1.89	1.23	5.11	1.23	4.72	1.00	0.92	0.90
+Sm	2.30	1.16	4.49	0.90	3.24	0.78	0.72	0.63
+Eu	2.73	0.98	3.94	0.69	2.66	0.71	0.67	0.56
+Gd	2.61	1.00	3.12	0.65	2.21	0.65	0.71	0.66
+Tb	3.32	0.93	2.87	0.56	1.84	0.60	0.64	0.57
+Dy	4.38	0.77	2.43	0.41	1.41	0.53	0.58	0.52
+Ho	4.99	0.70	1.97	0.35	1.11	0.51	0.57	0.49
+Er	5.67	0.62	1.57	0.28	0.93	0.46	0.59	0.48
+Tm	6.58	0.66	1.48	0.27	0.84	0.40	0.57	0.44
+Yb	8.77	0.58	1.42	0.24	0.87	0.42	0.61	0.44
+Lu	7.69	0.46	1.61	0.22	1.01	0.48	0.63	0.51
+as 0.67-0.71 LREE2O3 and 0.60-0.68 wt % SrO, and those from Maly Kovdor nepheline syenites, as little as 0.33-1.31 LREE2O3 and 0.59-1.07 wt % SrO [Arzamastseva and Arza-mastsev, 1996].
+Data on REE distribution in alkaline intrusions of various provinces indicate that early fractionation of REE-bearing phases is a characteristic feature of alkaline ultramafic suites. Thus, the Oldoinyo Lengai plutonic suite has been reported to comprise clinopyroxenite (jacupirangite) cumulates with up to 28% perovskite [Dawson et al., 1995]. The character of REE distribution in the Oldoinyo Lengai rocks corresponds exactly to that in the Kovdor series: REE are enriched in early cumulates and sharply depleted in terminal members
+Figure 9. Whole rock/perovskite partition coefficients for alkaline ultramafic rocks, using data from Table 10. Coefficients for perovskite in alkaline volcanites from other regions (analysis 1, heavy line), from [Onuma et al., 1981].
+of the series (ijolites and eucolite-bearing Ne-syenites). Another example is provided by the Maimecha-Kotui province, where the Kugda, Guli, and Odikhincha massifs are reported to contain olivine and clinopyroxene cumulates rich
+Figure 10. Melting diagram for the system nephelines-diopsides-titanite, after [Veksler and Teptelev, 1990]. Di -diopside, Prv - perovskite, Ttn - titanite, Mel - melilite, Cg - carnegieite, Ne - nepheline, Ol - olivine, L1 + L2 -immiscibility region. Point A signifies the weighted mean composition for the Kovdor-type primary alkaline ultra-mafic magma. Point A1 represents the hypothetical primary magma of the Khibiny-type alkaline ultramafic series, whose composition has been changed by mixing with phonolitic melt.
+Table 10. Mineral/rock partition coefficients in pyroxene and olivine cumulates of the alkaline ultramafic series
+Perovskite	Apatite
+Rock	PRX	PRD	PRX	PRX	PRX	PRX	PRX
+Sample	25-AFR	AFR-1	282/224	205/297.5	282/251	25-AFR	AFR-5
+La	9.5	26.7	14.9	6.7	12.4	12.0	2.4
+Ce	12.4	37.1	18.4	9.2	17.1	8.1	2.0
+Pr	7.9	29.3	17.7	10.1	16.8	6.4	1.8
+Nd	7.0	26.5	17.7	10.7	16.7	5.7	1.7
+Sm	6.8	19.3	16.4	9.5	14.7	5.9	1.8
+Eu	7.0	18.6	17.6	9.7	15.1	7.2	2.2
+Gd	6.3	17.4	16.0	9.0	13.9	6.2	2.4
+Tb	5.8	14.9	14.3	7.6	12.2	6.3	2.3
+Dy	4.2	8.8	11.1	4.8	7.7	5.5	2.0
+Ho	3.5	6.2	7.9	3.7	5.9	4.9	1.9
+Er	2.4	4.3	5.7	2.5	4.1	3.9	1.7
+Tm	2.0	3.1	4.2	1.9	2.8	3.1	1.5
+Yb	1.5	2.7	3.5	1.5	2.4	2.6	1.0
+Lu	1.1	2.0	2.7	1.2	1.7	2.3	0.9
+Notes. DPrv/Rock and D^p/Rock were calculated with respect to the weighted mean composition of the alkaline ultramafic series (see AVER* in Table 4).
+full spectrum of alkaline ultramafites, including clinopyrox-ene cumulates with as much as 15% perovskite [Chernysheva et al., 1990].
+6.2.	Evolution of the Khibiny-type alkaline-ultramafic series
+The set of rock varieties that make up fragments of the alkaline ultramafic suite in the Khibiny massif, the order of their formation, and overall major-element characteristics were formerly believed to suggest similar courses of REE evolution and distribution for the Khibiny and Kovdor suites. However, according to geologic observations and geochemical data for the Khibiny alkaline ultramafic suite, generation of early olivine and clinopyroxene cumulates was not accompanied by massive precipitation of perovskite. This is the reason why REE remained in residual melt until final stages of crystallization, and REE enrichment did not occur until late ijolite derivatives started to form. Two factors preventing early crystallization of perovskite can be considered, both of them being apparently related to a drastic increase in silica activity in the melt. Firstly, the change in SiO2 activity may result from interaction of the primary olivine melanephelinitic magma with surrounding Precam-brian basement rocks. This, however, is at variance with Sr and Nd isotope data, which suggest that crustal material was not involved in alkaline magmagenesis in the Kola province [Kramm and Kogarko, 1994]. Secondly, the change in SiO2 activity may have been caused by mixing of the olivine melanephelinitic magma with a more silicic melt. A likely candidate for such a melt might be the phonolitic magma that gave rise to the Khibiny agpaitic plutonic suite. This suite, according to isotope geochemical and petrologic
+in primary magmatic perovskite [Egorov, 1991]. The Nizh-nesayansky carbonatite massif (southern Siberia) has also been reported to incorporate a rock suite encompassing the
+Figure 11. Melting diagram for the system nephelines-diopsides-apatite, after [Kogarko, 1990]. Di - diopside, Ap - apatite, Pho - Ca-phosphate, Mel - melilite, Cg -carnegieite, Ne - nepheline, Ol - olivine, L1 + L2 - immis-cibility region. Point A signifies the weighted mean composition for the Kovdor-type primary alkaline ultramafic magma, and point A1 , the hypothetical composition for the primary magma of the Khibiny-type alkaline ultramafic se-
+ARZAMASTSEV ET AL.: RARE EARTH ELEMENTS IN ROOKS AND MINERALS Table 11. Mineral/rock partition coefficients in melilitic rocks and ijolites of the alkaline ultramafic series
+Apatite	Titanite	Clinopyroxene	Melilite
+Massif	SLN	SLN	KVD	OZV	KHI	OZV	KHI	KHI	OZV	KVD	KVD	KHI	KVD	KVD
+Rock	IJL	IJL	IJL	MLG	IJL	MLG	IJL	IJL	MLG	IJL	MELT	IJL	MELT	MELT
+Sample 25/110 31/200 7/30 8-OV 1636/721 8-OV 301/500 1636/721 8-OV 7/30 252/100 301/500 252/100	227/43
+La	4.56	5.72	25.57	15.54	8.81	7.46	8.83	1.87	0.14	0.17	0.35	0.34	0.90	1.37
+Ce	4.55	5.27	25.96	14.04	8.26	10.55	10.70	2.98	0.17	0.19	0.43	0.37	0.87	1.33
+Pr	4.55	5.06	26.64	12.45	7.90	11.94	12.32	4.06	0.18	0.24	0.48	0.40	0.87	1.31
+Nd	4.39	4.81	27.11	11.34	7.86	12.27	12.85	4.60	0.19	0.26	0.56	0.43	0.92	1.26
+Sm	4.08	3.99	26.51	9.97	7.13	13.83	13.64	5.82	0.23	0.33	0.73	0.45	0.91	1.29
+Eu	3.94	3.86	26.39	11.18	7.16	16.56	14.83	6.39	0.26	0.24	0.82	0.49	0.93	1.28
+Gd	3.94	3.94	25.81	8.64	7.62	12.21	12.70	5.84	0.23	0.40	0.88	0.43	0.88	1.12
+Tb	3.52	3.24	25.27	8.47	6.85	13.22	12.80	6.08	0.26	0.38	1.06	0.45	0.91	1.15
+Dy	3.28	2.48	26.89	8.64	6.69	14.94	13.82	6.59	0.34	0.50	1.27	0.56	1.03	1.34
+Ho	3.04	2.61	23.32	8.82	5.82	15.61	12.96	6.20	0.36	0.53	1.39	0.63	0.97	1.21
+Er	2.84	2.35	16.89	8.18	4.91	13.77	12.20	5.64	0.44	0.51	1.44	0.82	0.80	0.88
+Tm	2.50	2.03	14.50	7.04	3.44	12.43	11.68	4.32	0.51	0.67	1.67	1.23	0.65	0.76
+Yb	2.22	1.47	9.97	6.53	2.23	10.64	10.07	2.62	0.66	1.32	2.22	2.22	0.57	0.63
+Lu	2.02	1.18	6.29	4.67	1.28	7.47	9.61	1.44	0.72	1.56	3.38	3.80	0.69	0.53
+Notes. D^p/Rock, DTtn/Rock, Dgpx/Rock and DjMel/Rock were calculated from the ratios of REE abundances in rocks and mineral phases contained in them.
+data [Arzamastsev et al., 1998; Kramm et al., 1993], evolved independently, and its origin is related to a mantle source other than that of alkaline ultramafic melts. The main feature of agpaitic melts is their relatively higher SiO2 (52-56 wt %), alkali (Na2O + K2O > 16 wt %), and F contents. However, REE contents in agpaitic syenites, according to our data [Arzamastsev et al., 2001a], are only a little higher than in alkaline ultramafites. Hence, addition to the primary silica-undersaturated melanephelinitic magma of even minor batches of phonolitic melt would increase silica and alkali contents of the magma while changing its REE content only slightly. Indeed, in comparison to Vuoriyarvi, Ozernaya Varaka, Sallanlatva, and Kovdor ijolites, their Khibiny counterparts are much higher in SiO2, Na2O, and K2O (Tables 2, 3), and feldspar-bearing varieties are widespread among them. In the nepheline-diopside-titanite melting diagram (Figure 10), the change in the composition of crystallizing melt will be expressed in that the initial liquid of composition A shifts away from the perovskite cotectic surface A1 to produce perovskite-free olivine-diopside, diopside-melilite, and diopside-nepheline rocks (option A1 -B1-C1). Accordingly, REE will be enriched progressively in these differentiates, and extraction of REE from melt will not occur until the melt has reached the apatite and/or titanite liquidus surface at the final stages of alkaline ultramafic petrogenesis. Therefore, evolution of the alkaline ultramafic series in the Khibiny massif was disturbed by mixing of minor portions of phono-litic melt with the primary olivine melanephelinitic magma, which led to a change in crystallization order of REE-bearing titanates and Ti-silicates and enrichment of late batches of melt in the majority of incompatible elements.
+7.	Conclusions
+Our study of REE distribution in rocks and minerals of Paleozoic alkaline ultramafic rocks of the Kola province affords the following conclusions:
+(1)	REE patterns in rocks of the Kovdor, Afrikanda, Vuoriyarvi, and Salmagora massifs indicate a systematic depletion from earlier to later (ijolite and nepheline syenite) melt derivatives. Analysis of rock suites to be found in alkaline intrusions of other provinces (Maimecha-Kotui province of southern Siberia and East African province) shows that the above trend has a general character, inherent in many alkaline ultramafic suites.
+(2)	REE distribution in Kovdor-type alkaline ultramafic suites is controlled by crystallization of perovskite and, to a lesser extent, apatite. Primary olivine melanephelinitic melts of this series experienced crystallization of perovskite, the main REE-bearing mineral. Perovskite coprecipitating with the first phases to crystallize from melt, olivine and clinopyroxene, leads to a dramatic REE depletion of the residual melt and to formation of REE-depleted derivatives, ijolite and nepheline syenite.
+(3)	Petrogenesis of the alkaline ultramafic suite of the Khibiny massif was upset by mixing of minor batches of phonolitic melt with the primary olivine melanephelinitic magma, with an ensuing change in the crystallization order of REE-bearing titanates and Ti-silicates and enrichment of late batches of melt in the majority of incompatible elements. As a result, Khibiny ijolites, which are late and the most evolved derivatives of the alkaline ultramafic
+magma, have the highest REE concentrations, accommodated by high-REE apatite and titanite.
+Acknowledgments. This work would have been impossible without the painstaking and crucial procedure of mineral separation, which was performed by Lyuda Koval, and microprobe analyses of accessory mineral grains, carried out by Yakov Pakho-movsky. The study was supported by the Russian Foundation for Basic Research (project no. 00-05-64229).
+References
+Anders, E., and N. Grevesse, Abundances of the elements: me-teoritic and solar, Geochim. Cosmochim. Acta, 53, 197—214, 1989.
+Arzamastsev, A., and L. Arzamastseva, Evolution of foidolite suites in alkaline massifs of the Kola province: Mineralogic and geochemical evidence (in Russian), Petrologiya, 1, (5), 524—535,
+1993.
+Arzamastsev, A., L. Arzamastseva, V. Glaznev, and A. Raevsky, Deep structure and composition of lower horizons of the Khibiny and Lovozero complexes, Kola Peninsula, Russia: A petrologic/geophysical model (in Russian), Petrologiya, 6, (5), 478— 496, 1998.
+Arzamastsev, A. A., A. V. Travin, and L. V. Arzamastseva, Final episode of Palaeozoic magmatism in the NE Fennoscandian Shield: 40Ar/39Ar isotope dating of diamond bearing kimber-lites and picrites from the southern Kola, SVEKALAPKO, EU-ROPROBE project, 6th Workshop Lammi, Finland, 2001a.
+Arzamastsev, A., F. Bea, V. Glaznev, L. Arzamastseva, and P. Montero, Kola alkaline province in the Paleozoic: evaluation of primary mantle magma composition and magma generation conditions, Russian Journal of Earth Sciences, 3, (1), 3—24, 2001b.
+Arzamastseva, L., and A. Arzamastsev, Evolution of the Paleozoic nephelinite series of the Kola province: Evidence from P and Sr distribution, Geochemistry International, 34, 360—369, 1996.
+Balagansky, V, V. Glaznev, and L. Osipenko, Early Proterozoic evolution of the northeastern Baltic Shield: A terrane analysis (in Russian), Geotektonika, 2, 16—28, 1998.
+Bell, K., L. A. Dunworth, A. G. Bulakh, and V. V. Ivanikov, Alkaline rocks of the Turiy Peninsula, Russia, including type locality turjaite and turjite: a review, Canadian Mineralogist, 34, 265-280, 1996.
+Carmichael, J. S. A., J. Nicholls, and A. L. Smith, Silica activity in igneous rocks, American Mineralogist, 55, 242-264, 1970.
+Caroff, M., R. C. Maury, J. Leterrier, J. L. Joron, J. Cotton, and G. Guille, Trace element behavior in the alkali basalt -comenditic trachyte series from Mururoa Atoll, French Polynesia, Lithos, 30, 1-22, 1993.
+Chernysheva, E., G. Nechelyustov, T. Kvitko, and B. Veis, Per-ovskite compositions in alkaline rocks of the Nizhnesayansky carbonatite complex (in Russian), Geokhimiya, 8, 102-108, 1991.
+Dawson, J. B., J. V. Smith, and I. M. Steele, Trace element distribution between coexisting perovskite, apatite and titanite from Oldoinyo Lengai, Tanzania, Chem. Geol., 117, (1-4), 285-290,
+1994.
+Dawson, J. B., J. V. Smith, and I. M. Steele, Petrology and mineral chemistry of plutonic igneous xenoliths from the carbon-atite volcano, Oldoinyo Lengai, Tanzania, J. Petrol., 36, (3), 797-826, 1995.
+Dudkin, O., F. Minakov, M. Kravchenko, et al., Khibiny Carbon-atites, 98 pp., Kola Branch of the USSR Academy of Sciences, Apatity, 1984.
+Edgar, M. J., The genesis of alkaline magmas with emphasis on their source regions: inferences from experimental studies, in
+Alkaline Igneous Rocks, edited by J. G. Fitton and B. G. J. Upton, Geol. Soc. Spec. Publ., 30, 29-52. 1987
+Egorov, L., Ijolite-Carbonatite Plutonism, 260 pp., Nedra, Leningrad, 1991.
+Foley, S. F., S. E. Jackson, B. J. Fryer, J. D. Greenough, and G. A. Jenner, Trace element partition coefficients for clinopy-roxene and phlogopite in an alkaline lamprophyre from Newfoundland by LAM-ICP-MS, Geochim. Cosmochim. Acta, 60, (4), 629-638, 1996.
+Galakhov, A., Petrology of the Khibiny Alkaline Massif, 256 pp., Nauka, Leningrad, 1975.
+Hornig-Kjarsgaard, I., Rare earth elements in sovitic carbonatites and their mineral phases, J. Petrol., 39, (11/12), 2105-2121, 1998.
+Irving, A. J., and R. C. Price, Geochemistry and evolution of lherzolite-bearing phonolitic lavas from Nigeria, Australia, East Germany and New Zealand, Geochim. Cosmochim. Acta, 45, (8), 1309-1320, 1981.
+Ivanikov, V. V., A. S. Rukhlov, and K. Bell, Magmatic evolution of the melilitites carbonatite-nephelinite dyke series of the Turiy Peninsula (Kandalaksha Bay, White Sea, Russia), J. Petrol., 39, (11/12), 2043-2059, 1998.
+Kogarko, L., Issues of Agpaitic Magmagenesis, 294 pp., Nauka, Moscow, 1977.
+Kogarko, L. N., Ore-forming potential of alkaline magmas, Lithos, 26, (1/2), 167-175, 1990.
+Kogarko, L., Issues of the genesis of giant deposits of apatite and rare metals in the Kola Peninsula, Russia (in Russian), Geol. Rudn. Mestorozhd., 41, (5), 387-403, 1999.
+Kogarko, L. N., D. A. Plant, C. M. Henderson, and B. A. Kjars-gaard, Na-rich carbonate inclusions in perovskite and calzirtite from the Guli intrusive Ca-carbonatite, Polar Siberia, Contrib. Mineral. Petrol., 109, (1), 124-129, 1991.
+Kogarko, L. N., V. A. Kononova, M. P. Orlova, and A. Woolley, Alkaline Rocks and Carbonatites of the World, Part 2, Former USSR, 226 pp., Chapman and Hall, London, 1995.
+Korobeinikov, A. N., F. P. Mitrofanov, S. Gehor, K. Laajoki, V. P. Pavlov, and V. P. Mamontov, Geology and Copper Sulfide Mineralization of the Salmagorskii Ring Igneous Complex, Kola Peninsula, NW Russia, J. Petrol., 39, (11/12), 2033-2041, 1998.
+Kramm, U., and L. N. Kogarko, Nd and Sr isotope signatures of the Khibina and Lovozero agpaitic centres, Kola Alkaline Province, Russia, Lithos, 32, 225-242, 1994.
+Kramm, U., L. N. Kogarko, V. A. Kononova, and H. Vartiainen, The Kola Alkaline Province of the CIS and Finland: Precise Rb-Sr ages define 380-360 age range for all magmatism, Lithos, 30, 33-44, 1993.
+Kravchenko, S., A. Belyakov, P. Babushkin, and V. Kalyuzhny, Sodic nepheline syenites of the Khibiny massif: Likely derivatives of a high-Ca alkaline ultramafic magma (in Russian), Geokhimiya, 5, 685-697, 1992.
+Kravchenko, S., D. Mineev, and E. Kamenev, REE and Sr in rocks and minerals of the ijolite-urtite complex of the Khibiny massif (in Russian), Geokhimiya, 7, 1035-1045, 1979.
+Kukharenko, A., M. Orlova, A. Bulakh, E. Bagdasarov, O. Rimskaya-Korsakova, E. Nefedov, G. Ilyinsky, A. Sergeev, and N. Abakumova, The Caledonian Assemblage of Ultramafic and Alkaline Rocks and Carbonatites of the Kola Peninsula and Northern Karelia, 772 pp., Nedra, Moscow, 1965.
+Larsen, L. M., Distribution of REE and other trace elements between phenocrysts and peralkaline undersaturated magmas, exemplified by rocks from the Gardar igneous province, South Greenland, Lithos, 12, 303-315, 1979.
+Le Bas, M. J., Nephelinites and carbonatites, in Alkaline Igneous Rocks, edited by J. G. Fitton and B. G. J. Upton, Geol. Soc. Spec. Publ., 30, 53-83, 1987.
+Lloyd, F. E., A. D. Edgar, and K. V. Ragnarsdottir, LREE distribution in perovskite, apatite and titanite from South West Ugandan xenoliths and kamafugite lavas, Miner. Petrol., 57, (3-4), 205-228, 1996.
+Mitchell, R. H., The Melilitite clan, in Undersaturated Alkaline Rocks: Mineralogy, Petrogenesis and Economic Poten-
+tial, edited by R. H. Mitchell, Mineral. Assoc. Canada, Short Course 24, 123-152, 1996a.
+Mitchell, R. H., Perovskites: a revised classification scheme for an important rare earth element host in alkaline rocks, in Rare Earth Minerals: Chemistry, Origin and Ore Deposits, edited by A. P. Jones, F. Wall, and C. T. Williams, Mineral, Soc. (UK), Ser. 6, 41-76, Chapman and Hall, London, 1996b.
+Mitchell, R. H., The classification of melilite clan, in Alkaline Magmatism and the Problems of Mantle Sources, pp. 117-150, Irkutsk, 2001.
+Mitchell, R. H., and, S. J. B. Reed, Ion microprobe determination of rare earth elements in perovskite from kimberlites and alnoites, Mineral. Mag., 52, 331-339, 1988.
+Nielsen, T. F. D., Tertiary alkaline magmatism in East Greenland: a review, in Alkaline Igneous Rocks, edited by J. G. Fitton and B. G. J. Upton, Geol. Soc. Spec. Publ., 30, 489-515, 1987.
+Nielsen, T. F. D., Alkaline dike swarms of the Gardiner complex and the genesis of alkaline ultramafic complexes (in Russian), Geokhimiya, 8, 1112-1132, 1993.
+Nielsen, T. F. D., I. P. Solovova, and I. V. Veksler, Parental melts of melilitolite and origin of alkaline carbonatite: evidence from crystallized melt inclusions, Gardiner complex, Contrib. Mineral. Petrol., 126, 331-344, 1997.
+Onuma, K., and M. Yamamoto, Crystallization in the silica-undersaturated portion of the system diopside-nepheline-akermanite-silica and its bearing on the formation of melili-tites and nephelinites, J. Fac. Sci. Hokkaido University, 4, (17), 347-355, 1976.
+Onuma, N., S. Ninomiya, and H. Nagasawa, Mineral ground-mass partition coefficients for nepheline, melilite, clinopyroxene and perovskite in melilite nepheline basalt, Nyiragongo, Zaire, Geochem. J., 15, (4), 221-228, 1981.
+Pan, V., and J. Longhi, Low pressure liquidus relations in the system Mg2SiO4-Ca2SiO4-NaAlSiO4-SiO2, Amer. J. Sci., 289, (1), 1-16, 1989.
+Pan, V., and, J. Longhi, The system Mg2SiO4-Ca2SiO4-CaAl2O4-NaAlSiO4-SiO2, One atmosphere liquidus equilibria of analogs of alkaline mafic lavas, Contrib. Mineral. Petrol., 105, (5), 569-584, 1990.
+Rass, I., The Paragenetic Analysis of Zoned Minerals, 144 pp., Nauka, Moscow, 1986.
+Shakhmurdyan, A., and R. H. Mitchell, Evolution of perovskite chemical compositions in alkaline ultramafic rocks during meta-somatic processes (in Russian), Zap. Vses. Mineral. O-va, 1, 57-69, 1998.
+Ternovoi, V., Carbonatitic Massifs and Their Economic Mineralization, 168 pp., Leningrad State University, Leningrad, 1977.
+Veksler, I. V., and M. P. Teptelev, Conditions for crystallization and concentration of perovskite-type minerals in alkaline magmas, Lithos, 26, (1/2), 177-189, 1990.
+Veksler, I. V., Y. M. Fedorchuk, and T. F. D. Nielsen, Phase equilibria in the silica-undersaturated part of the KAlSiO4-Mg2SiO4-Ca2SiO4-SiO2—F system at 1 atm and the larnite-normative trend of melt evolution, Contrib. Mineral. Petrol., 131, (4), 347-363, 1998a.
+Veksler, I. V., T. F. D. Nielsen, and S. V. Sokolov, Mineralogy of crystallized melt inclusions from Gardiner and Kovdor ultramafic alkaline complexes: Implications for carbonatite genesis, J. Petrol., 39, (11/12), 2015-2031, 1998b.
+Verhulst, A., E. Balaganskaya, Y. Kirnarsky, and D. Demaiffe, Petrological and geochemical trace elements and Sr-Nd isotopes characteristics of the Paleozoic Kovdor ultramafic, alkaline and carbonatite intrusion, Kola Peninsula, NW Russia, Lithos, 51 (1-2), 1-25, 2000.
+Wilkinson, J. F. G., and A. J. Stolz, Low-pressure fractionation of strongly undersaturated alkaline ultrabasic magma: the olivine-melilite-nepheline at Moiliili, Oahu, Hawaii, Contrib. Mineral Petrol., 38, 363-374, 1983.
+Woolley, A. R., Alkaline Rocks and Carbonatites of the World, Part 1, North and South America, 216 pp., British Museum (Natural History), London, 1987.
+Worner, G., J.-M. Beusen, N. Duchateau, R. Gijbels, and H.-U. Schminke, Trace element abundances and mineral/melt distribution coefficients in phonolites from the Laacher Sea Volcano (Germany), Contrib. Mineral. Petrol., 84, (2/3), 152173, 1983.
+(Received 6 May 2002)

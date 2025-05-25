@@ -1,0 +1,106 @@
+﻿УДК 616.89-008.441.44-053.6 ББК Ю942-81
+Психическое здоровье детей и подростков
+ПАТОМОРФОЗ СУИЦИДАЛЬНОГО ПОВЕДЕНИЯ У ПОДРОСТКОВ
+В.Н. Ведяшкин1, И.И. Шереметьева2
+1	Алтайский краевой психоневрологический диспансер для детей, Барнаул, Россия
+2	Алтайский государственный медицинский университет, Барнаул, Россия
+Введение
+В настоящий период в условиях стремительных социальных перемен и глобальных негативных изменений природной среды (урбанизация, естественные и техногенные региональные экологические катастрофы и др.) эволюция болезней, в том числе и нервно-психических, ускоряется, ее темпы увеличились в десятки раз [11]. Важность изучения трансформации клиники различных психических расстройств не раз озвучивалась многими авторами [5, 6, 10, 14,]. Однако изучению патоморфоза психических расстройств уделяется недостаточное внимание [1, 7].
+Особую озабоченность вызывает проблема детских суицидов [2, 8]. За последние 45 лет частота суицидов в мире увеличилась на 60%, достигнув к 2008 г. опасного уровня - 16,4 случая на 100 тыс. населения [4, 12]. С учетом современных тенденций роста суицидальной активности в мире прогностические модели указывают на увеличение к 2020 г. числа самоубийств в два раза [15]. В настоящее время по абсолютному количеству подростковых самоубийств среди детей в возрасте от 15 до 19 лет Россия занимает первое место в мире [9]. Уровень завершенных суицидов в России превышает среднемировой в 1,7 раза, а критический уровень ВОЗ - в 1,4 раза [3]. При этом количество суицидальных попыток в несколько раз превышает количество самоубийств [13].
+Материалы и методы исследования
+Для исследования патоморфоза суицидального поведения у подростков, получавших амбулаторную помощь у психиатра, нами было клинически обследовано и проведено сравнение данных двух групп подростков с поведенческими нарушениями. Первая группа представляла собой данные, полученные от 152 подростков 15-17
+61
+Вестник психиатрии и психологии Чувашии. 2015. Т. 11, № 3
+лет, которые были обследованы в амбулаторном отделении Алтайского краевого психоневрологического диспансера для детей. Вторая группа - архивные данные. Были проанализированы 147 историй болезни пациентов, родившихся в период с 1970 г. по 1979 г. и наблюдавшихся в подростковом возрасте амбулаторно у психиатра по поводу расстройства поведения. Данный временной период был выбран с целью учета дисперсии возраста, так как средний интервал между поколениями составляет 25 лет.
+Критериями отбора пациентов в группы служили клинические проявления, соответствующие рубрикам МКБ-10 «^социализированное расстройство поведения» (F91.1) и «социализированное расстройство поведения» (F91.2). Из исследования заведомо исключались лица, страдающие процессуальными эндогенными, текущими экзогенно-органическими заболеваниями, с расстройствами зрелой личности и поведения у взрослых и умственно отсталые подростки. Для исследования применялся клинико-психопатологический метод и метод статистической обработки материала.
+Результаты исследования и их обсуждение
+Суицидальные угрозы предъявляли 83 (54,6%) современных подростков и 74 (50,3%) подростка предыдущего поколения, что не имело статистически достоверных различий (P > 0,05). Средний возраст, с которого начинали предъявлять суицидальные угрозы современные подростки, приходился на 13,5+0,3 года, а в группе подростков предыдущего поколения достоверно старше (р < 0,001) - на 15,6+0,2 года.
+Табица 1. Суицидальные угрозы
+I группа	II группа	P
+абс.	%	абс.	%
+Демонстративные	50	60,2	40	54,1	>0,05
+Шантажные	18	21,7	24	32,4	>0,05
+Протестные	26	31,3	24	32,4	>0,05
+В табл. 1 наглядно представлен характер суицидальных угроз. С целью привлечь к себе внимание демонстративно угрожали покончить жизнь самоубийством 50 (60,2%) современных подростков и 40 (54,1%) подростков предыдущего поколения. С целью добиться желаемого шантажировали суицидом 18 (21,7%) подростков I группы и
+62
+Психическое здоровье детей и подростков
+24 (32,4%) подростка II группы. В знак протеста или несогласия с предъявляемыми требованиями угрожали суицидом 26 (31,3%) современных подростков и 24 (32,4%) подростка предыдущего поколения. Протестные суицидальные угрозы предъявляли в большинстве случаев сироты, находящиеся в интернированных образовательных учреждениях, которые были включены в наше исследование. Статистически достоверные различия по характеру суицидальных угроз между группами отсутствовали (р > 0,05).
+Таблица 2. Показатели суицидальной активности
+Показатель
+Количество суицидентов Из них с повторными попытками Среднее количество попыток Средний возраст первой попытки
+I группа	II группа
+абс.	%	абс.	%	F
+45	29,6	59	40,1	>0,05
+17	37,8	34	57,6	>0,05
+2,4±1	2,3±0,4	>0,05
+14,5±0,4	16,2±0,3	<0,001
+Как наглядно показано в табл. 2, суицидальные попытки в I группе совершали 45 (29,6%) подростков, а во II - 59 (40,1%). Из них неоднократные суицидальные попытки в I группе совершали 17 (37,8%) человек, а во II - 34 (57,6%) несовершеннолетних. Среднее количество суицидальных попыток у современных подростков было 2,4±1 раза, а у подростков предыдущего поколения 2,3±0,4 раза. По всем трем вышеперечисленным показателям суицидальной активности между группами нет статистически достоверных различий (р > 0,05). Средний возраст первой суицидальной попытки в I группе был статистически более ранний (р < 0,001) в 14,5±0,4 года по сравнению с аналогичным показателем во II группе, где средний возраст первой суицидальной попытки приходился на 16,2±0,3 года.
+Заключение
+Учитывая результаты исследования, можно сделать заключение, что средний возраст первых проявлений суицидального поведения у современных подростков более ранний по сравнению с таковым у подростков прошлых лет. Несмотря на то, что достоверных различий по уровню вовлеченности по совершению суицидальных попыток между группами не было выявлено, у современных подростков прослеживается более высокая суицидальная активность.
+63
+Вестник психиатрии и психологии Чувашии. 2015. Т. 11, № 3
+ЛИТЕРАТУРА
+1.	Абабков В.А. Неврозы. СПб.: Диля, 2002. 160 с.
+2.	Ведяшкин В.Н., Владыкина Л.Н., Шереметьева И.И. Суицидальное поведение у несовершеннолетних Алтайского края // Актуальные вопросы детской и подростковой психиатрии: материалы докл. межрегионал. науч.-практ. конф., посвящ. десятилетнему юбилею КГБУЗ «Алтайский краевой психоневрологический диспансер для детей». Барнаул, 2012. С. 16-20.
+3.	Ворсина О.П., Баркова Н.П. Психологические характеристики суицидентов, госпитализированных в психиатрический стационар // Сибирский вестник психиатрии и наркологии. 2012. № 1. С. 50-54.
+4.	Гелда А.П., Игумнов С.А. Повторные непсихотические аутоагрессивные действия и особенности методологического подхода к их изучению // Суицидология. 2011. № 1. С. 23-30.
+5.	Голдобина О.А. Характеристика патоморфоза экзогенно-органических заболеваний головного мозга у жителей Алтайского края // Клинические и реабилитационные аспекты экзогенно-органической патологии головного мозга: материалы науч.-практ. конф. СФО с международ. участием (Кемерово, март 2006 г.) / под ред. В.Я. Семке. Томск; Кемерово, 2006. С. 95-99.
+6.	Караваева Т.А. Особенности изменения структуры заболеваемости и клинической картины невротических и неврозоподобных расстройств за последние три десятилетия // Актуальные проблемы психосоматики в общемедицинской практике: 10-я науч.-практ. конф. / под общ. ред. В.И. Мазурова. СПб., 2010. С. 75-79.
+7.	Караваева Т.А. Патоморфоз невротических расстройств, их психотерапия и ее правовое регулирование: автореф. дис. ... д-ра мед. наук. СПб., 2011. 57 с.
+8.	Карышев П.Б., Голенков А.В., Миронец Е.Н. Самоубийства среди детей и подростков Чувашии // XIV съезд психиатров России: материалы съезда. М., 2005. С. 200-201.
+9.	Коломыцев Д.Ю., Дроздовский Ю.В. Анализ когнитивных искажений у подростков с пограничными нервно-психическими расстройствами, совершивших суицидальную попытку // Пограничные нервно-психические расстройства в Сибирском регионе (онтогенетические аспекты): сб. тез. межрегионал. науч.-практ. конф. (Новокузнецк, 2-3 апр. 2013 г.) / под ред. В.Я. Семке, Н.А. Бохана, О.И. Салминой-Хвостовой. Томск: Иван Федоров, 2013. С. 147-151.
+10.	Патоморфоз психических заболеваний в судебно-психиатрической клинике: сб. науч. тр. / под ред. Г.В. Морозова. М., 1985. 168 с.
+11.	Патоморфоз психологических характеристик больных с невротическими расстройствами за последние 30 лет / Б.Д. Карвасарский, Е.Б. Мизинова, Е.А. Колотильщикова и др. СПб., 2011. 28 с.
+12.	Положий Б.С. Интегративная модель суицидального поведения // Российский психиатрический журнал. 2010. № 4. С. 55-62.
+13. Положий Б.С. Суицидальное поведение. М.: РИО «ФГУ ГНЦ ССП им. В.П. Сербского», 2010. 232 с.
+14.	Семке В.Я. Истерические состояния. М.: Медицина, 1988. 224 с.
+15.	Bertolote J.M.F., Fleischmann A. Suicidal behavior prevention: WHO perspectives on research. Am. J. Med. Genet., 2005, vol. 133, pp. 8-12.
+64
+Психическое здоровье детей и подростков
+REFERENCES
+1.	Ababkov V.A. Nevrozy [Neuroses]. St. Retersburg, Dilya Publ., 2002, 160 p.
+2.	Vedyashkin V.N., Vladykina L.N., Sheremet'eva I.I. Suitsidal'noe povedenie u neso-vershennoletnikh Altaiskogo kraya [Adolescents' suicidal behavior in Altay region]. Aktual'nye voprosy detskoi i podrostkovoi psikhiatrii: materialy dokladov mezhre-gional'noi nauchno-prakticheskoi konferentsii [Proc. of Conf. «Actual problems of child and adolescent psychiatry»]. Barnaul, 2012, pp. 16-20.
+3.	Vorsina O.P., Barkova N.P. Psikhologicheskie kharakteristiki suitsidentov, gospitali-zirovannykh v psikhiatricheskii statsionar [Psychological traits of students hospitalized to psychiatric facilities]. Sibirskii vestnik psikhiatrii i narkologii [Siberian bulletin of psychiatry and narcology], 2012, no. 1, pp. 50-54.
+4.	Gelda A.P., Igumnov S.A. Povtornye nepsikhoticheskie autoagressivnye deistviya i osobennosti metodologicheskogo podkhoda k ikh izucheniyu [Recurrent nonpsychotic aggressive acts and methodological specific of their study]. Suitsidologiya [Suicidology], 2011, no. 1, pp. 23-30.
+5.	Goldobina O.A. Kharakteristika patomorfoza ekzogenno-organicheskikh zaboleva-nii golovnogo mozga u zhitelei Altaiskogo kraya [Specific of exogenous organic brain disorders of Altay region population]. In: Semke V.Ya., ed. Klinicheskie i reabilitat-sionnye aspekty ekzogenno-organicheskoi patologii golovnogo mozga: materialy nauchno-prakticheskoi konferenzii SFO s mezhdunarodnym uchastiem [Proc. of Sci. Conf. «Exogenous-organic brain pathology: clinic and rehabilitation»]. Tomsk, Kemerovo, 2006, pp. 95-99.
+6.	Karavaeva T.A. Osobennosti izmeneniya struktury zabolevaemosti i klinicheskoi kartiny nevroticheskikh i nevrozopodobnykh rasstroistv za poslednie tri desyatiletiya [Epidemiological and clinical presentation of neurotic and neurosis-like disorders: changes of past three decades]. In: Mazurov V.I., ed. Aktual'nye problemy psikhoso-matiki v obshchemeditsinskoi praktike: 10-ya nauchno-prakticheskoi konferenzii [Proc. of 10th Sci. Conf. «Current problems of psychosomatic in general medicine»]. St. Petersburg, 2010, pp. 75-79.
+7.	Karavaeva T.A. Patomorfoz nevroticheskikh rasstroistv, ikh psikhoterapiya i ee pravovoe regulirovanie: avtoref dis.... d-ra med. nauk [Neurotic disorders: pathomorphism, psychotherapy and its legal regulation. Doct. Diss.]. St. Petersburg, 2011, 57 p.
+8.	Karyshev P.B., Golenkov A.V., Mironets E.N. Samoubiistva sredi detei i podrostkov Chuvashii [Children and adolescent suicides in Chuvashia]. XIV s"ezd psikhiatrov Rossii: materialy s"ezda [Works of XIV Russian psychiatric congress]. Moscow, 2005,
+pp. 200-201.
+9.	Kolomytsev D.Yu., Drozdovskii Yu.V. Analiz kognitivnykh iskazhenii u podrostkov s pogranichnymi nervno-psikhicheskimi rasstroistvami, sovershivshikh suitsidal'nuyu popytku [Analysis of cognitive biases of adolescents with borderline neuropsychic disorders who committed suicidal attempts]. In: Semke V.Ya., Bokhan N.A., Salmina-Khvostova O.I., ed. Pogranichnye nervno-psikhicheskie rasstroistva v Sibirskom re-gione (ontogeneticheskie aspekty): sbornik tezisov mezhregional'noi nauchno-prakticheskoi konferenzii [Proc. of Sci. Conf. «Ontogenetic aspects of borderline neuropsychic disorders in Siberia»]. Tomsk, Ivan Fedorov Publ., 2013, pp. 147-151.
+65
+Вестник психиатрии и психологии Чувашии. 2015. Т. 11, № 3
+10.	Morozov G.V., ed. Patomorfoz psikhicheskikh zabolevanii v sudebno-psikhiatri-cheskoi klinike: sbornik nauchnykh trudov [Pathomorphism of mental diseases in forensic psychiatry. Collected papres]. Moscow, 1985, 168 p.
+11.	Karvasarskii B.D., Mizinova E.B., Kolotil'shchikova E.A. et al. Patomorfoz psikho-logicheskikh kharakteristik bol'nykh s nevroticheskimi rasstroistvami za poslednie 30 let [Pathomorphism of neurotic disorders patients' psychological traits in last 30 years]. St. Petersburg, 2011, 28 p.
+12.	Polozhii B.S. Integrativnaya model' suitsidal'nogo povedeniya [Integrative model of suicidal behaviour]. Rossiiskii psikhiatricheskii zhurnal [Russian Psychiatry Journal], 2010, no. 4, pp. 55-62.
+13.	Polozhii B.S. Suitsidal'noe povedenie [Suicidal behaviour]. Moscow, 2010, 232 p.
+14.	Semke V.Ya. Istericheskie sostoyaniya [Hysteric states]. Moscow, Meditsina Publ., 1988, 224 p.
+15.	Bertolote J.M.F., Fleischmann A. Suicidal behavior prevention: WHO perspectives on research. Am. J. Med. Genet., 2005, vol. 133, pp. 8-12.
+Ведяшкин В.Н., Шереметьева И.И. Патоморфоз суицидального поведения у подростков // Вестник психиатрии и психологии Чувашии. 2015. Т. 11, № 3. С. 61-68.
+Аннотация.
+Введение. Значимость изучения трансформации клиники психических расстройств не вызывает сомнения. Однако изучению патоморфоза суицидального поведения у подростков должного внимания не уделялось.
+Материалы и методы исследования. Обследовано две группы подростков 15-17 лет с поведенческими нарушениями. I группа - 152 человека, клинически обследованные в амбулаторном отделении психоневрологического диспансера. Вторую группу составили данные из архивных источников. Проанализированы 147 историй болезни пациентов, родившихся в 1970-1979 гг. и амбулаторно наблюдавшихся в подростковом возрасте у психиатра по поводу расстройства поведения. Критериями отбора стали клинические проявления рубрик F91.1 и F91.2 по МКБ-10. Использовался клинико-психопатологический метод и метод статистической обработки материала.
+Результаты исследования и их обсуждение. Доли подростков с суицидальными угрозами в двух группах достоверно не различались (54,6 и 50,3%, соответственно). Средний возраст начала предъявления суицидальных угроз современными подростками был достоверно (p < 0,001) более ранний (13,5+0,3 года против 15,6+0,2 года). Суицидальные попытки в I группе совершали 29,6% подростков, во II группе - 40,1%. Неоднократные суицидальные попытки в I группе совершали 37,8%, во II группе 57,6% несовершеннолетних. Среднее количество суицидальных попыток у современных подростков было 2,4+1 раза, у подростков предыдущего поколения - 2,3+0,4 раза. По всем перечисленным показателям суицидальной актив-
+66
+Психическое здоровье детей и подростков
+ности между группами нет статистически достоверных различий (p > 0,05). Средний возраст первой суицидальной попытки в I группе был статистически более ранний (р < 0,001) в 14,5+0,4 года по сравнению с таковым во II группе, где средний возраст первой суицидальной попытки приходился на 16,2+0,3 года.
+Заключение. Несмотря на отсутствие достоверных различий между группами по уровню вовлеченности в суицидальные поступки, современные подростки характеризуются более высокой суицидальной активностью.
+Ключевые слова: патоморфоз, суицидальное поведение, суицидальная активность, подростки, расстройства поведения.
+Информация об авторах:
+Ведяшкин Виктор Николаевич, кандидат медицинских наук, заместитель главного врача КГБУЗ «Алтайский краевой психоневрологический диспансер для детей», 656045, г. Барнаул, Змеиногорский тракт, 69, тел. +7 83852684125, [email protected].
+Шереметьева Ирина Игоревна, доктор медицинских наук, профессор кафедры психиатрии и наркологии ГОУ ВПО «Алтайский государственный медицинский университет» Минздрава России, 656038, г. Барнаул, пр. Ленина, 40, тел. +7 83852246651, [email protected].
+Vedyashkin V.N., Sheremeteva I.I. Patomorfoz suitsidal'nogo povedeniya u podrostkov [Pathomorphism of adolescents' suicidal behavior] (Russian). Vestnik psikhiatrii i psikhologii Chuvashii [The Bulletin of Chuvash Psychiatry and Psychology], 2015, vol. 11, no. 3, pp. 61-68.
+Abstract
+Introduction. There is no doubts in the importance of studying transformations in the clinical picture of mental disorders. However, pathomorphism of adolescents' suicidal behavior has not been properly studied.
+Material and methods. We examined two groups of adolescents aged 15-17 who had behavioral disorders. The first group of 152 adolescents were examined in the out-patient department of a psychoneurologic dispensary. The second group was made up by former patients whose medical records were kept in the archives. We analyzed case histories of 147 out-patients who were born within 1970-1979 and kept under observation of the psychiatrists in their adolescence for behavioral disorders. They were selected by clinical presentation of blocks F91.1 and F91.2 according to ICD-10. Clinical-and-psychopathological method and experimental statistics were used to complete the research.
+Results and discussion. There was not noticed any significant difference in the share of adolescents with suicide risks in the two groups (54,6 and 50,3% respectively). The mean age of present day adolescents manifesting suicidal risks for the first time was precisely defined (p < 0,001) as earlier (13,5+0,3 years old as opposed to 15,6+0,2 years old). A suicide was attempted by 29,6% of adolescents in the first group and 40,1% - in the second. Attempted suicides were repeated by 37,8% of adolescents in the first group and 57,6% - in the
+67
+Вестник психиатрии и психологии Чувашии. 2015. Т. 11, № 3
+second. On the average, present day adolescents attempted suicide 2,4+1 times, while their past generation counterparts - 2,3+0,4 times. There was not noticed any significant difference in the statistical data indicating suicidal activity in the two groups (p > 0,05). The mean age of Group I adolescents when they attempted first suicide was statistically defined (p < 0,001) as earlier (14,5+0,4 years old as opposed to 16,2+0,3 years old in Group II).
+Conclusions. Although no significant difference was noticed between the groups concerning their involvement in suicidal acts, present day adolescents show higher activity.
+Keywords: pathomorphism, suicidal behavior, suicidal activity, adolescents, behavioral disorders.
+Information about authors:
+Vedyashkin Viktor, M.D., Ph.D. in Medicine, Deputy Doctor-in-Chief, Altai Regional Mental Hospital for Children, 656045, Barnaul, Zmeinogorsky tract, 69, tel. +7 83852684125, [email protected].
+Sheremeteva Irina, M.D., Doctor of Medical Science, Professor, Department of Psychiatry and Narcology, Altai State Medical University, Russia, 656038, Barnaul, Lenina ul., 40, tel. +7 83852246651, [email protected].
+Поступила: 05.08.2015 Received: 05.08.2015
+68

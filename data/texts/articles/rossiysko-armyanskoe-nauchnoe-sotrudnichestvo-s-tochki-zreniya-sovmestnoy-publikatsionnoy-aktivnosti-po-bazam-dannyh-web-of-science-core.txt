@@ -1,0 +1,182 @@
+﻿БИБЛИОСФЕРА, 2016, № 3, с. 53-59
+Информатика -
+УДК 001.83(470:479.25) ББК 72.4+72.5+78.606.1 DOI 10.20913/1815-3186-2016-3-53-59
+РОССИЙСКО-АРМЯНСКОЕ НАУЧНОЕ СОТРУДНИЧЕСТВО С ТОЧКИ ЗРЕНИЯ СОВМЕСТНОЙ ПУБЛИКАЦИОННОЙ АКТИВНОСТИ (ПО БАЗАМ ДАННЫХ «WEB OF SCIENCE CORE COLLECTION», «SCOPUS», РИНЦ ЗА 2005-2014 гг.)1
+© Ю. В. Мохначева, 2016
+Библиотека по естественным наукам Российской академии наук (отдел в Пущинском научном центре РАН), Московская обл., г. Пущино, Россия; e-mail: [email protected]
+В статье рассматривается совместная публикационная активность ученых России и Армении за последние десять лет (2005-2014 гг.). Информационная база исследования - «Web of Science Core Collection», «Scopus», РИНЦ. Публикационный поток рассматривался для изучения динамики совместных публикаций, уровня ци-тируемости, расширения географии научного сотрудничества и частотного распределения совместных публикаций по изданиям.
+Ключевые слова: публикационная активность, научное сотрудничество, СНГ, Армения, Россия.
+Для цитирования: Мохначева Ю. В. Российско-армянское научное сотрудничество с точки зрения совместной публикационной активности (по базам данных «Web of Science Core Collection», «Scopus», РИНЦ за 2005-2014 гг.) // Библиосфера. 2016. № 3. С. 53-59. DOI: 10.20913/1815-3186-2016-3-53-59.
+Russian-Armenian scientific cooperation from the viewpoint of joint publication activity (on DBs «Web of Science Core Collection», «Scopus», Russian Science Citation Index for 2005-2014) Y. V. Mokhnacheva
+Library on Natural Sciences of the Russian Academy of Sciences, (Pushchino Department), Moscow region, Pushchino, Russia; e-mail: [email protected]
+The Commonwealth of Independent States creation in 1991 was a new reality for cooperation and development of post-Soviet states. Russia and Armenia have long close and stable relations in the scientific-educational sphere. The article objective is to evaluate the joint Russian-Armenian documentary flow in various scientific fields for ten years (2005-2014). As the research information base three main resources were studied that allow analyzing the co-publication activity: «Web of Science Core Collection» (Thomson Reuters); Scopus (Elsevier); RISC (OLC «Scientific Electronic Library»). Research articles and reviews were considered. The Russian-Armenian documentary flow dynamics was studied with the differentiation by arrays: publications, whose authors are both the Russian and Armenian scientists; publication created with and without participation in major international collaborations; publications involving authors of third countries; publication without the participation of third countries authors. Evaluation indicators of the joint Russian-Armenian publication activity were: the publications number dynamics; average citation; frequency distribution of publications on periodicals; frequency distribution of joint publications on areas of knowledge. The study reveals growing the number of publications, whose authors are Russian and Armenian scientists working in large international collaborations (ATLAS, CMS Collaboration, ALICE Collaboration, etc.) recent years. Such publications citation is quite high: the level of citation exceeds the world average parameters two-seven times for these years. The level of the cited publication carried on without international collaborations is 62-155% of the world average indicators. The documentary flow out of collaborations, but with the participation of third countries authors has a varied dynamic with an average growth rate about 1% (WoS) to 2% (Scopus). The main co-author states as «third» countries are: Germany, Italy, the USA and the UK. Main cooperation between Russia and Armenia takes place in physics and astronomy (about 1/2 of joint publications); chemistry (8%) and biology (6%) and material science (6%). Sciences spectrum of joint research is represented by 23 branches of knowledge. The study results showed a high level of the Russian-Armenian scientific ties with good development potential.
+Keywords: publication activity, scientific cooperation, CIS, Armenia, Russia.
+Oitation: Mokhnacheva Y. V. Russian-Armenian scientific cooperation from the viewpoint of joint publication activity (on DBs «Web of Science Core Collection», «Scopus», Russian Science Citation Index for 2005-2014) // Bib-liosphere. 2016. № 3. P. 53-59. DOI: 10.20913/1815-3186-2016-3-53-59.
+1 Работа выполнена при совместной поддержке РГНФ и Государственного комитета по науке Министерства образования Республики Армения, проект: «Исследование публикационной активности и научных связей ученых Республики Армения и Российской Федерации на основе баз данных по цитированию» (№ 14-23-20002).
+Одной из главных задач, стоящих в XXI в., является создание общества, основанного на знаниях, что поддерживает статус страны в общемировом пространстве и способствует ее процветанию. Наука, технологии и инновации являются ключевыми компонентами в обеспечении устойчивого социально-экономического развития государства, а международное сотрудничество в этих сферах значительно повышает их эффективность [2, 3, 7-11, 1315, 17, 18]. Распад Советского Союза затормозил развитие научно-технического сектора во всех бывших республиках СССР. Все они без исключения столкнулись с проблемами резкого сокращения финансирования, выделяемого на науку и образование [6, 12, 16, 19].
+Создание Содружества Независимых Государств в 1991 г. стало новой реальностью для сотрудничества и развития постсоветских стран, разделяющих общее прошлое и общие потребности. Россия и Армения имеют длительные устойчивые связи в сфере науки и образования. Непрерывный процесс научного сотрудничества Российской Федерации (РФ) и Республики Армения (РА) сопровождается не только проведением совместных конференций, симпозиумов, семинаров, круглых столов и др., но также и достаточно активными научными исследованиями, результаты которых отражаются в документопотоке. Проблемам науки и образования в СНГ и в Армении в частности посвящен ряд научных публикаций [1-6, 12, 16, 19], однако совместная публикационная активность РФ и РА не изучена в достаточной степени.
+Целью нашего исследования являлось изучение российско-армянского документопотока по различным научным направлениям за десять лет: 2005-2014 гг. В качестве информационной базы исследования послужили три основных политематических ресурса, позволяющих анализировать совместную публикационную активность1: «Web of Science Core Collection» (WoS) Thomson Reuters; Scopus (Elsevier); РИНЦ (ООО «Научная электронная библиотека»).
+Ввиду того, что каждый из перечисленных ресурсов обладает собственной методологией сбора и представления информации, логика построения поисковых запросов была различной. Кроме того, каждый из трeх ресурсов индексирует собственный репертуар изданий, поэтому результаты поиска по всем трем базам данных в той или иной степени отличались. Поиск в РИНЦ производился по организациям с от-фильтровкой записей по полю «страна» - Армения. В РИНЦ обнаружилась 121 организация РА. При переходе к списку публикаций каждой из представленных в базе данных организации, результаты отфильтровывались по полям «Организации» - выбирались российские учреждения и «Годы» - выбирались данные за период 2005-2015 гг. Таким образом, был собран массив из 321 российско-армянской работы по различным областям знания. В этот массив
+1 По состоянию данных на июнь 2015 г.
+вошли также публикации, выполненные единственным автором, под аффилиацией «Российско-Армянского (Славянского) университета» (г. Ереван)2.
+Поиск в WoS производился по полю «Address» (armenia and russia), временной интервал: 20052014 гг. Использовались базы данных: SCI-Expanded (1980 - настоящее время), SSCI (1980 - настоящее время), A&HCI (1980 - настоящее время), CPCI-S (1990 - настоящее время), CPCI-SSH (1990 - настоящее время). Рассматриваемые типы публикаций -статьи и обзоры. Кроме того, отдельно исследовался массив публикаций, выполненных как в составе интернациональных коллабораций (например: ATLAS, CMS Collaboration, ALICE Collaboration и др.), так и вне этих коллективов. Это объясняется тем, что колоссальное число организаций и стран, чьи представители значатся в соавторах этих публикаций, не позволяет рассматривать их с точки зрения российско-армянского сотрудничества. Если автор в качестве аффилиации указывал более одного места работы, то такая публикация учитывалась для каждого из них. В результате был собран массив из 1504 статей и обзоров, из которых 470 выполнены вне кол-лабораций. Выявленные массивы были загружены в электронные таблицы Excel с разбиением по полям.
+В БД «Scopus» поиск производился в несколько этапов, что было вызвано особенностями работы с данным ресурсом. Рассматривались только статьи и обзоры. Временной охват: 2005-2014 гг. Сначала были выявлены публикации, в аффилиации авторов которых значились Россия и Армения. В БД «Scopus» отсутствует возможность отфильтровки записей, выполненных группами авторов, поэтому статьи и обзоры, выполненные в составе коллабораций, необходимо было выявлять в ручном режиме. Так как публикации, выполненные группой авторов, насчитывают около и даже более 3000 авторов, возникло затруднение при выгрузке данных в электронные таблицы Excel. Поэтому необходимая информация была загружена без поля «автор». В результате был собран массив из 1481 статьи и обзора, 490 из которых написаны без участия в коллаборациях.
+Рассмотрим динамику публикационной активности совместного документопотока России и Армении за 2005-2014 гг. (табл. 1).
+По данным WoS и Scopus (табл. 1) мы видим, что начиная с 2010 г. интенсивно росло количество статей и обзоров, выполненных учеными в составе крупных интернациональных научных коллабораций. Прежде всего, это CMS Collaboration, ATLAS Collaboration, ALICE Collaboration, CLAS Collaboration,
+2 Российско-Армянский (Славянский) университет создан в соответствии с Соглашением между Правительствами РФ и РА (подписано 29 августа 1997 г. в г. Москве). Университет является межгосударственным образовательным учреждением совместного ведения Российской Федерации и Республики Армения. Университет задумывался и состоялся как центр российского образования, науки и культуры в Армении и регионе.
+Т а б л и ц а 1
+Динамика совместной публикационной активности России и Армении по БД РИНЦ, WoS и Scopus
+за 2005-2014 гг.
+T a b l e 1
+The dynamics of joint publication activity of Russia and Armenia on DBs RISC, WoS and Scopus for 2005-2014
+2005	2006	2007	2008	2009	2010	2011	2012	2013	2014	Всего
+РИНЦ*	1	8	16	18	30	34	49	49	47	63	315
+Весь массив (WoS)	75	76	71	56	63	125	193	324	274	247	1504
+Публикации при участии в коллаборациях (WoS)	24	32	22	22	33	77	155	267	210	192	1034
+Публикации без участия в коллаборациях (WoS)	51	44	49	34	30	48	38	57	64	55	470
+Весь массив (Scopus)	73	90	77	57	73	121	185	311	247	247	1481
+Публикации при участии в коллаборациях (Scopus)	25	39	30	27	40	82	136	244	176	192	991
+Публикации без участия в коллаборациях (Scopus)	48	51	47	30	33	39	49	67	71	55	490
+* По состоянию на июнь 2015 г. в РИНЦ был загружен относительно небольшой массив армянских научных журналов. Кроме того, во многих статьях из этого массива, особенно за начальный период, не указаны аффилиации авторов.
+H1 Collaboration и др. Динамика публикационной активности вне этих коллективов по данным БД WoS и Scopus примерно одинакова, тем не менее таких публикаций в Scopus оказалось больше, что особенно заметно в период 2011-2013 гг.
+Рассмотрим динамику средней цитируемости публикаций, выполненных при совместном участии российских и армянских авторов (табл. 2).
+Данные о цитируемости различаются по всем трем базам данных. Прежде всего, это вызвано разными репертуарами индексируемых изданий. Тем не менее мы видим очень высокую частотность цитируемости публикаций, выполненных в составе коллабораций как по БД WoS, так и по Scopus. К сожалению, на момент подготовки статьи не было возможности получения данных о среднемировой (Scopus) и среднероссийской (РИНЦ) цитируемости по различным областям знаний, что не позволило определить уровень по данному индикатору. Такая возможность имелась только в WoS CC, поэтому уровень цитируемости публикаций определялся в рамках данного ресурса. Таким образом было определено, что уровень средней ци-тируемости статей и обзоров, выполненных в составе коллабораций, превышает среднемировые показатели за соответствующие годы от двух до семи раз3. Что
+3
+Использовались среднемировые показатели цитируе-мости по БД «Essential Science Indicators» (состояние данных на март 2015 г.) Thomson Reuters.
+касается работ, выполненных вне коллабораций, то их средняя цитируемость соответствует 62-155% от среднемировых значений и это является хорошим показателем.
+Процессы глобализации в науке идут ускоренными темпами, особенно в последние годы, следствием и свидетельством чего являются крупные интернациональные научные коллаборации, о которых уже говорилось выше. Если рассматривать публикации вне таких коллективов, то мы обнаружим, что международное научное сотрудничество выходит за рамки двусторонних связей и все больше публикаций появляется при участии авторов из третьих стран. Попытаемся охарактеризовать динамику этого процесса на примере российско-армянского документо-потока за 2005-2014 гг. Ввиду того, что в РИНЦ индексируются национальные издания, в которых в основном публикуются статьи без соавторства с коллегами из дальнего зарубежья, данные процессы невозможно проследить на основе этого ресурса, поэтому мы использовали БД WoS и Scopus (табл. 3).
+Мы видим разнонаправленную динамику долей публикаций при участии ученых из третьих стран в российско-армянском документопотоке. Средний темп прироста количества таких публикаций по БД WoS за исследуемый период составил 1%, а по Scopus - 2%. Интересно, что в WoS доля российско-армянских публикаций с участием специалистов из третьих стран выше, чем в Scopus, и на протяжении всего
+Т а б л и ц а 2
+Средняя цитируемость публикаций, выполненных при соавторстве ученых из России и Армении
+по БД РИНЦ, WoS и Scopus за 2005-2014 гг.
+T a b l e 2
+The average citation of publications made in co-authorship of Russian and Armenian scientists on DBs RISC, WoS and Scopus for 2005-2014
+2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+РИНЦ	Нет данных	1,4	1,8	0,9	0,8	0,4	0,2	0,1	0,2	0,1
+Весь массив (WoS)	34,4	37,8	29,9	38,5	20,4	35,2	28,5	36,9	15,2	4,5
+Публикации при участии в коллаборациях (WoS)	67,7	54,2	59,4	82,6	25,5	50,6	33,9	43,5	18,6	5,4
+Публикации без участия в коллаборациях (WoS)	18,6	25,9	16,7	9,9	14,7	10,5	6,6	6,1	3,9	1,2
+Весь массив (Scopus)	39,9	36,1	29,2	45,9	20,9	32,9	25,4	36,3	14,5	3,9
+Публикации при участии в коллаборациях (Scopus)	74	54	60,1	88,1	33,6	44,1	32,6	44,6	19,5	4,9
+Публикации без участия в коллаборациях (Scopus)	22,1	22,3	9,4	8	5,5	9,3	5,4	6,1	2,1	0,4
+Т а б л и ц а 3
+Динамика долей российско-армянского документопотока при участии авторов из третьих стран в массивах публикаций, выполненных вне мировых коллабораций по БД WoS и Scopus за 2005-2014 гг.
+T a b l e 3
+Dynamics of the Russian-Armenian information flow shares with the participation of third countries in the arrays of publications carried outside the world collaborations on DBs WoS and Scopus for 2005-2014
+2005	2006	2007	2008	2009	2010	2011	2012	2013	2014
+Доля публикаций в WoS (%)	67	82	67	65	70	58	53	53	55	67
+Доля публикаций в Scopus (%)	54	71	36	47	54	46	41	40	45	58
+периода превышала 50%. Возможно, это объясняется тем, что в Scopus индексируется большее количество российских журналов, чем в WoS, и статьи, представленные в этих изданиях, имеют незначительный процент соавторов из стран дальнего зарубежья.
+В таблице 4 представлены государства-лидеры по количеству совместных публикаций в российско-армянском документопотоке вне международных кол-лабораций.
+Как видно из таблицы 4, лидером по количеству публикаций при участии ученых из третьих стран является Германия (WoS, Scopus) - около 1/3 от всего массива публикаций, авторами которых являлись пред-
+ставители Армении и России. Дальше ранговые позиции различаются из-за особенностей репертуаров индексируемых изданий в WoS и Scopus. Интересно, что по WoS соавторство с учеными из Италии оказалось на втором месте, а из США - на третьем, хотя в долевом выражении их позиции очень близки. Сотрудничество с Великобританией и Францией тоже является приоритетным (WoS, Scopus).
+Круг изданий по всем трем базам данных, в которых были представлены российско-армянские публикации (вне научных коллабораций), составил 365 наименований, из которых 183 - русскоязычные издания. Издания-лидеры представлены в таблице 5.
+Т а б л и ц а 4
+Государства-лидеры по количеству совместных публикаций в российско-армянском документопотоке вне международных коллабораций по БД WoS и Scopus за 2005-2014 гг.
+T a b l e 4
+States-leaders in the co-authorship publication number in the Russian-Armenian information flow outside international collaborations on DBs WoS and Scopus for 2005-2014
+Важным этапом исследования являлся анализ количественного распределения российско-армянских статей и обзоров по научным направлениям, что позволило выявить области знания, наиболее продуктивные с точки зрения научного сотрудничества (рисунок, с. 58).
+Распределение российско-армянских публикаций (вне коллабораций) по областям знания представлены на рисунке (с. 58).
+Т а б л и ц а 5
+Издания-лидеры по количеству российско-армянских публикаций в РИНЦ, WoS и Scopus за 2005-2014 гг. (вне научных коллабораций)
+T a b l e 5
+Editions-leaders by the number of Russian-Armenian publications in DBs RISC, WoS and Scopus for 2005-2014 (beyond research collaborations)
+Название издания	Количество публикаций
+Ядерная физика	49
+Physical Review C - Nuclear Physics	41
+Сборники конференций НИЦ Социосфера	39
+Вектор науки Тольяттинского государственного университета. Серия: Юридические науки	26
+Physical Review D - Particles, Fields, Gravitation and Cosmology	18
+Physical Review Letters	17
+Physics Letters, Section B: Nuclear, Elementary Particle and High-Energy Physics	15
+Известия Национальной какдемии наук Армени. Физика	15
+Вектор науки Тольяттинского государственного университета (без указания серии)	14
+Astronomy and Astrophysics	12
+European Physical Journal A	11
+New Armenian Medical Journal	11
+Письма в Журнал «Физика элементарных частиц и атомного ядра»	11
+Nuclear Physics B - Proceedings Supplements	9
+European Physical Journal C	8
+Nuclear Instruments and Methods in Physics Research, Section A: Accelerators, Spectrometers, Detectors and Associated Equipment	7
+Nuclear Physics B	7
+Доклады Академии наук	7
+Nuclear Physics A	6
+Tetrahedron Asymmetry	6
+Оптика и спектроскопия	6
+Рейтинг по доле совместных публикаций	Страна	Доля от массива российско-армянских публикаций с соавторами из третьих стран (%)
+WoS
+1	Германия	34
+2	Италия	28
+3	США	25
+4	Великобритания	23
+5	Франция	22
+6	Китай	12
+7	Испания	11
+8	Бельгия	8
+9	Польша	8
+10	Нидерланды	8
+Scopus
+1	Германия	40
+2	США	31
+3	Франция	22
+4	Италия	19
+5	Великобритания	19
+6	Испания	11
+7	Польша	10
+8	Чехия	9
+9	Китай	9
+10	Бразилия	9
+Физика и астрономия
+45%
+Химия
+Медицина
+Биохимия, генетика и молекулярная биология
+Материаловедение
+Математика
+Науки о земле
+Распределение российско-армянских публикаций по научным областям за 2005-2014 гг. по БД WoS и Scopus Distribution of Russian-Armenian publications in scientific fields for 2005-2014 on DBs WoS and Scopus
+Мы видим, что основное сотрудничество России и Армении происходит в таких областях, как физика и астрономия (почти половина всех совместных публикаций); химия - 8%; по 6% приходится на медицину, биохимию, генетику и молекулярную биологию, материаловедение. Вообще же, спектр наук, по которым ведутся совместные исследования, достаточно широк и представлен 23 областями знания (в том числе экологией, энергетикой, социальными и гуманитарными науками, вычислительной техникой и др.).
+Результаты нашего исследования позволяют сделать вывод, что российско-армянские научные связи находятся на хорошем уровне и имеют широкие перспективы для развития. Особенно продуктивно совместные исследования ведутся в области физики, химии и медицины.
+Список источников
+1.	Ефременкова В. М., Солошенко Н. С. Публикационная активность организаций стран СНГ в приоритетном направлении конструкционные наноматериалы по БД Scopus // Информационное общество: состояние и тенденции межгосударственного обмена научно-технической информацией в СНГ : материалы междунар. конф. (Москва, ВИНИТИ, 27-28 окт. 2011 г.). Москва, 2011. С. 63-65.
+2.	Зусьман О. М., Захарчук Т. В. Интеграция России в мировое научное сообщество: библиометрический анализ международных связей ученых Санкт-Петербурга // Науковедение. 1999. № 4. С. 184-195.
+3.	Маркусова В. А., Котельникова Н. А., Крылова Т. А. Научная продуктивность и международное сотрудничество стран бывшего СССР // Информационное общество: состояние и тенденции межгосударственного обмена научно-технической информацией в СНГ : материалы междунар. конф. (Москва, ВИНИТИ, 27-28 окт. 2011 г.) Москва, 2011. С. 87-89.
+4.	Маршакова-Шайкевич И. В. Исследовательская активность России в области естественных наук на переломе
+веков (1993-2002): библиометрический анализ // Социология науки и технологий. 2013. Т. 4, № 4. С. 60-80.
+5.	Мохначева Ю. В., Харыбина Т. Н., Березкина Н. Ю. Анализ российско-белорусских публикаций по основным библиометрическим индикаторам // Информационные ресурсы России. 2012. № 1. С. 20-25.
+6.	Ayvazyan N., Gzoyan E. Mapping the intellectual capital of Post Soviet States // Service Innovation Yearbook 20112012. [S. l.], 2011. P. 138-147.
+7.	Bouabid H., Paul-Hus A., Lariviere V. Scientific collaboration and high-technology exchanges among BRICS and G-7 countries // Scientometrics. 2016. Vol. 106, № 3. P. 873-899.
+8.	Franceschet M., Costantini A. The effect of scholar collaboration on impact and quality of academic papers // Journal of Informetrics. 2010. Vol. 4, № 4. P. 540-553.
+9.	Glänzel W., Schubert A., Czerwon H. J. A bibliometric analysis of international scientific cooperation of the European Union (1985-1995) // Scientometrics. 1999. Vol. 45, № 2. P. 185-202.
+10.	Glänzel W. National characteristics in international scientific co-authorship relations // Scientometrics. 2001. Vol. 51, № 1. P. 69-115.
+11.	Gomez I., Fernandez M. T., Sebastian J. Analysis of the structure of international scientific cooperation networks through bibliometric indicators // Scientometrics. 1999. Vol. 44, № 3. P. 441-457.
+12.	Gzoyan E. G., Hovhannisyan L. A., Aleksanyan S. A., Gha-zaryan N. A., Hunanyan S. R., Bourghida A., Sargsyan S. A. Comparative analysis of the scientific output of Armenia, Azerbaijan and Georgia // Scientometrics. 2015. Vol. 102, № 1. P. 195-212.
+13.	Kato M., Ando A. The relationship between research performance and international collaboration in chemistry // Scientometrics. 2013. Vol. 97, № 3. P. 535-553.
+14.	Katz J. S. Geographical proximity and scientific collaboration // Scientometrics. 1994. Vol. 31, № 1. P. 31-43.
+15.	Katz J. S., Martin B. R What is research collaboration? // Research Policy. 1997. Vol. 26, № 1. P. 1-18.
+16.	Karamourzov R. The development trends of science in the CIS countries on the basis of some scientometric indicators // Scientometrics. 2012. Vol. 91, № 1. P. 1-14.
+17.	Leclerc M., Gagne J. International scientific cooperation -the continentalization of science // Scientometrics. 1994. Vol. 31, № 3. P. 261-292.
+18.	Lee S., Bozeman B. The impact of research collaboration on scientific productivity // Social Studies of Science. 2005. Vol. 35, № 5. P. 673-702.
+19.	Wilson C. S., Markusova V. A. Changes in the scientific output of Russia from 1980 to 2000, as reflected in the Science Citation Index, in relation to national politico-economic changes // Scientometrics. 2004. Vol. 59, № 3. P. 345-389.
+References
+1.	Efremenkova V. M., Soloshenko N. S. Publication activity of the CIS countries organizations in the priority area of structural nanomaterials in Scopus. Informatsionnoe ob-shchestvo: sostoyanie i tendentsii mezhgosudarstvennogo ob-mena nauchno-tekhnicheskoi informatsiei v SNG : mate-rialy mezhdunar. konf. (Moskva, VINITI, 27-28 okt. 2011 g.). Moscow, 2011, 63-65. (In Russ.).
+2.	Zusman O. M., Zakharchuk T. V. Integration of Russia into the global scientific community: bibliometric analysis of international relations of scientists in Saint Petersburg. Naukovedenie, 1999, 4, 184-195. (In Russ.).
+3.	Markusova V. A., Kotel'nikova N. A, Krylova T. A. The scientific productivity and international cooperation of the former USSR countries. Informatsionnoe obshchestvo: so-stoyanie i tendentsii mezhgosudarstvennogo obmena nau-chno-tekhnicheskoi informatsiei v SNG : materialy mezhdunar. konf. (Moskva, VINITI, 27-28 okt. 2011 g.). Moscow, 2011, 87-89. (In Russ.).
+4.	Marshakova-Shaikevich I. V. Research activity of Russia in the field of natural sciences at the turn of the centuries (1993-2002): a bibliometric analysis. Sotsiologiya nauki i tekhnologii, 2013, 4, 4, 60-80. (In Russ.).
+5.	Mokhnacheva Yu. V., Kharybina T. N., Berezkina N. Yu. Analysis of the Russian-Belarussian publications on the main bibliometric indicators. Informatsionnye resursy Ros-sii, 2012, 1, 20-25. (In Russ.).
+6.	Ayvazyan N., Gzoyan E. Mapping the intellectual capital of post-Soviet states. Service Innovation Yearbook 2011-2012. [S. l.], 2011, 138-147.
+7.	Bouabid H., Paul-Hus A., Lariviere V. Scientific collaboration and high-technology exchanges among BRICS and G-7 countries. Scientometrics, 2016, 106, 3, 873-899. DOI: 10.1007/s11192-015-1806-0.
+8.	Franceschet M., Costantini A. The effect of scholar collaboration on impact and quality of academic papers. Journal of Informetrics, 2010, 4, 4, 540-553. DOI: 10.1016/j.joi.2010. 06.003.
+9.	Glänzel W., Schubert A., Czerwon H. J. A bibliometric analysis of international scientific cooperation of the European Union (1985-1995). Scientometrics, 1999, 45, 2, 185-202. DOI: 10.1007/BF02458432.
+10.	Glänzel W. National characteristics in international scientific co-authorship relations. Scientometrics, 2001, 51, 1, 69-115. DOI: 10.1023/A:1010512628145.
+11.	Gomez I., Fernandez M. T., Sebastian J. Analysis of the structure of international scientific cooperation networks through bibliometric indicators. Scientometrics, 1999, 44, 3, 441-457. DOI: 10.1007/BF02458489.
+12.	Gzoyan E. G., Hovhannisyan L. A., Aleksanyan S. A., Gha-zaryan N. A., Hunanyan S. R., Bourghida A., Sargsyan S. A. Comparative analysis of the scientific output of Armenia, Azerbaijan and Georgia. Scientometrics, 2015, 102, 1, 195-212. DOI: 10.1007/s11192-014-1452-y.
+13.	Kato M., Ando A. The relationship between research performance and international collaboration in chemistry. Scientometrics, 2013, 97, 3, 535-553. DOI: 10.1007/s11192-013-1011-y.
+14.	Katz J. S. Geographical proximity and scientific collaboration. Scientometrics, 1994, 31, 1, 31-43. DOI: 10.1007/BF 02018100.
+15.	Katz J. S., Martin B. R. What is research collaboration? Research Policy, 1997, 26, 1, 1-18. DOI: 10.1016/S0048-7333(96)00917-1.
+16.	Karamourzov R. The development trends of science in the CIS countries on the basis of some scientometric indicators. Scientometrics, 2012, 91, 1, 1-14. DOI: 10.1007/s11192-011-0592-6.
+17.	Leclerc M., Gagne J. International scientific cooperation -the continentalization of science. Scientometrics, 1994, 31, 3, 261-292. DOI: 10.1007/BF02016876.
+18.	Lee S., Bozeman B. The impact of research collaboration on scientific productivity. Social Studies of Science, 2005, 35, 5, 673-702. DOI: 10.1177/0306312705052359.
+19.	Wilson C. S., Markusova V. A. Changes in the scientific output of Russia from 1980 to 2000, as reflected in the Science Citation Index, in relation to national politico-economic changes. Scientometrics, 2004, 59, 3, 345-389. DOI: 10.1023/B:SCIE.0000018539.93567.d8.
+Материал поступил в редакцию 11.01.2016 г.
+Сведения об авторе: Мохначева Юлия Валерьевна - кандидат педагогических наук, ведущий научный сотрудник

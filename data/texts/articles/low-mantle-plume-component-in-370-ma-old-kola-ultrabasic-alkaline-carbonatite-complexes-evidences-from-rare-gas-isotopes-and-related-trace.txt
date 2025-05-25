@@ -1,0 +1,1080 @@
+﻿Low mantle plume component in 370 Ma old Kola ultrabasic-alkaline-carbonatite complexes: Evidences from rare gas isotopes and related trace elements
+I. N. Tolstikhin, I. L. Kamensky, V. A. Nivin, V. R. Vetrin, E. G. Balaganskaya, S. V. Ikorsky, M. A. Cannibal, and Yu. M. Kirnarsky
+Geological Institute, Kola Scientific Centre, Russian Academy of Sciences, Apatity 184200, Russia
+B. Marty
+Centre National de la Recherche Scientifique Centre de Recherches Petrographiques et Geochimiques(C.R.P.G.) B.P. 20, 54501 Vandoeuvre-Nancy Cedex, France
+D. Weiss, A. Verhulst, and D. Demaiffe
+Petrologie et Geodynamique Chimique Department des Sciences de la Terre et de l‘Environnement Faculte des Sciences Universite Libre de Bruxelles Avenue F. D. Roosevelt 50 B-1050 Bruxelles, Belgique
+Abstract. During Devonian pulse of alkaline magmatism (370 Ma ago) 18 ultrabasic-alkaline-carbonatite complexes were formed on the Kola Peninsula. Rare gas isotope abundances were studied in ~300 samples from 8 complexes and also from Devonian dikes. A comparison of expected from in-situ closed-system production (calc) and measured (meas) abundances has shown that 4Hemeas <4Hecaic whereas in some rocks and minerals 3Hemeas exceeded 3Hecaic up to 1,000 times indicating occurrence of a mantle fluid in a majority of samples. Gas extraction liberated fluid-related helium with as low 4He/3He ratios as 3 x 104. These values show a contribution of 3He-rich plume-like component.
+A reason for highly variable 4He/3He ratios is not well understood yet. Isotope composition of Ne supports the occurrence of plume component: 20Ne/22Ne ratio varies from 10.4 to 12.0 and 20Ne/22Ne versus 21Ne/22Ne correlation is quite similar to that observed for Loihi hot spot, Hawaii.
+A comparison of these data with rare gas systematic in the mantle enable us to suggest a contribution of material from the less degassed deep mantle reservoir, source of primordial rare gases, to Devonian ultrabasic-alkaline and carbonatite rocks on the Kola Peninsula.
+1.	Introduction
+Several reasons encourage studies of trace element and isotope systematics of Ultrabasic-Alkaline-Carbona-tites Complexes (UACC). Petrologic [Le Bas, 1987; Wyllie et al., 1990], geochemical [Nelson et al., 1988] and isotopic [Grunenfelder et al., 1986; Andersen, 1987;
+©1998 Russian Journal of Earth Sciences.
+Paper No. TJE99015.
+Online version of this paper was published on February 12, 1999. URL: http://eos.wdcb.rssi.ru/tjes/TJE99015/TJE99015.htm
+Bell and Blenkmsop, 1989; Kwan et al., 1989] features of UACC all indicate mantle source for parent melts. Generally manifestations of alkaline and carbonatite magmatism are small; however low-viscous carbonatite- and alkaline melts could sample large volumes of mantle. Concentrations of some elements, such as Sr and REE, in alkaline and carbonatitic rocks and related melts are rather high when compared to crustal average abundances; therefore these melts are able to deliver characteristics of mantle composition and processes through the continental crust with a limited crustal contamination [Nelson et al., 1988; Woolley and Kempe, 1989; Bell and Blenkmsop, 1989].
+Studies of the UACC have led to the following results important for this contribution: 1) Petrology and trace element chemistry of UACC both indicate a metasoma-tically-processed volatile-element-enriched mantle source for the alkaline and carbonatite melts [Andersen, 1987; Hawkesworth et al., 1990; Kramm and Kogarko, 1994]. 2) Isotopic signatures of UACC show certain similarities with oceanic island alkaline rocks suggesting similar sources and processes [Grunenfelder et al., 1986; Nelson et al., 1988; Bell and Blenkmsop, 1989; Kwon et al., 1989].
+Because of a high abundance of volatiles is required to form alkaline and especially carbonatite melts, and noble gases are the meaningful tracers of volatiles, noble gas studies of UACC appears to be quite promising. However only a few relevant papers are available [Stau-dacher and Allegre, 1982; Sasada et al., 1997], excepting systematic studies of the Kola UACC [Tolstikhm et al., 1985; Mitrofanov et al., 1995a; Ikorsky et al., 1997, 1998; Marty et al., 1999].
+Within the Kola Peninsula, the eastern segment of the Baltic shield, several pulses of the alkaline magma-tism occurred from 2760 Ma till 370 Ma ago [Pushkarev, 1990; Kramm et al., 1993; Kogarko et al., 1995]. During the last (Devonian) magmatic event about 20 ultrabasic-alkaline-carbonatite intrusive Complexes, from giant Khibiny to quite small dikes, were formed [Kuharenko et al., 1965; Kogarko et al., 1995; Beard et al., 1996, 1998]. The isotopic signatures of Sr, Nd and abundances of REE indeed show rather low crustal contamination of the Devonian Kola UACC [Kramm and Kogarko, 1994; Zaitsev and Bell., 1995]. Considerable development of the UACC by later metamorphic processes has not been observed.
+In this paper new noble gas and parent trace element analyses obtained for 8 Devonian Kola UACC are presented and previous available data are compiled. Solarlike isotopic signatures of trapped rare gases definitely identify a contribution from plume component similar to that observed in the most active spot of the archipelago Hawaii, the Loihi seamount. A subcontinental lithosphere source for this component is discussed, with a negative conclusion. A contribution from the lower mantle reservoir is suggested and evaluated for different models of the lower mantle fractionation-degassing history.
+2.	Geological Background
+2.1.	Alkaline Magmatism on the Kola Peninsula
+Extension of alkaline-subalkaline rocks of different ages, from 2.76 till 0.36 Ga, appears to be a specific feature of the Kola Geological Province situated on the north-east segment of the Baltic Shield. The total con-
+tribution of these rocks is ~4% (four times the mean world contribution). The Kola Province consists of several Late Archaean blocks separated by Late Archaean greenstone belts and Early Proterozoic riftogenic structures (Figure 1). Hercynian activation was the last powerful magmatic event within the Kola Province. Proterozoic Granulite belt separates the Kola Province from the southward Karelian one [Kratz et al., 1978; Berther-son and Marker, 1985; Mitrofanov et al., 1995b].
+Tonalite trondhjemite-granodiorite gneisses (TTG) are the most ancient rocks of the Kola Province forming the basement for Early Proterozoic structures. The gneisses were originated 2.95-2.75 Ga ago. According to Sm-Nd studies of TTG and komatiites, the upper mantle of this age was substantially depleted [Timmerman and Daly, 1995; Vrevsky and Krymsky, 1997] due to melting and removal of large masses of basalt melts which serve as a parent material for the TTG gneisses [Balashov et al., 1992; Levchenkov et al., 1995].
+Several massifs of subalkaline lepidomelane-ferrohas-tingsite granitoids were formed in the north-eastern part of the Kola Peninsula during cratonisation period of the Late Archaean tectono-magmatic stage at 2.76 ± 0.08 Ga (Figure 1). Approximately simultaneously alkaline granites formed the largest in the world province, about
+3,000	square km, in the Central part of the Peninsula.
+The composition of mantle sources were essentially changed in Early Proterozoic. Basic-ultrabasic layered intrusions having 2.5 - 2.4 Ga U-Pb and Sm-Nd ages show similar geochemical and isotopic characteristics, e.g., negative ejvd = —1-2 to —2.3 implying an enriched reservoir [Balashov et al., 1993; Amelin et al., 1995, Amelin and Semenov, 1996]. A number of such intrusions within the Kola, the Karelia and the northern Finland suggests uprising of a large mantle plume at that time [Amelin et al., 1995]. Evolution of this plume determined sequence of tectonic events and peculiarities of mantle and crustal magmatism during Early Proterozoic. Approximately simultaneously with the layered intrusions, the first alkaline syenite Sakharyok massif was formed within the Kola Province.
+The Svekofennian activization, 1800 Ma ago, gave rise to multy-phase gabro-nepheline syenite and alkaline granite intrusions, such as Gremyakha-Vyrmes, Sous-tova and other. Simultaneously porphyritic granitoid melts were intruded along the faults of north-eastern direction, giving rise to Litsa, Lebyazhka and other massifs with the total area of 900 km2.
+The latest intense alkaline magmatism was related to Devonian plume [Beard et al., 1996; Ikorsky et al.,
+1997]. At that time two giant nepheline syenite massifs, Khibiny and Lovozero, several ultabasic-alkaline-carbonatite Complexes [Kovdor, Seblyavr and other), and swarms of dykes were formed. Metasomatic enrichment of the depleted mantle material with certain
+Figure 1. Schematic geological map of the Kola Peninsula. 1 - The Palaeozoic Complexes of: nepheline syenites (a), ultrabasic-alkaline-carbonatite rocks (b), explosion pipes (c) and dykes (d). 2 - Upper Proterozoic sedimentary rocks. Early Proterozoic: 3 - granites, 4 - volcanic-sedimentary rocks, 5 - basic-ultrabasic rocks, 6 - granulites. Late Archaean: 7 - gneisses, 8 - gneisses, amphi-bolites, and komatiites (fragments of greenstone belts), 9 - granites, 10 - granite-gneiss basement of Proterozoic structure. Domains: Mur - Murmansk, Kol - Kola, Bel - Belomorian, Ter - Tersky, Ke - Keivy, In - Inary. Belts: K-V - Kolmpozero-Voronja, LGB - Lapland, K-K - Kolvitsa-Kandalaksha, Pe - Pechenga, Im-V - Imandra-Varsuga. Complexes from which samples were collected (numbers in squares): 1 - Khibiny (abbreviation KH), 2 - Kovdor (KV), 3 - Seblyavr (SB), 4 - Ozernaya Varaka (OV), 5 - Lesnaya Varaka (LV), 6 - Salmagora (SG), 7 - Vuoriyarvy (VR), 8 - Turyi peninsula (TP), 9 - Dyke Complex (DC).
+elements, e.g., Rb, Sr, REE, is suggested to occur before the alkaline melts emplacement [Kramm and Kogarko,
+1994]. The melts were probably originated from two or three different mantle sources and were not contaminated considerably by crustal material during ascending through the continental crust [Kramm, 1993; Zaitsev and Bell, 1995].
+2.2.	Devonian Ultrabasic-Alkaline-Carbonatite and Dyke Complexes
+2.2.1.	The giant Khibiny alkaline pluton with exposed area 1327 km2, is situated in the central part of Kola Peninsula (Figure 1) between Archaean gneisses and granitoids of the Kola block to north and volcano-
+Figure 2. Schematic Geological map of Khibiny pluton (after Arzamastseva et al., 1991).
+1 - carbonatites, 2 - rocks of foyaite complex, 3 - unregular-grained nepheline syenites (lyavochor-rites), 4 - massive urtites, 5 - gneissic ijolites, 6 - trachytoid khibinites, 7 - poikilitic nepheline syenites (rischorrites), 8 - massive khibinites, 9 - apatite-nepheline ores, 10 - Early Proterozoic volcanic-sedimentary rocks of Imandra - Varsuga structure, 11 - Archean gneisses of the Kola domain.
+Sample sites: square - outcrop, circle - borehole, number - number of sample (Tables 1-5), letter shows - several samples at one and the same lockation; after slash depth of a sample is shown 8/128; 9/1547; 10/282; 11/287; Z: 12/177, 13/216, 14/393.
+genic-sedimentary rocks of the Early-Proterozoic rifto-genic Imandra-Varzuga structure to south (Figure 2).
+The Khibiny pluton is nepheline-syenites polyphase central-type intrusion characterised by a cone-like shape and a concentric-zoned (arc-like at horizontal plane) structure. Rocks of different intrusive phases exposed the following time-spatial sequence (from periphery to centre): (I) volcanic alkaline syenites; (II) massive khibinites; (III) trachytoid khibinites; (IV) rischorrites; (V) ijolite-urtites; this phase is of complicated structure and composition and includes a number of bodies of apatite-
+nepheline rocks; (VI) unregular-grained nepheline-sye-nites (lyavochorrites); and (VII) foyaite [Ivanova et al., 1970; Galakhov, 1975].
+Olivinite, pyroxenite and jacupirangite xenoliths found within the Khibiny imply that the earliest protopluton could be formed by alkaline-ultrabasic rocks which were then intruded and partially assimilated by nepheline-syenite melts [Galakhov, 1975, 1978; Shpache-nko and Stepanov, 1991; Balaganskaya and Savchenko,
+1998].
+A stock of carbonatite and ferrocarbonatite-silicate
+rocks (phase VIII) intruded foyaites (VII) displaying the following time sequence: phoscorites, i.e., biotite-aegirine-apatite rocks, (a), early carbonatites, calcite, with biotite and aegirine, (b), late calcite (c), and carbonate-zeolite veins (d) [Zaitsev, 1996].
+Kramm and Kogarko [1994] obtained Rb-Sr rockmineral isochrone age at 367.5 ± 5.5 Ma for nephelinesyenites and quite a similar age was found for mineral separates from Khibiny carbonatites, 366.6 ± 47 Ma [Zaitsev et al., 1997].
+Table 1 comprises indexes and description of samples selected from the Khibiny massif and other Complexes.
+2.2.2.	The Kovdor (5.5 x 8 km size) is situated on the south-west segment of Kola Peninsula (Figure 1), gneisses of the Belomorian domain being the host rocks [Kukharenko et al., 1965; Ternovoy, 1977; Dudkm and Kirnarsky, 1994; Balaganskaya, 1994]. The Complex has a stock-like shape and concentric-zoned structure (Figure 3). Its central core is composed by olivinites
+deleit from phoscorite of the 2 stage gave 378 ± 4 Ma [Gogol et al., 1998] and Rb-Sr isochrone age of carbon-atite (ibid) 376 ± 6 Ma [Balaganskaya and Gogol, unpublished data]. In the following discussion the age of the Complex obtained by Kramm and Kogarko [1993], 370 ± 10 Ma, is accepted.
+2.2.4.	The Ozernaya Varaka is situated in the central part of Kola Peninsula (Figure 1). This is a small almost isometric zoned body, 0.8 x 1 km (Figure 5), intruded biotite-plagioclase Late Archean gneisses of the Tersky block. The central core, ~25% of the exposed area, is composed by coarse-grained clinopyroxene rocks with nepheline, Ti-magnetite, perovskite, sometimes with apatite, amphibole, and schorlomite. The core is surrounded by intermediate ~0.2 km thick zone of ijolite-urtites. The western periphery segment is composed by ijolite-melteigites. Small blocks of clinopyrox-enites (same as in the core) with characteristic reaction rims and breccias spots are observed within the ijolite-
+which are surrounded by olivine-clinopyroxene, phlogopite-melteigites [Borodin, 1961; Kukharenko et al, 1965;
+clinopyroxene, and clinopyroxene rocks including giant pegmatitic body with meter-size crystals of olivine, clinopyroxene and phlogopite. The peripheral circle consists of melilite-bearing rocks, earlier ijolite-melte-igites and later ijolite-urtites.
+Between olivine-clinopyroxene and ijolite rocks in the south-west part of the Complex there is 1.2 x 0.8 km size body of apatite-forsterite rocks, calcite-apatite-phlogo-pite-magnetite phoscorites, earlier calcite carbonatites and later dolomite ones. Further to the west - southwest calcite carbonatites form a vein-stockwerk zone among fenitised host rocks of the frame. (Figure 3).
+The 380 ± 3 Ma age was obtained by applying U-Pb systematics to baddeleite from the calcite carbonatites [Bayanova et al., 1997].
+2.2.3.	The Seblyavr Complex is situated in the north-west part of Kola Peninsula (Figure 1). The Complex is a stock-like oval body intruding Archean gneisses of the Kola domain and having the exposed area 5 x
+4	km. The Complex is characterised by a concentric zoned structure (Figure 4). The core is composed by clinopyroxenites, including blocks of olivinites, and surrounded by the thin unlocked oval of nepheline clinopyroxenites and ijolite. In some parts of the Complex clinopyroxenites were transformed by pneumatholitic and autometasomatic processes into scarn-like apatite-phlogopite-garnet-amphibole rocks and apatite clinopyroxenites [Kukharenko et al., 1965; Subbotm and Mi-haels, 1986].
+Phoscorites and carbonatites intruded the core at four stages producing a concentric net of dykes and veins.
+The 409 ± 5 Ma Rb-Sr rocks and minerals isochrone age was obtained for clinopyroxenite, phoscorite and carbonatite of the 1 stage, whereas U-Pb age of bad-
+Dudkm et al., 1980; Arzamastzeva and Arzamastzev, 1990].
+Veins of aegirine-calcite and phlogopite-calcite carbonatites and dykes of ijolite-porphyres, feldspatoid syenites, monchiquites and tinguaites cut rocks of the massif and its fenitized 0.2-0.3 km thick rim. Kramm et al. [1993] presented 376 ± 3 Ma Rb-Sr isochrone age for clinopyroxenites and 370 ± 5 Ma for carbonatites of this Complex.
+2.2.5.	The Lesnaya Varaka Complex is situated 8 km to the south-east from the Ozernaya Varaka (Figure 1) also within the north-west section of Tersky domain. The massif is a stock-like body. The most abundant rocks are olivinites covering up to 85% of the oval-like 2.5 x 4 km exposed area (Figure 6). Among olivinites ore-bearing (with Ti-magnetite and perovskite) and pure varieties are distinguished. Veins of fine-grained ijolites, coarse-grained ijolite-pegmatites, dolomite-tremolite-carbonatites, and later tinguaites dykes are observed within olivinites. In the western and southern segments olivinites are rimmed by narrow (< 0.2 km) zone of clinopyroxenites. In contact zones the host rocks are transformed into typical aegirine-feldspar fenites.
+2.2.6.	The Salmagorsky Complex is situated 20 km to the south-east from Ozernaya Varaka (Figure 1). A stock-like body of the Complex intruded Late Archean gneisses of the north-west segment of Tersky domain (Figure 7). Near the contact gneisses are fenitised. The Complex, having exposed area 5.5 x 6.5 km, is characterised by clearly zoned structure. Its periphery segment is composed by olivinites and clinopyroxenites, at some places with elevated concentrations of Ti-
+Table 1. Brief description of samples
+Sample	Rock/mineral	Description
+Khibiny
+KH-1	Foyaite	Clinopyroxene foyaite, coarse-grained, with Ti-magnetite and titanite
+KH-2	Foyaite	Biotite foyaite, coarse-grained
+KH-3	Foyaite	Clinopyroxene foyaite, coarse-grained, albite-bearing
+KH-4	Foyaite	Clinopyroxene foyaite, albite-bearing, with titanite and biotite
+KH-5	Foyaite	Clinopyroxene foyaite, albitizated, with titanite
+KH-6	Foyaite	Foyaite
+KH-7	Foyaite	Amphibole-biotite-clinopyroxene foyaite, titanite-bearing
+KH-8	Carbonatite	Biotite-calcite carbonatite, fine-grained, with sulfides, apatite,pyrochlore
+KH-9	Carbonatite	Manganocalcite carbonatite
+KH-10	Carbonatite	Biotite-feldspar-manganocalcite carbonatite
+KH-11	Carbonatite	Manganocalcite carbonatite, feldspar-bearing, with biotite and burbankite
+KH-12	Carbonatite	Manganocalcite carbonatite
+KH-13	Carbonatite	Manganocalcite carbonatite
+KH-14	Carbonatite	Manganocalcite carbonatite
+KH-15	Carbonatite	Ankerite carbonatite
+Kovdor
+KV-1	Olivinite	Olivinite, massive, coarse-grained
+KV-2	Olivinite	Olivinite medium-grained, Ti-magnetite-bearing, with phlogopite and clinohumite
+KV-3	Olivinite	Phlogopite olivinite Ti-magnetite-bearing, with serpentine and clinohumite
+KV-4	Olivinite	Ore olivinite Ti-magnetite-bearing, altered (serpentine, clinohumite, carbonate)
+KV-5	Olivinite	Olivinite phlogopite- and clinohumite-bearing, with Ti-magnetite
+KV-6	Olivinite	Olivinite medium-fine-grained, with phlogopite, Ti-magnetite and calcite
+KV-7	Melteygite	Melteygite fine-medium-grained, with perovskite
+KV-8	Olivinite	Phlogopite olivinite with perovskite and Ti-magnetite
+KV-9	Olivinite	Olivinite serpentinous, fine-grained, Ti-magnetite- and clinohumite-bearing
+KV-10	Olivinite	Olivinite serpentinous, clinopyroxene- and Ti-magnetite-bearing, with clinohumite and phlogopite
+KV-11	Clinopyroxenite	Ore clinopyroxenite medium-grained, Ti-magnetite-and olivine-bearing
+KV-12	Clinopyroxenite	Ore nepheline-phlogopite clinopyroxenite zeolitizated
+KV-13	**Diopside	From clinopyroxenite
+KV-14	**Ti-Magnetite	From clinopyroxenite
+KV-15	Melilitolite	Melilitolite with garnet
+KV-16	Melilitite	Melilitite with biotite, coarse-grained
+KV-17	Turjaite	Turjaite with olivine, coarse-grained
+KV-18	Ijolite	Ijolite porphyraceous
+KV-19	Ijolite	Ijolite fine-grained carbonate-bearing
+KV-20	Ijolite	Ijolite, fine-medium-grained with titanite
+KV-21	**Magnetite	Magnetite from phoscorite
+KV-22	Phoscorite	Apatite-forsterite rock with magnetite, contain phlogopite and baddeleyite, fine-medium-grained
+KV-23	Phoscorite	Forsterite-magnetite phoscorite with calcite and green phlogopite
+KV-24	Phoscorite	Apatite-forsterite-magnetite rock with phlogopite, calcite and baddeleyite, medium-grained
+KV-25	Phoscorite	Calcite-magnetite rock with forsterite, phlogopite, apatite and baddeleyite, medium-grained
+KV-26	Phoscorite	Apatite-forsterite-calcite-magnetite rock with clinohumite, red phlogopite and pyrochlore
+KV-27	Carbonatite	Clinopyroxene-calcite carbonatite
+KV-28	Carbonatite	Phlogopite-clinopyroxene-calcite carbonatite
+KV-29	* Clinopyroxene	From biotite-clinopyroxene-calcite carbonatite
+Table 1.	Continuation
+Sample	Rock/mineral	Description
+KV-30	*Biotite	From biotite-clinopyroxene-calcite carbonatite
+KV-31	*Calcite	From biotite-clinopyroxene-calcite carbonatite
+KV-32	Carbonatite	Clinopyroxene-calcite carbonatite
+KV-33	Carbonatite	Calcite carbonatite, apatite and phlogopite-bearing, with dolomite
+KV-34	Carbonatite	Apatite-calcite rock with magnetite, green phlogopite and baddeleyite, medium-grained
+KV-35	Carbonatite	Calcite rock with apatite, magnetite, green phlogopite and baddeleyite, medium-grained
+KV-36	Carbonatite	Calcite rock with forsterite, magnetite, green phlogopite and baddeleyite, medium-grained
+KV-37	Carbonatite	Coarse-grained calcite carbonatite, containe rare fine grains of red phlogopite
+KV-38	**Magnetite	From dolomite-phlogopite-calcite carbonatite
+KV-39	**Calcite	From dolomite-phlogopite-calcite carbonatite
+KV-40	Carbonatite	Calcite-dolomite rock with red phlogopite
+KV-41	Carbonatite	Dolomite-calcite carbonatite with red phlogopite
+KV-42	Carbonatite	Dolomite carbonatite
+KV-43	Carbonatite	Dolomite carbonatite, coarse-grained
+KV-44	Carbonatite	Dolomite carbonatite with apatite and red phlogopite, fine-medium-grained
+KV-45	Carbonatite	Dolomite carbonatite with magnetite and rare grains of apatite and pyrochlore, medium-grained
+KV-46	Carbonatite	Dolomite carbonatite with calcite, apatite and red phlogopite
+Seblyavr
+SB-1	Olivinite	Olivinite with Ti-magnetite, perovskite, phlogopite, serpentine, fine-grained
+SB-2	*Magn, fraction	From olivinite with Ti-magnetite, perovskite, phlogopite, serpentine, fine-grained
+SB-3	Olivinite	Olivinite clinopyroxene-, phlogopite-, Ti-magnetite-bearing, with serpentine
+SB-4	Olivinite	Ore olivinite, medium-fine-grained, clinopyroxene- and Ti-magnetite-bearing
+SB-5	Olivinite	Olivinite fine-grained, clinopyroxene- and Ti-magnetite-bearing, with phlogopite and serpentine
+SB-6	Clinopyroxenite	Clinopyroxenite with perovskite, Ti-magnetite, phlogopite and amphibole
+SB-7	Clinopyroxenite	Ore clinopyroxenite, perovskite- and Ti-magnetite-bearing, with phlogopite and amphibole
+SB-8	*Magn,fraction	From ore clinopyroxenite, perovskite- and Ti-magnetite-bearing, with phlogopite and amphibole
+SB-9	*clinopyroxene	From ore clinopyroxenite, perovskite- and Ti-magnetite-bearing, with phlogopite and amphibole
+SB-10	*Perovskite	From ore clinopyroxenite, perovskite- and Ti-magnetite-bearing, with phlogopite and amphibole
+SB-11	Clinopyroxenite	Phlogopite clinopyroxenite with perovskite and Ti-magnetite
+SB-12	Clinopyroxenite	Ore clinopyroxenite, Ti-magnetite- and phlogopite-bearing, with perovskite and amphibole
+SB-13	Clinopyroxenite	Perovskite-Ti-magnetite-clinopyroxene rock with phlogopite and calcite, medium-grained
+SB-14	Ijolite	Ijolite medium-grained, contain titanite and baddeleyite, slihtly shpreushteinized, medium-grained
+SB-15	Phoscorite	Apatite-phlogopite-diopside-magnetite rock with calcite and amphibole
+SB-16	Phoscorite	Apatite-forsterite-magnetite rock contain phlogopite, baddeleyite, chlorite after forsterite
+Table 1.	Continuation
+Sample	Rock/mineral	Description
+SB-17	Phoscorite	Apatite-phlogopite-diopside-magnetite rock with baddeleyite and amphibole
+SB-18	Carbonatite	Calcite rock, contain apatite, phlogopite, baddeleyite and zircon
+SB-19	Phoscorite	Apatite-calcite-magnetite rock with red phlogopite and baddeleyite
+SB-20	Carbonatite	Calcite carbonatite
+SB-21	Carbonatite	Calcite carbonatite with green phlogopite and red phlogopite, magnetite and apatite
+SB-22	Carbonatite	Calcite rock with green phlogopite, amphibole after clinopyroxene, apatite, magnetite, zircon, baddeleyite
+SB-23	Carbonatite	Calcite carbonatite, with green and red phlogopite, dolomite, apatite, amphibole and pyrochlore
+SB-24	Carbonatite	Phlogopite-calcite carbonatite (green and red phlogopite) with Ti-magnetite, apatite
+SB-25	Carbonatite	Calcite carbonatite with red phlogopite, dolomite and baddeleyite, fine-grained
+SB-26	Carbonatite	Calcite carbonatite with red phlogopite, apatite, magnetite, ilmenite, pyrochlore and baddeleyite
+SB-27	Carbonatite	Calcite carbonatite, medium-grained, with dolomite, red phlogopite, apatite, baddeleyite
+SB-28	Carbonatite	Calcite carbonatite fine-grained, with dolomite, red phlogopite, forsterite, pyrochlore, Ti-magnetite
+SB-29	Carbonatite	Calcite-dolomite carbonatite with ancylite, pyrochlore and magnetite, medium-grained
+SB-30	Carbonatite	Dolomite-calcite carbonatite, medium-fine-grained, with apatite, pyrochlore
+SB-31	Carbonatite	Dolomite-calcite carbonatite with red phlogopite, amphibole, baddeleyite, Ti-magnetite, apatite
+SB-32	Carbonatite	Dolomite carbonatite
+SB-33	*Pyrrhotite	From dolomite carbonatite
+SB-34	*Dolomite	From dolomite carbonatite
+SB-35	*Ankerite	From dolomite carbonatite
+SB-36	Carbonatite	Dolomite carbonatite
+SB-37	Carbonatite	Dolomite carbonatite with red phlogopite, pyrrhotite, chalcopyrite, sphalerite, galena and zircon
+SB-38	*Pyrrhotite	From dolomite carbonatite with red phlogopite, pyrrhotite, chalcopyrite, phalerite, galena and zircon
+SB-39	*Dolomite	From dolomite carbonatite with red phlogopite, pyrrhotite, chalcopyrite, sphalerite, galena and zircon
+SB-40	Carbonatite	Dolomite carbonatite, fine-grained, with calcite, sulfides
+Ozernaya Varaka
+OV-1	Clinopyroxenite	Nepheline clinopyroxenite medium-grained
+OV-2	Clinopyroxenite	Nepheline clinopyroxenite fine-grained, with amphibole and Ti-magnetite
+OV-3	Clinopyroxenite	Nepheline clinopyroxenite with perovskite, Ti-magnetite and phlogopite
+OV-4	* Clinopyroxene	From nepheline clinopyroxenite with perovskite, Ti-magnetite and phlogopite
+OV-5	*Ti-magnetite	From nepheline clinopyroxenite with perovskite, Ti-magnetite and phlogopite
+OV-6	Clinopyroxenite	Nepheline clinopyroxenite with Ti-magnetite, phlogopite, apatite, titanite, melanite and amphibole
+OV-7	Clinopyroxenite	Rock consist of prismatic crystals of clinipyroxe, contain nepheline and calcite, medium-grained
+OV-8	Ijolite	Ijolite with apatite, melanite and titanomagnetite
+OV-9	Ijolite	Perovskite ijolite with apatite and phlogopite, fine-grained, banded
+OV-IO	Ijolite	Ijolite with titanite and biotite fine-grained
+Table 1.	Continuation
+Sample	Rock/mineral	Description
+OV-11	Ijolite	Ijolite with titanite and apatite, fine-grained
+OV-12	Ijolite-urtite	Ijolite-urtite with apatite, titanomagnetite and perovskite
+OV-13	Syenite	Cancrinite-nepheline syenite fine-grained, with titanite
+OV-14	Syenite	Cancrinite syenite with biotite, fine-grained
+OV-15	Carbonatite	Clinopyroxene-calcite carbonatite
+OV-16	* Clinopyroxene	From clinopyroxene-calcite carbonatite
+OV-17	*Calcite	From clinopyroxene-calcite carbonatite
+OV-18	Carbonatite	Phlogopite-calcite carbonatite
+OV-19	Carbonatite	Phlogopite-calcite carbonatite
+OV-20	Carbonatite	Biotite-calcite carbonatite, coarse-grained
+Lesnaya Varaka
+LV-1	Olivinite	Olivinite coarse-grained
+LV-2	Olivinite	Ore olivinite with Ti-magnetite and perovskite, medium-grained
+LV-3	Olivinite	Ore olivinite with Ti-magnetite and perovskite
+LV-4	*01ivine	From ore olivinite with Ti-magnetite and perovskite
+LV-5	*Ti-magnetite	From ore olivinite with Ti-magnetite and perovskite
+LV-6	**Ti-magnetite	From Ti-magnetite shlieren in rough-bended ore olivinite
+LV-7	**Ti-magnetite	From rough-bended ore olivinite
+LV-8	* * Clinopyroxene	From ore clinopyroxenite with Ti-magnetite, perovskite and phlogopite
+LV-9	**Ti-magnetite	From ore clinopyroxenite with Ti-magnetite, perovskite and phlogopite
+Salmagorsky
+SG-1	Olivinite	Ore olivinite, coarse-grained, Ti-magnetite-bearing, with perovskite
+SG-2	Olivinite	Olivinite clinopyroxene-bearing, with Ti-magnetite, perovskite and phlogopite
+SG-3	Olivinite	Olivinite with Ti-magnetite and perovskite, medium-grained
+SG-4	Olivinite	Ore olivinite, coarse-grained, Ti-magnetite-bearing, with perovskite
+SG-5	*01ivine	From ore olivinite, coarse-grained, Ti-magnetite-bearing, with perovskite
+SG-6	*Ti-magnetite	From ore olivinite, coarse-grained, Ti-magnetite-bearing, with perovskite
+SG-7	Olivinite	Ore olivinite, with Ti-magnetite and perovskite, coarse-grained
+SG-8	Olivinite	Ore olivinite with Ti-magnetite and perovskite, coarse-grained
+SG-9	Olivinite	Olivinite with Ti-magnetite, perovskite and phlogopite, fine-grained
+SG-10	Olivinite	Ore olivinite mediun-fine-grained, Ti-magnetite-bearing, with clinopyroxene and perovskite
+SG-11	Olivinite	Olivinite fine-grained, clinopyroxene-bearing, with perovskite and Ti-magnetite
+SG-12	Olivinite	Olivinite medium-fine-grained, with phlogopite, clinopyroxene and Ti-magnetite
+SG-13	Olivinite	Ore olivinite, clinopyroxene and perovskite-bearing with Ti-magnetite
+SG-14	Olivinite	Ore olivinite finely banded, clinopyroxene- and perovskite-bearing, with Ti-magnetite
+SG-15	Clinopyroxenite	Olivine clinopyroxenite, Ti-magnetite- and perovskite-bearing
+SG-16	Clinopyroxenite	Olivine clinopyroxenite, Ti-magnetite-bearing
+SG-17	Clinopyroxenite	Ore clinopyroxenite, Ti-magnetite and nepheline-bearing, with perovskite
+SG-18	Clinopyroxenite	Olivine clinopyroxenite, trachytoid, Ti-magnetite-bearing, with perovskite
+SG-19	Ijolite-urtite	Ijolite-urtite with Ti-magnetite, coarse-grained
+SG-20	Turjaite	Phlogopite-diopside turyaite
+SG-21	Turjaite	Clinopyroxene turyaite phlogopite-bearing
+SG-22	Turjaite	Turyaite medium-fine-grained, Ti-magnetite-bearing, with phlogopite
+SG-23	Melteygite	Phlogopite-diopside melteygite
+SG-24	Ij olite-melteygite	Ij olite-melteygite medium-grained, with apatite and titanite
+SG-25	Ij olite-melteygite	Ij olite-melteygite Ti-magnetite-bearing, with titanite
+SG-26	Ij olite-melteygite	Ij olite-melteygite, trachytoid, perovskite- and Ti-magnetite-bearing
+Table 1. Continuation
+Sample	Rock/mineral	Description
+SG-27	Ijolite	Ijolite with Ti-magnetite, perovskite and titanite, fine-grained
+SG-28	Ijolite	Ijolite coarse-grained
+SG-29	Carbonatite	Calcite carbonatite, coarse-grained, with sulfides, biotite and cancrinite
+SG-30	Carbonatite	Calcite carbonatite
+Vuoriyarvy
+VR-1	Olivinite	Olivinite fine-grained, clinopyroxene- and Ti-magnetite-bearing
+VR-2	Olivinite	Olivinite fine-grained with Ti-magnetite and perovskite
+VR-3	Olivinite	Olivinite with Ti-magnetite, perovskite, phlogopite, medium-grained
+VR-4	Olivinite	Ore olivinite
+VR-5	Olivinite	Olivinite with clinopyroxene, Ti-magnetite, phlogopite and amphibole, medium-grained
+VR-6	Clinopyroxenite	Phlogopite clinopyroxenite
+VR-7	**Ti-magnetite	From ore clinopyroxenite with Ti-magnetite, perovskite and phlogopite
+VR-8	Clinopyroxenite	Clinopyroxenite with Ti-magnetite and perovskite, coarse-grained
+VR-9	Clinopyroxenite	Ore clinopyroxenite with olivine, Ti-magnetite and perovskite, coarse-grained
+VR-10	* Clinopyroxene	From ore clinopyroxenite with olivine, Ti-magnetite and perovskite, coarse-grained
+VR-11	*Ti-Magnetite	From ore clinopyroxenite with olivine, Ti-magnetite and perovskite, coarse-grained
+VR-12	Clinopyroxenite	Nepheline clinopyroxenite with apatite, medium-grained
+VR-13	Ijolite	Ijolite coarse-grained
+VR-14	Ijolite-urtite	Ijolite-urtite medium-grained
+VR-15	Ijolite	Ijolite medium-fine-grained, Ti-magnetite- and apatite-bearing
+VR-16	Ijolite-urtite	Ijolite-urtite, fine-grained, shpreushteinized
+VR-17	Carbonatite	Calcite carbonatite with biotite and aegirine
+VR-18	Carbonatite	Calcite carbonatite with dolomite, phlogopite and magnetite
+VR-19	Carbonatite	Magnetite-phlogopite(green)-calcite carbonatite with clinopyroxene and apatite
+VR-20	Carbonatite	Calcite carbonatite with green phlogopite and diopside
+VR-21	Carbonatite	Calcite carbonatite with red phlogopite and apatite
+VR-22	Carbonatite	Calcite carbonatite with red phlogopite
+VR-23	Carbonatite	Dolomite-calcite carbonatite with apatite and sulphides
+VR-24	Carbonatite	Calcite-dolomite carbonatite ancylite-bearing
+VR-25	Carbonatite	Dolomite carbonatite with calcite and sulfides
+VR-26	Carbonatite	Dolomite carbonatite, medium-grained, with calcite, phlogopite, ancylite and zircon
+VR-27	Carbonatite	Dolomite carbonatite, fine-grained, with amphibole, calcite and pyrochlore
+VR-28	Carbonatite	Dolomite-calcite carbonatite, fine-grained
+Turiy Peninsula
+TP-1	Clinopyroxenite	Clinopyroxenite with Ti-magnetite
+TP-2	Clinopyroxenite	Nepheline clinopyroxenite with Ti-magnetite, phlogopite and perovskite
+TP-3	Clinopyroxenite	Nepheline-olivine clinopyroxenite, phlogopite and Ti-magnetite-bearing, medium-coarse-grained
+TP-4	Turjaite	Turyaite zeolitizated, with Ti-magnetite and perovskite
+TP-5	Turjaite	Turyaite zeolitizated, coarse-grained, with Ti-magnetite, carbonate and perovskite
+TP-6	Turjaite	Turjaite, coarse-grained
+TP-7	Turjaite	Ti-magnetite-clinopyroxene turyaite, olivine-bearing, medium-grained
+TP-8	Carbonatite	Phlogopite-calcite carbonatite with clinopyroxene, sulfides, magnetite, apatite and zircon
+TP-9	Carbonatite	Calcite carbonatite, medium-fine-grained, with amphibole, pyrochlore, apatite and zircon
+Table 1. Continuation
+Sample	Rock/mineral	Description
+TP-10	Carbonatite	Calcite carbonatite, fine-medium-grained, with red phlogopite, apatite, baddeleyite
+TP-11	Carbonatite	Dolomite carbonatite, medium-grained, with green phlogopite, apatite and sulfides
+TP-12	Carbonatite	Calcite carbonatite with fluorite, fine-grained
+Dyke Complex
+DC-1	Lamprophyre	Olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-2	*Amphibole	From olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-3	*Amphibole	From olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-4	Lamprophyre	Olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-5	Lamprophyre	Olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-6	*Amphibole	From olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-7	*Amphibole	From olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-8	Lamprophyre	Rim of ultramafic lamprophyre
+DC-9	Lamprophyre	Rim of ultramafic lamprophyre
+DC-10	Lamprophyre	Olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-11	Lamprophyre	Olivine-pyroxene-phlogopite ultramafic lamprophyre
+DC-12	Carbonatite	Ankerite carbonatite with aegirine, phlogopite and apatite
+DC-13	*Amphibole	From ankerite carbonatite with aegirine, phlogopite and apatite
+DC-14	Kimberlite	Olivine-monticellite-phlogopite kimberlite
+DC-15	Kimberlite	Olivine-phlogopite kimberlite
+DC-16	Kimberlite	Olivine-phlogopite kimberlite
+DC-17	Kimberlite	Olivine-phlogopite kimberlite
+DC-18	Nephelinite	Phlogopite-garnet nephelinite
+DC-19	*Amphibole	From nephelinite
+DC-20	Carbonatite	Calcite carbonatite with phlogopite and amphibole
+DC-21	*Amphibole	From calcite carbonatite with phlogopite and amphibole
+DC-22	Granulite	Xenolith of garnet granulite in ultramafic lamprophyre
+DC-23	Granulite	Xenolith of garnet granulite in ultramafic lamprophyre
+DC-24	Granulite	Xenolith of garnet granulite in ultramafic lamprophyre
+DC-25	*Garnet	From xenolith of garnet granulite
+DC-26	*Pyroxene	From xenolith of garnet granulite
+DC-27	Granulite	Garnet granulite mesocratic
+DC-28	Granulite	Garnet granulite leucocratic
+DC-29	Granulite	Garnet granulite melanocratic
+DC-30	Granulite	Garnet granulite leucocratic
+DC-31	Granulite	Garnet granulite
+DC-32	Carbonatite	Calcite carbonatite with phlogopite and amphibole
+DC-33	Carbonatite	Calcite carbonatite
+DC-34	Carbonatite	Xenolith of calcite carbonatite with phlogopite and apatite in ankerite carbonatite
+DC-35	Carbonatite	Xenolith of calcite carbonatite with phlogopite and apatite in ankerite carbonatite
+DC-36	Carbonatite	Xenolith of calcite carbonatite with phlogopite and apatite in ankerite carbonatite
+DC-37	Carbonatite	Xenolith of calcite carbonatite with phlogopite and apatite in ankerite carbonatite
+DC-38	Carbonatite	Ankerite carbonatite with aegirine, phlogopite and apatite
+DC-39	Carbonatite	Ankerite carbonatite with aegirine, phlogopite and apatite
+DC-40	Carbonatite	Ankerite carbonatite with pyroxene and phlogopite
+DC-41	*Amphibole	From ankerite carbonatite with pyroxene and phlogopite
+Table 1. Continuation
+Sample Rock/mineral Description
+From ankerite carbonatite with phlogopite and opaques Ankerite carbonatite
+Xenolith of amphibolite in ankerite carbonatite
+Amphibolite with carbonate and phlogopite, xenolith in ankerite carbonatite
+Xenolith of amphibolite in ultramafic lamprophyre
+Host amphibolite 5 m from an explosion pipe
+Host amphibolite 10 m from an explosion pipe
+Host amphibolite 15 m from an explosion pipe
+Xenolith of garnet pyroxenite in ultramafic lamprophyre
+Hornblende-bearing pyroxenite of xenolith in garnet melanephelinite
+Xenolith of pyroxenite in ankerite carbonatite
+Xenolith of pyroxenite in ultramafic lamprophyre
+Xenolith of amphibole-phlogopite-garnet-calcite-pyroxene rock in ultramafic lamprophyre
+Xenolith of amphibole-rutile-phlogopite-garnet rock in ultramafic lamprophyre
+DC-42	** Amphibole
+DC-43	Carbonatite
+DC-44	Amphibolite
+DC-45	Amphibolite
+DC-46	Amphibolite
+DC-47	Amphibolite
+DC-48	Amphibolite
+DC-49	Amphibolite
+DC-50	Pyroxenite
+DC-51	Pyroxenite
+DC-52	Pyroxenite
+DC-53	Pyroxenite
+DC-54	Metasomatite
+DC-55	Metasomatite
+magnetite and perovskite. Internal core of the massif is composed by rocks varying in texture and composition; coarse-grained melteygites, ijolites and urtites are most abundant. In south-west part, between the core and outer zone, there are melilite-bearing rocks: melilitites, amphibole-phlogopite-melilite rocks, turjaites and other [Orlova, 1959; Kukharenko et at, 1965; Panina, 1975]. A few thin veins and small spots of early calcite and later dolomite-ankerite-calcite carbonatites with accessory pyrochlore occur within the massif, mainly in its core.
+2.2.7.	Vuorijarvi Complex is situated in the south-west part of the Peninsula (Figure 8) intruding host Archaean gneisses of the Belomorian Block. The size of exposed area is 3.5 x 5.5 km. Clinopyroxen-ites cover ~60% of the central core rimmed by 500 m thick nepheline clinopyroxenites and the periphery circle of ijolites which thickness varies from 10 to 500 m. In the eastern part a sub-vertical phoscorite stock intruded clinopyroxenites of the core. Numerical veins of calcite and dolomite carbonatites cut the phoscorites. Small single bodies of phoscorites and carbonatite veins with thickness up to 50 m and length up to 1 km are observed in various parts of the massif and within host rocks.
+Rb-Sr rock-minerals isochrone age of carbonatite is 375 ± 7 Ma [Gogol and Delemtsyn, 1999].
+2.2.8.	The Turiy Peninsula Complex is situated on the southern coast of Kola peninsula (Figure 1). The host rocks are Early-Proterozoic granitoids of the Tersky domain overlapped by Upper-Proterozoic quartzite sandstones and aleurolites (Figure 9).
+The Complex includes several isometric bodies which exposed areas vary from 20 to 6 km2, the total exposed area being ~40 km2. These bodies are supposed to be apophyses of a single large intrusive located at least at 400 m depth. The rime, 0.2 to 1.5 km thick, of fenitised rocks surrounds the bodies (Evdokimov, 1982; Bulakh and Ivamkov, 1984]. All the bodies show similar concentric-zoned structure. Periphery segments are composed by ijolite-melteigite rocks containing relics of nepheline clinopyroxenites. The central cores consist of melilite-bearing rocks, mainly unkompahgrites and turjaites and (less abundant) okaites and melilitolites. In the centre of the largest body phoscorites and carbonatites form up to 150 m thick veins. Rocks of the massif and host rocks are cut by dykes of olivine nephelinites, melilitites, monchiquites and other rocks.
+Kramm et al. [1993] obtained 373 ± 6 Ma Rb-Sr isochrone age for ijolites and Dunworth et al. [1997] presented Rb-Sr isochrone age for phoscorites, 363 ±
+3.5	Ma.
+2.2.9.	Dyke Complex of the Kandalaksha Gulf.
+More than 1000 dykes and explosion pipes are situated mainly within a 250 km long belt along the northern coast of Kandalaksha Gulf (Figure 1). According to Kukharenko [1967] the dykes do not relate to any known magmatic Complexes; probably they were subsurface roots of an explosion lava flow removed by erosion [Bulakh and Ivannikov, 1984]. Their emplacement was controlled by the Kandalaksha Graben belonging to the regional Onega-Kandalaksha paleorift.
+Dykes within the western segment were investigated with some details. The dykes are characterised by 0.8 to 1.2 m thickness, up to 300 m length, and presumably
+Figure 3. Schematic geological map of Kovdor Complex (modified from Ternovoy et al., 1969, Ternovoy, 1977;).
+1 - feldspar ijolites, nepheline and alkaline syenites: a-dyke complex, b-rocks of Maliy massif, 2 - calcite and dolomite carbonatites, 3 - phoscorites, 4 - forsterite- magnetite rocks, 5 - phlogopite-olivine rocks, 6 - garnet- amphibole-monticellite rocks with diopside, vesuvianite, calcite, 7 - monticellite-melilite rocks, melilitolites, 8 - mica-pyroxene rocks: a-essential biotite (“glimmerites”), b-essential clinopyroxene (“clinopyroxenites”), 9 - coarse-grained ijolite-urtites and urtites, 10 - medium- grained ijolite-melteigites, 11 - olivinites: a- without ores, b- ore-bearing, 12 - fenites and fenitized gneisses, 13 - gneisses and granite-gneisses.
+1/595; 12/1598; U: 2/268, 3/276, 4/199, 5/358, 8/997, 9/126, 10/258, 11/171, 33/305, 42/796; W: 25,35,36,37; X: 27/1370; 28/1385; 29/1385; 30/1385; 31/1385; 32/1391; Y: 18/83, 38/83, 39/83; Z: 26,44,45. See Figure 2 for explanation of sample sites.
+north to north-east orientation (Figure 10). According	tichellite kimberlites, ultrabasic lamprophyres, and monto the field relationships, early and late dykes can be	chiquites; these rocks contain lower crustal and host
+distinguished.	rock xenoliths. Conventional K-Ar dating of ultrabasic
+The early dykes are composed by carbonatites, mon-	lamprophyres and montichellite kimberlites gives 360 -
+Figure 4. Schematic geological map of Seblyavr Complex (after Subbotin and Michaelis, 1986). 1 - carbonatites, 2 - phoscorites, 3 - apatite-phlogopite-diopside rocks, 4 - apatite-garnet-amphibole rocks and apatite clinopyroxenites, 5 - ijolites, 6 - nepheline clinopyroxenites, 7 -clinopyroxenites, 8 - ore-bearing clinopyroxenites and olivinites, 9 - fenites and fenitized gneisses, 10 - gneisses and migmatites.
+3/ 160; 6/70; 14/24; 19/336; 13/52; 28/353; 20/180; 15/350; 31/352; 23/132; P: 7/55, 8/55, 9/55, 10/55, 11/65; T: 32/250, 33/250, 34/250, 35/250, 36/19; U: 26/406, 30/325, 40/242; V: 37/243, 38/243, 39/243; W: 16/841, 17/841, 18/580, 21/930, 22/539, 24/462, 25/460, 27/467, 29/495; X: 4/82, 5/80; Y: 12/130, 23/132; Z: 1/49, 2/49. (See Figure 2).
+368 Ma, and 40 Ar - 39 Ar age of carbonatites is 386-396 Ma [Beard et at, 1996, 1998].
+The late dykes are represented by alkaline picrites, melanephelinites, nephelinites and alkaline syenite-por-phyrites. Within the eastern segment a number of ex-
+plosive pipes are situated together with the dykes. The pipes are composed by foidites, melilitites, and olivine-phlogopite diamond-bearing kimberlites. K-Ar phlogo-pite ages of the kimberlites are within 337 - 384 Ma [Kalmkin et al., 1993].
+Figure 5. Schematic geological map of Ozernaya Varaka Complex (after Kukharenko et al., 1965; Dudkm et al., 1980).
+1 - dykes of ijolite-porphyrites, monchiquites, tinguaites, 2 - carbonatites and related rocks: a-aegirine-calcite, b-phlogopite-calcite, 3 - nepheline-clinopyroxene rocks with titanomagnetite, perovskite, apatite, 4 - breccias of biotite-diopside rocks with ijolite cement, 5 - rocks with apatite-titanomagnetite-perovskite mineralization, 6 - ijolite-urtites, ijolites, cancrinite syenites, 7 - fine-grained ijolite-melteigites, 8 - fine-grained clinopyroxene rocks, 9 - fenite and fenitized gneisses, 10 - gneisses and granite gneisses.
+7/95; 9/215; W: 10/230, 18/121, 19/282; X: 6/116, 8/212, 12/12; Y: 3/303, 4/303, 5/303, 20/140; Z: 1/117, 2/118, 13/88; (See Figure 2).
+3.	Experimental Techniques
+3.1.	Rare Gas Measurements at Laboratory of Geochronology, Apatity, Russia
+Two extraction lines for (1) heating and (2) milling of samples were operating. (1) After weighting 0.25 - 0.64
+mm chips of rocks were wrapped in Al foil and mounted in a sample holder able to store up to 7 samples. The holder was evacuated and intermittently baked up to 200 °C for one week. The samples were sequentially dropped into a furnace and heated to a required temperature, up to 1700°C, in a Mo crucible. For the complete extraction this temperature was applied for 30 minutes.
+Figure 6. Schematic geological map of Lesnaya Varaka Complex (after Kukharenko et al., 1965; Solopov, 1977).
+1 - tremolitized olivinites, tremolite-dolomite rocks, dolomite carbonatites, 2 - serpentinized olivinites, 3 - clinopyroxenites, 4 - olivinites, 5 - ore-bearing olivinites, 6 - fenites and fenitized gneisses, 7- gneisses and granite-gneisses (Figure 2).
+(2) For milling 0.25 - 0.64 mm size chips of a sample and several small metal milling balls were loaded in a glass ampoule which then was evacuated and sealed off. The ampoule was settled on a vibration table and milling was carried out by simultaneous vibrating and rotating [Ikorsky and Kusth, 1992]. After milling, the ampoule was mounted in an ampoule breaker which was pumped out. Then the ampoule was broken. In both cases (1 and 2) the extracted gases were admitted to an all-metal line and purified using Ti-Zr getters. He (and Ne) were separated from Ar and heavier gases using a charcoal trap cooled by liquid nitrogen.
+The isotope compositions and elemental abundances of He and Ar were determined using a static mass spectrometer (MI 1201). A special trap reduced background (first of all background of hydrogen) in the chamber. By heating of Ti-Mo wire Ti was vaporised onto a metal surface of the trap which was cooled down by liquid nitro-
+gen during He isotope analysis. The resolving power of mass-spectrometer was ~1000, allowing complete separation of 3He+ from 3H+ and HD+. The sensitivity for He was 5 x 10“5 A/Torr, allowing measurements of 4He/3He ratios as high as 10® typical of crustal samples. The sensitivity for Ar was 3 x 10-4 A/Torr. Artificial mixture of 3He, He from a high-pressure tank (4He/3He = 5 x 107) and air Ne, Ar, Kr and Xe was used as a standard for the calibration of the mass-spectrometer. 4He/3He = 6.29 xlO5 and 4He/20Ne = 47 ratios were normalised against air and verified at CRPG (Nancy).
+The concentrations were determined by the peak height method with an uncertainty of ~5% (hereafter lcr is shown). Uncertainties in the 4He/3He ratios of ~ 10® and ~ 10® were 2% and 20%, respectively, and uncertainties in the 40Ar/36Ar ratios of 300 and 50,000 were 0.3% and 25%, respectively. The analytical blanks measured twice a week under exactly the same condi-
+0	0.5 1.0 m
+1________I_________I
+]l l-iV.ftl2	|	m	| 3 |v v | 4 |a a| 5
+[ZJ]6	[T^7	\VT]8	^9
+Figure 7. Schematic geological map of Salmagora Complex ( after Orlova, 1959; Kukharenko et al., 1965; Ternovoy et al., 1977).
+1 - carbonatites, 2 - apatitized rocks, 3 - melilite-bearing rocks, 4 - ijolites, 5 - melteigites, 6 -clinopyroxenites, 7 - olivinites, 8 - fenites and fenitized gneisses, 9 - gneisses and granite-gneisses. 27/349; 25/20; 24/157; 29/257; Z: 12/268, 16/13; Y: 21/261, 22/290; X: 1/118, 2/13, 3/183, 4/189, 5/189, 6/189, 7/191, 8/195, 9/199, 10/253, 11/304, 15/72, 17/183, 19/199, 28/184; ( See Figure 2).
+tions as the samples, were 1 x 10—9, 2 x 10-10, and 1 x 10-10 cm3 STP for 4He, 20Ne and 36Ar, respectively [Kamensky et al., 1984; Tolstikhm et al., 1991].
+3.2.	Rare Gas Measurements at CRPG, Nancy, France
+Rare gases were extracted by vacuum crushing [Richard et al., 1996; Marty and Humbert, 1997]. About one gram of sample was loaded in a stainless steel crusher with a magnetic piston and baked under high vacuum for one night at 100°C. 500 strokes were applied on line using an external solenoid activating the piston, and the released gases were cleaned over two Ti-sponge getters cycled between 750°C and room temperature. After purification neon and argon were adsorbed on a stainless steel grid cooled at 17 K.
+Helium was first analysed (4He on a Faraday collector, 3He using an electron multiplier and an ion counter).
+The mass spectrometer was adjusted for the analysis of all rare gases (electron energy of 60 eV, trap current of 200 mA), resulting in a low He sensitivity of 1.6 x 10-5 A/Torr, which was fortunately compensated by the generally high amounts of both He isotopes in the samples. The He isotope ratios were normalised against a secondary standard (Irenee mineral spring gas, Reunion Island, 12.41 ± 0.09 Ra as measured in CRPG).
+After He analyses, Ne was admitted in the mass-spectrometer. To suppress interfering ions, e.g., doubly charged 40Ar, 20NeH at mass 21, and doubly charged CO2 at mass 22, the mass spectrometer comprises two SAES@ getters at room temperature and a stainless steel finger containing active charcoal directly connected to the mass spectrometer ion source. The finger was cooled down to liquid nitrogen temperature before Ne admission. Neon was then desorbed from the cryogenic trap at 40°K, admitted into the mass spectrometer, and
+Figure 8. Schematic geological map of Vuorijarvi Complex (after Solopov, 1978; Subbotin, 1990). 1 - field of veined rare-metals phoscorites and carbonatites, 2 - calcite carbonatites, 3 - phoscorites, 4 - apatitized pyroxenites, 5 - ijolites, ijolite-urtites, 6 - ore (perovskite-titanomagnetite) pyrox-enites, 7 - pyroxenites with olivinite relics, 8 - fenites, 9 - gneisses and granite gneisses.
+27/158; 26/202; 16/102; 17/174; 21/56; 22/127; 25/248; 23/84 12/140 8/96; Z: 20/680, 28/311; Y: 3/202, 4/296, 5/152; X: 14/325, 15/325; W: 9/126, 10/126, 11/126;. (See Figure 2).
+left in the chamber for five more minutes before measurement started. The amount of neon and its isotopic composition were determined by analysing Ne isotope masses during 12 cycles. The peak heights and the isotopic ratios were extrapolated to the time when counting started. After the measurements, the blank and mass discrimination corrections were applied [Marty et al, 1998].
+After Ne analysis, argon was desorbed from the cryogenic trap tuned at 85°K and admitted into the mass spectrometer, with the charcoal finger valved off. 40Ar was analysed using the Faraday collector, and 36Ar, 38Ar were analysed with electron amplification and ion counting (10 cycles). During these analyses, the 36Ar
+blanks were typically 4 x 10“12 cc STP, and therefore small in comparison to the 36 Ar contents of the samples, representing only 0.2-4.0 % of the total signals at mass 36.
+3.3.	U, Th, K and Li Measurements
+The concentrations of U and Th were measured by X-radiography in Neva Expedition, St. Petersburg, Russia. The lowest measurable concentration is about 0.5 ppm. K and Li were determined by spectrophotometry after acid attack and solution in distilled water in the Geological Institute, Apatity. The reproducibility of the analyses of these four elements is within ±10%.
+ww|i 10* 12	|	|.3	| ■ 14	| >—c 15 |r ^ | 6	|	m	|	7
+%]8 |TT]p	WMu E7]72
+Figure 9. Schematic geological map of Turiy Complex (after Samoylov, Afanas'jev, 1978; Evdokimov, 1982; Bulakh, Ivamkov, 1984).
+1 - dyke rocks (olivine melanephelinites, nephelinites, monchiquites, etc.), 2 - phoscorites, 3 - car-bonatites, 4 - olivine melteigite-porphyry, 5 - aegirine and aegirine- apatite rocks, 6 - skarned rocks with vesuvianite, garnet, diopside, hastingsite, 7 - melilite rocks (turjaite), 8 - ijolite-melteigites,
+9	- clinopyroxenites with olivinites relics, 10 - fenites, 11 - sandstones, quartzito-sandstones, conglomerates, 12 - granitoids of Umba Complex, 13 - gneisses and schists.
+9/224; 8/210; 10/182; 11/191 (See Figure 2).
+4.	Results
+4.1. Helium
+4.1.1.	Abundances of He isotopes in whole-rock samples. Whole-rock (mineral) concentrations of helium isotopes and 4He/3He ratios vary within a great range ~ 104 (Table 2, Figure 11). Generally ultra-basic rocks show somewhat higher concentrations of 3He and lower 4He/3He ratios; carbonatites contain widely variable abundances of He isotopes; intermediate concentrations and ratios are typical of alkaline rocks. The lowest abundances of 3He, down to 5 x 10-13 cm3 STP g-1, and 4He, down to 2 x 10-7 cm3 STP g-1, are typ-
+ical of carbonatites from the Khibiny and some rocks from dyke Complexes. Some rocks from these Complexes also show quite high 4He/3He ratios, similar to those in radiogenic crustal helium, ~ 10s [Mamynn and Tolstikhm, 1984].
+In contrast, ultrabasic rocks, carbonatites and related minerals from the Seblyavr and the Kovdor show high concentrations of 3He, from 5 x 10-9 to 5 x 10-10 cm3 STP g-1, along with the low 4He/3He ratios. Rocks and minerals from the Seblyavr appear to retain He isotopes better than any other and contain helium with 4He/3He ~ 1000 times below the radiogenic ratio. Two olivinites, from the Seblyavr and the Lesnaya Varaka (Table 2) contain He with as low 4He/3He as 6.4 x 104 and 6.8 x 104, respectively, which are substantially lower than the
+Figure 10. Schematic geological map of Southern part of the Kola Peninsula (after Vetrin, Kalmkin, 1997).
+1 - Ultrabasic-alkaline rocks of the Paleozoic age: a-Complexes, b-explosion pipes, c-dykes, 2
+-	the Upper Proterozoic sandstones and conglomerates. 3-5 the Lower Prot.erozoic rocks: 3-porphyry granites, 4 - alkaline granites, 5 - basic and ultrabasic rocks. 6-9 the Late Archean rocks: 6 - garnet-biotite gneisses, 7 - biotite and amphibole -biotite gneisses, 8 - amphibolit.es, 9
+-	granite-gneisses, 10 - faults, 11- boundaries of investigated region. (See Figure 2).
+mean value in mid-oceanic ridge basalts, (8.9±0.9) x 104, implying a contribution of plume-related materials to Kola UACC. However, nuclear reactions could also produce high abundances of 3He and low 4He/3He ratios
+in certain environments, e.g., in Li-bearing rocks and minerals, and to identify sources of helium the measured concentrations should be compared with those expected for radiogenic in-situ produced helium.
+Figure 11. Helium isotope abundance in samples from Kola ultrabasic-alkaline- carbonatite Complexes: whole-rock abundances (gas extraction by melting). Samples from Seblyavr, Kovdor and Lesnaya Varaka show low 4He/3He ratios similar to or even slightly below the mean MORB ratio. 3He abundances in ultrabasic rocks and carbonatit.es from these massifs are higher than those typical for MORB and OIB glasses. Sources of data, for helium isotope abundances in MORB (170 samples) and OIB (280): Hiyagon et al., [1992]; Honda et al., [1991, 1993]; Kaneoka et al., [1986]; Marty, [1989]; Moreira et al., [1995]; Ozima and Zashu, [1983, 1991]; Poreda and Farley, [1992]; Poreda and Radicati, [1984]; Sarda et al., [1985, 1988]; Staudacher and Allegre, [1989]; Staudacher et al., [1986, 1989]; Valbracht et al., [1996].
+4.1.2.	Helium isotope inventories: Measured and expected from in-situ production. The concentrations of radiogenic 4He* are calculated from measured U and Th concentrations (Table 2), and the age of the massifs, 370 ± 10 Ma [Kramm et al., 1993; Kramm and Kogarko, 1994, see Section 2).
+Estimates of the in-situ produced 3He* appears to be a more complicated and less reliable than 4He*. The
+relevant nuclear reaction is bLi(nt, a)3H —> ¡3--------> 3He*
+with A(3H) = 12.2 yr where nt defines thermal neutron and a is cv-particle. The production of 3He* per one 4He* atom depends on abundance of major and some trace elements in a rock, peculiarities of U and Th distribution and Th/U ratio. Among trace elements Li is the most important but also Gd, Be, B could influence the flux of thermal neutrons.
+Morrison and Pine [1955] were the first who invented method for estimation 3He*/4He* production ratio. Gorshkov et al. [1966] illustrated a good agreement, within 20%), between measured and calculated thermal neutron fluxes in natural rocks. Gerhng et al. [1976] and Mamyrin and Tolstikhm [1984] presented measured and calculated 3He/4He ratios for different rocks and inferred that the measured ratios are mainly controlled by Li and U+Th distribution among minerals and He losses from these minerals. Therefore a direct comparison of measured and calculated ratios can not be used to estimate the accuracy of calculations. Tolstikhm et al. [1996] illustrated a similarity (also within 20 %) between the calculated production ratio of 3He* /4He* = 7.2 x 10-8 for Permian shist.s (the Molasses basin, Northern Switzerland) and the measured ratio, 9.4 x 10— 8, in adjacent aquifer having stagnant waters with quite high helium concentrations, 4.5 x 10-3 cm3 STP per g HoO. From this brief review we consider that the accuracy of calculated 3He* concentrations are most probably within 50%).
+Figure 12 comprises measured (m) over calculated (c) abundances of helium isotopes in ~40 rocks of different compositions and localities. All samples show 4Hem/4He* < 1 implying that an additional source for 4He is not required. This is in a great contrast to extremely high 3Hem/3He* ratios in these very samples, up to 105. A great excess of 3He in UACC samples can not be attributed to spallogenic production of this nuclide simply because more than 50%) of the samples were collected from prospecting boreholes and quarries (Figures 2 - 10).
+The comparison of measured and calculated abundances gives unambiguous evidence on contribution of mantle 3He-bearing fluid to a majority of ult.ra.ba.sic, alkaline rocks and carbonatit.es. The crushing and stepwise heating experiments allow fluid-related helium to be separated, at. least, partially, from in-sit.u produced He*.
+Figure 12. Comparison of measured (m) abundances of 4He and 3He and those calculated (c) assuming closed system evolution.
+While 4He(m)/4He(c) ratios are similar to or less than 1 in all samples, a. great, excess of 3He(m) is observed implying a. contribution of mantle fluid retained by almost. all samples. Ca.rbona.t.it.es and alkaline rocks from Khibiny show small excess of 3He in contrast, to ult.ra.ba-sic rocks and ca.rbona.t.it.es from Kovdor and Seblya.vr. Av - the average values, Me- the medians.
+4.1.3.	He isotope abundances in fluid inclusions. Generally a. substantial portion of 3He is related to vesicles and readily extracted by milling (the Average and Median are 0.42 and 0.37, respectively, Figure 13), whereas 4He appears to be better fixed within crystalline lattices (Av = 0.13, Me = 0.075).
+Helium isotope abundances in fluid-related He vary in a. wide range (Figure 14) similar to that, observed for the whole-rock data, (see Figure 11). However in a. number of samples from different, massifs 4He/3He ratios are substantially below the MORB value indicating a. contribution of high-3He plume-rela.t.ed fluid. Olivi-nit.e SV-1 from the Seblya.vr massif and magnetic fraction SV-2 separated from this rock both show the lowest. 4He/3He = (3.02 ± 0.01) x 104 whereas 3He concentration in the magnetic fraction is by a. factor of 4.5 exceeds that, in the parent, rock (Table 3). These relationships, also seen in Figure 14, indicate independence of the lowest. ratios 4He/3He from helium concentrations exceeded some threshold, 3He > 10“10 cm3 STP g-1.
+According to Figure 14, the 4He/3He range is getting narrower with increasing 3He. However samples
+Table 2. Bulk He and Ar isotope abundances and concentrations of parent elements
+Sample	Rock/	Number	3He	4He/3He	<36)Ar	<40)Ar/36Ar	U	Th	K	Li
+mineral	10_12cc/g	10®	10_9cc/g	g	ppm	ppm	%wt	ppm
+KH-7	Foyaite	KH-2945	3.38	8.00	7.34	11418	3	11
+KH-8	Carbonatite	NKH-581-1	10.2	8.85	6.78	1253	0.356	17.2
+KH-9	Carbonatite	81-KHC	18.4	26.3	22.05	662
+KH-12	Carbonatite	633/176,6	1.63	35.7	4.29	676	1	33	0.050
+KH-13	Carbonatite	633/216,2	1.12	76.9	3.29	607	1	70	0.040
+KH-14	Carbonatite	633/393,3	1.26	100.0	5.30	1850	1	19	0.260
+KH-15	Carbonatite	4	4.30	71.4	13.95	430
+KV-3	Olivinite	KR-62-1/276	305.8	0.18	3.56	2303	0.4	6	0.431	2.7
+KV-4	Olivinite	KR41-1/199	61.1	0.213	5.89	662	0.4	1	0.070	1.6
+KV-5	Olivinite	KR80-l/357,8	192.5	0.137	6.58	1749	0.6	1	0.257	2.8
+KV-6	Olivinite	KI-22-V	129.0	0.092	3.79	3962
+KV-7	Olivinite	D-63	69.9	4.88	5.08	7327
+KV-13	**Diopside	KD-2	111.5	0.246	9.97	632	2.3	0.5	0.085	0.0
+KV-14	**Magnetite	KD-1	522.2	0.103	3.19	3507	0.8	0.5	0.058	7.8
+KV-19	Ijolite	KR-193	94.5	0.330	2.85	20707	0.7	3	3.275	1.0
+KV-21	**Magnetite	KD-3	105.5	0.215	2.11	1658	0.8	0.5	0.018	1.0
+KV-23	Phoscorite	107-72	36.6	0.781	10.0	848	1	1	0.016
+KV-24	Phoscorite	KI-17-V	74.2	0.360	4.40	1500
+KV-27	Carbonatite	154 -KS	179.9	0.291	15.9	3090	2	5	2.500
+KV-28	Carbonatite	158-KS	561.5	0.231	4.86	14625	2	6	3.200
+KV-29	* Clinopyroxene	158-KS	1054.3	0.181	2.33	7250
+KV-30	*Biotite	158-KS	7.04	1.56	3.14	50000
+KV-31	*Calcite	158-KS	1.3	1.3	17.3	7400
+KV-32	Carbonatite	159-KS	435.5	0.28	6.03	10950	3	19	2.300
+KV-37	Carbonatite	KI-15-V	9.40	0.79	5.96	1543	0.120	0.7
+KV-41	Carbonatite	111-72	7.56	2.86	20.5	966	2	5	0.120
+KV-43	Carbonatite	117-72	49.3	1.43	9.04	1570	5	9	0.016
+KV-44	Carbonatite	KI-20-S	17.4	5.08	2.61	2107	0.140	0.2
+KV-46	Carbonatite	NKV-30	29.3	1.98	3.20	3315
+SB-1	Olivinite	111-3/49,2	1716.0	0.064	10.8	808	1.4	3	0.450	4.6
+SB-3	Olivinite	NSB138-160	1050.2	0.085	3.47	3344	1.1	4	0.520	2.0
+SB-5	Olivinite	Sja-184/80	730.8	0.714	3.09	1684	18	16	0.298	2.2
+SB-6	Clinopyroxenite	NSB-138-70	1983.8	0.078	5.22	1858	3	6	0.480	2.2
+SB-7	Clinopyroxenite	Sja-114/55	1484.7	0.680	3.75	2294	4	51	0.149	1.2
+SB-8	*Magn,fraction	Sja-114/55mf	4296.7	0.334	4.99	2185
+SB-9	* Clinopyroxene	Sja-114/55-pr	591.6	0.575	3.10	1644
+SB-10	*Perovskite	Sja-114/55-prs	129.1	76.9	5.68	687
+SB-13	Clinopyroxenite	SB-1	842.1	0.862	6.03	1691	10	47	0.744	2.2
+SB-15	Phoscorite	SB-2	112.2	1.09	5.61	4934	8	24	2.133	2.2
+SB-17	Phoscorite	SB-3	299.3	1.15	2.87	3549	6.1	27	1.975	5.8
+SB-22	Carbonatite	BEG-10	18.4	3.39	11.4	1432	2.6	9.1	0.390	2.4
+SB-23	Carbonatite	NSB-186-1	19.8	5.15	9.02	1408	0.191	4.5
+SB-26	Carbonatite	BEG-13	8.99	2.66	19.5	584	5.1	20	0.406	2.1
+SB-32	Carbonatite	16-333/249,8	214.1	0.126	8.99	1 O QO
+SB-33	*Pyrrhotite	16-333/249,8	19.3	0.233	2.35	383
+SB-34	*Dolomite	16-333/249,8	240.7	0.089	106.3	349
+SB-35	*Ankerite	16-333/249,8	53.5	0.505	9.98	952
+SB-36	Carbonatite	333/19	44.0	0.539	3.55	1220	1	16	0.008
+SB-37	Carbonatite	SB-4	77.3	0.150	3.31	936	0.5	9	0.057	3.4
+SB-40	Carbonatite	NSB-351-6	74.3	0.157	5.83	721	0.5	2	0.062	3.2
+Table 2. Continuation
+Sample	Rock/ mineral	Number	3He 10_12cc/g	4He/3He 10®	<36)Ar 10_9cc/g	<40)Ar/36Ar g	U ppm	Th ppm	K %wt	Li ppm
+OV-6	Clinopyroxenite	OV-2057/116	42.1	3.92	4.64	3901	1.9	12	0.530	3.1
+OV-11	Ijolite	BEG-2	12.1	4.37	5.37	6921	0.7	7.1	2.000	1.9
+OV-15	Carbonatite	348-D	59.7	1.96	7.71	1894	1	5	0.040
+OV-16	* Clinopyroxene	348-D	110.9	1.78
+OV-17	*Calcite	348-D	22.3	2.53	16.5	885
+OV-19	Carbonatite	OV-2044/282,5	7.28	2.67	5.54	4041	1	10	0.190	1.3
+LV-1	Olivinite	GIM-3287	79.0	0.172	5.41	665	0.5	3	0.021	2.2
+LV-5	*Ti-magnetite	LVM-2mgt	37.9	0.069	1.54	2931
+LV-2	Olivinite	LV-1	9.68	2.22	4.57	394	0.1	1.3	0.018	1.1
+LV-4	*01ivine	LVM-2/ol	2.14	2.38	2.67	1438
+SG-20	Turjaite	S-19	139.0	0.97	3.61	5313	0.730	2.2
+VR-1	Olivinite	25V-229/256,8	242.1	2.02	5.01	3371
+VR-17	Carbonatite	NVV-279/174	2.53	9.09	11.2	2144	0.680	4.3
+VR-22	Carbonatite	NVV-295/127	8.19	47.62	6.39	3774	0.199	0.5
+VR-26	Carbonatite	NVV-430/202	248.9	1.27	10.5	1261	0.083	8.8
+TP-7	Turjaite	T-63	99.5	0.161	3.03	4451
+DC-1	Lamprophyre	37-46	11.7	2.94	18.7	2500	5	7	1.818	80.0
+DC-2	*Amphibole	37-13	32.6	1.33	7.30	3395	0.2	6	1.326	9.0
+DC-3	*Amphibole	37-1	33.2	1.23	8.93	2800	1	5	1.244	9.0
+DC-4	Lamprophyre	E-l	15.3	2.94	8.14	9210	1.511
+DC-5	Lamprophyre	50-4	16.5	11.8	8.28	3792	5.1	24	1.370	37.0
+DC-6	*Amphibole	50-1	34.3	1.05	3.22	4780	0.4	5	1.069	4.0
+DC-7	*Amphibole	50-10	39.8	1.06	3.67	4900	0.3	5	0.978	40.0
+DC-12	Carbonatite	73-3	10.9	12.5	17.76	2798	0.9	6	2.084	4.0
+DC-13	*Amphibole	73-6	3.54	3.39	10.4	2232	0.4	6	1.111	12.0
+DC-14	Kimberlite	25-1	33.9	3.12	13.5	1355.85	2.3	16	0.755	8.0
+DC-18	Nephelinite	1-15	85.3	2.77	11.2	2670	6.1	5	1.345	12.0
+DC-19	*Amphibole	1-1	43.2	1.39	3.35	9240	1	8	1.716	7.0
+DC-20	Carbonatite	23-6	1.43	71.4	4.92	4270	10	23	1.303	30.0
+DC-21	*Amphibole	23-5	5.58	3.11	5.33	3395	0.6	7	1.268	73.0
+DC-22	Granulite	37-20	6.42	1.93	3.21	4366	0.2	3	0.696	15.0
+DC-23	Granulite	E-3	4.62	3.03	11.5	1385	0.481
+DC-24	Granulite	37-2(2)	3.23	3.96	4.26	6542	0.2	3	1.699	5.0
+DC-25	*Garnet	37-2(2)	1.05	3.04	1.06	1227
+DC-26	*Pyroxene	37-2(2)	17.6	2.49	5.90	2424	0.3	1	0.141	17.0
+DC-28	Granulite	E/96-10(2)	14.7	5.08	8.12	3080
+DC-30	Granulite	E/96-2(l)	15.2	2.47	13.3	1379
+DC-33	Carbonatite	23-6	1.43	71.4	4.92	4270	10	23	1.303	30.0
+DC-37	Carbonatite	73-12	4.84	0.455	4.94	2570	0.2	3	0.647	2.0
+DC-40	Carbonatite	16-7	44.4	1.35	12.6	2260	2.2	4	1.810	47.0
+DC-41	*Amphibole	16-1	30.7	0.595	8.89	2924	1	13	1.194	3.0
+DC-42	**Amphibole	17-17	16.9	2.01	5.42	6990	1.5	13	2.479	78.0
+DC-44	Amphibolite	17-20	162.6	1.02	3.67	6485	1.600
+DC-45	Amphibolite	17-la	28.3	0.847	3.63	7710	0.4	25	26.0
+DC-46	Amphibolite	E-4	23.2	1.64	12.9	2940	1.210
+DC-47	Amphibolite	40-1	3.08	4.81	7.90	9600	0.3	3	1.594	10.0
+DC-48	Amphibolite	40-2	4.88	7.81	5.45	11962	0.3	3	0.780	10.0
+DC-49	Amphibolite	40-3	3.63	7.52	5.82	18200	1.1	8	0.979	12.0
+DC-50	Pyroxenite	41-5	38.1	1.23	8.38	2734	0.5	7	0.141	18.0
+DC-51	Pyroxenite	1-18	65.5	1.695	3.84	5210	0.4	4	5.0
+DC-52	Pyroxenite	19-13	17.1	2.04	3.32	6030	0.7	5	1.028	30.0
+DC-54	Metasomatite	37-52	35.5	1.27	7.99	4486	0.7	12	0.638	20.0
+DC-55	Metasomatite	37-50	5.61	3.03	13.8	1385	0.3	8	0.597	27.0
+Figure 13. Comparison of 3He and 4He concentrations in whole-samples (melt) and in vehicles (mill).
+Milling (Section 3.1) generally liberates a considerable portion of 3He (Average and Median Pd0.4) and a smaller portion of 4He (Av and Me PdO.l). This comparison shows that 3He-bearing vesicles are larger and can be open (by milling) easier than radiation damage tracks containing radiogenic 4He.
+with as high 3He as ~ 10 9 cm3 STP g 1 still show 4He/3He varying within a factor of ~20. The parent-daughter relationships allows to understand whether initial 4He/3He ratios varied substantially in magmatic He trapped 370 Ma ago or a post.-ma.gma.t.ic contribution of in-sit.u produced 4He* is a reason of this spread.
+4.1.4.	Relationships between helium isotopes, parent element concentrations and age. Enhanced concentrations of U, the major generator of radiogenic He, are typical of ult.rabasic rocks from Kola UACC, U <20 ppm, by a factor of 100 exceeding usual concentrations [Taylor and McLennan, 1985]. The Average U concentrations and Medians (both in ppm) are decreasing from ult.rabasic rocks of UACC, 3.2 and 1.2 (13 samples) through ca.rbona.t.it.es 2.40 and 1 (23 samples) to rocks of the dyke Complex 1.8 and 0.6 (29 samples). Th concentrations are quite high in some ca.rbona.t.it.es and rocks from dykes, up to 70 ppm, which affect, the average Th/U ratios observed in these rocks, 11 and 12, respectively. The average Th/U in ult.rabasic rocks,
+5.6,	is also above the mean crust.a.l value, 3.9 [Kramers and Tolstikhm, 1998].
+A comparison of the combination U + 0.24Th proportional to 4He production [Zartman et al., 1961], and the whole-rock helium isotope abundances definitely shows an important, role of the contribution of radiogenic 4He* : the higher is the ratio of (U+0.24Th)/3He the higher is the 4He/3He ratio (Figure 15). Assuming the closed
+system evolution for UACC, i.e., no gain/loss of species of interest, since the formation age, 370 Ma. ago, the data, points would have been situated on the evolution line having slope of 4He/(U+0.24Th) = 45 [cc/g] (solid line in Figure 15). Indeed the da.t.a.-point.s are approaching the evolution line or lay below indicating an open system behaviour, i.e., helium loss. In regards to U-Th-He syst.ema.t.ics, such a. behaviour is quite typical for both igneous and sedimentary rocks (Mamyrin and Tol-stikhin, 1984; Tolstikhm et al., 1996]. Importantly, several da.t.a.-point.s having low whole-rock 4He/3He ratios almost, approach the evolution line, implying a. narrow interval for the initial 4He/3He ratio in helium trapped by these rocks.
+To estimate the initial ratio several samples with low 4He/3He and (U+0.24Th)/3He ratios are presented in a. linear co-ordinate plot. (Figure 16). The regression line indicates the initial 4He/3He = 30,000 which is exactly the same as the lowest, measured ratio in helium released by milling (sample SB-1, Table 3). Slope of the regression is lower than that, of the reference evolution line, indicating a. moderate He loss.
+Summarising, relationships between helium isotopes and parent, radioactive elements (Figures 15 and 16) reveal the identical initial ratio of 4He/3He Pd 30,000 in trapped helium and its highly variable concentrations. This initial ratio is intermediate between the mean MORB value, 89,000 [Tolstikhm and Marty, 1998] and the lowest, value observed in Loihi basalt, glasses
+20,000	[Honda, 1993]. Subsequent, variable contribution of radiogenic in-sit.u produced He* ensure a. wide spread of present.-da.y He isotope abundances in UACC, depending on relative abundance of the parent, elements, (U+0.24Th)/3He, and portion of He* retained in a. sample (see also Section 5.2).
+4.2.	Neon and He-Ne Relationships
+The conventional t.hree-isot.ope plot. (Figure 17) shows a. good correlation between 21Ne/22Ne and 20Ne/22Ne ratios in Ne extracted by milling. 20Ne/22Ne ratios vary from 10.5 to 12.1 (Table 4) implying mixing between the atmospheric, 9.8, and the solar, 13.7, end-members [Honda, 1991, 1993]. The slope of regression line, SR(Kola) = 190 ± 40, is slightly below that observed for Loihi samples, SR.(Loihi) = 250 ± 25 but. well above the MORB regression, SR.(MOR.B) = 90 ± 4, corroborating a. conclusion on a. plume-rela.t.ed fluid component, inferred from the study of He isotope abundances.
+Tolstikhm et al. [1985) reported an extremely radiogenic Ne in 5 samples of Khibiny ca.rbona.t.it.es having the average ratios 20Ne/22Ne = 5.3 and 21Ne/22Ne=0.1; because of high fluorine concentrations in Kola. UACC, contribution of radiogenic 22Ne* appears to be impor-
+Figure 14. Helium isotope abundance in samples from Kola ultrabasic-alkaline-carbonatite Complexes: a fluid component (gas extraction by milling). Both 4He/3He ratios and 3He concentrations in vesicles vary within ~4 orders of magnitude. The lowest ratios are well below MORB values indicating a contribution of high-3He plume component. The general tendency is the higher 3He concentrations, the lower 4He/3He ratios. A moderate range of 4He/3He ratios in samples greatly enriched with 3He could result from inhomogeneity of trapped fluid or mixing of trapped and in-situ produced He. This dilemma is discussed in Sections 4.1.4 and 5.2. See Figure 11 for sources of MORB and OIB data.
+tant. Other UAC Complexes show less radiogenic signature with Ne compositions following approximately along the MORB trend (Figure 17).
+Subtraction of the in-situ produced Ne isotopes using U-He-Ne systematics allow the plume-related compositions to be revealed in the less radiogenic samples from the Kovdor and other UACC. Measured isotope composition of neon (for example, point M in Figure 17, corresponding to sample KV-28, Table 4) reflects proportion of mixing of atmospheric, solar and radiogenic components. The first two end-members are well known and their adequate mixture is defined hereafter as the initial composition (SA in Figure 17). A plausible candidate for radiogenic “end-member” appears to be neon from Khibiny carbonatit.es; the corresponding da.t.a.-point. is situated to the right, off Figure 17; direction to this point, is shown by R. The end members, i.e., initial (SA) and radiogenic R compositions, as well as measured M, and plume-rela.t.ed P compositions resulting from end-member mixing must, all lay on one and the same line in the co-ordinate used. Da.t.a.-point.s R and M, which co-ordinates are known from measurements, determine this line SAPMR. Shift, of a. da.t.a.-point. from the initial composition (SA) to the right, along SAPMR is proportional to the addition of radiogenic Ne*, other things being equal. Proportion
+[(21Ne/22Ne)piume — (21Ne/22Ne)SA]/[(21Ne/22Ne)meas — (21Ne/22Ne)SA]	«	[(4He/3He)plume
+-(4He/3He)prim]/[(4He/3He)meas -(4He/3He)prim] w 0.12
+allow the shift, from initial to plume related composition to be quantified. This proportion relies on the constant. production ratio 4He*/21Ne* Pd (1.5 ± 0.5) x 10' and known (4He/3He)piume = 30,000 (Sections 4.1.3 and 4.1.4), (4He/3He)pl-im = 3,000 [e.g., Anders and Grevesse, 1989], (4He/3He)meas = 230,000 (KV-28, Table 2) and gives the composition of plume-rela.t.ed Ne in this sample shown as P. While P deviates to the left, from Kola. UACC array, other 4 corrected compositions are well within this array corroborating occurrence of plume-rela.t.ed Loihi-like Ne even in samples containing a. substantial radiogenic component..
+4.3.	Argon and Lighter Noble Gases
+4.3.1.	Parent-daughter and Ne-Ar relationships and 40Ar/3bAr ratio in trapped fluid 40Ar/3bAr ratio appears to be important, characterisation of the
+10'
+10
+10-
+10
+4He/3He	Dykes complex: O Dykes and explosion pipes 0 Xenoliths $ Xenocrystals V Host rocks	^ U ° °
+V V	o
+o <	0
+/r?	• 0	Complexes: O Khibiny P Kovdor V SeWyavr 0 Ozemaya varaka A Lesnaya varaka Rocks: • Basic-uitra basic O Alkaline O Carbonatite
+(U+0.24Th)/3He, g cm3
+10
+104
+10'
+10°
+10
+Figure 15. Relationships between whole-rock abundances of parent and daughter species indicates mixing between isotopically-homogeneous trapped He and radiogenic in-situ produced He*. Most samples are below the reference evolution line, therefore they have partially lost helium. Because of the bi-logarithmic scale of this plot, the initial 4He/3He ratio in trapped He can not be derived (see Figure 16).
+trapped fluid particularly taking into account a poor knowledge of this ratio in a plume source [Allegre et al., 1986, 1987; Ozima and Zahnle, 1993; O'Nions and Tolstikhm, 1994, 1996; Porcelh and Wasserburg, 1995; Tolstikhm and Marty, 1998]. In contrast to He, three sources of Ar are significant for samples from Kola UACC: atmogenic Ar, 40Ar* produced in-situ, and t.rap-
+ped Ar. 40Ar/3bAr ratios in Ar extracted from the samples by milling vary within an order of magnitude, from air value 296 to ~3,000, implying a substantial contribution of atmospheric Ar in initially homogeneous (Section 4.1.4) trapped fluid.
+Within the conventional 40Ar/3bAr versus K/3bAr plot the data points mainly cluster around the reference
+0 1
+Figure 16. Samples with low (U+0.24 Th)/3He and 4He/3He ratios, even though lost some helium, show a good correlation, indicating initial 4He/3He = 30,000, which is exactly the same as the lowest ratio in helium extracted by milling (samples SB-1, SB-2, and SB-6, Table 3).
+Figure 17. Conventional Ne three-isot.ope plot indicates mixing between atmospheric, primordial (solar-like) and radiogenic end-members.
+The isot.opic ratios in Ne extracted by crushing [Marty et al., 1998] follow the plume-like trend traced previously by basalts from Loihi seamount, Hawaii; whereas the ratios in bulk samples [Tolstikhm et al., 1985] approach the MORB array. When in-situ produced 21Ne* and 22Ne* were subtracted from the bulk abundances using He-Ne systematics [Honda, 1993], the corresponding data-points shift to the left-top and joint the plume trend. See definitions of symbols in Figure 15 and sources for MORB and OIB data in Figure 11.
+370 Ma isochrone crossing atmospheric initial 40Ar/3bAr ratio (Figure 18). However several Kovdor samples deviate to the top off the isochrone, indicating an elevated initial 40Ar/3bAr ~4,000 in the trapped fluid.
+20Ne/22Ne versus 40Ar/3bAr correlation (Figure 19) allows an independent estimate for the initial 40Ar/3bAr ratio [Marty et al., 1998]. This correlation resulting from mixing of atmospheric and mantle species definitely shows that the mantle end-member must have 40Ar/3bAr > 3,000. Generally mixing trajectory is a curve in these coordinates and extrapolation of this curve to solar 20Ne/22Ne requires special assumptions about the mantle end-member(s). If mixing of material from 3 reservoirs (Section 5.4) would have occurred, the extrapolation is not allowed. Assuming two end-member mixing, i.e., the atmosphere and the plume source, Marty et al. [1999] obtained the limiting 40Ar/36Arplume -5,000 - 6,000.
+4.3.2. 4He/40Ar* ratio in trapped fluid. Two
+post.-ma.gma.t.ic processes appears to evolve 4He/40Ar* ratios in a trapped fluid. The first is addition of in-situ produced nuclides, particularly tacking into account that the mean K/U ratio observed in UAC samples (with the exception of the Dyke Complex, see Table 3) is by a factor of Pd5 less than the canonical mantle K/U
+= 12700 [Johum et al., 1983]. The second is a preferential helium loss. Indeed, the whole-rock 4He/40Ar* versus (U+0.24Th)/K plot demonstrates that the two processes account for the observed distribution of data-points (Figure 20).
+To avoid a substantial contribution of in-situ-produced nuclides, 23 samples with 4He/3Hemin < 4He/3HeMORB were selected giving the average 4He/40Ar* = 6.4 ± 5.3 and Me = 5.0. Among those several carbonatit.es show insignificant, fractionation between 4He and 21Ne* (See Figure 24) and 4He/40Ar* ratios in this sub-set. vary within a. narrow range averaging at. 3.1 ± 1.1 which is in a. good agreement, with the model estimations of mantle ratios, 2.5 ± 1.5 for the upper and Pd3 for the lower mantle reservoirs [Tolstikhm and Marty, 1998].
+5.	Discussion
+5.1.	Carriers of Mantle Fluids: Inclusions and Host Minerals
+To understand relationships between the crystallisation consequence, the mineral structures, the morphology and density of defects in crystalline lattices, and the trapped component, abundances, mineral separates
+Table 3. He and Ar abundances in vesicles
+Sample	Rock/ mineral	Number	3He 1012 cc/g	4He/3He 10®	<36)Ar 109 cc/g	(40)Ar/<36)Ar
+KH-1	Foyaite	KH-2909	1.0	2.38	n.d.	n.d.
+KH-2	Foyaite	KH-2914	5.5	1.34	n.d.	n.d.
+KH-3	Foyaite	KH-2918	0.7	2.85	n.d.	n.d.
+KH-4	Foyaite	KH-2921	46.8	1.02	n.d.	n.d.
+KH-5	Foyaite	KH-2941	0.3	4.54	n.d.	n.d.
+KH-6	Foyaite	KH-2944	0.6	2.32	n.d.	n.d.
+KH-7	Foyaite	KH-2945	1.3	1.16	n.d.	n.d.
+KH-8	Carbonatite	NKH-581-1	6.4	8.19	11.0 9	866
+KH-10	Carbonatite	13-KHk	0.4	6.84	n.d.	n.d.
+KH-11	Carbonatite	14-KHk	0.1	37.0	n.d.	n.d.
+KV-1	Olivinite	D-52	32.1	0.06	0.30	1621
+KV-2	Olivinite	KR-59-1/268.1	64.2	0.064	0.82	2193
+KV-3	Olivinite	KR-62-1/276	91.6	0.068	n.d.	n.d.
+KV-4	Olivinite	KR41-1/199	34.8	0.060	n.d.	n.d.
+KV-5	Olivinite	KR80-l/357,8	109	0.063	n.d.	n.d.
+KV-8	Olivinite	KR-133-1/997,3	10.1	0.129	n.d.	n.d.
+KV-9	Olivinite	KR-18-1/126	2.0	0.084	n.d.	n.d.
+KV-10	Olivinite	KR-55-1/257.8	62.0	0.084	1.44	2985
+KV-11	Clinoyroxenite	KR-35-1/171,4	239	0.100	n.d.	n.d
+KV-12	Clinoyroxenite	KR-5s/152-1598	145	0.086	n.d.	n.d
+KV-13	**Diopside	KD-2	57.8	0.074	0.43	2818
+KV-14	**Magnetite	KD-1	298	0.071	n.d.	n.d
+KV-15	Melilitolite	KI-22-A	55.7	0.068	n.d.	n.d
+KV-16	Melilitite	D-54	19.8	0.132	n.d.	n.d
+KV-17	Turjaite	CIM-4652	221	0.051	n.d.	n.d
+KV-18	Ijolite	19/83KS	114	0.148	n.d.	n.d
+KV-19	Ijolite	KR-193	33.7	0.152	n.d.	n.d
+KV-20	Ijolite	KI-16	116	0.111	n.d.	n.d
+KV-21	**Magnetite	KD-3	44.4	0.132	0.51	1509
+KV-22	Phoscorite	KI-17-A	7.9	0.120	n.d.	n.d
+KV-24	Phoscorite	KI-17-B	35.2	0.097	n.d.	n.d
+KV-25	Phoscorite	KI-20-A	49.6	0.318	n.d.	n.d
+KV-26	Phoscorite	KI-20-B	86.0	1.00	n.d.	n.d
+KV-33	Carbonatite	KR-69-1/305,1	13.2	0.476	n.d.	n.d
+KV-34	Carbonatite	D-56	3.8	1.32	n.d.	n.d
+KV-35	Carbonatite	KI-15-A	9.2	0.633	n.d.	n.d
+KV-36	Carbonatite	KI-15-C	35.3	0.360	n.d.	n.d
+KV-37	Carbonatite	KI-15-B	1.1	0.179	n.d.	n.d
+KV-38	**Magnetite	4/83-KS/m	133	0.195	n.d.	n.d
+KV-39	**Calcite	4/83-KS/k	336	0.398	n.d.	n.d
+KV-40	Carbonatite	KI-18	9.0	0.714	n.d.	n.d
+KV-42	Carbonatite	KR-128-1/795,5	710	0.526	n.d.	n.d
+KV-44	Carbonatite	KI-20-C	10.0	1.61	n.d.	n.d
+KV-45	Carbonatite	KV-ZH-14	39.7	0.781	n.d.	n.d
+SB-1	Olivinite	111-3/49,2	85.9	0.030	4.13	435.4
+SB-2	*Magn,fraction	111-3/49,2	405	0.030	3.25	593
+SB-3	Olivinite	NSB138-160	120	0.036	n.d.	n.d
+SB-4	Olivinite	Sj a-184/82,5	40.8	0.179	n.d.	n.d
+SB-5	Olivinite	Sja-184/80	98.1	0.060	n.d.	n.d
+SB-6	Clinoyroxenite	NSB-138-70	694	0.031	2.94	1200
+Table 3. Continuation
+Sample	Rock/ mineral	Number	3He 1012 cc/g	4He/3He 10®	<36)Ar 109 cc/g	(40)Ar/<36)Ar
+SB-7	Clinoyroxenite	Sj a-114/55	412	0.045	1.78	1685.5
+SB-8	*Magn,fraction	Sja-114/55mf	601	0.046	2.64	1325
+SB-9	* Clinopyroxene	Sja-114/55-pr	388	0.042	1.56	1603
+SB-10	*Perovskite	Sja-114/55-prs	59.8	1.099	2.46	1016
+SB-11	Clinoyroxenite	Sj a-114/65	215	0.055	1.02	1564
+SB-12	Clinoyroxenite	Sja-186/130	424	0.041	3.89	1130
+SB-13	Clinoyroxenite	BEG-16	429	0.040	0.99	1359
+SB-14	Ijolite	BEG-12	23.6	0.051	n.d.	n.d
+SB-15	Phoscorite	BEG-6	66.3	0.047	0.62	2185
+SB-16	Phoscorite	BEG-11	4.4	0.248	n.d.	n.d
+SB-17	Phoscorite	BEG-8	89.4	0.045	0.87	1204
+SB-18	Phoscorite	BEG-9	7.8	0.113	n.d.	n.d
+SB-19	Phoscorite	BEG-15	32.5	0.099	n.d.	n.d
+SB-20	Carbonatite	Sja-101/180,5	11.3	0.159	n.d.	n.d
+SB-21	Carbonatite	NSB-341-13	2.1	0.172	n.d.	n.d
+SB-22	Carbonatite	BEG-10	10.4	0.101	n.d.	n.d
+SB-23	Carbonatite	NSB-186-1	2.5	0.518	n.d.	n.d
+SB-24	Carbonatite	NSB-341-3	3.0	0.294	n.d.	n.d
+SB-25	Carbonatite	NSB-341-4	3.1	0.304	n.d.	n.d
+SB-26	Carbonatite	BEG-13	3.3	1.23	n.d.	n.d
+SB-27	Carbonatite	NSB-341-2	2.4	0.154	n.d.	n.d
+SB-28	Carbonatite	NSB-359-1	6.3	0.637	n.d.	n.d
+SB-29	Carbonatite	NSB-341-1	229	0.073	n.d.	n.d
+SB-30	Carbonatite	NSB-351-1	10.9	0.097	n.d.	n.d
+SB-31	Carbonatite	NSB-362-1	12.6	0.095	n.d.	n.d
+SB-37	Carbonatite	BEG-14	23.5	0.070	1.58	668
+SB-38	*Pyrrhotite	BEG-14	3.9	0.096	0.80	465
+SB-39	*Dolomite	BEG-14	43.4	0.064	2.59	735
+SB-40	Carbonatite	NSB-351-6	29.7	0.077	n.d.	n.d
+OV-1	Clinoyroxenite	OV-2048/117,4	23.5	0.809	n.d.	n.d
+OV-2	Clinoyroxenite	OV-2048/118	38.2	0.345	n.d.	n.d
+OV-3	Clinoyroxenite	OV-2050/302,8	18.5	0.556	n.d.	n.d
+OV-4	* Clinopyroxene	OV-2050/302,8py	17.1	0.654	n.d.	n.d
+OV-5	*Ti-magnetite	OV-2050/302,8mg	37.0	0.441	n.d.	n.d
+OV-6	Clinoyroxenite	OV-2057/116	41.6	0.265	n.d.	n.d
+OV-7	Clinoyroxenite	OVS-33/95	10.5	0.564	n.d.	n.d
+OV-8	Ijolite	OV-2057/212	9.7	0.435	5.03	636
+OV-9	Ijolite	NOV-2053/1	12.0	0.518	n.d.	n.d
+OV-IO	Ijolite	OV-2044/230	7.0	0.633	n.d.	n.d
+OV-11	Ijolite	BEG-2	5.1	0.588	n.d.	n.d
+OV-12	Ijolite-urtite	OV-2057/12	7.3	0.549	n.d.	n.d
+OV-13	Syenite	OV-2048/87,6	2.1	1.38	n.d.	n.d
+OV-14	Syenite	OV-79/95	0.2	1.44	n.d.	n.d
+OV-18	Carbonatite	OV-2044/121	0.3	0.952	n.d.	n.d
+OV-19	Carbonatite	OV-2044/282,5	1.3	1.58	0.94	1021
+OV-20	Carbonatite	OVS-2050/139,6	1.4	3.66	n.d.	n.d
+LV-1	Olivinite	GIM-3287	32.5	0.086	0.67	1061
+LV-2	Olivinite	LV-1	6.7	0.074	0.11	2790.6
+LV-3	Olivinite	LVM-2/nn	10.2	0.072	0.67	863
+LV-4	*01ivine	LVM-2/ol	1.3	0.101	0.35	345
+Table 3. Continuation
+Sample	Rock/ mineral	Number	3He 1012 cc/g	4He/3He 10®	<36)Ar 109 cc/g	(40)Ar/<36)Ar
+LV-5	*Ti-magnetite	LVM-2mgt	21.2	0.061	0.31	3000
+LV-6	**Ti-magnetite	GIM-343	48.5	0.196	0.79	2463
+LV-7	**Ti-magnetite	LV-8/117mgt	141.1	0.110	n.d.	n.d
+LV-8	* * Clinopyroxene	LV-80/lpr	19.7	0.112	n.d.	n.d
+LV-9	**Ti-magnetite	LV-80/lmgt	16.0	0.156	n.d.	n.d
+SG-1	Olivinite	S-2011 /118,5	1.5	0.144	0.34	767
+SG-2	Olivinite	S-2011 /13	2.3	0.167	n.d.	n.d
+SG-3	Olivinite	S-2011 /183,3	18.0	0.427	0.57	1230
+SG-4	Olivinite	S-2011 /189,5	2.6	2.55	0.66	531
+SG-5	*01ivine	S-2011/189.5ol	1.1	0.346	0.44	519
+SG-6	*Ti-magnetite	S-2011/189,5mgt	2.1	1.71	0.62	438
+SG-7	Olivinite	S-2011 /191	6.9	0.552	0.51	1356
+SG-8	Olivinite	S-2011 /195	3.3	1.56	0.35	662
+SG-9	Olivinite	S-2011 /199	1.9	0.424	2.04	588
+SG-10	Olivinite	S-2011 /253,5	12.3	0.334	0.39	1673
+SG-11	Olivinite	S-2011/304,5	7.0	0.186	n.d.	n.d
+SG-12	Olivinite	S-2032/268	21.5	0.107	n.d.	n.d
+SG-13	Olivinite	S-45	13.5	0.526	n.d.	n.d
+SG-14	Olivinite	S-50a	13.6	0.418	n.d.	n.d
+SG-15	Clinoyroxenite	S-2011 /72	86.4	0.113	n.d.	n.d
+SG-16	Clinoyroxenite	S-2032/13	4.7	0.148	n.d.	n.d
+SG-17	Clinoyroxenite	S-201 l/183,3a	19.6	0.260	1.25	1840
+SG-18	Clinoyroxenite	S-62	12.4	0.444	n.d.	n.d
+SG-19	Clinoyroxenite	S-2011/199a	16.5	0.254	2.76	2683
+SG-20	Turjaite	S-19	56.5	0.157	n.d.	n.d
+SG-21	Turjaite	S-2033/261	354.5	0.158	n.d.	n.d
+SG-22	Turjaite	S-2033/290	245.4	0.212	n.d.	n.d
+SG-23	Melteygite	S-ll	9.3	0.218	n.d.	n.d
+SG-24	Ij olite-melteygite	NSG-2030/5	13.0	0.408	n.d.	n.d
+SG-25	Ij olite-melteygite	NSG-2031/2	19.8	0.222	n.d.	n.d
+SG-26	Ij olite-melteygite	S-48	7.9	0.417	n.d.	n.d
+SG-27	Ijolite	S-2015/349	34.1	0.148	n.d.	n.d
+SG-28	Ijolite	S-2011 /184,5	34.6	0.231	2.38	2268
+SG-29	Carbonatite	NSG-2026/2	55.4	0.527	n.d.	n.d
+SG-30	Carbonatite	S-5	26.5	0.521	n.d.	n.d
+VR-1	Olivinite	25V-229/256,8	42.0	0.145	n.d.	n.d
+VR-2	Olivinite	44-2/48,0	93.9	0.048	n.d.	n.d
+VR-3	Olivinite	NVV-288-202	40.9	0.083	n.d.	n.d
+VR-4	Olivinite	NVV-288-296	34.9	0.083	n.d.	n.d
+VR-5	Olivinite	NVV-288-152	56.8	0.063	n.d.	n.d
+VR-6	Clinoyroxenite	N-426/226	170.2	0.376	n.d.	n.d
+VR-7	**Ti-magnetite	N-384/288	42.0	1.79	n.d.	n.d
+VR-8	Clinoyroxenite	NVV-258-96	148.2	0.063	n.d.	n.d
+VR-9	Clinoyroxenite	NVV-307/126	360.3	0.074	1.94	1754
+VR-10	* Clinopyroxene	NVV-307/126pr	60.0	0.213	1.74	1493
+VR-11	*Ti-magnetite	NVV-307/126mgt	907.1	0.067	1.95	1586
+VR-12	Clinoyroxenite	NVV-95/140	134.6	0.126	n.d.	n.d
+VR-13	Ijolite	N-417/158	186.9	0.152	n.d.	n.d
+VR-14	Ijolite-urtite	NVV-289/325	66.5	0.191	n.d.	n.d
+VR-15	Ijolite	NVV-289/325-1	78.1	0.352	n.d.	n.d
+Table 3. Continuation
+Sample	Rock/ mineral	Number	3He 1012 cc/g	4He/3He 10®	<36)Ar 109 cc/g	(40)Ar/<36)Ar
+VR-16	Ijolite-urtite	NVV-438/102	32.4	0.188	n.d.	n.d
+VR-17	Carbonatite	NVV-279/174	0.2	2.21	n.d.	n.d
+VR-18	Carbonatite	29V-128/161	14.1	0.355	n.d.	n.d
+VR-19	Carbonatite	V-48-125/69	27.6	0.181	n.d.	n.d
+VR-20	Carbonatite	NVV-200/680	8.9	11.8	n.d.	n.d
+VR-21	Carbonatite	NVV-467/2	1.7	9.71	n.d.	n.d
+VR-22	Carbonatite	NVV-295/127	1.0	9.09	n.d.	n.d
+VR-23	Carbonatite	NVV-328/84	0.2	4.29	n.d.	n.d
+VR-24	Carbonatite	13V-206/234,5	29.0	1.31	n.d.	n.d
+VR-25	Carbonatite	NVV-288-248	95.1	0.662	n.d.	n.d
+VR-26	Carbonatite	NVV-430/202	250.0	0.696	n.d.	n.d
+VR-27	Carbonatite	NVV-440/158	5.9	0.917	n.d.	n.d
+VR-28	Carbonatite	NVV-200/311	1.3	14.7	n.d.	n.d
+TP-1	Clinoyroxenite	S-92/4,2	24.5	0.057	n.d.	n.d
+TP-2	Clinoyroxenite	GIM-3010	10.3	0.136	n.d.	n.d
+TP-3	Clinoyroxenite	GIM-3012	24.1	0.079	n.d.	n.d
+TP-4	Turjaite	GIM-4680	14.6	0.389	n.d.	n.d
+TP-5	Turjaite	GIM-4696	6.7	0.305	4.59	1286
+TP-6	Turjaite	S-45N12	23.0	0.521	n.d.	n.d
+TP-7	Turjaite	T-63	24.8	0.081	n.d.	n.d
+TP-8	Carbonatite	TPN-26	2.4	0.551	n.d.	n.d
+TP-11	Carbonatite	TPN-29	85.7	0.186	n.d.	n.d
+TP-12	Carbonatite	TPN-57	7.7	6.49	n.d.	n.d
+DC-3	*Amphibole	37-1	.6	0.87	1.97	760
+DC-8	Lamprophyre	E/96-l(2)	4.0	1.58	3.87	2350
+DC-9	Lamprophyre	E/96-20(2)	3.5	1.31	6.99	930
+DC-10	Lamprophyre	E/96-l(l)	2.6	1.69	18.18	506
+DC-11	Lamprophyre	E/96-20(l)	1.7	1.49	3.14	1177
+DC-15	Kimberlite	K/97-6	0.0	7.69	n.d.	n.d
+DC-16	Kimberlite	K/97-4	0.0	7.94	n.d.	n.d
+DC-17	Kimberlite	K/97	0.0	1.82	n.d.	n.d
+DC-19	*Amphibole	1-1	21.6	1.22	3.29	1548
+DC-27	Granulite	E/96-10(l)	7.1	0.893	2.74	1132
+DC-28	Granulite	E/96-10(2)	2.4	0.893	2.65	1282
+DC-29	Granulite	E/96-10(3)	8.4	0.943	1.21	2032
+DC-30	Granulite	E/96-2(l)	3.1	1.09	4.33	531
+DC-31	Granulite	E/96-20(3)	0.4	1.8	5.39	649
+DC-32	Carbonatite	N/96-1(74)	0.7	1.41	2.81	807
+DC-34	Carbonatite	66	19.6	2.1	1.92	2417
+DC-35	Carbonatite	67	0.6	0.431	1.97	1521
+DC-36	Carbonatite	T/96-ll(64)	36.6	1.26	4.75	1537
+DC-38	Carbonatite	73-10	1.0	3.57	4.71	1359
+DC-39	Carbonatite	68	0.6	1.85	3.20	1250
+DC-41	*Amphibole	16-1	11.4	0.376	1.84	924
+DC-43	Carbonatite	E/96-ll(71)	4.1	2.75	3.31	2839
+DC-53	Pyroxenite	E/96-l(3)	0.4	1.18	0.77	1092
+Figure 18. K-Ar evolution diagram.
+Most samples approach the reference 370 Ma isochrone crossing atmospheric 40Ar/3bAr ratio. However several samples from the Kovdor and Vuoriyarvi Complexes are well above the isochrone implying trapped Ar with initial 40Ar/3bAr ~4,000. Samples having low K/3bAr ratios (inset) also show occurrence of excess trapped Ar with 40Ar/3bAr > 3,000. Host rocks of the dyke Complex are not considered because of their older age.
+were investigated. Ultrabasic rocks showing the highest abundances of trapped He appears to be the most interesting for this study. Table 5 comprises He isotope abundances in olivine, pyroxene and magnetite concentrates from olivinit.e SB-3 (Tables 1, 2). It should be noted that the whole-rock U, Th, and He data indi-
+cate a good retention, >50%, of radiogenic 4He* by this sample. As it is shown below in this Section, even better 3He retention is expected. Therefore the present-day measured 3He concentrations should approach those trapped initially. 3He concentrations are almost constant in the clinopyroxene and Ti-magnetit.e separates
+Figure 19. Ar-Ne isotope plot (after Marty et al., 1999). Notice relatively low 40Ar/3bAr ~3,000 ratio measured in a mantle “end-member” together with the least contaminated Ne. This ratio is somewhat lower than the model-derived lower mantle values and much lower than values inferred from observation for the upper mantle, Pd40,000 (see Tolst.ikhin and Marty, 1998, and references therein). Extrapolation could lead to a somewhat higher value for the mantle source. However the extrapolation trends and even possibility of the extrapolation are not clear.
+I I I I I I I ;	I	»	I	I	I	I	I I I	I	I	I	I	I	I	I	I ;	I	1	I	>	I	I	I	I I
+10 4 10 "3 10'2 10'1
+Figure 20. Generally samples from Kola UACC (excepting those from the Dyke Complex) show whole-rock 4He/40Ar* ratios lower than those predicted by parent elements.
+These relationships imply a preferential loss of radiogenic 4He. Some carbonatit.es show especially low 4He/40Ar* resulted from insufficient ability to preserve helium (see Figure 15). A correlation between 4He/40Ar*melt. and 4He/40Ar*mill (not presented in this paper) indicates a contribution of the in-sit.u produced species into the trapped fluid (see Figure 23).
+In contrast, the ratios in host rocks of the Dyke Complex are below the concordia, whereas these in several samples from dykes themselves are above this line indicating that the dykes could be considered as a complementary reservoir to the host rocks (Mamyrin and Tolst.ikhin, 1984; Tolst.ikhin et. al., 1996).
+but vary mildly in the olivine slightly increasing with its size. 3He concentrations in the pyroxene and in bigger fractions of the olivine are similar, Pd 18 x 10“9 cc/g. The Ti-ma.gnet.it.e shows much higher abundance of trapped mantle He. This enrichment could originate from the consequence of mineral crystallisation governing magnetite segregation after olivine and clinopyrox-ene. Rare gases are incompatible elements and a rare gas enrichment (~10 times) adequate to the mass balance (~10% of magnetite in the rocks) is expected in the last portion of basic melt producing magnetite. Also the crystalline lattice of magnetite shows channel-like interstitials between elementary crystal domains with cross size Pd2 A which is similar to diameter of He atom. In contrast to that, crystalline lattice of olivine is rather dense and defects/inclusions are needed to accommodate trapped species.
+Generally olivine is used as a proper carrier of trapped He [e.g., Marty and Tolstikhm, 1998, and references therein]. Taking into account high concentrations of trapped He and its rather good retention in magnetite (see Figure 22), this mineral can be recommended as a promising natural sampler of trapped rare gases. High 3He concentrations and low 4He/3He ratios in several
+other magnetite separates (e.g., samples KV-13, 14, 21; SB-7-9, LV-4, 5, Table 2) support this suggestion.
+4He concentrations in the mineral separates varies more widely then 3He implying inhomogeneity of U (Th) concentrates, or different retention of radiogenic 4He*, or a contribution of U-bearing mineral, like perovscit.e (SB-10, Table 2) having the highest concentration of 4He among UAC samples. The last column in Table
+5	shows hypothetical contributions of perovscit.e which are able to reconcile 3He and 4He inventories in all separates.
+Step-wise heating experiments with Ti-ma.gnet.it.es and olivine (Figure 21) clearly indicate different, settings for 4He*, always related to radiation damage tracks, and 3He. At. low temperatures <800°C fluid inclusions are decripit.a.t.ed liberating a. dominant, portion of major fluid components, COo and HoO, and variable portions of 4He* and 3He. In Ti-ma.gnet.it.e BEG-1 (Figure 21b) portion of 3He released within these low-t.empera.t.ure steps coincides with that liberated by crushing, ~10%. Because of the mean size of the post-crushing powder is about. 0.001-0.01 cm, the inclusions in this mineral should be of a. similar size or somewhat, less.
+4He* is mainly released under moderate tempera-
+Table 4. Neon isotopes in vesicles and bulk samples
+Sample	Rock/mineral	Extraction	22Ne 1012 cc/g	20Ne/22Ne 21Ne/22Ne
+SB-13	Clinoyroxenite	Milling	46.7	10.57	0.0333
+SB-15	Phoscorite	Milling	31.2	11.96	0.0376
+SB-15	Phoscorite	Milling	36.6	11.25	0.035
+SB-17	Phoscorite	Milling	8.8	11.37	0.0345
+SB-17	Phoscorite	Milling	12.0	10.46	0.0317
+SB-37	Carbonatite	Milling	35.1	10.29	0.0307
+SB-37	Carbonatite	Milling	62.9	10.87	0.0304
+LV-2	Olivinite	Milling	7.6	12.07	0.0382
+LV-2	Olivinite	Milling	4.5	10.91	0.0307
+KV-23	Phoscorite	Melting	435.6	10.1	0.032
+KV-28	Carbonatite	Melting	245.5	11	0.048
+SB-32	Carbonatite	Melting	236.5	10.15	0.035
+SB-34	*Dolomite	Melting	370.4	10.8	0.04
+OV-15	Carbonatite	Melting	288.5	10.4	0.035
+KV-23	Carbonatite	Melting (corr)	-	10.25	0.0296
+KV-28	Carbonatite	Melting (corr)	-	12.56	0.0337
+SB-32	Carbonatite	Melting (corr)	-	10.52	0.0309
+SB-34	*Dolomite	Melting (corr)	-	11.37	0.0338
+OV-15	Carbonatite	Melting (corr)	-	10.77	0.0310
+tures, from 600 to 1100°C. Radiation tracks especially	tices. An adequate amount of 40Ar is also released under
+those crossing	grain boundaries and/or fluid-bearing	the same high temperature so that measured 4He/40Ar*
+vesicles clearly play an important role stimulating 4He*	ratios are close to this ratio in the magmatic fluid Pd3
+loss under low and moderate temperatures.	(Section 4.3.2).	Vacuum conditions during step-wise
+In contrast	;o 4He*, trapped 3He is	dominantly re-	heating experiments shows that large high-temperature
+leased under rather high temperatures, >1100°C, al-	portions of 3He (and relevant portion of 40Ar*) are not
+most together with destruction of the crystalline lat-	accompanied by adequate amounts of the major volatile
+Table 5. Helium and argon isotopes in 1600°C)	mineral separates from sample SB-3 (gases extracted by melting under
+Mineral	Size mm	4He 10-6 cc/g	3He 10-9 cc/g	4He/3He 10“6	SB-10 mass-fr.
+Clinopyroxene	>0.315	186.5	0.207	0.901	0.018
+Clinopyroxene	>0.16	375	0.167	2.24	0.037
+Olivine I	>0.2	12.6	0.087	0.144	0.001
+Olivine I	>0.315	8.9	0.141	0.0628	0.0005
+Olivine II	>0.16	50	0.135	0.369	0.0047
+Olivine II	>0.2	7.8	0.088	0.0885	0.0005
+Olivine II	>0.315	38.4	0.246	0.155	0.0031
+Olivine II	>0.4	54.2	0.165	0.327	0.005
+Ti-magnetite	>0.16 (3 A)	338	2.74	0.123	0.025
+>0.20 (3 A)	340	2.48	0.136	0.027
+>0.315(3 A)	250	2.38	0.104	0.017
+>0.315(6 A)	426	2.41	0.176	0.036
+The whole-rock sample has lost less than 0.5 of the radiogenic in-situ produced He, therefore the present-day concentrations of less movable 3He at least in 01 and Ti-Mgt should be similar to the initial values. In the last column mass-fraction of Perovskite SB-10 is shown; addition of this fraction to the host mineral (col. 1) would explain observed range of 4He concentrations. A means Ampers: current under which the separation has been performed.
+Figure 21. Step-wise heating experiments for magnetites and olivine separated from ultrabasic rocks (see Tables 1-3 for SB-3 and KV-5, and Table 5 for BEG-1). Notice three separated loss events: (1) Low temperature loss which is most probably related to decripita-t.ion of large vesicles; both trapped 3He (see Figures 12, 14) and radiogenic 4He* = 3He (4He/3Hemeas -4He/3Heinitiai ) axe releasing at this low temperature, <800°C. (2) Preferential loss of 4He* from related radiation cv-tracks under moderate temperature from 600°C to 1100°C. (3) Preferential loss of 3He under high temperature, 1400°C. Arrows indicate that the upper limits of 3He concentrations are shown.
+components. The separation calls for extremely small volumes of trapped-He-bearing sites, somewhat between size of He atom and COo molecule.
+More work is needed to understand and quantify observations discussed above. However the conclusion on a good trapping capacity and rare gas rateability of magnetites is fortified by the step-wise-heating data.
+Figure 22. 4He/3He ratios and 3He concentrations in different rocks and Complexes. Notice variations of both parameters within a factor of 1,000 implying that the rate of melt degassing and subsequent retention of trapped He are the principal factors controlling observed 4He/3He ratios. The parent elements, U and Th, vary on a much narrower scale (Table 3) and cause limited variations of 4He/3He (Figure 23). Solid - ultrabasic, shadowed - alkaline, open - carbonatit.ic rocks, numbers are numbers of samples.
+5.2.	Carriers of Mantle Fluids: Rocks and Complexes
+Figure 22 reveals the two general tendencies:	in-
+creasing of 4He/3He ratios in trapped helium (liberated by milling) from basic through alkaline to carbonatit.ic rocks and elevated ratios in samples from the Ozer-na.ya. Va.ra.ka., Khibiny, and Dike Complexes. These tendencies could result, from varying post.-cryst.a.llisa.t.ion abundances of trapped helium governed by different. degassing rates or trapping capacities of host, minerals together with subsequent, variable contributions of in-sit.u produced helium. 4He/3Hemin versus (U+0.24Th)/3Hemin plot, allows to check this explanation (Figure 23). At. first, glance low and similar pa.rent./da.ught.er ratios for Kovdor and Seblyavr ul-t.ra.ba.sic rocks, and slightly enhanced 4He/3Hemin in
+4He/3He	/
+Relationships between radioactive elements and trapped helium
+/ e	°0o
+yr * ■ ♦	x 0 © 1 □ D ^ 00 0 1 <*A 0 * ♦ ♦♦ 0°	Complexes : O Khibiny □ Kovdor 0 Seblyavr 0 Ozemaya varaka A Lesnaya varaka Dykes complex: $ Xenocrystals Rocks: • Basic-ultrabasic O Alkaline O Carbonatite
+(U+0.24Th) /3Hemilling , g/cm	3
+103 104 105 106 107
+Figure 23. Contribution of radiogenic in-sit.u produced He in helium extracted from vesicles by milling.
+samples from the Kovdor (Figure 23) would have implied an isot.opic heterogeneity of trapped helium, in contrast to previous conclusions (Section 4.1.4). However, a more detail look at the data shows, that Kovdor ult.ra.ba.sic rocks (minerals) had lost a larger portion of radiogenic 4He* (Pd35%) than relevant samples from Seblyavr (Pdl0%). Some portion of 4He* releasing from related a-tracks penetrates into vesicles already containing trapped He. A small contribution of this 4He* ~0.1 (4He*ai - 4He*leas), could ensure the observed enhanced 4He/3Hem;ii in all but one Kovdor samples. Moreover, this contribution is also recorded by 4Hemin/4Hemeit ratios which are higher in the Kovdor samples (the Average 4Hemin/4Hemeit = 0.22) relative to the Seblyavr (0.037). Enhanced 4He/3Hemin ratios in carbonatit.es could also result, from the particularly low retention of radiogenic 4He* in these rocks (see Figure 15) and its partial migration into vesicles.
+The data, presented in Figure 23 indicate that, migration of in-sit.u produced He and its admixture to trapped He retained in vesicles do increase 4He/3Hemin ratios. While Figure 23 comprises a. limited da.t.a.-set., this mechanism could be responsible for 4He/3Hemin variations within a. factor of 1000 seen in Figure 14 and 22 which include all available data. It. should be emphasised that a. great range of (U+Th)/3Hemin ratios is dominantly due to 3Hem;n variations: U and Th concentrations cluster within a. relatively narrow diapason (Section 4.1.4). For example, the average values for ult.ra.ba.sic rocks from the Seblyavr, U = 6.2 ppm, Th/U =
+3.4,	are quite similar to those for the relevant, samples from Dykes Complex, U = 4.1 ppm and Th/U = 3.8
+(Table 2), whereas 3He concentrations in these Complexes differ by ~2 orders of magnitude.
+Therefore melt, degassing and trapping capacities of host, minerals appear to be the principal parameters controlling present.-da.y helium isotope composition both in mineral lattices and in vesicles. The compositional array basic —> alkaline —> ca.rbona.t.it.ic rocks corresponds to the intrusion - crystallisation stages, and also to decreasing densities and viscosities of parent, melts. These patterns predict, a. better degassing of the later intrusive stages, and the increasing 4He/3Hemin ratios along the array, e.g., the Kovdor, Turiy, Vuoriya.rvy and Ozerna.ya. Va.ra.ka. Complexes in Figure 22, are in full accord with this prediction. The degassing conditions during the last, ca.rbona.t.it.ic intrusion stage appear to be especially variable causing adequate variations of 4He/3Hemin and 3He (Figure 22). For example, 3He concentration in Kovdor Vuoriya.rvy ca.rbona.t.it.es varies within 2 orders of magnitude. A highly variable trapped He concentrations in ca.rbona.t.it.es reflect, multi-pulse intrusions of these rocks together with different, degassing conditions at. each pulse.
+As it. is seen in Figures 11, 14 and 16, the ult.ra.ba.sic rocks preserve initial 4He/3He ratios better than the others. Figure 22 presents the Complexes in order of increasing average 4He/3Hemin in these rocks. Again the different, degassing rate appears to be responsible for increasing of 4He/3Hem;ii from one Complex to another.
+Degassing history is controlled, among other factors, by conditions of crystallisation differentiation in magma, chambers, including depths of the chambers. These conditions could be partially restored using geological and
+petrographical data: position of intrusions within the cross section of supracrustal rocks, quenching phases near contacts and eruptive breccias in internal parts, fingerprints of explosive processes, structural and textural peculiarities of rocks especially in contact zones.
+The above features imply that the Khininy alkaline massif and the Dykes Complex belong to the uppermost subsurface formations [Polkanov and IJ-Li-Zhen', 1961; Galakhov, 1975]; the dykes are considered as eruptive channels to volcanic explosion fields removed by erosion [Bulakh and Ivannikov, 1984]. This is in full agreement with the low 3He abundances and the high 4He/3He ratios indicating a substantial pre-crystallisation degassing [Figure 22, see also Figure 14).
+In contrast, the Kovdor, Seblyavr, Vuoriyarvy, and Lesnaya Varaka Complexes composed by ultrabasic, alkaline and carbonatitic rocks and showing signatures of hypabyssal intrusions were formed at greater depths [Kukharenko et al., 1965], in agreement with He isotope data (Figures 23, 14). Mineral - fluid inclusions in early apatites (the Kovdor) recorded the minimal fluid pressure ~1500 atm corresponding to >5 km depth [Sokolov, 1981].
+Intermediate depths suggested to other Complexes are considered to be formed at [Kukharenko et al., 1965]. This agrees with He isotope data for all but one Complex: according to Figure 23, the Tury Peninsula belongs to the least degassed group.
+The degassing rate of a Complex could be recorded by the related development of host rocks, i.e., fenitiza-tion [Le Bas, 1989]. Fore example, the Lesnaya Varaka mainly composed by basic rocks with low 4He/3He ratios is surrounded by a thin rim of fenitised rocks which is in contrast to the mainly alkaline Ozernaya Varaka Complex having higher 4He/3He ratio and a thicker rim [Ikorsky et al., 1998].
+Resuming, the simplest explanation of the available data envisages two processes: (i) trapping of initially isotopically homogeneous helium (4He/3He initial ~30,000) by growing crystals; concentrations of trapped He were controlled by progressive crystallisation, variable degassing and trapping capacities and (ii) subsequent migration of trapped and in-situ produced radiogenic He. Conclusion on a homogeneous pre-crystallisation fluid also followed from study of primary inclusions in silicate rock of the Kovdor Complex [Sokolov, 1981]. Several deep sources of helium having different isotopic compositions are not required to satisfy the data contrary to the inferences from Rb-Sr and Sm-Nd systematics [e.g., Kramm, 1993; Zaitsev and Bell., 1995].
+Variable mixing of mantle and crustal materials during the magmatic and early post-magmatic stages followed by trapping of He with variable 4He/3He ratios have not been clearly recorded by the UAC rocks in
+contrast to the Monche layered intrusion [Tolstikhm et al., 1991]. However these processes can not been completely ruled out either. Ne isotope mixing array [see Figure 17) and low 40Ar/36Ar ratios in the mantle end-member (Figure 19 and 20) imply a contribution of air-related component.
+5.3.	Primordial and Radiogenic He and Ne in Kola UACC, MORB and OIB
+The production 4He*/21Ne* ratio is almost constant independently on natural environments, e.g., U-bearing minerals or ordinary rocks of various composition [Kyser and Reason, 1982; Verkhovsky and Shukolyukov, 1991; Yatsevich and Honda, 1997]. A production ratio is known reasonably well, He-Ne isotope relationships are able to quantify the rate of noble gas elemental fractionation and shed light on related processes [ Verkhovsky et al., 1983]. 3He/22Neprim versus 4He*/21Ne* plot presents He-Ne relationships for Kola UACC samples along with MORB and OIB data. All 3He measured in the samples is considered as the primordial component (subscript prim), and 22Neprim, 4He* and 21Ne* are calculated from equations:
+22Nepnm = 22Nem (20Ne/22Nem - 20Ne/22Neatm)/ /(20Ne/22Nepnm - 20Ne/22Neatm)
+4He* = 3Hem (4He/3Hem - 4He/3Hepnm)
+21Ne/22Neml = 21Ne/22Neatm +
++ (21Ne/22Nepnm - 21Ne/22Neatm) x x [(20Ne/22Nem - 20Ne/22Neatm)/ /(20Ne/22Neprim-20Ne/22Neatm)]
+21Ne* = 22Nem (21Ne/22Nem - 21Ne/22Nelm)
+where subscripts m, atm and ini define measured, atmospheric and initial values, respectively. The relevant primordial isotope compositions are considered to be solar [Anders and Grevesse, 1989] and the calculated initial values depend on proportion of mixing of solar and atmospheric species in each individual sample. In contrast to almost constant production 4He*/21Ne* ratio, the measured ratios of both radiogenic and primordial species vary within 4 orders of magnitude and correlate. The primordial nuclides, 3He and 22Neprim, were stored in a less degassed mantle reservoir since the earth accretion, 4.5 Ga [O'Nions and Oxburgh, 1983; Kellogg and Wasserburg, 1990; O' Nions and Tolstikhm, 1994, 1996]. The radiogenic nuclides, 4He* and 21Ne*, were manly produced within the upper mantle reservoir having much higher (U+0.24Th)/3He ratio than the less degassed mantle [O'Nions and Tolstikhm, 1994]. Estimates of the mean residence time of a highly incompatible elements in the upper mantle results in Pdl
+105 106 107 108 109
+Figure 24. A comparison of primordial and radiogenic He and Ne isotope abundances in samples from Kola UACC, MORB and OIB.
+While the 4He*/21Ne* production ratio is almost constant, this ratio and the ratio between primordial species vary within a great range which can be approximated by a straight line. Projection of the production ratio via the approximation line to the primordial ratio indicates 3He/22Ne similar to the actual solar value implying solar- like 3He/22Ne in the mantle before the fractionation. Possible mechanisms responsible for the fractionation are discussed in the text.
+Ga [Galer and O' Nions, 1985; Kellogg and Wasserburg, 1990; O' Nions and. Tolstikhm, 1994, 1996]. These time constraints imply that the direct correlation in Figure 24 should result from fractionation process (es) occurred only slightly before, during or even after the gases were trapped by solids: otherwise the ratios between ancient (3He, 22Neprim) and young (4He* and 21Ne*) species would not have correlated.
+The straight line shown in Figure 24 reasonably well fit the correlation; the product of the slope of this line,
+3.5	x 10“', and the mean 4He*/21Ne* production ratio,
+1.5	x 10“', allows the initial 3He/22Neprim ratio (preceded the fractionation) to be recovered, 3He/22Neprim Prf5, which is similar to the solar system primordial ratio Pd3 [Anders and Grevesse, 1989]. The similarity envisages the unfractionated solar-like primordial gases in the less degassed reservoir, in accord with inferences from steady-state models of layered mantle [e.g., O' Nions and Tolstikhm, 1994]. The samples from Kola UACC do not deviate far from the production/primordial ratio (Figure 24) in contrast to those from MORB and OIB. A substantial decrease of He/Ne ratios (relative to the primordial/production values) could results out of preferential migration of He isotopes from fluid inclusions in OIB and MORB samples. He shows much higher penetrability through silicates than Ne and Ar [Morozova
+and Ashkmadze, 1971; Ashkmadze, 1980] and specifically through silicate glasses, major noble gas hosts in ocean ridge and seamount environments. While He is migrating from the inclusions through basalt glass into free fluids, the residual He/Ne ratios are decreasing.
+A 50 fold increase of He/Ne ratios requires a special explanation. Such a trend could originate from partial melts degassing owing to the better solubility of He in silicate melts than the solubilities of heavier gases [Jambon et al., 1986; Lux, 1987]. Noble gas partitioning among solid, gas and silicate melt in a magma chamber is described as [Spasennykh and Tolstikhm, 1993]:
+a I"(Sm + b/RT + Sm f Km) Lm=(L"> [(Sn + b/RT + Sn F Kn).
+where Ln and Lm are final over initial concentration ratios for species m and n, and S, b, R, T, F and K in the power are the solubility, the volume gas/melt, ratio, the Bolt.zman gas constant, the temperature, the volume solid/melt, ratio, and the solid/melt, partition coefficient, respectively. The maximal fractionation would be expected if b —> 0, K —> 0, and for the conventional solubility [cc/(g atm)] S(He) = 0.0006 and S(Ne) = 0.00025 [Jambon et al., 1986, Lux, 1987] the required 50-fold increase of He/Ne ratio could originate if >95% of He had been lost from degassing melts and only <5%
+retained. At first glance such rate of degassing seems reasonable. However analysis of the data presented in Figure 24 shows that among 250 data-points, 50 samples having highest 3He concentrations, > 1 x 10“10 cc STP g-1, all deviate to the right-top off the production/primordial ratios. The ratio of this concentration and the helium retention coefficient predicted by fractional degassing (<0.05) gives the expected 3He concentration in undegassed melts, > 2 x 10-9 cc STP g-1 or even > 2 x 10-8 cc STP g-1 for the most 3He-rich MORB glasses. These values are by 10 to 100 times exceed the initial 3He abundance in basaltic melts estimating from steady-state and evolutionary degassing models (5.6 ± 3) x 10-10 cc STP g-1 [TolsUkhtn and Marty, 1998]. Also the present day production of the oceanic crust, 6 x 1016 g a-1 [Crtsp, 1984; Retmer and Schubert, 1984], and 3He flux into the oceans, 2.24 x 107 cc STP a-1 [Craig et aL, 1975; Farley et at, 1995], give 3He concentration in MORB melts at 3.56 x 10-10 cc STP g-1, similar to the above estimation but at least an order of magnitude less than that required to satisfy the fractional degassing hypothesis. The preferential helium diffusion from vesicles through silicate glasses proposed above produces high 4He/21Ne* ratios in a complementary pore fluid phase. Helium concentrations in pore fluids could by an orders of magnitude higher than those in the fliud-bearing rocks [e.g., Tolstikhin et al., 1996]. If the fluid would have been trapped into “secondary” inclusions of host rocks/minerals, 4He concentrations and 4He/21Ne* ratios could both be high in a qualitative accord with the data. Also a non-equilibrium degassing process, when He migrates into ascending bubbles faster than Ne, could be responsible for the enhanced He/Ne ratios. More work is needed to understand and quantify this alternative mechanism.
+5.4.	Mantle Sources of Plume-related Component
+Similar isotopic and chemical characteristics of small-volume continental magmas, including alkaline melts, and alkali basalts from small oceanic islands or seamounts calls for related source(s) and processes involved. While both astenospheric [Nelson et al., 1988; Kwon et al., 1989] and lithospheric [McKenzie and O'Nions,
+1995]	source regions were suggested using isotopic arguments, models of carbon- and alkali-rich melt generation and development generally envisaged a metasomatically enriched lithospheric source [Wylhe et al., 1990]. The following discussion agrees with the model [McKenzie and O' Nions, 1995] which reconciled isotopic, geochemical, geochronological and geophysical data. The model envisages: (i) the subcontinental lithosphere including a MORB-source-like bottom layer and a depleted (relative to the MORB source) layer above as the most plausible environments, and (ii) processing of these lay-
+ers by addition of 10 to 30 % of a metasomatic melt originated by extraction of ~0.3-0.5 % melt from the MORB-source astenospheric mantle. Because the sub-continetal lithosphere is a long-life conservative reservoir [e.g., Kramers, 1979, 1991; Richardson, 1984], time interval between the metasomatic processing and the mobilisation of parent alkaline magmas (intruded into the continental crust) or detachment of the processed domains (entrained into the thermal convection within the astenospheric mantle) could be long and variable which allows enriched (relative to the MORB) isotopic signatures to be generated.
+This time interval is crucial to constraint the 3He-bearing source for parent melts of the Kola UAC Complexes. It should be emphasised that both trace-element- [McKenzie and O' Nions, 1995] and major-element-related [Wylhe et al., 1990] models do not envisage a deep-mantle plume-like source for the metasomatic low-partial-melting melts. In the past the upper mantle could also show lower 4He/3He ratios due to e.g. a higher flux of 3He rich material from the lower mantle. To understand whether the ancient upper mantle could be a source of the metasomatic low 4He/3He -melts, the age when this reservoir has had 4He/3He ratio similar to that in parent melts of Kola Devonian UACC should be compared with the age of metasomatism inferring from other isotopic systematics, e.g., Rb-Sr or Sm-Nd.
+Figure 25 comprises 4He/3He upper mantle evolutionary trends compiled from several recent degassing models. While segments of the trends related to the early earth are different depending on assumptions involved, all post-3-Ga segments show higher 4He/3He ratios than that obtained above for UACC (Section 4.1.1, see Figure 16). The model-derived upper mantle 4He/3He ratios were similar to those initial for Kola UAC rocks approximately 3 Ga ago.
+In contrast to the above quite ancient age, a shorter metasomatism-extraction interval is inferred from Rb-Sr systematics. Sr isotope composition of UAC Complexes is well constraint by Rb-Sr isochrone dating and low Rb/Sr rocks/minerals, such as apatites or carbonatites: initial 87Sr/86Sr varies from within 0.7030 - 0.7040 exceeding the present day average normal MORB ratio 0.7024 (Ito et al., 1987]. The average Rb/Sr of highly differentiated UAC Complexes appears to be less reliable. Two values suggested by Gerasimovsky [1966] for the Lovozero massif, Rb/Sr Pd 0.377 [see also Kramm et al., 1993], and by Kukharenko et al. [1984] for the Khibiny Pd0.15 are available. These estimates together with the model Sr isotope evolution trend for the upper mantle [Azbel and Tolstikhin, 1988] give the model age of the upper mantle metasomatism within 420 - 700 Ma, substantially less than that predicted by U-He systematics. This difference rules out the upper mantle as a source of He-bearing <700-Ma-old material and
+Age, Ga
+____I__I___I___I___I__1___I___L
+0	12	3	4
+Time after start of accretion, Ga
+Figure 25. Model evolutionary trends for 4He/3He ratio in the upper mantle. All models outlined below envisage: the upper mantle as severely degassing reservoir; the parent elements are accumulating into the continental crust growing through time as in [Kramers and Tolstikhm, 1998]. 4He/3He ratios in the upper mantle were similar to those trapped by the UACC ~3 Ga ago or earlier, in contrast to the age of mantle metasomatism derived from Rb-Sr systematics, 0.43
+-	0.72 Ga, depending on accepted Rb/Sr, 8‘Sr/86Si’initiai and models of Sr isotope compositions in the upper mantle, i.e., at most 350 Ma before the formatioin age of the Complexes, 370 Ma (Section 2). Models: A - a completely isolated (during whole history of the earth) lower mantle having the bulk silicate earth concentrations of U and Th [Azbel and Tolstikhm, 1992]; B
+-	a moderately degassed lower mantle having ignorantly low abundances of the parent elements [O'N ions and Tolstikhm, in preparation]; the model is similar to that suggested by Albarede (1998)); C - a moderately degassed substantially isolated lower mantle having the bulk earth abundances of the parent elements; this model satisfies the Pu-U-I-Xe systematics [O' N ions and Tolstikhm, in preparation]; D - same as C but satisfies to U-Th-K-He-Ne-Ar systematics [Tolstikhm and Marty, 1998].
+suggests the lower mantle (or its stagnant less-degassed domain) as a host reservoir for primordial rare gases in
+UACC.
+Available model estimates of noble gas abundances in the principal terrestrial reservoirs [Tolstikhm and Marty, 1998] allow contribution of the three reservoirs,
+the lower mantle, the upper mantle, and the crust (represented by groundwater containing presumably atmospheric gases) to be quantified (Table 6). A minor contribution from the less degassed reservoir imply that the plume itself only stimulated metasomatism of the subcontinental lithosphere and the major role in this
+Table 6. Contribution of principal terrestrial reservoirs to plume source
+Reservoir	Contribution (by weight %)	22Ne 10-14 mole/g	20Ne/ 22Ne	21Ne/22Ne lm	4He/3He 106	40 Ar/36 Ai-lm	3He/ 22Ne	36Ar/22Ne
+Lower mantle (lm)	1.8	6.05	13.7	0.0336	0.0055	5300	5.6	1.82
+Upper mantle	98.2	0.07	13.7	0.0596	0.09	40000	5.56	5.34
+Fresh water	0.06	95	9.8	0.0289	100	296	0	80
+Plume calculated	100	-	12.7	0.04	0.036	3200	4.23	21.1
+Plume observed	-	-	12.6	0.04	0.03	3400	6.8	<38
+processes belongs to melts from the upper mantle, in accordance with recent geochemical and petrological models [WylUe et at, 1990; McKenzie and O'Ntons, 1995].
+Acknowledgements. Partially supported by INTAS Grant 94-2621 and by Project 3461 from Russian Academy of Sciences. All authors greatly appreciate the contribution by Rita Vetrina in preparing of the manuscript.
+References
+Albarede F., Time-dependent models of U-Th-He and K-Ar evolution and the layering of mantle convection. Chemic. Geol. 145, 413-429, 1998.
+Allegre C. J., T. Staudacher, and P. Sarda, Rare gas system-atics: formation of the atmosphere, evolution and structure of the Earth’s mantle. Earth Planet. Sci. Lett. 81, 127-150, 1986.
+Amelin YU. V., and Semenov V. S., Nd and Sr isotopic geochemistry of mafic layered intrusions in the eastern Baltic Shield: implications for the evolution of Paleoproterozoic continental mafic magmas. Contrib. Miner., Petrol. 124, 255-272, 1996.
+Amelin YU. V., Heaman L. M., and Semenov V. S., U-Pb geochronology of layered mafic intrusions in the eastern Baltic Shield: implications for the timing and duration of Paleoproterozoic continental rifring. Precambr. Res. 75, 31-46, 1995.
+Andersen T., Mantle and crustal components in a carbon-atite Complex, and the evolution of carbonatite magma: REE and isotopic evidence from the Fen Complex, Southeast Norway. Chem. Geol.(Isot. Geosci. Sect.) 65, 147166, 1987.
+Anders E. and Grevesse N., Abundances of the elements: Meteoritic and solar. Geochim. Cosmochim. Acta 53, 197-214, 1989.
+Arzamastseva L. V., Arzamastsev A. A., Ultrabasic foido-lites in alkaline massifs of the Kola region: estimate of phosphate capacity. In: Alkaline magmatism of NE part of the Baltic shield (ed. T. N. Ivanova), Kola Sci Centre of USSR Acad. Sci. 26-37, 1990, (in Russian).
+Arzamastseva L.V., Balaganskaya E.G., Pavlov V.P., Pri-pachkin V.A.and Shpachenko A.K., New data on apatite deposits of Khibina. In Apatite capacity of alkaline massifs of the Kola region (ed. O. B. Dudkin). Kola Sci Centre of USSR Acad. Sci., 47-67, 1991, (in Russian).
+Azbel I.Ya. and Tolstikhin I.N., Radiogenic isotopes and the evolution of the earth’s mantle, crust and atmosphere. Kola Sci. Centre Pub. 140 p., 1988, (in Russian).
+Azbel I.Ya. and Tolstikhin I.N., Geodunamics, magmatism and degassing of the earth. Geochim. Cosmochim. Acta 54, 139-154, 1992.
+Balaganskaya E. G., Breccias of Kovdor phoscorite-carbo-natite deposit of Fe - ore and their geological significance. Zapiski VMO, 2, 21-36, 1994, (in Russian).
+Balaganskaya E. G. and Savchenko E. E., Perovskite in rocks of ijolite - urtite arc of Khibina massif. Zapiski. VMO. 1, 85-96, 1998, (in Russian).
+Balashov Yu. A., Mitrofanov F. P. and Balagansky V. V., New geochronological data on Archaean rocks of the Kola Peninsula. Correlation of Precambrian formations of the Kola-Karelian region and Finland (Eds. V. V. Balagansky, F. P. Mitrofanov), Kola Sci Centre of USSR Acad. Sci. 13-34, 1992.
+Balashov Yu. A., Bayanova T. B., and Mitrofanov F. P., Isotope data on the age and genesis of layered basic-ultrabasic intrusions in the Kola Peninsula and northern Karelia, north-eastern Baltic Shield. Precambr. Res. 64, 197-205, 1993.
+Bayanova T. B., Kirnarsky Y. M., and Levkovich N. V., U-Pb study of baddeleyite from the Kovdor massif. Doklady RAS 356, 509-511, 1997.
+Beard A. D., Downes H., Vetrin V., Kempton P. D., Maluski
+H., Petrogenesis of Devonian lamprophyre and carbonatite minor intrusions, Kandalaksha Gulf (Kola Peninsula, Russia), Lithos 39, 93-119, 1996.
+Beard A. D., Downes H., Hegner E., Sablukov S. M., Vetrin V. R., and Balogh K., Mineralogy and geochemistry of Devonian ultramafic minor intrusions of the southern Kola Peninsula, Russia:	implications	for	the	petrogenesis	of
+kimberlites and melilitites. Contrib. Mineral. Petrol. 130, p. 288-303, 1998.
+Belkov I.V. (Editor), Evolution of Earth's crust and endogenic metallogenic zonation in NE part of Baltic Shield. Nauka, 109, 1987. (in Russian).
+Bell K. and Blenkinsop J., Neodymium and strontium isotope geochemistry of carbonatites. In:	Carbonatites:
+Genesis and Evolution (editor K. Bell). Unwin Hymon 278-299, 1989.
+Berthelsen A., and Marker M., Tectonics of the Kola collision suture and adjacent Archaean and Early Protero-zoic terrains, the north-eastern region of the Baltic Shield. Tectonophysics 126, 31-55, 1986.
+Borodin L.S., Nephelinization of pyroxenites and paragenesis of rock-forming minerals of ijolite from massifs of ultrabasic-alkaline rocks. In: Physical-chemical problems of formation of rocks and minerals (Ed. G. A. Sokolov), USSR Acad. Sci., 1, 187-199, 1961, (in Russian).
+Bulakh A. T., and Ivannikov V. V., Problems of mineralogy and petrology of carbonatites. Leningr. St. Univ., 244 p., 1984. (in Russian).
+Craig H., Clarke W. B., and Beg M. A., Excess 3He in deep water on the east Pacific rise. Earth Planet. Sci. Lett. 26, 125-132, 1975.
+Crisp J. A., Rates of magma emplacement and volcanic output. J. VolcanoI. Geotherm. Res. 20, 177-211, 1984.
+Dudkin O. B., and Kirnarsky Yu. M., Complex of deposits of Kovdor massif. Geologiya Rudnich Mestorozdeniy, 36, 31-41, 1994. (in Russian).
+Dudkin O. B., Savitsky A. V., and Kuleshov G. V., Mineral associations of alkaline rock Complex of Ozernaya Varaka massif. In: Mineral Complexes and minerals of the Kola Peninsula (Ed. I. V. Belkov). Kola Branch of USSR Acad. Sci. 126-140, 1980. (in Russian).
+Dudkin O. B., Minakov F. V., Kravchenko M. P., Kravchenko
+E. V., Kulakov A. N., Polezhaeva L. I., Pripachkin V. A., Pushkarev Yu. D., and Rjungenen G. I., Carbonatites of Khibina. Kola Branch of USSR Acad. Sci., 98 p., 1984. (in Russian).
+Evdokimov M. D., Fenites of Turiy alkaline Complex of the Kola Peninsula (mineral associations and geochemical features). Nauka, 248 p., 1982. (in Russian).
+Farley K. A., Maier-Reimer E., Schlosser P., and Broecker W. S., Constraints on mantle 3He fluxes and deep-sea circulation from an oceanic general circulation model. J. Geophys. Res. 100 (B3), 3829-3839, 1995.
+Galakhov A. V., Petrology of Khibina alkaline massif. Nauka, 256 p., 1975. (in Russian).
+Galakhov A. V., Khibina massif - a complicate multichambers intrusive of central type. Dokl. USSR Acad. Sci. 302, 673-675, 1988. (in Russian).
+Galer S. J. G. and (Vnions R. K., Residence time of thorium, uranium and lead in the mantle and implications for mantle convection. Nature 316, 778-782, 1985.
+Gerling E. K., Tolstikhin I. N., Drubetskoy E. R., Levkovsky R. Z., Sharkov E. V. and Kozakov I. K., Helium and argon isotopes in rock-forming minerals. Geokhimiya, 11, 16031611, 1976. (in Russian).
+Gogol O. V. and Delenitsin A. A., Rb-Sr data for diamond-bearing kimberlites and alkaline massifs in NE Fennoscan-dia. Submitted, 1999.
+Gogol O. V., Bayanova T. B., Balaganskaya E. G., and De-lenitsin A. A., Duration of the Paleozoic plume in the Northeastern Baltic Shield (from Rb-Sr and U-Pb isotope data). ICOG-9, Bejing, China, Chinese Science Bulletin, 43, 45, 1998.
+Gorschkov G. V., Zjabkin V. A., Ljatkovskaya N. M., and Tsvetkov O. S., Natural neutron background of atmosphere and Earth's crust. Atomizdat, 410 p., 1966. (in Russian).
+Grunenfelder M. H., Tilton G. R., Keith B., and Blenkinsop J., Lead and strontium isotope relationships in the Oka carbonatite Complex, Quebec. Geochim. et Cosmochim. Acta 50, 461-468, 1986.
+Hawkesworth C. J., Kempton P. D., Rogers N. W., El-lam R. M. and van Alsteren P. W., Continental mantle lithosphere, and shallow level enrichment processes in the Earth’s mantle. Earth Planet. Sci. Lett., 96, 256-258, 1990.
+Hiyagon H., Ozima M., Marty B., Zashu Z. and Sakai H., Noble gases n submarine glasses from mid-oceanic ridges and Loihi seamount: Constraints on the early history of the earth. Geochim. Cosmochim. Acta 56, 1301-1316,
+1992.
+Honda M., McDougall I., Patterson D. B., Doulgeris A. and Clahue D., Possible solar noble gas component in Hawaiian basalts. Nature, 349, 149-151, 1991.
+Honda M., McDougall I., Patterson D. B., Doulgeris A., and Lague D. A., Noble gases in submarine pillow basalt glasses from Loihi and Kilauea, Hawaii: A solar component in the earth. Geohim. Cosmochim. Acta 57, 859874, 1993.
+Ikorsky S. V., and Kusth V. D., Nitrogen in fluid inclusions of alkaline rocks of Khibina massif and method of its chromatographic determination. Geochimija, 7, 962970, 1992. (in Russian).
+Ikorsky S. V., Kamensky I. L., and Nivin V. A., Helium isotopic variations in the Paleozoic ( 380-360 Ma) Complexes of the Kola Alkaline Province: High 3He/4He ration age sings of Devonian mantle plume?. EUG-9, Strasbourg, 56 p., 1997.
+Ikorsky S. V., Kamensky I. L., and Nivin V. A., Maman-tov V. P., Juvenile helium migration into host rocks during formation of alkaline-ultramafic central type intrusions (on an example of Ozeraya Varaka massif, Kola Peninsula) Dokl. Akad. Nauk RAS 362, 242-244, 1998. (in Russian).
+Ito E., White W. M. and Gopel C., The O, Sr, and Pb isotope geochemistry of MORB. Chem. Geol. 62, 157176, 1987.
+Ivanova T. N., Dudkin O. B., Kozireva L. V., and Poljakov K. I., Ijolite-urtites of Khibina Tundra. Nauka 179 p., 1970. (in Russian).
+Jambon A., Weber H. and Braun O., Solubility of He, Ne, Ar, Kr and Xe in basalt melt in the range 1250 - 1600°C. Geochemical implications. Geochim. Cosmochim. Acta
+50,	401-408, 1986.
+Jochum K. P., Hofmann A. W., Ito E., Seufert H. M. and White W. M., K, U and Th in mid-ocean ridge basalt glasses and heat production, K/U and K/Rb in the mantle. Nature 306, 431-436, 1983.
+Kalinkin M. I., Arzamastsev A. A., and Poljakov I. V., Kimberlites and related rocks of the Kola Region. Petrologija,
+1,	205-214, 1993. (in Russian).
+Kamensky I. L., Tolstikhin I. N., Sharkov I. V., and Pushkarev Yu. D., The first results of measuring helium isotopic composition on single-cascade mass-spectrometer MI-1201. Geokhimiya, 3, 439-443, 1984. (in Russian).
+Kaneoka I.,Takaoka N., and Upton B. G. J., Noble gas sys-tematics in basalts and a dunite nodule from Reunion and Grand Comore Islands, Indian Ocean. Chem. Geol., 59, 35-42, 1986.
+Kellogg L. H. and Wasserburg G. H., The role of plumes in mantle helium fluxes. Earth Planet Sci. Lett. 99, 276289, 1990.
+Kogarko L. N., Kononova V. A., Orlova M. P., and Woo-ley A. R., Alkaline Rocks and Carbonatites of the World. Chapman and Hall, 230 p., 1995.
+Kramers J. D., Lead, uranium, strontium, potassium and rubidium in inclusion-bearing diamonds and mantle derived xenoliths from Southern Africa. Earth Planet. Sci. Lett. 42, 58-70, 1979.
+Kramers J. D., Paradoxes of the mantle lithosphere underneath Archaean continents and models for its origin. Schweiz. Mineral. Petrogr. Mitt. 71, 175-186, 1991.
+Kramers J. D. and Tolstikhin I. N., Two major terrestrial Pb isotope paradoxes, forward transport modelling, core formation and the history of the continental crust. Chem. Geol. 139, 75 - 110, 1998.
+Kramm U., Mantle components of carbonatites from the Kola alkaline province, Russia and Finland:	a	Nd-Sr
+study. Europe J. Miner. 5, 985-989, 1993.
+Kramm U., and Kogarko L. N., Nd and Sr isotope signatures of the Khibina and Lovozero agpaitic centres, Kola Alkaline Province. Russia. Lithos 32, 225-242, 1994.
+Kramm U., Kogarko L. N., Kononova V. A. and Vartianen H., The Kola Alkaline Province of the CIS and Finland:
+Precise Rb-Sr ages define 380-360 Ma age range for all magmatism. Lithos 30, 33-44, 1993.
+Kratz K. O. (Editor), Earth's crust of Eastern part of the Baltic Shield. Nauka, 232., 1978. (in Russian).
+Kukharenko A. A., Alkaline magmatism in Eastern part of the Baltic Shield. Zapiski VMO 5, 547-566, 1967. (in Russian).
+Kukharenko A. A., Orlova M. P., Bulakh A. G., Bagdasarov E. A., Rimskaya-Korsakova O. M., Nefedov E. I., iLinsky G. A., Sergeev A. S., and Abakumova N. B., Kaledonian Complex of ultrabasic, alkaline rocks and carbonatites of Kola Peninsula. Nedra, 772 p., 1965. (in Russian).
+Kukharenko A. A and iLinsky G. A., Corrected data on average concentrations of elements in rocks of the Khibiny massif. Zap. Vses. Miner. Ob. CXIII4, 393-397, 1984.
+Kwon S.-T., Tilton G. R., and Grunenfelder M. H., Lead isotope relationships in carbonatites and alkalic complexes: An overview. In: Carbonatites: Genesis and Evolution (editor K. Bell). Unwin Hyman 360-387, 1989.
+Kyser T. K. and Rison W., Systematics of rare gas isotopes in basic lavas and ultramafic xenoliths, J. Geophys. Res. 87, 5611-5630, 1982.
+Le Bas M. J., Nephelenites and carbonatites In: Fitton J. G. and Upton B. G. (eds) Alkaline Igneous Rocks Geol. Soc. Special Publications 30, 53-83, 1987.
+Le Bas M. J., Diversification of carbonatite In: K. Bell (ed) Carbonatites: Genesis and Evolution. Unwin Hyman 428446, 1989.
+Levchenkov O. A., Levsky L. K., Nordgulen O., Dobizhinet-skaya L. F., Vetrin V. R., Cobbing J., Nilsson L. P., and Sturt B., U-Pb zircon ages from Sorvaranger, Norway, and the western part of the Kola Peninsula, Russia. Nor. Geol. Unders. Special Publ. 7, 29-47, 1995.
+Lux G., The behaviour of noble gases in silicate liquids: solution, diffusion, bubbles and surface effects, with implications to natural samples. Geochim. Cosmochim. Acta
+51,	1549-1560, 1987.
+Mamyrin B. A. and Tolstikhin I. N., Helium isotopes in nature. Elsev. Sci. Publish. B.V. 273 p., 1984.
+Marty B., Neon and xenon isotopes in MORB: implications for the Earth-atmosphere evolution. Earth Planet. Sci. Lett., 94, 45-56, 1989.
+Marty B. and Humbert F., Nitrogen and argon isotopes in oceanic basalts, Earth Planet. Sci. Lett. (In press), 1997.
+Marty B. and Tolstikhin I. N., C02 fluxes from mid-ocean ridges, arcs and plumes. Chemic. Geol. 145, 233-248, 1998.
+Marty B., Tolstikhin I., Kamensky I. L., Nivin V., Balagan-skaya E., and Zimmermann J-L., Rare gas systematics of 380 Ma carbonatites from the Kola region, Russia: Evidence for a deep plume origin and constraints on the rare gas state of the mantle. Earth Planet. Sci. Lett., accepted, 1999.
+McKenzie D. and Onions R. K., The source regions of ocean Island basalts. Oxford Univ. Press. 133-159, 1995.
+Mitrofanov F.P., (ed.). Geology of the Kola Peninsula. Apatity, 145 p., 1995.
+Mitrofanov F. P., Ikorsky S. V., and Kamensky I. L., He isotopes in Paleozoic alkaline intrusives of Kola Peninsula and Northern Karelija. Dokl. Russian Acad. Sci. 345, 243-246, 1995. (in Russian).
+Moreira M., Staudacher Th., Sarda Ph., Schilling J-G. and Allegre C. J., A primitive plume neon component in MORB: the Samoa ridge-anomaly, South Atlantic, 51-52°S). Earth Planet. Sci. Lett. 133, 367-377, 1995.
+Morozova I. M., and Aschkinadze G. Sch., Migration of rare gas atoms in minerals. Nauka, 120 p., 1971. (in Russian).
+Morrison P. and Pine J., Radiogenic origin of the helium isotopes in rocks. Ann. N.Y. Acad. Sci. 62, 69-92, 1955.
+Nelson D. R., Chivas A. R., Chappell B. W. and McCulloc M. T., Geochemical and isotopic systematics in carbonatites and implications for the evolution of ocean-island sources. Geochim. et Cosmochim. Acta 52, 1-17, 1988.
+Onions R. K. and Oxburgh E. R., Heat and helium in the Earth. Nature 306, 29-432, 1983.
+Onions R. K. and Tolstikhin I. N., Behaviour and residence times of lithophile and rare gas tracers in the upper mantle. Earth and planetary science letters 124, 131-138, 1994.
+Onions R. K. and Tolstikhin I N., Limits on the mass flux between lower and upper mantle and stability of layering. Earth Planet. Sci. Lett. 139, 213-222, 1996.
+Orlova M. P., Melilite rocks of Salmagora massif (Kola Peninsula). Information issue of Vses. Geol. Inst., N7, Petrographija, 67-79, 1959. (in Russian).
+Ozima M. and Zashu S., Noble gases in submarine pillow volcanic glasses. Earth Planet. Sci. Lett. 62, 24-40, 1983.
+Ozima M. and Zahnle K., Mantle degassing and atmospheric evolution: Noble gas view. Geochem. J. 27, 185-200, 1993.
+Panina L. I., Temperature conditions on crystallization of Salmagora ijolite massif (Kola Peninsula). In: Termobaro-chemistry and genetic mineralogy (Ed. Yu. A. Dolgov), Sibirian Depart, of USSR Acad. Sci. 55-58, 1975. (in Russian).
+Polkanov A. A., and U Li Jen, On genesis and evolution of alkaline magma of Khibina subvulkano. Questions of geochronology and geology. USSR Acad. Sci., 12, 176186, 1961. (in Russian).
+Porcelli D. and Wasserburg G. J., Mass transfer of helium, neon, argon and xenon through a steady-state upper mantle. Geochim. Cosmochim. Acta 59, 4921-4937, 1995.
+Poreda R. J. and Farley K. A., Rare gases in Samoan xenoliths. Earth Planet. Sci. Lett. 113, 129-144, 1992.
+Poreda R. J. and Radicati Di Brozzolo F., Neon isotopic variation in Mid-Atlantic Ridge basalts. Earth Planet. Sci. Lett. 69, 277-289, 1984.
+Pushkarev Yu. D., Megacycles of crust - mantle evolution. Nauka, 216 p., 1990. (in Russian).
+Richard D., Marty B., and Chaussidon M., Helium isotopic evidence or a lower mantle component in depleted Archean komatiite. Nature (submitted), 1996.
+Richardson S. H., Gurney J. J., Erlank A. J., and Harris J. W., Origin of diamonds in old enriched mantle Nature 310, 198-202, 1984.
+Samoilov V. S. and Afanas;ev B. V., New data about carbonatites from alkaline-ultrabasic complex Turiy Mys. Zap. VMO 107, 291-304, 1978. (in Russian).
+Sarda P., Staudacher T. and Allegre C. J., 40Ar/36Ar in MORB lasses: constraints on atmosphere and mantle evo-
+lution. Earth Planet. Sci. Lett. 12, 357-375, 1985.
+Sarda P., Staudacher T. and Allegre C. J., Neon isotopes in submarine basalts. Earth Planet. Sci. Lett. 91, 73-88, 1988.
+Sasada T., Hiyagon H., Bell K. and Ebihara M., Excess 129Xe and relatively low 40Ar/36Ar ratios in carbonatites from Canada and Brazil. Geochim. Cosmochim. Acta (accepted), 1997.
+Shpachenko A. K., Stepanov V. A., New data on morphology of ore-containing structures in northern segment of ijolite - urtite arc of Khibina. Dokl. USSR Acad. Sci. 319, 1413-1417, 1991. (in Russian).
+Solopov Yu. A., Using of olivinites of Lesnaja Varaka. Location and structure of ore deposits. Zapiski. Leningr. Gogn. Inst. 12, 77-83, 1977. (in Russian).
+Solopov Yu. A., Structure of apatite - magnetite deposit of Vuorijarvi massif. Geology and prospecting of deposits. Zap. Leningr. Gorn. Inst. 15, 34-36, 1978. (in Russian).
+Spasennykh M. Yu. and Tolstikhin I. N., Noble gas fractionation during degassing of melts. Geochim. J. 21, 213-217,
+1993.
+Staudacher T. and Allegre C. J., Terrestrial xenology, Earth Planet. Sci. Lett. 60, 389-406, 1982.
+Staudacher T., Kurz M. D. and Allegre C. J., New noble-gas data on glass samples from Loihi seamount and Hualalai and on dunites samples from Loihi and Reunion Island. Chem. Geol. 56, 193-205, 1986.
+Staudacher Th., Sarda Ph., Richardson S. H., Allegre C. J., Sanga I., and Dmitriev L. V., Noble gases in basalt glasses from a Mid-Atlantic ridge topographic high at 14°N: Geodynamic consequences, Earth Planet. Sci. Lett. 96, 119133, 1989.
+Subbotin V. V., Structure control and zonation of rare metal ores in Vuorijarvi massif. In: Alkaline magmatism of NE part of the Baltic Shield (Ed. T. N. Ivanova). Kola Sci. Center Russian Acad. Sci. 76-79, 1990. (in Russian).
+Subbotin V. V., Mihaelis S. A., Genetic types of apatite ores from Sebljavr complex deposit. In: Deposits of un-ore raws from Kola Peninsula^Ed. O. B. Dudkin). Kola Sci. Center Russian Acad. Sci., 27-35, 1986. (in Russian).
+Taylor S. R. and McLennan S. M., The continental crust: its composition and evolution. Blackwell Sci. Public. 312 p., 1985.
+Ternovoy V. I., Carbonatite massifs and their deposits. Leningr. Univ. 168 p., 1977. (in Russian).
+Ternovoy V. I., Afanas'yev B. V., and Sulimov B. I., Geology and prospecting of Kovdor vermiculite - phlgopite deposit. Leningrad, Nedra, 287 p., 1969. (in Russian).
+Timmerman M. J., and Daly J. S., Sm-Nd evidence for late Archaean crust formation in the Lapland-Kola Mobile belt, Kola Peninsula, Russia and Norway. Precambr. Res. 12, 97-107, 1995.
+Tolstikhin I. N., and Marty B., The evolution of terrestrial volátiles: A view from helium, neon, argon and nitrogen isotope modelling. Chemical Geol. 141, 27-52, 1998.
+Tolstikhin I. N., Kamensky I. L., Sharkov I. V., Dudkin O. B., and Pripachkin V. A., Isotopes of light noble gases
+in carbonatites of the Kola Peninsula. Kola Sci. Center, Russian Acad Sci. 42 p., 1985. (in Russian).
+Tolstikhin I. N., Dokuchaeva V. S., Kamensky I. L., and Amelin Yu. V., Juvenile helium in ancient rocks: II. U-He, K-Ar, Sm-Nd and Rb-Sr systematics in the Monche Pluton. 3He/4He ratios frozen in uranium-free ultramafic rocks. Geochim. Cosmochim. Acta 56, 987-999, 1992.
+Tolstikhin I. N., Lehmann B. E., Loosli H. H., and Gautschi A., Helium and argon isotopes in rocks, minerals and related groundwaters: A case study in Northern Switzerland. Geochim. Cosmochim. Acta 60, 1497-1514, 1996.
+Valbracht P. J., Honda M., Matsumoto T., Mattielli N., Mc-Dougall I., Agettli R., and Weis D., Helium, neon and argon isotope systematics in Kerguelen ultramafic xenoliths: implication for mantle source signatures. Earth Planet. Sci. Lett. 138, 29-38, 1996.
+Verkhovsky A. B. and Shukolukov Yu. A., Element and Isotope Fractionaion of Noble Gases in Nature. Moscow, Nauka, 294 p., 1991. (in Russian).
+Verkhovsky A. B, Yurgina E. K. and Shukolukov Yu. A., Element and isotope ratios of juvenile noble gases. Geo-khimiya 11, 1559-1576, 1983. (in Russian).
+Vetrin V. R., and Kalinkin M. M., Reconstruction of the processes of intracrustal and crustal-mantle magmatism and metasomatism Kola Sci. Centre Publ. 106 p., 1992.
+Vrevsky A. B., and Krymsky R. Sh., Sm-Nd systematics and geochemistry of Archean peridotite komatiite of the Baltic Shield. Dokl. Russian Acad. Sci. 352, 80-82, 1997. (in Russian).
+Woolley A. R., and Kempe D. R. C., Carbonatites: nomenclature, average chemical compositions, and element distribution In: K. Bell (editor), Carbonatites: Genesis and Evolution. Unwin Hyman 1-13, 1989.
+Wyllie P. J., Baker M. B., and White B., Experimental boundaries for the origin and evolution of carbonatites. Lithos 26, 3-19, 1990.
+Yatsevich I. and Honda M., Production of nucleogenic neon in the Earth from natural radioactive decay. J. Geophys. Res. 102, B5, 10, 291-10, 298, 1997.
+Zaitsev A. N., Rhombohedral carbonates from carbonatites of the Khibina massif, Kola Peninsula, Russia. Can. Miner. 34, 453-468, 1996.
+Zaitsev A. N. and Bell K., Sr and Nd isotope data of apatite, calcite and dolomite as indicators of source and the relationships of phoscorites and carbonatites from the Kovdor massif, Kola Peninsular, Russia. Contrib. Miner. Petrol. 121, 324-335, 1995.
+Zaitsev A. N., Bell K., Wall F., and Le Bas M. J., Alkaline-REE carbonates from carbonatites of Khibina massif: mineralogy and genesis. Dokl. Akadem. Nauk 355, 241245, 1997. (in Russian)
+Zartman R. E., Wasserburg G. J. and Reynolds J. H., Helium, argon and carbon in some natural gases. ,1. Geophys. Res. 66, 1, 277-306, 1961.
+(Received December 5, 1998.)

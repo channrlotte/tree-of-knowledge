@@ -1,0 +1,148 @@
+﻿УДК 004.4
+А. А. Бездушный
+Московский физико-технический институт, Институтский пер., 9, Долгопрудный, 141700, Россия
+[email protected], [email protected]
+УПРАВЛЕНИЕ ЛИЧНЫМИ КАТАЛОГАМИ НАУЧНЫХ ПУБЛИКАЦИЙ С ИСПОЛЬЗОВАНИЕМ ТЕХНОЛОГИЙ SEMANTICWEB
+В ходе своей повседневной деятельности человек сталкивается со все большими объемами информации, значительная часть которой хранится в цифровом формате. Задачей организации и ведения этих сведений занимаются системы управления личной информацией. В предыдущих работах была спроектирована базовая архитектура системы семантического управления личной информацией. В данной работе рассматривается модуль этой системы, поддерживающий работу с научными публикациями. Модуль предоставляет пользовательские интерфейсы для работы с публикациями, позволяет автоматически выделять метаданные из текстов публикаций, а также загружает дополнительные сведения о публикациях из репозиториев Linked Open Data.
+Ключевые слова: автоматическое извлечение метаданных, интеграция данных, управление библиографическими сведениями, управление личной информацией, Linked Open Data.
+Введение
+Вопросы работы с научными публикациями, рассматриваемые в данной статье, являются частью более широкой задачи управления личной информацией. Системы управления личной информацией автоматизируют ведение информационного пространства - совокупности всех сведений, с которыми человек работает в настоящее время или работал ранее. В предыдущих работах [1; 2] была спроектирована система управления личной информации, модуль которой рассматривается в данной статье.
+В работе любого ученого одной из наиболее важных и трудоемких задач является поиск и изучение существующих работ, поэтому вопросы организации и управления научными публикациями чрезвычайно важны. Исследования, проведенные в данном направлении, можно разделить на несколько категорий:
+•	изучение вопросов ведения и обмена научными публикациями;
+•	объединение библиографических данных из различных источников;
+•	представление доступа к публикациям в соответствии со стандартом Linked Open Data (LOD) [3].
+В данной работе в рамках подзадачи управления личной информацией рассматриваются вопросы управления научными публикациями. К проектируемому модулю предъявляются следующие требования:
+•	загрузка в систему научных публикаций, хранящихся на компьютере пользователя;
+•	автоматическое выделение метаданных (название, авторы, аннотация) из текстов загруженных публикаций;
+•	организация и ведение сводного репозитория публикаций, объединяющего сведения, полученные из внешних источников;
+Бездушный А. А. Управление личными каталогами научных публикаций с использованием технологий Semantic Web // Вестн. Новосиб. гос. ун-та. Серия: Информационные технологии. 2015. Т. 13, вып. 1. С. 16-23.
+ISSN 1818-7900. Вестник НГУ. Серия: Информационные технологии. 2015. Том 13, выпуск 1 © А. А. Бездушный, 2015
+•	предоставление пользователю метаданных о загруженных им публикациях, в случае если они были найдены в сводном репозитории.
+Рассмотрим далее каждое из требований более детально.
+Существующие решения
+Существует четыре направления исследований, которые, как или иначе, касаются задач, поставленныхво введении.
+К первому направлению относятся системы, поддерживающие ведение и обмен научными публикациями, такие как BibSonomy [4], CiteULike \ Mendeley 2. К основным задачам этих систем относятся ведение каталога публикаций, загрузка и выгрузка публикаций (например, в формате BibTeX), автоматическое выделение метаданных из текстов загруженных публикаций. Эти задачи во многом пересекаются с требованиями, поставленными в данной работе, но есть и ряд отличий от разрабатываемого решения. Первым отличием является итоговая цель работы: данный модуль разрабатывается как часть системы управления личной информацией, обеспечивающей работу различными видами данных (e-mail - сообщениями, контактами, сведениями из календарей), тогда как представленные решения оперируют только с библиографической информацией. Другое отличие - наличие возможности получения метаданных о публикациях из внешних источников.
+Ко второму направлению исследований относятся системы, объединяющие сведения о публикациях, размещенных в различных источниках. Примерами таких систем являются CiteSeerX [5], DBLP [6], arXiv 3, IEEEXplore 4, Google Scholar 5, Microsoft Academic Search 6. Эти решения можно разделить на три основных категории, это системы:
+•	в которые сведения о публикациях заносятся вручную (arXiv, IEEE);
+•	агрегирующие сведения из заранее выбранных источников (CiteSeerX, DBLP);
+•	агрегирующие сведения о публикациях из всей сети интернет (Google Scholar, Microsoft Academic Search).
+В данной работе некоторые из представленных систем используются как внешние источники при формировании метаданных о публикациях.
+Третьим направлением исследований является создание протоколов доступа к библиографическим сведениям. Наиболее значимыми результатами являются стандарты, формализующие работу открытых архивов публикаций, - OAI-PMH [7] и OAI-ORE [8].
+В последнем направлении исследуются вопросы использования стандартов Semantic Web и Linked Open Data при работе с научными публикациями. В работах [9-11] рассматривается задача представления библиографических сведения в RDF-формате, а также исследуются возможности для публикации этих сведений в LOD. В рамках работ RKB Explorer были созданы RDF-выгрузки библиографических сведений, размещенных в различных источниках сети Интернет. В качестве источников используются как централизованные онлайн-репозитории публикаций (CiteSeerX, ACM), так и открытые архивы публикаций, предоставляющие данные по протоколу OAI-PMH. Кроме указанных работ, возможность выгрузки библиографической информации предоставляют также некоторые онлайн-репозитории публикаций, например DBLP 7.
+Загрузка публикаций
+и извлечение метаданных из них
+Для загрузки в систему публикаций, хранящихся на компьютере пользователя, используется прототип системы управления личной информацией, реализованный в рамках работ [1;
+1 http://www. citeulike.org/
+2http://www. mendeley .com/
+3	http://arxiv.org/
+4	http://ieeexplore.ieee.org/
+5	http://scholar.google.ru/
+6	http://academic.research.microsoft.com/
+7	D2R Server publishing the DBLP Bibliography Database - http://dblp.l3s.de/d2r/
+2]. Прототип состоит из двух модулей: приложения, отвечающего за перенос файлов с компьютера пользователя в систему, и веб-портала, предоставляющего интерфейс работы с загруженными сведениями. Загруженные публикации представляются в RDF-формате, сохраняются в базе данных и становятся доступны для работы через веб-интерфейс.
+Следующим шагом после загрузки публикаций в систему является автоматическое выделение метаданных из них. С помощью автоматического анализа текстов публикаций можно получить такие метаданные, как название, авторы, аннотация, список литературы. Данная задача относится к классу задач разметки последовательностей (sequence labeling). Основной целью этих задач является присвоение ярлыков элементам последовательности наблюдений. При решении задачи выделения метаданных из текстов публикаций такими наблюдениями являются строки текста, а ярлыками - типы строк (название статьи, аннотация, название разделов). На рис. 1 приведен пример разметки текста публикации программой ParsCit. Разными цветами отмечены различные категории строк - название статьи, авторы, место работы авторов, название разделов, содержание разделов.
+Logical Structure Recovery i- Scholarly
+Articles with Rich Document Features
+fli"h-Thang Luong, Thuy Dung Nguyen e-d ."-'.in-Yen Ka-*
+National University of Singapore, Singapore
+ABSTRACT
+Scholarly cigital libraries increasingly provide analytics to information wizhin documents themselves. This includes information abouz the logical document strucz-re of -se to downstream components, s*-ch as search, navigation a-d summarization. Ne describe SectLabel, a module t"at further develops existing software to detect the Logical structure of a document from existing PDF files, using the formalism of conditional random fielcs. While previous work has assumed access only to the rat. zext representation of the document, a key aspecz of our work is to integrate the use of a richer representation of the document thai includes ~eat~res from optical character recognition {OCR), s*-ch as font size and text position. Our experiments reveal that using such rich "eatures improves logical structure ceteczio-i by a significant 9 F1 points, over a suitable baseline, motivating t"e use of ric"er document representations in ot"er digital library apolicazions.
+Keywords: ParsCit., Metadata Extraction, Logical Structure Discovery, Conditional Random
+zields, =lich Document Features
+INTRODUCTION
+The oace of scholarly exploration., publication and dissemination grows faster every year., -eac"ing u^orecedented levels. To support zhis level of innovation, scholars increasingly rely on open-access mechanisms digital libraries, portals and aggregators ~o disseminate their fincings {Brown, ZQ&9). While t"ere is controversy over which of the trends of searc" engines., open access, preprint e-c self-archiving have mosz influenced zhe growth o" scientific discovery.
+Рис. 1. Результат разбиения текста публикации программой ParsCit
+Можно выделить несколько категорий алгоритмов, используемых для решения поставленной задачи: основанные на базе регулярных выражений, на наборе правил поиска и на методах машинного обучения. Наилучшие результаты на данный момент показывают решения, основанные на машинном обучении. Среди них наиболее распространены следующие алгоритмы: скрытая марковская модель (Hidden Markov Model, HMM) [12], метод опорных векторов (Support Vector Machine, SVM) [13], модель условных случайных полей (Conditional Random Fields, CRF) [14 - 16], Paper Cut 8. В соответствии с последними исследованиями [17; 18], наибольшей эффективностью среди них обладает модель CRF.
+МодельCRF является расширением модели HMM. Отличительной особенностью CRF является то, что с помощью нее можно получить хорошиерезультаты даже при наличии тесных взаимосвязей между наблюдаемыми переменными.Рассмотрим принцип работы CRF на примере выделения метаданных из текстанаучной публикации. Пусть L = {l1, l2, l3,...} - множество строк в документе, а C = {c1,c2,c3,...} - множество возможных категорий строк (название, автор, аннотация, и т. п.). Условным случайным полем называется следующая условная вероятность:
+8 Candeias R, Calado P., Martins B. Metadata Extraction from Scholarly Articles Using Stacked CRFs. URL: http://papercut.googlecode.com/hg-history/98464ac0efb47c55159b313c89b0b305ba1d83f9/PaperCutTesting/targetPDF/ success/papercut.pdf
+1 ( ^ Р('Х'= Z(xj'еХР ^1 'f} (у'xj
+V 1
+где y е C, х е L, fj (y, х) - функции-признаки (feature functions), X j - вес j-го признака, рассчитанный в ходе обучения; Z (х) - коэффициент нормализации. В задаче определения типов строк в научных публикациях, часто используются следующие признаки: количество слов в строке, положение строки в документе, вхождение в строку символов, специфичных для названий разделов (например, 1, 1.1, 1.1.1). Вкратце алгоритм работы CRF можно описать следующим образом:
+•	во время обучения для каждого элемента обучающей выборки рассчитываются значения функций-признаков, на основании которых определяется вес каждого признака;
+•	после обучения на основании значений функций-признаков и их весов вычисляется вероятность принадлежности наблюдения к категории.
+Среди реализаций, использующих модель CRF и обладающих открытым исходным кодом, были выбраны работы GROBID [14], ParsCit [15] и PaperCut. Требование к открытости исходного кода возникает из необходимости переобучения систем для поддержки российских публикаций. Среди этих решений была выбрана система GROBID, поскольку она реализована на языке Java, а также показала хорошие результаты в исследовании [18].
+Для поддержки выделения метаданных из российских публикаций были подобраны сто статей из различных российских конференций. При их подборе упор делался на максимальное различие в структуре разделов и оформлении. Пятьдесят из них были добавлены к обучающей выборке, созданной авторами системы GROBID. Другие пятьдесят использовались для проверки работы системы. Кроме обновления обучающей выгрузки, были внесены некоторые изменения в исходные коды системы. В таблице приведены количества публикаций из пробной выборки, для которых удалось выделить те или иные метаданные:
+Название	Авторы	Место рабо-	Аннотация	Список лите-
+ты авторов	ратуры
+49/50	45/50	29/50	47/50	46/50
+Организация сводного RDF-репозитория
+Одним из требований, предъявляемых к разрабатываемому модулю, является возможность получения метаданных о публикациях из внешних источников. Эту задачу можно решить последовательным поиском запрошенной публикации в различных источниках. Однако количество таких источников велико (только в реестре открытых архивов ROAR 9 на данный момент зарегистрировано 3 830 источников), поэтому такой вариант неосуществим. В связи с этим возникает потребность организации и ведения сводного репозитория публикаций, объединяющего данные из различных источников. В качестве формата хранения данных в репо-зитории предлагается использоватьКВР, так как это упрощает получение сведений, опубликованных в LOD.
+Загрузка сведений из репозиториев LOD. Рассмотрим основные источники публикаций в LOD'KOторые имеются на данный момент. В рамках проекта DBLP был запущен D2R-сервер 10, представляющий данные этого репозитория в RDF-формате, и предоставляющий SPARQL-точку доступа к ним. Другим источником публикаций являются RDF-выгрузки, созданные в рамках работ RKB Explorer. Последние включают выгрузки из различных он-лайн-репозиториев, таких как CiteSeerX 11, IEEE 12, ACM 13, а также объединенную RDF-выгрузку из источников, предоставляющих данные по протоколу OAI-PMH 14
+9	http://roar.eprints.org/
+10	http://dblp.l3s.de/d2r/
+11	http://citeseer.rkbexplorer.com/
+Сведения из представленных выше репозиториев были положены в основу сводного репо-зитория публикаций. В качестве базы данных была выбранаКОБ СУБД Open Link Virtuoso. В ходе импорта в сводный репозиторий было загружено 177 миллионов RDF троек и 9 миллионов публикаций.
+В выгрузках, созданных в рамках работ RKB Explorer, используются онтологии http://www.aktors.Org/ontology/portal# и http://www.aktors.Org/ontology/support#. На рис. 2 приведен пример ресурса, выгруженного из репозитория1 EEEXplore. В выгрузках DBLP используются более распространенные онтологии, такие как http://xmlns.eom/foaf/0.1/, http://purl.org/ dc/terms/. На рис. 3 приведен пример ресурса из репозитория DBLP.
+<rdf¡Description rdf:about="http://ieee.rkbexplorer.com/id/publication-c3c2c6df6c287f226afeb673b5d60ba4">
+<akt:has-title>On the Design of Minimum Length Fault Tests for Combinational Circuits</akt:has-title>
+<akt rPerson rdf:about="http://ieee.rkbexplorer.com/id/person-15e246bal9026defe842b5662c33fl27-c3c2c6df6c287f226afeb673b5d60ba4''>
+<akt:Person rdf:about="http://ieee.rkbexplorer.com/id/person-8eSd7e246539Sal24b379507ad54a93d-c3c2c6df6c287f226afeb673b5d60ba4">
+<akt:Conférence-Proceedings-Reference rdf:about="http://ieee-rkbexplorer-com/id/proceedings-5S3c8df60227dlbe4el91eaf50d8c5e5" >
+Рис.2. Пример RDF-ресурса, выгруженного из RKB Explorer
+<rdf: Description rdf:about="http://dblp.13s -de/d2r/data/publications/journals/jsyml/Langford41a"> <dc:license rdf:resource="http://www,informatik.uni-trier.de/~ley/db/copyright.html" />
+<rdfs:label>RDF Description of List of Officers and Members of the Association for Symbolic Logic.</rdfs:label> <foaf:primaryTopic>
+<rdf: Description rdf:about="http://dblp,IBs.de/d2r/resource/publications/journals/jsyml/Langford41a"> <rdf:type rdf:resource=1'http;//xmlns-com/foaf/0.1/Document"/>
+<dc:title rdf:datatype="http://www.w3.org/2O01/XMLSchema#string">List of Officers and Members of the Association for Symbolic Logic-</dc:title> <rdfs:label rdf:datatype="http://www,w3.org/2001/XMLSchema#string">List of Officers and Members of the Association for Symbolic Logic.</rdfs:label>
+<dc: creator rdf:resource="http://dblp,13s,de/d2r/resource/authors/C.H.Langford" /> <foaf: maker rdf:resource="http://dblp.13s.de/d2r/resource/authors/C. H. Langford" /> <foaf: homepage rdf:resource="http://dx.doi.org/16,1017/S00224S12001O64S6" />
+<dc¡identifier rdf:datatype="http://www.w3.org/2O01/XMLSchema#string">DBLP journals/jsyml/Langford41a</dc:identifier> <dc:identifier rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI 10.1017%2FS00224S12001064S6</dc:identifiers
+<dc:bibliographicCitationS
+<rdf: Description rdf:about="http://dblp.uni-trier.de/rec/bibtex/journals/jsyml/Langford41a"/> </dc¡bibliographicCitationS
+<dc : issued rdf:datatype="http://www,w3.org/2O01/XMLSchema#gYear">1941</dc:issued> <ns@¡volume rdf:datatype="http://www,w3.org/2001/XMLSchema#string">6</ns®:volume> <ns@: pages rdf:datatype="http://www.w3.org/2O01/XMLSchema#string">174-17S</ns@:pages> <ns0: number rdf:datatype="http://www.w3.org/2001/XMLSchema#string"s4</ns0: numbers <ns0: journal rdf:resource="http://dblp.13s.de/d2r/resource/journals/jsyml" /> </rdf: Descriptions </foaf ; primaryTopiO
+</rdf:Descriptions
+Рис.3. Пример RDF-ресурса, выгруженного из DBLP
+В сводном репозитории было решено следовать подходу, примененному в DBLP, - использовать общеизвестные словари там, где это возможно. Поэтому перед импортом сведения из RKB Explorer были приведены к форматам, используемым в DBLP.
+12	http://ieee.rkbexplorer.com/
+13	http://acm.rkbexplorer.com/
+14	http://oai.rkbexplorer.com/
+Использование источников, не имеющих выгрузок в LOD. Несмотря на то что довольно большой объем публикаций в структурированном виде доступен в LOD, часть онлайн-репозиториев либо не предоставляют никакой возможности для автоматического получения данных из них, либо предоставляют только API для осуществления поиска. Поэтому, если поиск по сводному репозиторию не дал результатов, системой осуществляется поиск статьи в источниках, предоставляющих публичное API, - arXiv 15, IEEEXplore 16, Springer 17. В случае успешного поиска найденные сведения представляются в RDF-формате и заносятся в сводный репозиторий.
+Заключение
+В работе был представлен модуль работы с научными публикациями, являющийся частью системы семантического управления личной информацией. Основными задачами модуля являются: загрузка в систему научных публикаций (хранящихся на компьютере пользователя), автоматическое выделение метаданных из текстов загруженных публикаций, организация и ведение единого репозитория публикаций. Рассмотрены существующие решения, поддерживающие автоматическое выделение метаданных, среди которых для дальнейшего использования выбрано решение GROBID. Система GROBID была переобучена на выборке, содержащей российские публикации. Для получения дополнительных метаданных о статьях был организован сводный RDF-репозиторий публикаций, содержащий сведения о научных публикациях, доступных в LOD.
+Перспективным направлением для дальнейших исследований является анализ организованного репозитория. Анализируя метаданные публикаций, загруженных в систему, можно осуществлять поиск других, потенциально интересных пользователю публикаций.
+Список литературы
+1.	Бездушный А. А., Бездушный А. Н, Серебряков В. А. Модель семантического управления личной информацией // Тр. XVI Всерос. науч. конф. «Электронные библиотеки: перспективные методы и технологии, электронные коллекции»RCDL 2014. Дубна, 2014. Т. 1. С.72-79.
+2.	Бездушный А. А. Концептуальные положения и архитектура системы семантического управления личной информацией // Программная инженерия - Новые технологии. М., 2014. Т. 9. C. 30-37.
+3.	Bernadette Hyland, GhislainAtemezing, Boris Villazon-Terrazas. Best Practices for Publishing Linked Data // W3C recommendation. 2014. URL: http://www.w3.org/TR/ld-bp/ .
+4.	Hotho A., Jaschke R., Schmitz C. et al.BibSonomy: A social bookmark and publication sharing system // Proceedings of the Conceptual Structures Tool Interoperability Workshop at the 14th International Conference on Conceptual Structures. 2006. P. 87-102.
+5.	Li H., Councill I., LeeW.C. et al.CiteSeerx: an architecture and web service design for an academic document search engine // Proceedings of the 15th international conference on World Wide Web. 2006. P. 883-884.
+6.	Ley M. The DBLP computer science bibliography: Evolution, research issues, perspectives //String Processing and Information Retrieval. Springer Berlin Heidelberg, 2002. P. 1-10.
+7.	Lagoze C., Van de Sompel H., Nelson M. et al. The Open Archives Initiative Protocol for Metadata Harvesting. URL: http://www.openarchives.org/OAI/openarchivesprotocol.html .
+8.	Lagoze C., Van de Sompel H., Johnston P. et al.Open Archives Initiative Object Reuse and Exchange. URL: http://www.openarchives.org/ore/L0/primer.
+15	http://arxiv.org/help/api/index
+16	http://ieeexplore. ieee .org/gateway/
+17	http://dev.springer.com/
+9.	Xin R.S., O Hassanzadeh, C Fritz, et al. Publishing bibliographic data on the Semantic Web using BibBase // Semantic Web Journal - IOS Press, lNieuweHemweg 6B 1013BG. Amsterdam, Netherlands, 2013, vol. 4, № 1, p. 15-22.
+10.	Haslhofer B., Schandl B. Interweaving OAI-PMH data sources with the linked data cloud //International Journal of Metadata, Semantics and Ontologies - Inderscience Publishers, Order Dept World Trade Centre Building II 29, route de Pre-Bois Case Postale 856, CH-1215. Geneva, Switzerland, 2010. vol. 5, № 1. P. 17-31.
+11.	Glaser H., Millard I. C., Jaffri A. RKBExplorer.com: a knowledge driven infrastructure for linked data providers // Proceedings of European Semantic Web Conference (ESWC). Tenerife, Spain, 2008. P. 797-801.
+12.	Takasu A. Bibliographic attribute extraction from erroneous references based on a statistical model // Proceedings of the Third ACM/IEEE-CS Joint Conference on Digital Libraries. New York, ACM Press: 2003. P. 49-60.
+13.	Han H., Giles C .L., ManavogluE. et al. Automatic document metadata extraction using support vector machines // Proceedings of the 3rdACM/IEEE-CS Joint Conference on Digital libraries. New York, ACM Press: 2003. P. 37-48.
+14.	Lopez P. GROBID: Combining automatic bibliographic data recognition and term extraction for scholarship publications //Research and Advanced Technology for Digital Libraries. Springer Berlin Heidelberg, 2009. P. 473-474.
+15.	Luong M. T., Nguyen T. D., Kan M. Y. Logical structure recovery in scholarly articles with rich document features //International Journal of Digital Library Systems (IJDLS). 2010. Vol. 1, № 4. P. 1-23.
+16.	Peng F., McCallum A. Accurate information extraction from research papers using conditional random fields // Proceedings of Human Language Technology Conference and North American Chapter of the Association for Computational Linguistics (HLT-NAACL'04). Boston, MA, 2004. Vol. 1. P. 329-336.
+17.	Granitzer M.,Hristakeva M., KnightR. et al. A comparison of layout based bibliographic metadata extraction techniques // Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics. 2012. Vol.1. P. 19.
+18.	Lipinski M., Yao K., BreitingerC. et al. Evaluation of header metadata extraction approaches and tools for scientific PDF documents // Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries. 2013. P. 385-386.
+Материал поступил в редколлегию 22. 12. 2014
+A. A. Bezdushny
+Moscow Institute of Physics and Technology 9 Institutskiyper., Dolgoprudny, 141700, Russian Federation
+[email protected]
+PERSONAL PUBLICATION DIRECTORIES MANAGEMENT WITH USE OF SEMANTIC WEB TECHOLOGIES
+In the course of their daily activities, one is confronted with increasingly large volumes of information, much of which is stored in digital format. Personal Information Management Systems can help in the task of organization and management of these data. In previous works the basic architecture of a semantic personal information management system was designed. In this paper we consider a module of this system that supports work with scientific publications. Module provides user interfaces for working with publications, supports automatic metadata extraction from texts of publications, and retrieves additional information about publications from Linked Open Data.
+Keywords: automatic metadata extraction, data integration, bibliographic data management, personal information management, Linked Open Data.
+References
+1.	BezdushnyA. A., Bezdushny A. N.,SerebryakovVA. Model of Semantic Personal Information Management System. Proceedings of XVI All-Russian Scientific Conference RCDL-2014, Dubna, 2014, vol. 1, p. 72-79.
+2.	Bezdushny A. A. Conceptual provisions and architecture of semantic personal information management system. Software Engineering - New Technologies, 4, Stromynsky Lane, Moscow, Russia, 2014, vol. 9, p. 30-37.
+3.	Bernadette Hyland, GhislainAtemezing, Boris Villazon-Terrazas. Best Practices for Publishing Linked Data. W3C recommendation. 2014. URL: http://www.w3.org/TR/ld-bp/
+4.	Hotho A., Jaschke R., Schmitz C. et al.BibSonomy: A social bookmark and publication sharing system. Proceedings of the Conceptual Structures Tool Interoperability Workshop at the 14th International Conference on Conceptual Structures, 2006, p. 87-102.
+5.	Li H., Councill I., Lee W.C. et al.CiteSeerx: an architecture and web service design for an academic document search engine. Proceedings of the 15 th international conference on World Wide Web, 2006, p. 883-884.
+6.	Ley M. The DBLP computer science bibliography: Evolution, research issues, perspectives. String Processing and Information Retrieval. Springer Berlin Heidelberg, 2002, p. 1-10.
+7.	Lagoze C., Van de Sompel H., Nelson M. et al. The Open Archives Initiative Protocol for Metadata Harvesting. URL: http://www.openarchives.org/OAI/openarchivesprotocol.html
+8.	Lagoze C., Van de Sompel H., Johnston P. et al. Open Archives Initiative Object Reuse and Exchange. URL: http://www.openarchives.org/ore/L0/primer
+9.	Xin R. S., Hassanzadeh O., Fritz C., et al. Publishing bibliographic data on the Semantic Web using BibBase. Semantic Web Journal - IOSPress, NieuweHemweg 6B 1013BG. Amsterdam, Netherlands, 2013, vol. 4, №. 1, p. 15-22.
+10.	Haslhofer B., Schandl B. Interweaving OAI-PMH data sources with the linked data cloud. International Journal of Metadata, Semantics and Ontologies - Inderscience Publishers, Order Dept World Trade Centre Building II 29, route de Pre-Bois Case Postale 856, CH-1215. Genèva,Switzerland, 2010, vol. 5, № 1, p. 17-31.
+11.	Glaser H., Millard I. C., Jaffri A. RKBExplorer.com: a knowledge driven infrastructure for linked data providers. Proceedings of European Semantic Web Conference (ESWC). Tenerife, Spain, 2008 , p. 797-801.
+12.	Takasu A. Bibliographic attribute extraction from erroneous references based on a statistical model. Proceedings of the Third ACM/IEEE-CS Joint Conference on Digital Libraries. ACM Press, New York, 2003, p. 49-60.
+13.	Han H. , Giles C. L. , Manavoglu E. et al. Automatic document metadata extraction using support vector machines. Proceedings of the 3rd ACM/IEEE-CS Joint Conference on Digital libraries. ACM Press, New York, 2003, p. 37-48.
+14.	Lopez P. GROBID: Combining automatic bibliographic data recognition and term extraction for scholarship publications. Research and Advanced Technology for Digital Libraries. Springer Berlin Heidelberg, 2009, p. 473-474.
+15.	LuongM. T., Nguyen T. D., Kan M. Y. Logical structure recovery in scholarly articles with rich document features. International Journal of Digital Library Systems (IJDLS), 2010, vol. 1, № 4, p. 1-23.
+16.	Peng F., McCallum A. Accurate information extraction from research papers using conditional random fields. Proceedings of Human Language Technology Conference and North American Chapter of the Association for Computational Linguistics (HLT-NAACL'04). Boston, MA, 2004, vol. 1, p. 329-336.
+17.	Granitzer M.,Hristakeva M., KnightR. et al. A comparison of layout based bibliographic metadata extraction techniques. Proceedings of the 2nd International Conference on Web Intelligence, Mining and Semantics, 2012, vol. 1, p. 19.
+18.	Lipinski M., Yao K., Breitinger C. et al. Evaluation of header metadata extraction approaches and tools for scientific PDF documents. Proceedings of the 13th ACM/IEEE-CS joint conference on Digital libraries, 2013, p. 385-386.

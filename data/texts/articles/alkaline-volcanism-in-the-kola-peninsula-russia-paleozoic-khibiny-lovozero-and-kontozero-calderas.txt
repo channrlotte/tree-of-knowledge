@@ -1,0 +1,388 @@
+﻿Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+UDC 550.42
+Alkaline volcanism in the Kola Peninsula, Russia: Paleozoic Khibiny, Lovozero and Kontozero calderas
+A.A. Arzamastsev, M.N. Petrovsky
+Geological Institute, KSC RAS, Apatity
+Abstract. This paper presents the results of studying the Paleozoic volcanic series of the Kola Province, widespread in the areas of the Lovozero and Khibina massifs, the Kontozero caldera, and the Ivanovka volcano-plutonic complex. A distinctive feature of the volcanics is the presence of moderately alkaline basanites along with silica-undersaturated alkaline rock associations. All of the rocks are significantly enriched in incompatible elements: the contents of Rb, Ba, Sr, Nb, Zr and Y in the volcanics of the Lovozero and Kontozero formations. The Sm-Nd and Rb-Sr data suggest that the volcanics of the study area were derived from two different mantle sources: (1) superdepleted mantle material resulted from the multistage crustal growth over Archaean and Proterozoic time in the Kola-White Sea rift-collision zone and (2) a source that had properties of moderately enriched EMI-type mantle. It has been shown that the emplacement of the volcanics preceded the main pulse of alkaline magmatism in the region and can be referred to as the initial phase of the Paleozoic tectono-magmatic reactivation. According to geochronological data, the alkaline volcanic rocks were emplaced at least 20-30 m.y. before the intrusion of the alkaline plutonic rocks.
+Аннотация. Представлены результаты изучения палеозойских вулканических серий Кольской провинции, распространенных в районах Ловозера, Хибин, Контозера и Ивановского вулканоплутонического комплекса. Особенностью вулканитов является присутствие умеренно щелочных базанитов наряду с недонасыщенными кремнеземом щелочными ассоциациями. Все породы значительно обогащены некогерентными элементами: содержания Rb, Ba, Sr, Zr, Nb, Y в вулканитах ловозерской и контозерской свит значительно превышают таковые в щелочных базальтах континентальных ассоциаций различных провинций. Sm-Nd и Rb-Sr изотопные характеристики свидетельствуют об участии двух мантийных источников в образовании вулканических серий региона: 1) ультрадеплетированного мантийного субстрата, сформировавшегося в результате многоэтапных процессов корообразования, имевших место в архейской и протерозойской истории Кольско-беломорской рифтогенно-коллизионной зоны; 2) источника, имеющего характеристики умеренно обогащенной мантии типа ЕМ! Показано, что образование вулканитов предшествовало главному этапу щелочного магматизма в регионе и может быть отнесено к инициальной фазе развития палеозойского этапа тектоно-магматической активизации. Согласно геохронологическим данным, формирование щелочных вулканических серий произошло не менее чем за 20-30 млн лет до проявления щелочных плутонических комплексов. Время развития раннепалеозойского вулканизма в Кольской щелочной провинции отвечает периоду наиболее активных тектонических процессов на северо-западной границе Фенноскандинавского щита в СевероАтлантическом поясе каледонид и коррелирует с коллизионным максимумом, связанным с закрытием палеоокеана Япетус.
+Key words: alkaline rocks, volcanism, magmatism, Khibiny, Lovozero, Kontozero, Kola Peninsula
+Ключевые слова: щелочные породы, вулканиты, магматизм, Хибины, Ловозеро, Контозеро, Кольский полуостров
+1.	Introduction
+A distinctive feature of the unorogenic continental series of alkaline ultramafic rocks and carbonatites is their spatial and temporal association with alkaline and subalkaline volcanics, the latter varying widely from silica-undersaturated alkaline ultramafics and nephelinite to normal basalt and trachyandesite. Examples of these associations are the Maimecha-Kotui Province and the alkaline province of East Africa, where in addition to ultrabasic lavas there are volcanics of the alkaline basalt, alkaline olivine basalt, and tholeiite basalt series (Le Bas, 1977; Alkaline rocks..., 1984; Gladkikh, 1994). Studies that were performed in these regions revealed the sources and evolution trends mainly for the series of alkaline ultramafics-carbonatites, for which comagmatic rocks of different depth facies were found. A more complicated problem is the role and place of subalkaline rocks, which are only represented by extrusive facies and have no plutonic equivalents in the magmatic complexes of the provinces. Geological observations and radiologic age determinations correlate the eruptions of alkaline olivine basalt and basanite with the initial phase of tectono-magmatic reactivation that preceded the plutonic phase of alkaline ultrabasic magmatism. It is obvious that the reconstruction of magmatic processes in the zones of ancient shield reactivation should be based on studies of all the components of mineralized
+277
+Arzamastsev AA., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+magmatic systems, including rocks of volcanic origin.
+The Paleozoic magmatic province of the Baltic Shield contains, in addition to the known alkaline intrusions, volcanic rocks that are spatially associated with large nepheline syenite plutons or are concentrated in zones of tectonic depressions. The prospecting and exploration operations conducted in recent years on the Kola Peninsula resulted in the discovery of new Paleozoic volcano-plutonic complexes (Rusanov et al., 1993) and also revealed a rather wide development of extrusive rocks in the Khibina and Lovozero massifs. The great lateral extent and substantial proportion of emplaced during the Paleozoic phase of the tectono-magmatic reactivation of the region were sufficient arguments for carrying out a study aimed at determining the evolution trends of the volcanic series of the province and establishing relations between the volcanic and plutonic complexes, including the identification of intrusive equivalents of the extrusive rocks.
+2.	Geologic setting and petrography
+In the northeastern part of the Baltic Shield, Paleozoic volcanic rocks are restricted to a large NE-trending tectonic zone extending from the Sokli carbonatite massif in the north of Finland to the Ivanovka volcano-plutonic complex on the Barents Sea coast (Fig. 1). This zone also contains very large massifs of agpaitic nepheline syenite. During this study, we investigated the structure of the Lovozero and Khibina massifs, the Kontozero Depression, and the Ivanovka volcano-plutonic complex, as well as the composition of the volcanic rocks composing them.
+Lovozero massif. The volcanic rocks occurring in the outliers of the roof of this agpaitic nepheline syenite pluton are most widely known among the volcanics of the region (Bussen, Sakharov, 1972; Tikhonenkova, 1972; Borodin et al., 1973; 1987). According to the latest results of the Lovozero geological survey, the bulk of volcanic rocks as thick as 200 m are embedded in rocks of the differentiated lujavrite-foyaite-urtite complex and are spatially associated with the sediments of the Lovozero Formation. Elements of lateral zoning have been discovered in the distribution of compositionally varying rocks: ankaramite outliers dominate in the extreme northeastern part of the massif; alkaline basanite occurs further southward and superseded by phonolite porphyry in the Apuaiv and Kuamdespahk area. The structure of the sequence could be reconstructed only in its ultrabasic interval: the study of large volcanic outliers across the strike and at depth (Fig. 2) revealed the predominance of ankaramite alternating with basanite. The thickness of each flow is no more than a few meters. The ankaramite contains phenocrysts or olivine and clinopyroxene and closed clusters of equant clinopyroxene crystals. There are also patches of picrite containing numerous large olivine phenocrysts. The picrite is petrographically similar to the ankaramite and can be interpreted as its accumulative variety. All of the basaltoids contain small picrite and ankaramite xenoliths and were apparently emplaced during an independent phase of extensive activity. They are distinguished by the presence of large clinopyroxene phenocrysts enclosed in a subophitic groundmass of plagioclase, clinopyroxene, biotite, and ilmenite.
+Khibina Massif. Volcanic rocks occur as numerous xenoliths, generally concentrated in the less eroded areas of the massif. The largest exposure of the volcanic rocks, as long as 10 km and having a maximum apparent thickness of 100 m, was discovered in the western part of the massif at a contact between the massive and trachytoid nepheline syenite (khibinite) of the peripheral zone of the intrusion. The lower interval of the sequence consists of metamorphosed volcanogenic-sedimentary rocks, the upper one is dominated by phonolite porphyry. Similar to the porphyritic rocks of the Lovozero Massif, the porphyries of the Khibina Massif cannot be interpreted as analogs of the rhomb-porphyry from the Oslo Graben: the latter is the volcanic facies of the larvikite-laurdalite series. Apart from the leucocratic varieties, B.Ye. Borutsky (1988) found augite porphyry in the Chasnachorr-Yudichvumchorr block of the Khibina Massif.
+Kontozero Depression. The volcanic-sedimentary rocks of the Kontozero Formation fill a caldera 8 km across located in Archaean granite-gneisses in the Lake Kontozero area 60 km northeast of the Lovozero alkaline massif (Fig. 1). According to a gravity survey and 3-D density modelling based on its results, the caldera has a cone-shaped asymmetric structure and extends to the depth of 5 km (Fig. 3). The vent composed of rocks having the density of 2800 kg/m3 is located in the eastern part of the caldera and has the diameter of 1-2 km. According to the data reported by Kirichenko (1970), Borodin and Gladkikh (1973), Pyatenko and Saprykina (1980), and Pyatenko and Osokin (1988), the Kontozero sedimentary-volcanic formation consists of three members: the lower (terrigenous-volcanic) argillite member, the middle (volcanic) melilitite-nephelinite member, and the upper (carbonate-terrigenous) carbonatite member. The lower member is composed mainly of augitite and melanephelinite tuffs and lavas alternating with siltstone and tuffstone layers and has a gradational contact with the overlying member of olivine nephelinite and melilitite. The upper member has an approximate thickness of 1000 m and consists of extrusive carbonatite (lavas and tuffs), picrite-carbonatite, and also calcareous tuffaceous siltstone, and tuffite. The thickness of the volcanic sheets ranges between 1 and 10 m. The study of the mineral composition of the volcanic rocks from the middle member revealed that the dominant rock was nephelinite rather than melilitite as had been inferred before. The X-ray diffraction and microprobe analyses of the
+278
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+groundmass from the bulk of the samples detected nepheline and feldspar instead of melilite. This result was confirmed by chemical analyses.
+Fig. 1. Scheme of distribution of Paleozoic rocks in the northeastern Fennoscandian Shield. Plutonic series:
+1 - Khibina, 2 - Lovozero, 3 - Turiy Mys, 4 - Ingozero, 5 - Salmagora, 6 - Lesnaya and 7 - Ozernaya Varaka,
+8 - Afrikanda, 9 - Mavraguba, 10 - Niva, 11 - Kovdor, 12 - Sokli, 13 - Kurga, 14 - Kontozero, 15 - Ivanovka, 16 - Kandaguba, 17 - Vuoriyarvi, 18 - Sallanlatva, 19 - Seblyavr, 20 - Pesochny, 21 - dikes and pipes of the
+Tersky Coast
+Ivanovka volcano-plutonic complex. Alkaline rocks were discovered in Ivanovka Bay during prospecting work on the Barents Sea coast (Rusanov et al, 1993). Remnants of volcanic rocks occur in localities as long as a few hundred meters along the bay shore and are traceable as far as 18 km from the mouth of the bay. The maximum thickness of the volcanogenic-sedimentary sequence is 30-40 m, the bedding is subhorizontal. The alkaline volcanics are represented by tuffs, tuffites, tufflavas, and lava breccias. The volcanic sequence is underlain by Archaean granites, Riphean sedimentary rocks, and Riphean dolerites of a trap association. On a petrographic basis, the volcanics can be grouped into two main varieties: (1) nepheline basalts of an aphyric or a less common porphyritic texture consist of microcrystalline aggregates of feldspar laths and scarce grains of dark-colored minerals (clinopyroxene, mica, and amphibole) and (2) alkaline trachytes closely associated spatially with the basalts and related to one another through a series of transitional varieties. The latter usually have a porphyritic texture: they contain phenocrysts of sodic plagioclase enclosed in a typically trachytic groundmass.
+3.	Chemical composition of minerals
+Olivine. We studied olivine from the alkaline picrite and ankaramite of the Lovozero Formation and from the picrite-carbonatite of the Kontozero Formation (Table 1). Olivine phenocrysts of the Lovozero volcanics are distinctly zoned: the cores showed a composition of Fo93-92, the margins and small grains in the groundmass yielded Fo85-77. The evaluation of equilibrium between the olivine of the Lovozero alkaline picrite
+279
+Arzamastsev A.A., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+and ankaramite and the magma corresponding with the country rock composition (with the Mg/Fe ratio in the coexisting magma KD = 0.3) showed that in the picrite-ankaramite-alkaline basanite succession, the olivine of Fo94_93, Fo92-90, and Fo87-80 respectively, must have been in equilibrium with the magma. The cores of the large crystals are consistent with this state. This points to an insignificant accumulation of the olivine crystals that settled out from the magma, from which the Lovozero volcanic ultramafic rocks were derived. The concentration of Ca in the olivine, which was empirically related to the formation depth of ultrabasic rocks (Simkin, Smith, 1970), varies regularly from the low-Ca cores of large phenocrysts that originated during the plutonic phase of crystallization to the high-Ca margins of zoned crystals and the groundmass, consistent with near-surface crystallization. Olivine occurs in the Kontozero picrite and carbonatite as phenocrysts of Fo90-88 composition and also as xenocrysts with an unusually high content of the forsterite component (Table 1). We found olivine of this composition, having very low NiO concentrations, only in the phoscorite of the Kovdor Massif. We believe that the occurrence of olivine of this composition in the Kontozero caldera suggests that it contains a phoscorite-carbonatite complex.
+Fig. 2. Cross section of the northern slope of the Flora mountain in the Lovozero Massif. 1 - sandstone;
+2 - albitization zone; 3 - foyaite; 4 - lujavrite; 5 - ultrabasic and basic volcanics
+Clinopyroxene. According to the IMA classification (Morimoto, 1988) all of the pyroxenes from the Paleozoic volcanic rocks can be classed with the QUAD Ca-Mg-Fe group (Table 2). The Kontozero picrite contains the most magnesian diopside varieties. The clinopyroxene from the Khibina phonolite porphyry is aegirine-augite. The Lovozero rocks show a distinct dependence of their clinopyroxene chemistry on the composition of the host rocks: diopside is found in the picrite, diopside-augite in the ankaramite, and augite in the basanite (Fig. 4). The AlIV value also varies in this rock sequence: the positive AlIV - TiO2 correlation suggests the growth of the CaAl2SiO6 component during magma differentiation; the highest AlIV contents were found in the rocks of the Lovozero and Ivanovka massifs. The phenocrysts are poorly zoned. In the picrite and ankaramite, the variation of their compositions from margins to cores corresponds with the general evolution trend in the picrite-ankaramite-basanite succession.
+Amphibole is scarce and occurs as phenocrysts in the Lovozero and Ivanovka basanites and in the Khibina phonolite porphyry. The chemical data (Table 3) suggest several amphibole varieties. The calculation of the formula shows that, according to Leake’s classification (Leake, 1978), the amphiboles from the Ivanovka rocks can be referred to the Ca and Na-Ca groups: the basanite contains kaersutite, the phonolite bears ferropargasite. The amphibole from the Khibina phonolite porphyry is magnesiokataphorite.
+Mica is represented by ferromagnesian varieties ranging from phlogopite (Mg/Fe > 2) to biotite (Table 3). Mica phenocrysts and groundmass grains of the Kontozero picrite and extrusive carbonatite is low-Ti phlogopite with an elevated Ba content, a feature typical of the micas from the carbonatite series of the region (Rass, 1986; Kononova, 1976). The Khibina phonolite porphyry and the Lovozero ankaramite contain more ferrous phlogopite varieties with a higher Ti content. According to Spear (1984), this indicates that they crystallized under conditions of high temperature and elevated alkalinity (Fig. 4).
+280
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+Fig. 3. Schematic map showing the geologic structure of the Kontozero caldera after Pyatenko and Saprykina (1980) with author's supplements. 1 - ankerite-dolomite metasomatic rocks in the fault zones; 2 - explosion pipes filled with olivine-phlogopite picrite; Kontozero stratigraphic unit: 3 - carbonatite tuff and tuffisitic breccia of the feeder channel; 4 - uppermost carbonatite series; 5 - intermediate melilititic series; 6 - lowermost augitite series; 7 - terrigenic and volcanogenic series composed by sandstone, alevrolite, argillite intercalated by basalt and trachybasalt; Plutonic unit: 8 - nepheline syenite, pulaskite, malignite; 9 - nepheline pyroxenite, melteigite, turyaite; Precambrian basement: 10 - AR gneiss and granite-gneiss; 11 - faults
+Feldspar was found only in the Lovozero rocks of the ankaramite-basanite-phonolite association and in the Khibina phonolite porphyry. In addition to the feldspar laths in the groundmass, this mineral occurs as rhomboid phenocrysts and resembles, in this respect, the feldspars from the rhomb-porphyry of the Oslo Graben (Bussen, Sakharov, 1972). In contrast to the Khibina and Lovozero plutonic nepheline syenites, where feldspar is represented by albite-orthoclase varieties, the Lovozero volcanics also contain plagioclase with a mole fraction of the An component as high as 46.3 % (Table 4, Fig. 5). Plagioclases of this composition were reported from the larvikite and laurdalite of the nearby Kurga intrusion, which are rocks comagmatic with the volcanics described (Arzamastsev, Arzamastseva, 1993).
+Chrome spinel, magnetite, and ilmenite. In addition to discrete magnetite and ilmenite crystals, the alkaline volcanic rocks contain chrome spinels. The chemical compositions of these minerals are given in Table 5. The calculation of equilibrium temperatures and oxygen fugacity for magnetite-ilmenite pairs from the Khibina phonolite porphyry (Sample A-1045) after Powell and Powell (1977) and Anderson and Lindsley (1985) yielded 450 °C and log fO2 = 29.5, values corresponding to the latest cation equilibria of the Fe-Ti system.
+Apatite occurs as an accessory in all of the volcanic rocks of the province. The apatites from the
+281
+Arzamastsev AA., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+Kontozero nephelinite and the Khibina phonolite porphyry showed the highest SrO contents (Table 6). At the same time, the Kontozero apatite is extremely low in rare earth elements, even though the contents of light lanthanides in the Khibina phonolite are abnormally high and exceed all of the known LREE values in apatite of the Kola alkaline province.
+Fig. 4. Chemical composition of minerals from volcanic rocks. Kontozero: 1 - picrite; Lovozero: 2 - picrite, 3 - ankaramite, 4 - basanite; Khibina: 5 - phonolite porphyry; Ivanovka: 6 - phonolite
+Fig. 5. Composition or feldspars from 1 - Khibina phonolite porphyry;
+2 - Lovozero basanite; 3 - Ivanovka phonolite; 4 - Oslo basanite and 5 - Oslo rhomb porphyry.
+Data for the Oslo rocks are given after von Harnik (1969)
+4.	Geothermobarometry of rocks
+The crystallization temperatures of the rocks were determined using well-known geothermometers (Table 7). The highest values were obtained for the Kontozero picrite. It appears that the data used on the olivine-spinel assemblage characterize the earlier stages of this rock genesis, corresponding with the initial stage of the system crystallization. Phase equilibria temperatures for the Lovozero rocks fall regularly from the picrite to ankaramite and then to basanite, generally, in agreement with the evolution trend of these rocks.
+282
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+The pressures at which the mineral phases crystallized could be determined only for the Ivanovka basanite and phonolite. The approximate pressure estimation based on the AlIV and Altotal values in the amphiboles (Rutter et al., 1989) shows that amphibole phenocrysts of the Ivanovka rocks crystallized at pressures around 5 kbar, this value indicates that crystallization began at a depth as great as the intermediate magma reservoir.
+5.	Chemical composition of rocks
+Major elements. The least alkalic rocks of the alkaline volcanics emplaced during the Paleozoic episode of tectono-magmatic reactivation are the Lovozero rocks: the agpaitic coefficient (K + Na)/Al of the basanite averages 0.72; the associated ankaramite and picrite are also less alkalic than their Kontozero analogues. The norm (CIPW) calculation revealed nepheline-free varieties containing as much as 7 % normative hypersthene among the Lovozero volcanics. The evolution of the Lovozero rock series was analyzed by means of a trend calculation based on computing the mass balance of major oxides using the conventional approach (Morris, 1984). The results show that the evolution of the Lovozero series fits the model fairly well for the fractional crystallization of the initial ankaramite magma of the ANK-294 type (Table 8) with the formation of a series of basalt and phonolite derivatives during the successive crystallization of olivine, olivine + clinopyroxene, and salic minerals dominated by nepheline. In MgO-oxide (Fig. 6) and MgO-trace element (Fig. 7) diagrams, this succession is displayed by the following clearly expressed relationships: Ni-MgO (olivine crystallization), MgO-CaO and MgO-V (clinopyroxene), MgO-Na2O, MgO-K2O, etc. (crystallization of salic minerals).
+Trace elements. A distinctive feature of the rocks under study is their significant enrichment with incompatible elements (Table 8). The concentrations of Rb, Ba, Sr, Zr, Nb, and Y in the Lovozero volcanics are more than twice as high as their contents in continental alkaline basalts from various provinces (Gladkikh, 1987). The rhomb-porphyries and basalts of the Oslo Graben (Neumann et al., 1990) and the basalts of the Maimecha-Kotui Province (Gladkikh, 1994) have lower concentrations of incompatible elements. The Lovozero picrite and ankaramite and the Kontozero nephelinite are 2 to 8 times as high in Rb, Ba. Hf, Zr, and REE as the similar rocks of Arctic Siberia (Gladkikh, 1994; Arndt et al., 1995).
+The concentrations of incompatible elements increase regularly in the picrite-ankaramite-basanite-phonolite succession of the Lovozero, Khibina, and Ivanovka volcanic rocks. This regularity is especially pronounced for the Th concentrations, which increase from 7 ppm in the picrites to 40 ppm in the phonolites. Analysis of correlations between trace elements and Th revealed different evolution trends for the Kontozero and Lovozero series. Each of the series has a group of elements that have positive relations with Th and remained incompatible until the final derivatives evolved (paired correlation coefficients are given in parentheses): Rb (+0.67), Nb (+0.87), Ta (+0.64), U (+0.74), La (+0.75), and Ce (+0.87). In contrast to these, P2O5 (-0.67) and V (-0.59) remained compatible throughout the evolution of the series, because their concentrations in the residual magma were controlled by the crystallization of apatite and clinopyroxene, respectively. The trends of the Sr and Ba contents are different in the rocks of the Lovozero-Ivanovka-Khibina and Kontozero series: being compatible in the former series, they behave as incompatible elements in the Kontozero series and show distinct negative correlations with Th. Zr, Nb, and Ta. This can probably be explained by the crystallization of melilite DSr = 1.0-1.12 during the evolution of the Kontozero volcanogenic series.
+All rocks of the province have low K and P and high Zr and Nb concentrations. Considering the low Rb contents, the depletion of the rocks in potassium could be caused by the separation of a potassium-bearing phase, apparently phlogopite, prior to the eruptive activity. The Zr and Nb distribution patterns show significant departures from the main fractionation trend (Zr/Nb = 6.2-8.3), which controlled the formation of the picrite, ankaramite, basanite, and phonolite. The low Nb concentrations can be explained by the separation of perovskite and ilmenite, which have very high Nb partition coefficients. Evidence in support of this idea comes from the occurrence of ilmenite-perovskite-olivine xenoliths in the Lovozero picrite and ankaramite, which seem to be cumulates of the early crystallization phases.
+The REE distribution in the rocks of the province is displayed in Fig. 8. All of the rocks show a high La/Yb ratio and no Eu anomaly. The degree of REE fractionation in the Kontozero rocks (La/Yb = 15.5) is lower than in the rocks of other series (31.6-86.7). The positive correlation between REEs and SiO2 suggests that the REE distribution in the rocks of the Lovozero, Khibina, and Ivanovka series was controlled mainly by silicate phases. The REE distribution patterns indicate that the enrichment of the more leucocratic derivatives in the light rare-earth elements was caused by the separation of olivine and, especially, clinopyroxene during the early fractionation stage and of nepheline and, to a lesser extent, Na-K-feldspar during the final fractionation phase. In addition to the olivine-clinopyroxene control over REE distribution, an important factor in the Kontozero rocks was probably melilite crystallization. Data on the partition coefficients of melilite show high D values for MREEs, especially for Eu and Gd (DEu = 1.15, DGd = 1.25) (Nagasawa et al., 1980). In fact, the results reported by Pyatenko and Osokin (1988) on the REE distribution in the Kontozero melilitites did show positive Eu and Gd anomalies. At the same time, our data on the REE distribution in the nephelinites showed depletion of MREEs (Fig. 8). This fact indicates that the nephelinite and melilitite of the Kontozero series are complementary rocks.
+283
+Arzamastsev AA., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+Fig. 6. Oxide-MgO (wt %) variation diagrams for the Kola volcanic rocks. 1 - Ivanovka; 2 - Kontozero;
+3 - Lovozero; 4 - Khibina. Analyses were recast on anhydrous and carbonate-free basis. Clinopyroxene (Cpx), olivine (Ol) and feldspar (Fsp) compositions are plotted in the MgO-CaO diagram.
+Polynomial trends of the 5th order are displayed
+6.	Isotopic signatures of the rocks
+Analytical techniques. Whole-rock samples, 100-200 mg in weight were decomposed using the technique we described earlier (Belyatsky et al., 1994). The subsequent Sm and Nd separation was performed by the conventional technique of two-step ion-exchange and extraction-chromatographic separation (Amelin et al., 1996). The isotopic composition and concentrations of Rb, Sr, Sm, and Nd were measured by isotopic dilution at the Institute of Precambrian Geology and Geochronology, Russian Academy of Sciences, using a "Finnigan MAT-261" solid-phase eight-collector mass spectrometer in static mode. The Nd isotope composition was corrected for fractionation in on-line operation using the ratio 148Nd/144Nd = 0.241570. The occurrence of an Sm admixture in the Nd fraction was controlled using a 147Sm/144Nd ratio, whose value was not higher than 1T0-5. The Nd isotope composition was measured as an average of 15-20 blocks (not less than 150 measurements), The isotope ratios were measured to better than ±0.5 % (2o) for 87Rb/86Sr and to ±0.3 % (2o) for 147Sm/144Nd. The concentrations of elements were measured with an accuracy of ±1% (2o). During the experiment, the values of the Nd isotope ratio were 0.511879 ± 14 (n = 45) for the La Jolla 143Nd/144Nd standard and 0.512673 ± 15 (n = 10) for BCR-1; the 87Sr/86Sr values were 0.705037 ± 50 (n = 4) for BCR-1 and 0.7102249 ± 18 for SRM-987. The total blanks were 0.03 ng for Rb, 0.1 ng for Sr, 0.03 ng for Sm and 0.05 ng for Nd and did not have any significant effect on the composition and concentrations of the elements under study. The isochron parameters were calculated with a 95 % confidence interval; the errors of data point location were 0.5 % for the x-axis and 0.005 % for the y-axis. The results of the measurements have been summarized in Table 9.
+Results. The K-Ar age of 516± 50 Ma determined by Kukharenko et al. (1971) confirms the old age of the Kontozero caldera. The regression based on three points (Table 9) yielded an age of 461 ± 39 Ma, but with the very small 87Rb/86Sr variation range. In order to get more reliable data we performed 40Ar/39Ar step-heating study of the monomineral phlogopite fractions from nepheline syenites and pyroxenites which are suggested to be comagmatic with the volcanic rocks. The obtained age (Fig. 9) falls within the time span of alkaline magmatism of the Kola Province and correspond to the age of the plutonic phoscorites recently obtained by Balaganskaya et al. (2002).
+The trend for the Rb-Sr ratios in the Lovozero rocks was not distinct enough to date them. It can be supposed, however, that their age approximates the age of the nearby Kurga intrusion: its Rb-Sr age was found to be 404 ± 12 Ma and is consistent with the K-Ar age reported earlier (Kukharenko et al., 1971). This supposition is supported by the evidence that the Lovozero volcanic series and the Kurga intrusive series are comagmatic, as well as by the proximity of their geologic positions and geochemical characteristics (Arzamastsev, Arzamastseva, 1993).
+284
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+7.	Discussion of results
+Mantle source characteristics. The eNd(t) - 87Sr/86Sr(t) diagram plotted in Fig. 10 shows the compositions of spatially close igneous rocks of the Kola Peninsula: the kimberlite of the Tersky Coast, plutonic carbonatite intrusions, agpaitic complexes, and volcanic rocks of the province. The data points of these rocks form a trend, a fragment of which is a line plotted by Kramm and Kogarko (1994) for the carbonatite association of the region (KCL). Kramm (1993) believes that the origin of this carbonatite association was related to the evolution of two isotopic components: a depleted mantle source, similar to the source reported for the Canadian carbonatites (Bell, Blenkinsop, 1987), and an EMI source enriched in LILE and incompatible elements. According to the data for the adjacent Arkhangelsk diamond-bearing province (Makhotkin et al., 1997), the trend established for the aluminous kimberlite-melilitite series was specified by the contribution of a PREMA source and an old LREE-enriched EMI-type lithospheric mantle.
+Fig. 7. Trace elements (ppm) - MgO (wt %) variation diagrams for the volcanic rocks of the Kola Province. l - Ivanovka; 2 - Kontozero; 3 - Lovozero; 4 - Khibina
+285
+Arzamastsev AA., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+Fig. 8. REE distribution patterns for the volcanic rocks of the Kola Province. The fields of (1) the Kontozero melilitites and (2) carbonatites are plotted after Pyatenko and Osokin (1988) and those of (3) the Oslo basalts after Neumann et al. (1990). The normalization factors of Taylor and McLennan (1985) were used
+Our data indicate that the mantle reservoir from which the primary magma of the volcanic rocks was derived was substantially more depleted in light lithophile elements when compared to the PREMA source and to all of the alkaline rocks of the province. The high eNdW values established for the volcanic rocks of the Kontozero caldera and the Lovozero Massif contradict the participation of a PREMA component in the mantle magma source and suggest a more depleted mantle material might be produced by multiphase crust-forming processes that operated during the Archaean and Proterozoic history of the Kola-White Sea rift-collision zone. As a matter of fact, mantle source components having long depletion histories were reported from many continental plateau basalt regions of the world (MacDougall, 1988). The direct evidence supporting the existence of this component in the Kola Province is the discovery of spinel harzburgite nodules, extremely depleted in the basalt component, in an explosion pipe cutting through the rocks of the Khibina Massif (Arzamastsev, Dahlgren, 1993). The Sm-Nd isotope characteristics of the nodules (eNd(t) = +17.8 for the age of 2054 Ma) classify them with remnants of the superdepleted mantle, which retained the features of the Archaean protolith and bear signatures of later mantle transformations (Arzamastsev, Belyatsky, 1999).
+The geochemical features of the volcanic rocks under study allowed us to identify another isotopic component which seems to be close to a moderately depleted mantle source of the EMI type. It was this component that was obviously responsible for the enrichment of the Paleozoic rocks of the province in LILE and incompatible elements. Its origin can be associated either with lower crust transformation under mantle conditions (Hergt et al., 1991) or with mantle metasomatism (Weaver, 1991; Lightfoot et al., 1993). The indicator ratios of the rocks (Zr/Nb = 5.4, La/Nb = 0.51, Ba/Th = 67, Th/La = 0.15, Rb/Nb = 0.42) have values close to those of oceanic-island basalts (OIB) (Saunders et al., 1988; Weaver, 1991). Further evidence in support of the enrichment instead of the depletion of the mantle material is the negative values of the fractionation factor fSm/Nd = [147Sm/144Nd(sampie)]/[147Sm/144NdCHUR] - 1] varying in the volcanic rocks from -0.17 to -0.49. The significant contribution of mantle metasomatic processes that operated under the entire region of the Paleozoic magmatic activity is proved by the discovery of numerous hypoxenoliths showing traces of mantle
+286
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+metasomatism in various areas of the Baltic Shield (Griffin, 1973; Furnes et al., 1986; Arzamastsev, Dahlgren, 1993; Shubina et al., 1997).
+Fig. 9. Results of the 40Ar/39Ar step-heating study of a monomineral phlogopite fraction from nepheline syenite (a) and (b) and pyroxenite (c) of the Kontozero caldera
+The Sm-Nd and Rb-Sr isotopic characteristics of the Paleozoic magmatic rock associations in northeastern Fennoscandia are sufficient to outline the main evolution trends of the mantle magma sources, the reactivation of which resulted in the Paleozoic magmatic activity. The calculation of the model ages of the rocks with respect to TNd(DM) yielded a broad scatter of values for all of the magmatic rocks of the province. Considering that model ages are actually isochrons representing a relationship between the isotope ratios for a depleted mantle and the values measured for a particular sample, these ages can be plotted in a 143Nd/144Nd-147Sm/144Nd diagram. The diagram presented in Fig. 11 shows the progressively younger ages in the following succession of rocks of different composition and different magma generation depths: (1) the diamond-bearing kimberlites of the Arkhangelsk District (1500-1200 Ma), (2) the poorly diamondiferous kimberlites at the Tersky Coast of the Kola Peninsula (1200-900 Ma), (3) the Kola olivine melilitites and the diamond-free kimberlites and picrites of the Arkhangelsk District (900-750 Ma), (4) the alkaline rocks of the Kola carbonatite and agpaitic intrusions (750-550 Ma), and (5) the volcanic rocks of the Kola Province (750-400 Ma). Comparison with the model ages reported for continental flood basalts (White, McKenzie, 1995) shows that the mantle source was formed no later than one billion years before the first basalt eruptions. According to White and McKenzie (1995), a zone of magma generation at the head of a rising mantle plume originates at depth below 120 km in the region of garnet stability and descends as deep as the spinel-facies depth level (30-70 km). It can be supposed that in the region of a long-cratonized lithosphere under north-eastern Fennoscandia, the vertical range of the magma generation zone was wider and extended as far as the diamond-facies depth. The successive separation of mantle magmas and the simultaneous rise of the magma generation level seem to represent the evolution of the mantle plume-lithosphere interaction and generally agree with a dynamic model for a rising mantle plume.
+287
+Arzamastsev AA., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+0.701	0.702	0.703	0.704	0.705	0.706	0.707
+Fig. 10. Diagram showing eNd vs. 87Sr/86Sr variations for (1) Kontozero volcanics, (2) Lovozero volcanics,
+(3) Kurga intrusive rocks, (4-5) kimberlites (4) and olivine melilitites (5) of the Tersky Coast. The fields are plotted for the plutonic rocks of the carbonatite and agpaitic complexes of the Kola Province (1) (Kramm, Kogarko, 1994; Zaitsev, Bell, 1995) and for the kimberlites and picrites of the Fe-Ti series (II). Diamond-bearing mica kimberlites (III), olivine-phlogopite melilitites (IV), and olivine-nepheline melilitites (V) of the Arkhangelsk Province (Parsadanyan et al., 1996; Makhotkin et al., 1997).
+All data were corrected for the age of 380 Ma
+Fig. 11. 147Sm/144Nd - 143Nd/144Nd diagram for the Paleozoic rocks of the Kola alkaline province and adjacent regions. 1 - volcanic rocks of the Kola province; 2 - plutonic rocks of the Kurga massif; 3 - plutonic rocks of the agpaitic and carbonatite intrusions of the Kola province after (Kramm, Kogarko, 1994, Zaitsev, Bell, 1995); 4 - olivine melilitite and 5 - kimberlite of the Tersky Coast; Arkhangelsk province: 6 - olivine-phlogopite and olivine-nepheline melilitite; 7 - diamond-bearing micaceous kimberlite after (Parsadanyan et al., 1996;
+Makhotkin et al., 1997)
+288
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+Correlation with tectono-magmatic activity. The results of isotopic dating proved that the alkaline intrusions of the Kola Peninsula were emplaced during a relatively short time interval, 380-360 Ma (Kramm et al., 1993), a period that can be interpreted as the main phase of the Paleozoic tectono-magmatic activity in northeastern Fennoscandia. At the same time, geochronological data on minor lamprophyre intrusions from the Kandalaksha Graben (Beard et al., 1996) and dolerite dikes from the Rybachy and Sredny Peninsulas (Roberts, Onstott, 1993) suggest some local manifestations of the earlier magmatism in the region. In this context, the assignment of the alkaline volcanic rocks of the Kola Province and the intrusive rocks of the Kurga Pluton to the initial phase of the Paleozoic reactivation indicates that extensive subalkaline and alkaline magmatism was active not only in the Late Devonian but also in the Early Devonian. Relying on the available geochronological data, one can postulate that the initial phase of the endogenic activity, responsible for the emplacement of volcanic rocks in northeastern Fennoscandia, occurred at least 20-30 Ma before the injection of alkaline intrusions.
+8.	Conclusion
+1.	The emplacement of volcanic rocks in the Kola alkaline province preceded the plutonic phase of alkaline magmatism in the region and can be referred to the initial phase of the Paleozoic tectono-magmatic reactivation. According to geochronological data, the volcanics were emplaced at least 20-30 Ma before the intrusion of plutons.
+2.	A distinctive feature of the volcanic rocks of the province is the occurrence of moderately alkaline basanites along with silica-undersaturated alkalic rock associations: the dominant rocks of the Lovozero and Ivanovka suites are nepheline-free miaskitic varieties (agpaitic coefficient 0.72). The volcanic rocks are significantly enriched in incompatible elements. The concentrations of Rb, Ba, Sr, Zr, Nb, and Y in them are considerably higher than those in continental alkaline basalts from various provinces.
+3.	The Sm-Nd and Rb-Sr isotopic data suggest the contribution of two different mantle sources to the genesis of the volcanic rocks: (1) superdepleted mantle material formed as a result of multiphase crust generation processes that occurred during the Archaean and Proterozoic history of the Kola-White Sea rift-collision zone and (2) a moderately enriched EMI-type mantle source.
+Acknowledgments. Irina V. Bussen and Alexey S. Sakharov provided their collection of the Lovozero volcanics. Victor Yu. Kalachev's assistance during fieldwork was very fruitful. I.I. Kudryashova and A.S. Kurbangalieva (Luyavr Co.) and A.P. Lipov (Central Kola Geological Survey) added their samples to our collection. The assistance of A.B. Vrevsky (Institute of Precambrian Geology and Geochronology, RAS) in determining minor elements in volcanic rocks is appreciated. This work was supported by the Russian Foundation for Basic Research, project no. 09-05-00224.
+References
+Alkaline Rocks. In: Igneous Rocks. In 2 v. Ed. Kononova V.A. M., Nauka, v.2, 415 p., 1984.
+Amelin Ju.V., Neymark L.A., Ritsk E.Yu., Nemchin A.A. Enriched Nd-Sr-Pb isotopic signatures in the Dovyren layered intrusion (eastern Siberia, Russia): Evidence for source contamination by ancient upper-crustal material. Chem. Geology, v.129, p.39-69, 1996.
+Anderson D.J., Lindsley D.H. New (and final!) models for the Ti-magnetite/ilmenite geothermometer and oxygen barometer. EOS Transactions, v.66, p.416, 1985.
+Arndt N., Lehnert K., Vasil'ev Y. Meimechites: Highly magnesian lithosphere-contaminated alkaline magmas from deep subcontinental mantle. Lithos, v.34, N 1-3, p.41-59, 1995.
+Arzamastsev A.A., Arzamastseva L.V. Comagmatic volcanic and plutonic alkali basalt series in the Kola Province. Doklady Earth Sciences, v.331, N 6, p.699-702, 1993.
+Arzamastsev A.A., Belyatsky B.V. Evolution of the mantle source of the Khibina Massif: Evidence from a Rb-Sr and Sm-Nd study of mantle xenoliths. Doklady Earth Sciences, v.336, N 3, p.387-390, 1999. Arzamastsev A.A., Dahlgren S. Deep mantle mineral associations in the rocks of dikes and pipes of the Baltic Shield. Geochemistry, N 8, p. 1132-1142, 1993.
+Balaganskaya E.G., Timmerman M., Liferovich R.P., Kirnarsky Yu.M. 40Ar/39Ar dating of phlogopite from phoscorite of the Kontozero complex, Kola alkaline province. Geochemistry of alkaline rocks. School "Alkaline magmatism of the Earth". M., GEOKHI RAN publication, p. 16-17, 2002.
+Beard A.D., Downes H., Vetrin V., Kempton P.D., Maluski H. Petrogenesis of Devonian lamprophyre and carbonatite minor intrusions, Kandalaksha Gulf (Kola Peninsula, Russia). Lithos, v.39, p.93-119, 1996. Bell K., Blenkinsop J. Nd and Sr isotope compositions of East African carbonatites: Implications for mantle heterogeneity. Geology, v.15, p.99-102, 1987.
+Belyatsky B.V., Vinogradova L.G., Krymsky R.Sh., Levsky L.K. Sm-Nd and Rb-Sr isotopic dating of the Tungsten-Rare-Metal Zabytoe Deposit, Primorie. Petrology, v.2, N 3, p.243-250, 1994.
+Bishop F.C. The distribution of Fe+2 and Mg between coexisting ilmenite and pyroxene with applications to geothermometry. Amer. J. Sci., v.280, p.46-77, 1980.
+289
+Arzamastsev AA., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+Borodin L.S., Gladkikh V.S. New data on the petrography and geochemistry of the alkaline volcanic rocks of the Kontozero Formation. In: New Data on the Geology, Mineralogy, and Geochemistry of Alkaline Rocks. M., Nauka, p.48-54, 1973.
+Borodin L.S., Gladkikh V.S., Egorova N.F. Petrology and geochemistry of extrusive rocks of the Lovozero alkaline massif with applications to its genesis. In: New Data on the Geology, Mineralogy, and Geochemistry of Alkaline Rocks. M., Nauka, p.25-47, 1973.
+Borodin L.S., Popov V.S., Gladkikh V.S., Pyatenko I.K., Tugolesov L.D., Soloviev V.A., Semina V.A., Lyapunov S.M., Nikolaenko Yu.S. Geochemistry of continental volcanism. M., Nauka, 238 p., 1987. Borutsky B.Ye. Rock-forming minerals of highly alkaline complexes. M., Nauka, 215 p., 1988.
+Bussen I.V., Sakharov A.S. Lovozero paleozoic volcanic-sedimentary formation of the Luyavrurt, Kola Peninsula. In: Lithologic Problems ofPhanerozoic of the Kola Peninsula. L., Nauka, p.5-37, 1972. Fabries J. Spinel-olivine geothermometry in peridotites from ultramafic complexes. Contrib. Miner. and Petrol, v.69, N 4, p.329-336, 1979.
+Fujii T. Fe-Mg partitioning between olivine and spinel. Carnegie Inst. Gephys. Lab. Rep., v.76, p.563-569, 1976-1977, 1977.
+Furnes H., Pedersen R.B., Maaloe S. Petrology and geochemistry of spinel peridotite nodules and host basalt, Vestspitsbergen. Norsk. Geol. Tidsskr., v.66, N 1, p.53-68, 1986.
+Gladkikh V.S. Geochemical features of alkali olivine basalts and alkali basaltoids of various tectonic structures on continents and oceanic islands. Geochemistry, N 7, p.928-945, 1987.
+Gladkikh V.S. Geochemistry of the volcanic rocks of the Maimecha-Kotui Province, Northern Siberian Craton. Petrology, N 5, p.551-560, 1994.
+Griffin W.L. Lherzolite nodules from the Fen alkaline complex, Norway. Contrib. Mineral. Petrol., v.38, N 2, p.135-146, 1973.
+Harnik von A.B. Strukturelle Zustande an den Anorthoklasen der Rhombenporphyre des Oslogebiets.
+Schweizerische Mineralogische undPetrographische Mitteilungen, B.49, Heft 3, S.509-568, 1969.
+Hergt J.M., Peate D.W., Hawkesworth C.J. The petrogenesis of Mesozoic Gondwana low Ti flood basalts. Earth Planet. Sci. Lett., v.105, p.134-148, 1991.
+Kirichenko L.A. Carboniferous Kontozero group on the Kola Peninsula. L., Nedra, 112 p., 1970.
+Kononova V.A. Jacupirangite-Urtite series of alkaline rocks. M., Nauka, 215 p., 1976.
+Kramm U. Mantle components of carbonatites from the Kola Alkaline Province, Russia and Finland: A Nd-Sr study. Eur. J. Mineral., v.5, p.985-989, 1993.
+Kramm U., Kogarko L.N. Nd and Sr isotope signatures of the Khibina and Lovozero agpaitic centres, Kola Alkaline Province, Russia. Lithos, v.32, p.225-242, 1994.
+Kramm U., Kogarko L.N., Kononova V.A., Vartiainen H. The Kola alkaline province of the CIS and Finland: Precise Rb-Sr ages define 380-360 age range for all magmatism. Lithos, v.30, p.33-44, 1993.
+Kukharenko A.A., Bulakh A.C., Il’insky G.A. Metallogenic features of the alkaline associations of the Eastern Baltic Shield. Proceedings of Leningrad Naturalists' Society, L., Nedra, v.72, N 2, 280 p., 1971.
+Le Bas M.J. Carbonatite-nephelinite volcanism. Wiley, New York, 330 p., 1977.
+Leake B.E. Nomenclature of amphiboles. Mineral Mag., v.42, N 324, p.533-563, 1978.
+Lightfoot P.C., Hawkesworth C.J., Hergt J.M., Naldrett A.J., Gorbachev N.S., Fedorenko V.A., Doherty
+W. Remobilization of the continental lithosphere by a mantle plume: Major-, trace-element, and Sr-, Nd-, and Pb-isotope evidence from picritic and tholeiitic lavas of the Norilsk district, Siberian Trap, Russia. Contrib. Mineral. Petrol., v.114, p.171-188, 1993.
+MacDougall J.D. Continental flood basalts and MORB: A brief discussion of similarities and differences in their petrogenesis. In: Continental flood basalts. Dordrecht, Netherlands, Kluwer, p.331-341, 1988. Makhotkin I.L., Zhuravlev D.Z., Sablukov S.M. Plume-lithospheric interaction as a geodynamic model for the formation of the Arkhangelsk diamond-bearing province. Reports of RAS, v.353, N 2, p.228-232, 1997. Mercier J.-C.C. Equilibrium state of diopside-bearing harzburgites from ophiolites: Geobarometric and geodynamic implications. Contrib. Mineral. Petrol., v.85, N 4, p.391-403, 1984.
+Mori T., Green D.H. Laboratory duplication of phase equilibria observed in natural garnet lherzolites. J. Geol., v.86, p.83-97, 1978.
+Morimoto N. Nomenclature of pyroxenes. Mineral. Mag., v.52, N 4, p.535-550, 1988.
+Morris P.A. MAGFRAC: a BASIC program for least-squares approximation of fractional crystallization.
+Computers & Geosciences, v.10, N 4, p.437-444, 1984.
+Nagasawa H., Schreiber H.D., Morris R.V. Experimental mineral/liquid partition coefficients of REE, Sc and Sr for perovskite, spinel and melilite. Earth Planet. Sci. Lett., v.46, p.431-437, 1980.
+Neumann E.-R., Sundvoll B., Overli P.E.A. Mildly depleted upper mantle beneath southeast Norway: Evidence from basalts in the Oslo Rift. Tectonophysics, v.178, N 1, p.89-107, 1990.
+Parsadanyan K.S., Kononova V.A., Bogatikov O.A. Sources of the heterogeneous magmatism of the Arkhangelsk diamond-bearing province. Petrology, v.4, N 5, p.496-517, 1996.
+290
+Proceedings of the MSTU, Vol. 15, No. 2, 2012	pp.277-299
+Powell R., Powell M. Geothermometry and oxygen barometry using coexisting iron-titanium oxides: A reappraisal. Mineral. Mag., v.41, p.257-263, 1977.
+Pyatenko I.K., Osokin E.D. Geochemistry of the Kontozero Carbonatite Paleovolcano, Kola Peninsula.
+Geochemistry, N 5, p.723-737, 1988.
+Pyatenko I.K., Saprykina L.G. Petrological features of alkali basaltoids and extrusive carbonatites of the Russian Platform. In: Petrology and petrochemistry of ore-bearing igneous associations. M., Nauka, p.233-255, 1980.
+Rass I.T. Paragenetic analysis of zonal minerals. M., Nauka, 143 p., 1986.
+Roberts D., Onstott T.C. Geochemistry and 40Ar/39Ar laser microprobe analyses of dolerite dykes from the Rybachy and Sredny Peninsulas, NW Kola, Russia. Abstr., 1st Int. Barents Symp., Kirkenes, Trondheim, p.79, 1993.
+Rusanov M.S., Arzamastsev A.A., Khmelinsky V.I. New volcano-plutonic complex of the Kola alkaline province: Geology and Geochemistry. Otechestvennaya Geologiya, N 11, p.35-43, 1993.
+Rutter M.J., Van der Laan S.R., Wyllie P.J. Experimental data for a proposed empirical geobarometer: Aluminum in hornblende at 10 kbar pressure. Geology, v. 17, N 10, p.897-900, 1989.
+Saunders A.D., Norry M.J., Tarney J. Origin of MORB and chemically depleted mantle reservoirs: Trace element constraints. Journal of Petrology, Special Lithosphere Issue, p.415-445, 1988.
+Shubina N.A., Ukhanov A.V., Genshaf Yu.S., Kolesov G.M. Trace and major elements in peridotite nodules from the basalts of the Northwestern Spitsbergen with implications for the problem of upper mantle heterogeneity. Geochemistry, N 1, p.21-36, 1997.
+Simkin T., Smith J.V. Minor element distribution in olivine. J. Geology, v.78, N 3, p.304-325, 1970.
+Spear A.J. Micas in igneous rocks. Micas. Reviews in Mineralogy, v.13, p.299-356, 1984.
+Taylor S.R., McLennan S.R. The continental crust: Its composition and evolution. Blackwell, Oxford, 312 p., 1985.
+Tikhonenkova R.P. New data on the composition and age of the Lovozero formation, Kola Region. Doklady Akademii nauk SSSR, v.203, N 4, p.903-907, 1972.
+Weaver B.L. The origin of ocean island basalt end-member compositions: Trace element and isotopic constraints. Earth Planet. Sci. Lett., v.104, p.381-397, 1991.
+White R.S., McKenzie D. Mantle plumes and flood basalts. J. Geophys. Res., v.100, N B9, p.17543-17586, 1995.
+Zaitsev A.N., Bell K. Sr and Nd isotope data of apatite, calcite and dolomite as indicators of the source and the relationships of phoscorites and carbonatites from the Kovdor massif, Kola Peninsula, Russia. Contrib. Mineral. Petrol., v.121, p.324-335, 1995.
+291
+Table 1. Chemical composition of olivine of the volcanic rocks
+Region	Kontozero	Lovozero
+Rock	PIC	ANK	PIC
+Sample	K-7/240	K-7/94	107/187	107/209	5053	5033a	50336
+Zone of phenocryst	C	C	C	C	C	C	C	R	C	R	C	R	c	R
+Si02	41.23	39.10	40.65	40.92	41.00	39.11	40.47	39.22	40.84	40.73	40.51	39.18	39.98	38.94
+Ti02	-	-	-	-	-	-	0.05	0.05	0.04	0.04	-	0.06	-	0.04
+FeO	6.71	3.96	10.09	11.04	11.08	16.51	14.40	14.88	7.18	8.40	7.57	17.77	13.98	17.47
+MnO	0.48	0.50	0.14	0.11	0.12	0.18	0.36	0.36	0.12	0.10	0.11	0.40	0.24	0.41
+MgO	51.86	55.84	48.87	48.30	47.86	43.02	44.43	44.87	50.67	50.42	51.01	42.05	45.57	40.05
+CaO	0.07	0.19	0.12	0.15	0.08	-	0.51	1.11	0.20	0.18	0.43	0.60	0.54	1.85
+NiO	0.03	0.03	0.39	0.38	0.38	0.36	0.23	0.21	0.37	0.19	0.37	0.24	0.31	0.25
+CoO	0.03	0.01	0.02	0.02	0.02	0.03	0.02	-	-	-	-	-	-	-
+Cr203	-	-	0.05	0.03	0.03	0.05	0.03	-	0.08	-	0.02	0.04	-	-
+Sum	100.41	99.63	100.33	100.95	100.57	99.26	100.50	100.70	99.50	100.06	100.02	100.34	100.62	99.01
+Fo %	93.24	96.18	89.63	88.64	88.51	82.30	84.63	84.31	92.64	91.46	92.32	80.85	85.33	80.35
+Here and in other tables: C - core, I - intermediate, R - rim of the phenocryst, M - crystal in matrix. Rocks: PIC - picrite, ANK - ankaramite, NEPH - nephelinite, BAS -basanite, BAST - trachybasalt, PHN - phonolite, PHNP - phonolite porphyre.
+Table 2. Chemical composition of clinopyroxene
+Region	Lovozero	Kontozero	Ivanovka	Khibina
+Rock	PIC	ANK	BAS	PIC	NEPH	PHN	BAST	PHNP
+Sample	105/290.3	107/209	107/187	133/315	K-7/94	6/861	157B-86	12B-86	A-1045
+Zone	C	R	M	M	C	R	M	M	M	M	M	M	M	M	M
+Si02	51.84	51.70	52.34	52.96	51.58	50.69	51.53	52.62	50.41	54.28	54.28	53.47	49.86	51.18	52.72
+Ti02	1.65	1.82	1.40	1.68	1.96	2.28	1.86	1.40	1.48	0.63	0.90	1.60	1.82	2.08	1.93
+al2o3	1.49	1.90	1.21	1.63	2.22	2.85	1.62	1.57	2.96	0.68	1.04	0.95	4.42	2.84	1.35
+Cr203	0.15	0.35	0.28	0.37	0.44	0.48	0.26	0.51	0.04	0.02	-	-	0.06	-	-
+FeO	6.10	6.69	5.81	4.60	6.28	7.22	8.10	5.76	8.81	3.02	4.41	4.68	6.87	5.67	11.94
+MnO	0.08	0.11	0.08	0.10	0.08	0.20	0.23	0.07	0.20	0.08	0.10	0.16	0.26	0.11	0.66
+MgO	14.26	14.20	15.08	15.96	15.50	13.66	13.65	16.30	15.28	15.97	14.40	15.12	11.28	14.15	10.03
+CaO	23.08	22.35	22.77	22.77	21.58	21.71	21.32	21.43	19.60	24.20	24.28	23.90	21.32	23.01	14.74
+Na20	0.46	0.97	0.40	0.10	0.31	1.35	1.03	0.44	0.53	0.69	0.46	0.60	1.29	0.58	5.40
+SrO	-	-	-	-	-	-	-	-	-	-	-	0.10	-	-	0.24
+Sum	99.11	100.09	99.37	100.17	99.95	100.44	99.60	100.10	99.31	99.57	99.87	100.58	97.18	99.62	99.01
+Cations per 6 oxygen ions
+Si	1.938	1.910	1.945	1.948	1.907	1.867	1.923	1.933	1.878	1.986	2.004	1.959	1.907	1.899	1.960
+aF	0.062	0.083	0.053	0.052	0.093	0.124	0.071	0.067	0.122	0.014	0.000	0.041	0.093	0.101	0.040
+aT71	0.003	0.000	0.000	0.019	0.004	0.000	0.000	0.000	0.008	0.015	0.045	0.000	0.106	0.023	0.019
+Ti	0.046	0.051	0.039	0.046	0.055	0.063	0.052	0.039	0.041	0.017	0.025	0.044	0.052	0.058	0.054
+Fe3+	0.000	0.055	0.000	0.000	0.000	0.097	0.046	0.006	0.068	0.017	0.000	0.000	0.000	0.003	0.303
+Fe2+	0.191	0.151	0.181	0.141	0.194	0.125	0.207	0.171	0.206	0.076	0.136	0.144	0.219	0.173	0.068
+Cr	0.004	0.010	0.008	0.011	0.013	0.014	0.008	0.015	0.001	0.001	0.000	0.000	0.002	0.000	0.000
+Mg	0.795	0.782	0.836	0.875	0.854	0.750	0.759	0.892	0.849	0.871	0.793	0.826	0.643	0.783	0.556
+Mn	0.003	0.003	0.003	0.003	0.003	0.006	0.007	0.002	0.006	0.002	0.003	0.005	0.008	0.003	0.021
+Ca	0.924	0.885	0.907	0.897	0.855	0.857	0.852	0.843	0.782	0.949	0.960	0.938	0.873	0.915	0.587
+Na	0.033	0.069	0.029	0.007	0.022	0.096	0.075	0.031	0.038	0.049	0.033	0.043	0.096	0.042	0.389
+Table 3. Chemical composition of amphibole (1-6) and mica (7-12)
+1	2	3	4	5	6	7	8	9	10	11	12
+Region	Ivanovka	Khibina	Kontozero	Lovozero
+Rock	BAS	BAST	PHN	PHNP	PHNP	PIC	ANK
+Sample	M-17-G	12B86	157B86	A-1045	A-1065	K7/240	K7/94	107/187
+Zone	M	C	I	R	M	M	M	M	M	M	M	M
+Si02	41.75	42.28	42.22	41.33	40.35	51.26	38.64	41.21	41.35	42.97	40.15	38.22
+TI02	5.66	5.90	4.98	5.68	4.01	3.45	7.32	0.82	0.46	0.76	2.84	4.84
+al2o3	11.09	11.02	10.99	10.98	12.53	4.07	12.36	12.84	15.31	11.72	11.29	14.68
+Cr203	-	-	-	-	-	-	-	0.04	0.04	-	-	-
+FeO	8.18	9.68	9.47	10.54	14.81	9.04	8.01	4.58	3.62	3.97	7.62	11.85
+MnO	0.10	0.15	0.15	0.20	0.46	0.76	0.55	0.05	0.03	0.03	0.06	0.03
+MgO	15.30	14.54	14.50	12.91	10.06	15.38	17.86	25.65	25.74	26.75	24.06	16.95
+BaO	-	-	-	-	-	-	-	0.43	0.93	0.31	0.23	-
+CaO	11.86	12.01	12.07	11.72	11.03	4.72	-	0.05	0.10	0.10	0.03	0.04
+Na20	2.80	2.46	2.47	2.64	3.15	6.79	0.44	1.35	1.46	0.89	1.03	1.09
+K20	1.13	1.25	1.32	1.04	1.14	1.32	9.48	9.15	8.73	8.48	8.47	8.85
+Sum	97.87	99.29	98.17	97.04	97.54	97.02	94.66	96.17	97.77	95.98	95.78	96.55
+Cations per 23 oxygen ions	Cations per 24 oxygen ions
+SF	6.027	6.121	6.177	6.148	6.095	7.437	5.652	5.820	5.710	6.000	5.760	5.550
+aF	1.932	1.879	1.823	1.852	1.905	0.563	2.131	2.140	2.290	1.930	1.910	2.450
+tP	0.630	0.642	0.000	0.000	0.000	0.000	0.217	0.050	0.000	0.070	0.310	0.000
+Al71	0.000	0.000	0.071	0.071	0.324	0.133	0.000	0.000	0.200	0.000	0.000	0.060
+Ti71	0.000	0.000	0.548	0.635	0.456	0.377	0.588	0.040	0.050	0.010	0.000	0.530
+Mg	3.374	3.138	3.163	2.863	2.265	3.327	3.895	5.400	5.300	5.570	5.150	3.670
+Fe2+	1.012	1.172	1.159	1.311	1.871	1.097	0.980	0.540	0.420	0.460	0.910	1.440
+Mn	0.013	0.018	0.019	0.025	0.059	0.093	0.068	0.010	0.000	0.000	0.010	0.000
+Ca	1.879	1.863	1.892	1.868	1.785	0.734	0.000	0.010	0.010	0.010	0.000	0.010
+Na	0.803	0.691	0.701	0.761	0.923	1.910	0.125	0.370	0.390	0.240	0.290	0.310
+К	0.213	0.231	0.246	0.197	0.220	0.244	1.769	1.650	1.540	1.510	1.550	1.640
+Table 4. Chemical composition of feldspars
+Region	Lovozero	Ivanovka	Khibina
+Rock	ANK	BAS	BAS	PHNP	PHNP	BAS	PHNP	PHNP	PHNP	PHNP
+Sample	107/187	133/315	133/315	5505-G	5505-G	M-17-G	A-1045	A-1045	A-1065	A-1065
+Si02	66.00	57.03	64.34	66.97	65.93	63.97	66.20	66.45	66.50	64.04
+Ti02	-	0.18	-	-	-	0.92	0.10	0.08	0.10	0.10
+ai2o3	20.24	27.27	21.94	19.24	21.15	22.13	18.80	18.66	19.95	20.36
+FeO	0.11	0.17	0.18	-	0.12	1.42	0.71	0.75	0.19	0.18
+CaO	1.52	8.95	2.59	0.07	0.49	0.37	-	0.02	0.33	0.54
+Na20	11.39	5.59	9.75	7.21	9.27	5.90	3.82	4.46	7.14	5.82
+K20	0.03	0.22	0.26	4.47	0.29	5.60	10.76	8.54	5.83	7.98
+SrO	-	-	-	0.86	1.65	0.35	0.19	0.25	-	0.22
+BaO	-	-	-	0.23	0.22	0.22	0.11	0.11	0.10	0.09
+Sum	99.29	99.41	99.06	99.05	99.12	100.88	100.69	99.32	100.14	99.33
+Si	11.696	10.262	11.437	12.008	11.737	11.396	11.961	12.039	11.847	11.653
+A1	4.224	5.779	4.593	4.063	4.409	4.643	4.000	3.981	4.186	4.363
+Ti	0.000	0.024	0.000	0.000	0.000	0.123	0.014	0.011	0.013	0.014
+Fe+2	0.016	0.026	0.027	0.000	0.018	0.212	0.107	0.114	0.028	0.027
+Ba	0.000	0.000	0.000	0.016	0.008	0.015	0.008	0.008	0.007	0.006
+Ca	0.289	1.725	0.493	0.013	0.093	0.071	0.000	0.004	0.063	0.105
+Na	3.914	1.950	3.361	2.507	3.165	2.038	1.338	1.567	2.466	2.053
+К	0.007	0.051	0.059	1.023	0.066	1.273	2.480	1.974	1.325	1.852
+Ab	93.0	52.3	85.9	70.8	95.2	60.3	35.0	44.2	64.0	51.2
+An	6.9	46.3	12.6	0.4	2.8	2.1	0.0	0.1	1.6	2.6
+Or	0.2	1.4	1.5	28.9	2.0	37.6	65.0	55.7	34.4	46.2
+Table 5. Chemical composition of magnetite, spinel and ilmenite
+Region	Kontozero	Lovozero	Khibina	Lovozero	Khibina	Ivanovka
+Mineral	Mag	Spl	Mag	Spl	Mag	Spl	Mag	Spl	Mag	11 m
+Rock	PIC	NEPH	NEPH	PIC	PIC	PHNP	BAS	PHNP	PHNP	BAS
+Sample	K7/94	K7/240	6/861	105/290.3	5033	107/209	107/187	5053	A1065	A1045	133/315	A1065	A1045	M17-G
+Si02	0.21	0.13	0.13	0.11	0.30	0.10	0.10	0.90	0.12	0.39	1.28	0.07	0.18	0.17	0.19	0.21	0.18	-	-
+Ti02	8.24	8.99	2.05	2.25	9.74	4.66	4.68	2.79	1.16	0.31	3.71	2.84	7.95	5.05	51.30	51.71	53.88	52.54	47.74
+ai2o3	0.74	2.11	0.49	1.16	0.21	0.51	0.51	5.09	0.57	0.17	1.95	0.23	1.05	0.37	0.19	-	-	0.18	-
+Cr203	0.35	12.14	0.23	11.15	0.01	13.21	13.30	38.00	5.28	2.80	15.57	3.72	0.01	0.02	-	0.07	-	-	0.02
+Fe203	53.42	39.64	65.62	54.40	49.60	45.20	45.35	18.97	60.99	65.39	41.30	59.49	52.72	58.70	-	-	-	-	-
+FeO	32.21	29.28	25.38	25.95	37.22	34.24	34.39	30.58	29.10	28.55	32.44	29.90	34.21	32.63	46.32	46.26	31.00	32.72	46.31
+MnO	1.14	1.62	0.91	1.83	1.40	0.47	0.47	0.69	0.35	0.10	0.39	0.72	2.57	1.30	0.53	0.55	9.33	9.57	1.30
+MgO	3.50	5.79	4.11	5.92	1.05	0.43	0.43	3.03	1.86	2.02	2.20	1.60	1.22	0.67	0.70	1.09	3.47	3.05	1.57
+CaO	0.22	0.07	0.16	0.07	0.04	0.02	0.02	0.27	0.03	0.08	0.23	0.06	0.01	-	0.12	0.04	-	-	-
+NiO	0.08	0.06	0.05	0.06	0.02	0.05	0.05	0.24	0.20	0.17	0.29	0.42	-	-	-	-	-	-	-
+ZnO	0.10	0.17	0.13	0.42	0.13	-	-	-	0.16	0.07	0.28	-	0.22	0.69	-	-	-	-	-
+v205	0.28	0.14	0.29	0.16	-	-	-	-	0.32	0.33	0.34	-	-	-	-	-	-	-	-
+CoO	0.06	0.04	-	-	-	0.07	0.07	-	0.00	0.00	0.04	-	-	-	-	-	-	-	-
+Sum	100.54	100.18	99.55	103.48	99.71	98.96	99.37	100.56	100.13	100.38	100.01	99.05	100.14	99.60	99.18	99.93	98.68	98.06	96.94
+Si	0.008	0.005	0.005	0.004	0.011	0.004	0.003	0.032	0.005	0.015	0.048	0.003	0.007	0.005	-	-	0.004	-	-
+Ti	0.229	0.243	0.058	0.062	0.277	0.130	0.130	0.075	0.033	0.009	0.104	0.082	0.225	0.145	0.970	0.970	1.008	0.991	0.920
+A1	0.032	0.089	0.022	0.050	0.009	0.020	0.020	0.213	0.025	0.008	0.085	0.010	0.046	0.017	0.010	-	-	0.005	-
+Cr	0.010	0.345	0.007	0.322	0.000	0.400	0.400	1.067	0.158	0.084	0.457	0.112	-	-	-	-	-	-	-
+Fe3+	1.484	1.071	1.847	1.496	1.413	1.300	1.300	0.507	1.741	1.862	1.155	1.709	1.490	1.692	0.040	0.040	0.000	0.013	0.161
+Fe2+	0.994	0.879	0.793	0.671	1.179	1.100	1.100	0.908	0.920	0.903	1.008	0.955	1.075	1.046	0.940	0.920	0.687	0.674	0.831
+Mn	0.036	0.049	0.029	0.057	0.045	0.020	0.020	0.021	0.011	0.003	0.012	0.023	0.082	0.042	0.010	0.010	0.197	0.203	0.028
+Mg	0.193	0.310	0.229	0.323	0.059	0.020	0.020	0.160	0.105	0.114	0.122	0.091	0.068	0.038	0.030	0.040	0.129	0.114	0.060
+Ca	0.009	0.003	0.006	0.003	0.002	-	-	0.010	0.001	0.003	0.009	0.002	-	-	-	-	-	-	-
+Ni	0.002	0.002	0.002	0.002	0.001	-	-	0.007	-	-	-	0.013	-	-	-	-	-	-	-
+Zn	0.003	0.005	0.004	0.011	0.004	-	-	-	-	-	-	-	0.006	0.020	-	-	-	-	-
+Cr/Cr+Al	0.24	0.79	0.24	0.87	-	0.95	0.95	0.83	0.86	0.91	0.84	0.92	-	-	-	-	-	-	-
+Spinel formula calculated according to 3 cations, ilmenite - 2 cations. Fe2+/Fe3+ ratio calculated according to stoichiometry.
+Table 6. Chemical composition of apatite
+Region	Kontozero	Lovozero	Ivanovka	Khibina
+Rock	PIC	NEPH	PHNP	PHN	BAST	BAS	BAS	PHNP	PHNP
+Sample	7/152	6/861	5505-G	5505-G	157B-8	12B-86	M17-G	M17-G	A-1045	A-1065
+Si02	0.54	-	0.84	0.89	0.69	0.64	0.35	0.38	0.60	1.09
+p2o5	43.18	41.89	40.26	40.80	41.69	41.68	41.53	41.51	40.05	40.21
+CaO	54.35	51.80	50.90	50.06	53.77	54.67	54.17	53.79	47.00	50.94
+SrO	1.54	6.32	1.69	2.22	1.79	1.09	1.13	1.41	3.72	0.00
+La203	0.01	0.01	0.81	0.85	0.20	0.16	0.01	0.05	1.61	1.42
+Ce203	0.01	0.01	1.82	2.01	0.59	0.35	0.32	0.35	2.81	2.24
+Pr203	0.00	0.00	0.26	-	-	-	0.00	0.00	0.30	0.20
+Nd203	0.00	0.00	0.85	1.04	0.27	0.16	0.04	0.08	1.19	0.78
+Cl	0.00	0.00	-	-	0.09	0.15	-	-	-	-
+Sum	99.63	100.03	97.42	97.86	99.09	98.90	97.55	97.57	97.28	96.87
+Table 7. Estimation of temperature parameters of crystallization of volcanic rocks
+Region	Lovozero	Khibina	Kontozero	Reference
+Sample	107/209	105/290	107/187	5033	133/315	A-1045	7/94	7/240
+Rock	PIC	ANK	BAS	PHNP	PIC
+Ol+Spl	1550°	-	1088°	777°	-	-	1717°	1815°	Fabries J. (1979)
+Ol+Spl	1488°	-	1157°	564°	-	-	-	-	Fujii T. (1977)
+Ol+Cpx	1087°	1346°	1277°	-	-	-	1116°	-	Mori T., Green D.H. (1978)
+Cpx+Spl	993°	971°	1083°	-	-	-	-	-	Mercier J.-C.C. (1984)
+Cpx+Ilm	-	-	-	-	505°	1120°	-	-	Bishop F.C. (1980)
+Arzamastsev A.A., Petrovsky M.N. Alkaline volcanism in the Kola Peninsula...
+Table 8. Chemical composition of volcanic rocks
+Region	Lovozero	Kontozero	Ivanovka	Khibina
+Rock	PIC	ANK	BAS	NEPH	BAST	PHN	PHNP
+Sample	107/209	294	252	6/861	12-B-86	152-a-86	A-1064	А-1065
+SiO2	37.98	42.03	41.76	37.58	47.27	51.45	56.09	53.83
+TiO2	4.29	4.02	4.54	3.83	2.81	1.75	1.39	2.08
+Al2°3	3.12	5.99	8.05	9.55	13.34	22.12	18.59	18.27
+Fe2O3	7.94	7.92	9.13	7.90	5.50	1.20	0.97	3.98
+FeO	8.71	6.83	6.96	6.30	5.14	2.14	5.03	4.19
+MnO	0.22	0.22	0.17	0.34	0.15	0.08	0.26	0.29
+MgO	22.4	14.72	8.28	5.36	4.79	1.22	0.93	1.04
+CaO	9.97	10.79	11.82	10.03	7.40	2.11	1.39	1.51
+Na2O	1.28	3.09	3.10	2.77	5.37	11.02	7.73	6.76
+K2O	0.18	0.79	2.59	4.49	2.66	1.98	5.07	6.52
+P2O5	0.42	0.51	0.70	1.40	0.87	0.20	0.30	0.34
+О О to	0.18	0.33	0.05	5.18	0.22	0.45	0.08	0.13
+S	0.15	0.05	0.06	0.67	0.15	0.05	0.02	0.18
+Cl	0.01	0.01	0.19	0.01	-	-	-	-
+F	0.15	0.14	0.3	0.36	-	-	0.29	0.18
+H2O+	2.01	1.44	1.55	2.31	3.5	3.48	0.8	0.57
+H2O"	0.28	0.19	0.22	0.63	0.19	0.14	0.14	0.02
+Sum	99.29	99.07	99.47	98.71	99.36	99.39	99.08	99.75
+Li	7	11	18	10	88	36	31	-
+Rb	5	43	115	177	55	52	124	274
+Cs	-	0.5	0.5	5	13	2.6	4.2	-
+Sr	778	1111	1511	2283	2144	1200	2989	2009
+Ba	332	594	1540	5600	3420	408	1030	1380
+Sc	25	25	30	18	16	1.12	1.46	2
+V	330	319	336	616	275	112	123	122
+Cr	1550	948	170	24	107	8	8.1	26
+Co	108	82	59	41	33	8.5	3.8	19
+Ni	1154	650	120	90	100	53	60	27
+Y	16	55	28	46	33	32	59	59
+Nb	98	273	274	149	153	173	403	474
+Ta	5.3	14	17	2.6	7.3	8	16	-
+Zr	414	1748	602	1550	762	1290	1493	1784
+Hf	9.2	29	11	27	17	22	25	-
+Pb	7	-	-	-	-	-	-	34
+U	1.9	3.9	2.2	2.1	3.7	6.8	7.6	6
+Th	7.1	9.6	21	2.8	17	24	28	40
+La	68	113	156	45	132	79	174	160
+Ce	156	240	298	75	269	172	390	450
+Nd	85	110	118	36	140	87	159	110
+Sm	15	21	17	7.9	25	15	25	20
+Eu	4.11	7.04	4.7	2.49	6.92	4.65	7.3	5.7
+Gd	-	-	-	-	-	-	-	13
+Tb	1.1	2	1.5	1.1	2.1	1.4	2.8	-
+Er	-	-	-	-	-	-	-	4.9
+Yb	1.6	3.5	1.8	2.9	3.1	2.5	3.5	4.2
+Lu	0.19	0.53	0.28	0.52	0.35	0.31	0.63	-
+Oxides in mass. %, elements in ppm.
+Table 9. Rb-Sr and Sm-Nd isotope characteristics of volcanic rocks
+Sample	Rock	[Sm], ppm	[Nd], ppm	[Rb], ppm	[Sr], ppm	14,Sm/144Nd	143Nd/144Nd±2a	8,Rb/8bSr	87Sr/86Sri2a
+Rocks of the Lovozero complex
+107/187	ANK	14.24	80.75	46.93	594.4	0.10695	0.512599114	0.22835	0.704440118
+107/209	PIC	13.80	80.96	6.66	799.2	0.10337	0.512829±15	0.02409	0.703079112
+105/287	PIC	16.69	94.71	33.24	1217.0	0.10684	0.512782112	0.07897	0.703943114
+133/315	BAS	21.31	65.27	29.25	824.6	0.11435	0.512618±18	0.10258	0.703687122
+119/61.8	PIC	9.15	43.03	139.0	167.4	0.12893	0.512013113	2.40675	0.726735117
+Rocks of the Kontozero caldera
+7/81	CARB	6.36	23.50	0.49	17200	0.16415	0.512907113	0.00008	0.703124124
+7/88	PIC	13.8	82.92	44.00	1964	0.10091	0.512848117	0.06477	0.703542117
+6/863	NEPH	8.48	41.01	112.70	3914	0.12543	0.512816112	0.08325	0.703673116
+Plutonic rocks of the Kurga massif
+1/290	PRX	15.08	74.54	34.67	5428	0.12271	0.51269217	0.01023	0.703289112
+1/224	SYN	11.97	74.56	41.83	6966	0.09733	0.51257619	0.01736	0.703309114
+CARB - calcite carbonatite, PRX - pyroxenite, SYN - nepheline syenite, other rock abbreviations see Table 1.

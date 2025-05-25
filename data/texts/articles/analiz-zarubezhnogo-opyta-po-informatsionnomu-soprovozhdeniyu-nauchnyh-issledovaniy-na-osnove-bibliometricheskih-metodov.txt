@@ -1,0 +1,183 @@
+﻿БИБЛИОСФЕРА, 2018, № 4, с. 111-118 / BIBLIOSPHERE, 2018, no. 4, pp. 111-118
+Информатика
+УДК 001.891(100-87) ББК 72.4(3)+78.606
+DOI 10.20913/181 5-3186-2018-4-111-118
+АНАЛИЗ ЗАРУБЕЖНОГО ОПЫТА ПО ИНФОРМАЦИОННОМУ СОПРОВОЖДЕНИЮ НАУЧНЫХ ИССЛЕДОВАНИЙ НА ОСНОВЕ БИБЛИОМЕТРИЧЕСКИХ МЕТОДОВ
+© А. С. Павлова, 2018
+Центральная научная библиотека Уральского отделения Российской академии наук, Екатеринбург, Россия; e-mail: [email protected]
+Проанализированы возможности библиометрических методов для информационного сопровождения научных исследований в зарубежных университетах, лидерах по версии мировых рейтингов QS World University Rankings и Academic Ranking of World Universities. Проведенное исследование позволило выделить информационные услуги и информационные продукты, предоставляемые с помощью библиометрических (или наукометрических) данных и методов в зарубежных университетах, дать им характеристику, определить информационные ресурсы и технологии, наиболее используемые при выполнении описанных информационных услуг.
+Ключевые слова: информационное сопровождение НИР, библиометрические ресурсы, библиометрические услуги, библиографический менеджер
+Для цитирования: Павлова А. С. Анализ зарубежного опыта по информационному сопровождению научных исследований на основе библиометрических методов // Библиосфера. 2018. № 4. С. 111-118. DOI: 10.20913/18153186-2018-4-111-118.
+The foreign experience analysis of research information support based on bibliometric
+methods
+A. S. Pavlova
+Central Scientific Library of the Ural Branch of the Russian Academy of Sciences, Ekaterinburg, Russia e-mail: [email protected]
+The article presents the analysis of opportunities of bibliometric methods for information support of research in leading foreign universities according to the world ratings of QS World University Rankings and Academic Ranking of World Universities. The study made it possible to identify information services and information products provided using bib-liometric (or scientometric) data and methods in foreign universities, to determine their characteristics, as well as to define the information resources and tools most frequently used to provide selected information services. According to the study results the author reveals the following blocks of the service model of research information support based on bibliometric methods and data in the studied foreign universities.
+Keywords: information support of research, bibliometric resourses, bibliometric services, citation manager
+Citation: Pavlova A. S. The foreign experience analysis of research information support based on bibliometric methods. Bibliosphere. 2018. № 4. P. 111-118. DOI: 10.20913/1815-3186-2018-4-111-118.
+В мире изменений систем оценки результатов научной деятельности, формирования новых моделей информационного взаимодействия пользователей и научной коммуникации, глобализации информационного обмена в сфере науки роль научной библиотеки меняется, делая ее «полноправным партнёром на всех стадиях жизненного цикла научного исследования» [3, с. 102]. Результаты опубликованных работ подтверждают активное участие научных библиотек зарубежных университетов в процессах поддержки научных исследований, в частности в предоставлении библиометрических и наукометрических данных, библиометрических услуг и организации библиометрических исследований [2, 3, 6-11, 15-17, 18-20].
+Зарубежные библиотекари традиционно используют термин «библиометрия», при этом большую часть описываемых исследований правильнее было бы на-
+зывать наукометрическими в соответствии с набором анализируемых данных. Перспективность и востребованность библиометрических (и наукометрических) исследований и библиометрических услуг во всем мире обусловливают следующие факторы:
+•	прогресс в области информационно-коммуникационных технологий, в значительной степени облегчающий наукометрические (библиометрические) исследования, обеспечивающий новые возможности для доступа, обмена и обработки научной информации;
+•	развитие моделей и методов библиометрии, связанное с формированием новых областей исследования (вебометрия, альтметрия, инфометрия), созданием новых показателей (индекс цитирования, h-ин-декс, i-индекс, g-индекс и др.), разработкой средств визуализации данных (например, SciVal, Google Analytics, SciELO Analytics и другие), инструментов для сбора и предоставления библиометрических данных
+(БД Web of Science, БД Scopus, система Google Scholar, отраслевые БД PubMed, БД Agrícola, БД Geo-Ref, БД PSYInfo и др.);
+• активное применение библиометрии и наукометрии в научной политике и в управлении финансированием науки; национальные программы развития науки и национальных систем оценки научных исследований, основывающихся на библиометрических показателях.
+Следовательно, в условиях усиления роли информационного и научного обмена, выявления и сохранения научного знания, повышения медийной грамотности и требований к деятельности информационных учреждений, обозначенных в Стратегическом плане Международной федерации библиотечных ассоциаций (IFLA) до 2021 г. [13, с. 4-6], очевидна потребность в анализе возможностей библиометрических методов для информационного сопровождения научных исследований.
+Методология исследования
+Для изучения международного опыта в области информационной поддержки научных исследований был проведен анализ информационных услуг и продуктов, подготавливаемых с помощью библиометрических (или наукометрических) данных и методов в зарубежных университетах. Согласно ГОСТ 7.0-99, «информационная продукция - документы, информационные массивы, базы данных и информационные услуги, являющиеся результатом функционирования информационных систем» [5]. Под «информационным продуктом» будем понимать созданные на основе библиометрических (или наукометрических) данных и методов печатные или электронные документы, информационные массивы или базы данных (БД), а под «информационной услугой», соответственно, услуги научных библиотек, предоставляемые с использованием библиометрических (или наукометрических) методов и данных.
+Для решения задач анализа и характеристики спектра информационных продуктов и услуг зарубежных университетов, основанных на использовании библиометрических методов и данных, применена методология маркетингового исследования описательного (дескриптивного) типа, «имеющего целью констатацию реальных фактов, событий, показателей, полученных в результате сбора информации» [4, с. 85].
+Маркетинговое исследование является удобным инструментом для анализа и оценки рынка продукции, применяемым в экономических отраслях [1, с. 223], но может быть эффективно и в библиотечной сфере. «По мнению немецких библиотечных специалистов П. Борхарда, Ш. Флоделя и М. Мильца, библиотечные организации могут применять философию и инструментарий маркетинга таким же образом, как и коммерческие. Они также должны находить и идентифицировать свои рынки, исследовать потребности посетителей, предлагать соответствующие продукты и услуги, создавать каналы распределения, заниматься рекламой и налаживать связи с общественностью» [12, с. 1-3].
+Исследование проводилось посредством групповой выборки сайтов зарубежных университетов, входящих в первую десятку, по версии рейтингов QS World University Rankings (Рейтинг QS) и Academic Ranking of World Universities (ARWU, также известный как Шанхайский рейтинг) [14]. Указанные рейтинги оценивают университеты по совокупности показателей, главными из которых являются исследовательская и научная деятельность, количество публикаций и цитирований. Были проанализированы сайты 13 университетов (8 США, 4 Великобритании и 1 Швейцарии), при этом 7 из них входят в десятку лидеров обоих рейтингов:
+1.	Массачусетский технологический институт (MIT. Massachusetts institute of technology)1;
+2.	Стэнфордский университет (University of Stanford)2;
+3.	Гарвардский университет (University of Harvard)3;
+4.	Калифорнийский технологический институт (California Institute of Technology)4;
+5.	Кембриджский университет (University of Cam-bridge)5;
+6.	Оксфордский университет (University of Oxford)6;
+7.	Университетский колледж Лондона, Лондонский университет (University College London, University of London)7;
+8.	Имперский колледж Лондона (Imperial College London)8;
+9.	Чикагский университет (University of Chicago)9;
+10.	Швейцарская высшая техническая школа Цюриха (ETH Zurich - Swiss Federal Institute of Techno-logy)10;
+11.	Калифорнийский университет в Беркли (University of California Berkeley)11;
+12.	Принстонский университет (University of Princeton)12;
+1	MIT. Libraries // MIT. Massachusetts Institute of Technology. URL: https://libraries.mit.edu (accessed 16.06.2018).
+2	Research support // Stanford. Libraries. URL: http://library. stanford.edu (accessed 16.06.2018).
+3	Research support // Harvard. Library. URL: http://library. harvard.edu (accessed 16.06.2018).
+4	Caltech. URL: http://www.caltech.edu/quick-links/Faculty (accessed 10.06.2018).
+5	Research // University of Cambridge. URL: http://www. cam.ac.uk/research (accessed 16.06.2018).
+6	Welcome to research data Oxford website // University of Oxford. URL: http://researchdata.ox.ac.uk (accessed 18.06.2018).
+7	Research and collaboration // University College London. URL: http://www.ucl.ac.uk/research-collaboration/ (accessed 10.06.2018).
+8	Library Services // Imperial College London. URL: http:// www.imperial.ac.uk/admin-services/library/ (accessed 10.06.2018).
+9	Library // The University of Chicago. URL: https://www. lib.uchicago.edu (accessed 10.06.2018).
+10	ETH Library // ETH Zurich. URL: http://www.library.ethz. ch/en/ (accessed 11.06.2018).
+11	Library. Berkeley University of California // Berkeley University of California. URL: www.lib.berkeley.edu (accessed 15.06.2018).
+12	Research tools // Princeton University Library. URL: http:// library.princeton.edu/research (accessed 18.06.2018).
+13. Колумбийский университет (Columbia Univer-sity)13.
+На 8 сайтах присутствуют отдельные подразделы, посвященные цитированию, инструментам управления цитированием и ссылками, правильному оформлению ссылок. Но при этом единый блок «Библиометрия», содержащий информацию об основных понятиях и библиометрических показателях, инструментах и способах цитирования, ресурсах в области библиометрических исследований, есть только на сайте Лондонского университета. На 5 сайтах информация о библиометрических ресурсах и сервисах размещена на иных, нетематических страницах и может быть обнаружена в разделах «Электронные ресурсы» («Электронные базы данных»), «Управление исследовательскими данными», «Техническая поддержка исследований», а также на тематических страницах библиотекарей-экспертов.
+Сбор информации производился по следующим показателям:
+•	виды и характер информационных услуг, оказываемых с помощью библиометрических (или наукометрических) данных и методов, представленных на сайтах зарубежных университетов;
+•	виды и характер информационных продуктов, подготавливаемых на основе библиометрических (или наукометрических) данных и методов, представленных на сайтах зарубежных университетов;
+•	наиболее используемые библиометрические (или наукометрические) ресурсы для сопровождения научных исследований в зарубежных университетах;
+•	наиболее используемые информационные технологии и программные продукты для предоставления информационных услуг на основе библиометрических (или наукометрических) данных и методов.
+Для анализа и характеристики информационных продуктов и услуг, основанных на использовании библиометрических (или наукометрических) данных и методов, представленных на сайтах зарубежных университетов, применен комплекс методов:
+•	наблюдение (для выявления информационных продуктов и услуг, предоставляемых на основе использования библиометрических и наукометрических методов и данных);
+•	статистический анализ (для сбора и обработки статистических данных);
+•	систематизация (для выделения групп информационных продуктов и услуг);
+•	кластерный анализ (для выделения направлений использования библиометрических методов и ресурсов в зарубежных университетах).
+Анализ результатов
+Исследование выявило следующие виды информационных услуг, основанных на предоставлении библиометрических и наукометрических данных и использовании библиометрических методов (табл. 1):
+13 Columbia University Libraries // Columbia University. URL: https://library.columbia.edu (accessed 18.06.2018).
+•	настройка профиля автора и организации в библиометрических и наукометрических БД;
+•	получение (или помощь) номера ORCID, помощь в определении персональных идентификаторов в библиометрических БД;
+•	организация доступа к библиометрическим БД, поиск в них;
+•	организация доступа к библиографическим менеджерам;
+•	консультирование в области описания и цитирования исследовательских данных;
+•	консультирование по поиску и работе в библиометрических (наукометрических) БД, использованию библиографических менеджеров и услуг, предоставляемых внешними информационными системами (такими, как система оповещений в Scopus, Web of Science, Google Scholar);
+•	информирование о публикациях и предоставление библиометрических данных из БД;
+•	предоставление наукометрической информации о рейтингах журналов в области исследования (импакт-фактор, квартиль, процентиль);
+•	библиометрические исследования публикационной активности авторов и университета;
+•	поиск по библиометрическим данным в электронных библиотечных каталогах и интернете с помощью специальных технологий (Citation Linker, DOI Data Citation Formater).
+По характеру выполняемой деятельности выделены следующие типы информационных услуг, оказываемых библиотекой университета: научно-информационные (30%), библиографические (30%), организационные (20%) и методические (20%). При этом среди информационных услуг, представленных на сайтах всех исследуемых университетов, присутствуют библиографические, организационные и методические услуги. В число университетов, на сайтах которых представлено более половины видов выделенных информационных услуг, входят Принстонский университет, Массачусетский технологический институт, Стэнфордский университет, Гарвардский университет, Лондонский университет, Калифорнийский университет в Беркли (табл. 1).
+В ходе исследования также были выделены информационные продукты, создаваемые в результате выполнения информационных услуг на основе библиометрических (или наукометрических) данных и методов, среди них:
+•	обзоры менеджеров цитирования;
+•	инструкции по интерпретации библиометри-ческих показателей;
+•	рейтинги исследований;
+•	карты цитирования (карты науки);
+•	фактографические справки;
+•	аналитические справки и отчеты;
+•	практические руководства и видео-мастер-классы по использованию библиометрических методов и определению библиометрических показателей;
+•	БД, содержащие библиометрические показатели.
+Большинство выделенных информационных продуктов, подготавливаемых на основе библиометрических (или наукометрических) данных или методов,
+Т а б л и ц а 1
+Информационные услуги на основе библиометрических (или наукометрических) данных или методов,
+представленные на сайтах университетов
+T a b l e 1
+Information services provided on the basis of bibliometric (or scientometric) data or methods represented on University websites
+Тип информационных услуг	Информационная услуга	Используемый информационный ресурс	Используемая информационная технология или программа	Университет, где эта услуга предлагается
+Библиографические	Информирование о публикациях, предоставление библиометрических данных из БД	Google Scholar, Web of Science, Scopus	Massachusetts institute of technology University of Stanford University of Harvard California Institute of Technology University of Cambridge University of Oxford UCL-University of London Imperial College London University of Chicago ETH Zurich University of California Berkeley University of Princeton Columbia University
+Предоставление наукометрической информации о рейтингах журналов в области исследования (импакт-фактор, квартиль, процентиль)	Journal Citation Report (JCR), Source Normalized Impact per Paper (SNIP), Scimago, CWTS Journal Indicators	Massachusetts institute of technology UCL-University of London
+Поиск по библиомет-рическим данным в электронных библиотечных каталогах и интернете	Citation Linker, DOI Data Citation Formater	University of Harvard University of California Berkeley University of Princeton
+Организационные	Организация доступа к библиометрическим БД, поиск в них	Web of Science, Scopus, PubMed, PsyINFO, GeoRef, LISTA, PILOTS, Agrícola, ERIC, EconLit, Social Services Abstracts, Derwent Innovation Index, Compen-dex, BIOSIS, Antropoly Plus, UlrichsWeb, Sci-Finder, MEDLINE, LISA, GeoScienceWorld, Dropbox Paper, Data-Cite, BHI: British Humanities Index, Anthro-Source, Bibliography of Asian Studies и др.	MIT. Massachusetts institute of technology University of Stanford University of Harvard California Institute of Technology University of Cambridge University of Oxford UCL-University of London Imperial College London University of Chicago ETH Zurich University of California Berkeley University of Princeton Columbia University
+Организация доступа к библиографическим менеджерам	RefWorks, EndNote, Zotero, RefWorks, Papers, JabRef, KnightCite, DocsCite, Citing Medicine, Citing Sources, Citing Government Documents, Citing Electronic Resources, Citavi	Massachusetts institute of technology University of Stanford University of Harvard University of Cambridge University of Oxford ETH Zurich University of California Berkeley University of Princeton Columbia University
+Таблица (окончание)
+Table (concluded)
+Тип информационных услуг	Информационная услуга	Используемый информационный ресурс	Используемая информационная технология или программа	Университет, где эта услуга предлагается
+Методические	Консультирование по поиску и работе в библиометрических (наукометрических) БД, использованию библиографических менеджеров и услуг, предоставляемых внешними информационными системами	Web of Science, Scopus, PubMed	Journal Citation Reports, InCites, ResearcherID, CWTS, Mendeley, Zotero, EndNote, EndNote Web, RefWorks, Papers	Massachusetts institute of technology University of Stanford University of Harvard California Institute of Technology University of Cambridge University of Oxford UCL-University of London Imperial College London University of Chicago ETH Zurich University of California Berkeley University of Princeton Columbia University
+Консультирование в области описания и цитирования исследовательских данных	RefWorks, EndNote, EndNote Web, Zotero, Mendeley, Papers	Massachusetts institute of technology University of Stanford University of Harvard University of Cambridge University of Oxford UCL-University of London Imperial College London University of Chicago ETH Zurich University of California Berkeley University of Princeton Columbia University
+Научно-ин- формацион- ные	Настройка профиля автора и организации в библиометрических и наукометрических БД	Google Scholar, Web of Science, Scopus	University of Stanford University of Chicago
+Получение (или помощь) номера ORCID, помощь в определении персональных идентификаторов в библиометрических БД	ResearcherID (Web of Science), http://orcid.org	Imperial College London
+Библиометрические исследования публикационной активности авторов и университета	Web of Science, Scopus	UCL-University of London University of Princeton
+можно отнести к библиографическим (50%), методическим (25%) и научно-информационным (25%). Наибольшее количество выделенных видов информационных продуктов на основе библиометрических (или наукометрических) методов и данных отмечено на сайтах Лондонского (5), Принстонского (4) и Стэн-фордского (4) университетов (табл. 2).
+Самыми используемыми библиометрическими базами данных (БД) среди исследуемых университетов являются, естественно, междисциплинарные международные БД Web of Science (в 13 университетах),
+Scopus (в 9) и Google Scholar (в 8). Из отраслевых БД распространены PubMed (в 9), PsylNFO (в 6), GeoRef (в 6), LISTA (Library, information science & technology abstracts) (в 5), PILOTS (Published International Literature On Traumatic Stress) (в 4), Agricola (в 4 университетах).
+Наиболее используемыми и рекомендуемыми библиографическими менеджерами среди исследователей зарубежных университетов являются Zotero (в 10), EndNote (в 10) и Mendeley (в 9), также часто применяются RefWorks (в 6) и BibTeX & LaTeX (в 4).
+Т а б л и ц а 2
+Информационные продукты на основе библиометрических методов и данных, представленные на сайтах университетов
+T a b l e 2
+Presentation of information products prepared on the bases of bibliometric methods and data represented on University websites
+Тип информационных продуктов	Информационный продукт	Университет
+Библиографические	Обзоры библиографических менеджеров	MIT. Massachusetts institute of technology Imperial College London University of Chicago University of Harvard University of Stanford ETH Zurich
+Аналитические отчеты и справки	UCL- University of London
+Базы данных, содержащие библиометри-ческие показатели	University of Stanford
+Фактографические справки	MIT. Massachusetts institute of technology University of Stanford University of Harvard University of Cambridge University of Oxford UCL- University of London Imperial College London University of Chicago ETH Zurich University of California Berkeley University of Princeton Columbia University
+Методические	Практические руководства и мастер-классы по использованию библиометрических методов и определению библиометрических показателей	University of Stanford University of Harvard California Institute of Technology University of Cambridge University of Oxford Imperial College London ETH Zurich University of California Berkeley University of Princeton Columbia University
+Инструкции по интерпретации библиометрических показателей	UCL-University of London University of California Berkeley
+Научно-информационные	Рейтинги исследований	UCL-University of London University of Princeton
+Карты цитирования (карты науки)	UCL-University of London University of Princeton
+По итогам исследования в зарубежных университетах можно выделить приоритетные направления использования библиометрических методов и ресурсов для информационного сопровождения научных исследований:
+•	организация доступа к библиометрическим БД и инструментам управления цитированием и ссылками;
+•	создание и настройка авторских профилей, получение индивидуального номера исследования в биб-лиометрических БД;
+•	организация поиска библиометрических данных по теме исследования в БД, каталогах и интернете;
+•	выполнение справок и консультирование в области цитирования, использования библиометрических ресурсов, интерпретации библиометрических показателей;
+•	методическое сопровождение исследования в области управления цитированием, доступа и использования библиометрических ресурсов.
+Заключение
+Проведенное исследование позволило выделить информационные услуги и информационные продукты, предоставляемые с помощью библиометрических (или наукометрических) данных и методов в зарубежных университетах, и дать им характеристику, а также определить информационные ресурсы и технологии, наиболее используемые при выполнении выделенных информационных услуг.
+Информационные услуги на основе библиометри-ческих методов и данных в исследованных зарубежных университетах охватывают следующие направления деятельности научных библиотек: комплектова-
+вание (организация доступа к библиометрическим ресурсам и менеджерам цитирования), справочно-библиографическое обслуживание (поиск библиометрических данных, подготовка информационных продуктов на основе библиометрических данных, консультирование по использованию библиометрических ресурсов и данных), научно-методическое обслуживание (подготовка методических материалов по использованию библиометрических методов и данных, научно-информационных и библиометрических исследований). При этом выявленные виды информационных продуктов могут предоставляться на любом из этапов процесса информационного сопровождения научного исследования.
+Список источников
+1.	Башкирцев В. И., Никишиана О. С., Юдицкий Л. А. Маркетинговые исследования как необходимый элемент для обоснования темы научных исследований // Сервис в России и за рубежом. 2012. № 3. С. 223-235.
+2.	Галявиева М. С. Библиометрия - новое направление работы библиотек университетов Европы // Библиосфера. 2012. № 5. С. 71-78.
+3.	Галявиева М. С. Библиометрия в библиотеке в оценках библиотекарей (по материалам зарубежных исследований) // Вестник Казанского государственного университета культуры и искусств. 2015. № 1. С. 97-102.
+4.	Голикова Ю. Б. Маркетинговые исследования. Методы маркетинговых исследований // Теоретические и практические проблемы развития современной науки : сб. материалов 6-й междунар. науч.-практ. конф. (г. Махачкала, 30 нояб. 2014 г.). Махачкала, 2014. С. 84-85.
+5.	ГОСТ 7.0-99 Информационно-библиотечная деятельность, библиография. Термины и определения. Взамен ГОСТ 7.0-84, ГОСТ 7.26-80 ; введ. 2000-07-01. Москва : Изд-во стандартов, 1999. 38 с.
+6.	Земсков А. И. Колосов К. А. Библиометрия в библиотеках // Научные и технические библиотеки. 2016. № 11. С. 5-23.
+7.	Информация и инновации: оценка, тенденции, перспективы : сб. тр. конф. «Информационная поддержка науки и образования: наукометрия и библиометрия (Москва, 21-22 сент. 2017 г.). Москва, 2017. 258 с.
+8.	Кузнецова Т. В., Трескова П. П. Отражение публикационной активности институтов химического профиля УрО РАН в системе SCIFINDER // Библиосфера. 2018. № 2. С. 77-84.
+9.	Лаврик О. Л., Калюжная Т. А., Плешакова М. А. Библиотека и вуз: опыт поддержки научных исследований // Библиотековедение. 2017. № 6. С. 643-650.
+10.	Павлова А. С. Библиотеки Российской академии наук: информационные продукты и услуги (по результатам исследования) // Информационное обеспечение науки. Екатеринбург, 2012. С. 79-94.
+11.	Пирожок Т. В., Трескова П. П. Библиометрический анализ публикаций сотрудников институтов Уральского отделения РАН, входящих в ОУС по гуманитарным и экономическим наукам за период 2008-2012 гг. по базам данных SCOPUS и РИНЦ // III Информационная школа молодого ученого. Екатеринбург, 2013. С. 97-102.
+12.	Степанова Е. Б. Маркетинг в библиотечной деятельности // Библиотеки и информационные ресурсы в современном мире науки и образования (26 нояб. 2010 г.). 2010. 11 с. URL: http://elibrary.udsu.ru/xmlui/handle/123456789/ 6245 (дата обращения: 23.07.2018).
+13.	Стратегический план ИФЛА на 2016-2021 гг. / IFLA.
+2015.	URL: https://www.ifla.org/files/assets/hq/gb/strategic-plan/2016-2021 -ru.pdf (дата обращения: 23.07.2018).
+14.	Шанхайский рейтинг вузов // EducationIndex: образование за рубежом. URL: https://www.educationindex.ru/articles/ university-rankings/arwu/ (accessed 13.06.2018).
+15.	Ástrom F., Hansson J. How implementation of bibliometric practice affects the role of academic libraries // Journal of Librarianship and Information Science. 2013. Vol. 45, № 4. P. 316-322. DOI: 10.1177/0961000612456867.
+16.	Chakravarty R., Sharma J. Mapping library and information science research output: a bibliometric study of Panjab University, Chandigarh // Pearl: A Journal of Library and Information Science. 2017. Vol. 11, № 2. P. 110-115.
+17.	Dynamic Research Support for Academic Libraries / ed. by S. Hoffman. London : Facet Publ., 2016. 154 p.
+18.	Kokol P. Trend analysis of journal metrics: a new academic library service? // Journal of Medical Library Association. 2017. Vol. 105, № 3. P. 240-242. DOI: dx.doi.org/10.5195/ jmla.2017.98.
+19.	Petersohn S. Professional competencies and jurisdictional claims and evaluative bibliometrics: The educational mandate of academic librarians // Education for Information.
+2016.	Vol. 32. P. 165-193. DOI: 10.3233/EFI-150972.
+20.	Rys D., Chadaj A. Bibliometrics and academic staff assessment in Polish university libraries - current trends // Liber Quarterly: The Journal of European Research Libraries. 2016. Vol. 26, iss. 3. P. 181-199. DOI: 10.18352/lq.10175.
+References
+1.	Bashkirtsev V. I., Nikishiana O. S., Yuditskii L. A. Marketing research as a necessary element to substantiate the topic of research. Servis v Rossii i za rubezhom, 2012, 3, 223-235. (In Russ.).
+2.	Galyavieva M. S. Bibliometry is a new direction of libraries activity in European universities. Bibliosfera, 2012, 5, 71-78. (In Russ.).
+3.	Galyavieva M. S. Bibliometry in the library assessed by librarians (based on foreign studies). Vestnik Kazanskogo gosu-darstvennogo universiteta kul'tury i iskusstv, 2015, 1, 97-102. (In Russ.).
+4.	Golikova Yu. B. Marketing research. Methods of marketing research. Teoreticheskie i prakticheskie problem razvitiya sov-remennoi nauki : sb. materialov 6 mezhdunar. nauch-prakt. konf. (Makhachkala, 30 noyab. 2014 g.). Makhachkala, 2014, 84-85. (In Russ.).
+5.	GOST 7.0-99 Informatsionno-bibliotechnaya deyatel'nost', bib-liografiya. Terminy i opredeleniya. Vzamen GOST 7.0-84,
+GOST 7.26-80; vveden 2000-07-01 [National Standard 7.0-99. Information and library activities, bibliography. Terms and definitions. Instead of GOST 7.0-84, GOST 7.26-80; apro-ved 2000-07-01. Moscow, Izd-vo standartov, 1999. 38 p. (In Russ.).
+6.	Zemskov A. I. Kolosov K. A. Bibliometrics in libraries. Nauch-nye i tekhnicheskie biblioteki, 2016, 11, 5-23. (In Russ.).
+7.	Informatsiya i innovatsii: otsenka, tendentsii, perspektivy : sb. tr. konf. «Informatsionnaya podderzhka nauki i obrazovaniya: naukomeriya i bibliometriya (Moskva, 21-22 sent. 2017 g.)» [Information and innovations: assessment, trends, prospects : conf. proc. «Information support of science and education: scientometrics and bibliometry (Moscow, Sept. 21-22, 2017)»]. Moscow, 2017. 258 p. (In Russ.).
+8.	Kuznetsova T. V., Treskova P. P. Reflection of the publication activity of the institutions of the chemical profile of the Ural Branch of the Russian Academy of Sciences in SCIFINDER system. Bibliosfera, 2018, 2, 77-84. (In Russ.).
+9.	Lavrik O. L., Kalyuzhnaya T. A., Pleshakova M. A. Library and university: an experience to support research. Bibliotekove-denie, 2017, 6, 643-650. (In Russ.).
+10.	Pavlova A. S. Libraries of the Russian Academy of Sciences: information products and services (based on research results). Informatsionnoe obespechenie nauki. Ekaterinburg, 2012, 79-94. (In Russ.).
+11.	Pirozhok T. V., Treskova P. P. Bibliometric analysis of publications of the institutes staff of the Ural Branch of the Russian Academy of Sciences that entering the General Public Opinion on the Humanities and Economic Sciences for 20082012 in SCOPUS and RISC databases. III Informatsionnaya shkola molodogo uchyonogo. Ekaterinburg, 2013, 97-102. (In Russ.).
+12.	Stepanova E. B. Marketing in library activities. Biblioteki i in-formatsionnye resursy v sovremennom mire nauki i obrazovaniya (26 noyab. 2010 g.). 2010. 11 p. URL: http://elibrary.udsu. ru/xmlui/handle/123456789/6245 (accessed 07.23.2018). (In Russ.).
+13.	Strategicheskii plan IFLA na 2016-2021 gg. [IFLA strategic plan for 2016-2021]. 2015. 8 p. URL: https://www.ifla.org/ files/assets/hq/gb/strategic-plan/2016-2021-ru.pdf (accessed 07.23.2018). (In Russ.).
+14.	Shanghai university ranking. Educationlndex. URL: https:// www.educationindex.ru/articles/university-rankings/arwu/ (accessed 13.06.2018).
+15.	Aström F., Hansson J. How implementation of bibliometric practice affects the role of academic libraries. Journal of Li-brarianship and Information Science, 2013, 45(4), 316-322. DOI: 10.1177/0961000612456867.
+16.	Chakravarty R., Sharma J. Mapping library and information science research output: a bibliometric study of Panjab University, Chandigarh. Pearl : a Journal of Library and Information Science, 2017, 11 (2), 110-115.
+17.	Hoffman S. (ed.). Dynamic research support for academic libraries. London, Facet Publ., 2016. 154 p.
+18.	Kokol P. Trend analysis of journal metrics: a new academic library service? Journal of Medical Library Association, 2017, 105 (3), 240-242. DOI: dx.doi.org/10.5195/jmla.2017.98.
+19.	Petersohn S. Professional competencies and jurisdictional claims and evaluative bibliometrics: the educational mandate of academic librarians. Education for Information, 2016, 32, 165-193. DOI: 10.3233/EFI-150972.
+20.	Rys D., Chadaj A. Bibliometrics and academic staff assessment in Polish university libraries - current trends. Liber Quarterly : the Journal of European Research Libraries, 2016, 26(3), 181-199. DOI: 10.18352/lq.10175.
+Автор благодарит д-ра пед. наук, проф. О. Л. Лаврик за обсуждение статьи и высказанные полезные замечания.
+Материал поступил в редакцию 24.08.2018 г. Сведения об авторе: Павлова Анна Сергеевна - младший научный сотрудник ЦНБ УрО РАН, соискатель ГПНТБ СО РАН

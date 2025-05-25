@@ -1,0 +1,443 @@
+﻿ОГДА ВЕРСТАЛСЯ НОМЕР
+© Н.Б. Амиров, А.А. Визель, М.А. Даминова, РН. Амирова, Р.И. Шаймуратов, 2015
+УДК 655.5:174
+ПУБЛИКАЦИОННАЯ ЭТИКА И РЕДАКЦИОННАЯ ПОЛИТИКА ЖУРНАЛА «ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ»
+НАИЛЬ БАГАУВИЧ АМИРОВ, докт. мед. наук, проф. кафедры общей врачебной практики ГБОУ ВПО
+«Казанский государственный медицинский университет» Минздрава России, заслуженный деятель науки и образования,
+акад. РАЕ, заслуженный врач РТ, лауреат Гос. премии РТ в области науки и техники, главный редактор журнала
+«Вестник современной клинической медицины», Казань, Россия, e-mail: [email protected]
+АЛЕКСАНДР АНДРЕЕВИЧ ВИЗЕЛЬ, докт. мед. наук, проф., зав. кафедрой фтизиопульмонологии ГБОУ ВПО
+«Казанский государственный медицинский университет» Минздрава России, заслуженный врач РТ,
+лауреат Гос. премии РТ в области науки и техники, зам. главного редактора журнала «Вестник современной
+клинической медицины», Казань, Россия, e-mail: [email protected]
+МАРИЯ АНАТОЛЬЕВНА ДАМИНОВА, канд. мед. наук, ассистент кафедры педиатрии и неонатологии ГБОУ ДПО «Казанская государственная медицинская академия» Минздрава России, ученый секретарь журнала «Вестник современной клинической медицины», Казань, Россия, тел. +7-917-262-47-79, e-mail: [email protected] РЕНАТА НАИЛЕВНА АМИРОВА, врач-эксперт ОАО СОГАЗ, руководитель отдела договоров и рекламы журнала «Вестник современной клинической медицины», Казань, Россия, тел. +7-903-307-99-47, e-mail: [email protected] РУСТЕМ ИЛЬДАРОВИЧ ШАЙМУРАТОВ, аспирант кафедры фтизиопульмонологии ГБОУ ВПО «Казанский государственный медицинский университет» Минздрава России, компьютерное сопровождение и версия журнала «Вестник современной клинической медицины» в Интернете, Казань, Россия, тел. +7-917-900-55-10, e-mail: [email protected]
+Реферат. На современном этапе развития научной коммуникации для вхождения в международные базы данных журналы обязаны декларировать публикационную этику и редакционную политику. Для формирования конкретных рекомендаций с учетом последних требований было проведено исследование современных публикаций и международных документов. Рассмотрены вопросы этичности проведения научных исследований на человеке и животных, открытости публикаций. Даны определения критериев авторства, подробно описано понятие «конфликт интересов авторов», в том числе и конфликт интересов членов редколлегии при публикации «в собственном журнале». Описаны этические принципы рецензирования научных публикаций. Объяснено понятие «самоплагиат» и даны инструкции, как избежать самоплагиата при публикациях. Показаны критерии отклонения статей, и как редакция журнала поступает со статьями, подлежащими отклонению.
+Ключевые слова: публикационная этика, редакционная политика, рецензирование, открытость публикаций.
+PuBLicATioN ETHics AND EDiTORiAL PoLicY of jouRNAL «THE BULLETiN of coNTEMPoRARY ^McAL MEDiCiNE»
+NAIL B. AMIRov, D.Med.Sci., Prof. of the Department of general medicine practice of SBEIHPE «Kazan State Medical University» of Russian Ministry of Health, Honored Science and Education Worker, Acad. of RANH, TR Honored Doctor, State Honoree of TR in Science and Technics, Editorial Board of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, e-mail: [email protected]
+ALExANDER A.vizEL, D.Med.Sci., Prof., Head of the Department of phthisiopulmonology of SBEI HPE «Kazan State Medical University» of Russian Ministry of Health, Honored Doctor of TR, State Honoree of TR in Science and Technics,
+Deputy Editor in chief of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, e-mail: [email protected] Maria A. DAMINovA, c.Med.Sci., assistant of professor of Department of pediatrics and neonatology of SBEI APE «Kazan State Medical Academy» of Russian Ministry of Health, Responsible Secretary of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, tel. +7-917-262-47-79, e-mail: [email protected]
+RENATA N. AMIRovA, doctor-expert of Open joint-stock company IcGI, chief of Marketing department of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, tel. +7-903-307-99-47, e-mail: [email protected] RusTEM I. sHAYMuRATov, graduate student of the Department of phthisiopulmonology of SBEI HPE «Kazan State Medical University» of Russian Ministry of Health, computer support and web version of journal «The bulletin of contemporary clinical medicine», Kazan, Russia, tel. +7-917-900-55-10, e-mail: [email protected]
+Abstract. In the modern era of scientific communication journals must declare publication ethics and editorial policy to be included in international databases. To develop specified up-to-date recommendations we studied the latest publications and international statements. In current article we discussed ethical aspects of biomedical research, publications transparency. Autorship criteria, conflict of interest and editorial board conflict of interest (when members of the editorial board publish in own journal) were described. Reviewer's ethics was also declared. We gave the definition of autoplagiarizm and provided instructions to avoid it. Retraction guidelines were also showed and information about how we treat articles that are ready to be retracted.
+Key words: publication ethics, editorial policy, peer-review, transparency.
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+когда верстался НОМЕР
+75
+Публикационная этика журнала «Вестник
+современной клинической медицины»
+После удостоверения, что реферат и статья удовлетворяют правилам оформления статей и тезисов для авторов в журнал и приложения к журналу, начинается процесс рецензирования.
+До рецензирования ответственный секретарь проверяет следующие аспекты:
+•	Имеет ли данное исследование научное обоснование с четко представленными целями и задачами, является ли размер выборки адекватным, четко ли представлены и объяснены результаты.
+•	Исследователи исключили или рассмотрели возможные искажающие факторы.
+•	Сведен к минимуму или отсутствует потенциальный вред субъекту исследования (обеспечение конфиденциальности персональных данных, снижение психоэмоциональной и физической нагрузки).
+•	Преимущества исследования перевешивают вред.
+Если у редакционной коллегии возникают вопросы по поводу соблюдения прав пациентов или соблюдения законов Российской Федерации, то мы вправе требовать от автора одобрения этического комитета [1]. Мы рекомендуем нашим авторам следовать Сингапурскому заявлению о добросовестности в исследованиях (www.singaporestatement. org): «Ценность и польза исследований целиком зависят от того, насколько добросовестно они выполняются. И хотя различия в организации и проведении исследований, определяемые национальным и дисциплинарным контекстом, вполне возможны и встречаются на практике, некоторые принципы и профессиональные обязательства имеют фундаментальное значение для добросовестности в исследованиях, где бы те ни проводились».
+Принципы:
+•	Честность во всем, что связано с исследованием.
+•	Открытость хода и результатов исследования для внешнего контроля.
+•	Соблюдение норм профессиональной этики и уважительное отношение к коллегам.
+•	Квалифицированное проведение исследования в интересах всех тех, кого оно может затрагивать [2].
+Процесс рецензирования
+Открытость публикаций
+Перед рецензированием рукописей ответственный секретарь удостоверяется, что авторы прочли и поняли Правила оформления статей и тезисов для авторов в журнал и приложения к журналу и ознакомились с публикационной этикой журнала, также он знакомится с заявлением автора, в котором освещены следующие пункты:
+•	Финансирование публикации.
+•	Декларация конфликта интересов.
+•	Разрешение на копирование материалов из внешних источников (в том числе и из сети Интернет) при использовании таких материалов.
+•	Разрешение пациентов на публикацию их данных, а также проверка цензурирования данных пациентов, по которым можно установить их личность.
+•	Документированное подтверждение для любых цитат из неопубликованных работ (например, из статьи в печати, из выступлений на конференции, личных бесед).
+•	Информация о подаче данной публикации в другие журналы.
+•	Подтверждение, что рукопись не публиковалась ранее.
+Каждый автор подписывает заявление об авторстве. Автором считается тот, кто принимал участие в разработке идеи, дизайна, обработки, анализа или интерпретации данных, правил черновики, критиковал, одобрял финальную версию статьи. Редколлегия вправе запросить обязанности каждого автора в написании статьи. Как правило, автор, проделавший большую часть работы, идет в начале списка. С другой стороны, необходимо пояснить, что не каждый анализ и интерпретация данных (например, описание рентгеновских снимков) подпадает под критерий авторства.
+Для исключения наличия в публикациях «авторов-гостей» и для включения «авторов-призраков» необходимо пояснить роль каждого автора в написании статьи. Возможно, некоторые авторы считают, что включение в статью человека, не принимавшего участия в ее написании -«автора-гостя», — это рутинная практика в научном мире. По мнению редколлегии, данное поведение неэтично и неприемлемо, а также говорит о самооценке и самоуважении автора. Во избежание данной ошибки мы рекомендуем обсуждать эти вопросы заранее, до публикации. Всех лиц, не принимавших участие в написании публикации, мы советуем поместить в раздел «Благодарность». Обратной ситуацией является игнорирование «автора-призрака» - технического писателя, который только обрабатывал текст. Дело в том, что этот автор тоже имеет конфликт интересов, который должен декларироваться. Каждый автор должен участвовать в переписке с редколлегией (по меньшей мере, быть в копии переписки) в процессе принятия статьи и рецензирования, а не только автор-корреспондент. Автор-корреспондент — это административная роль.
+В статье должны быть сведения об одобрении исследования этическим комитетом и об информированном согласии при исследовании на людях.
+этика рецензентов
+Рецензенты, в свою очередь, должны:
+•	объективно проводить рецензирование;
+•	не допускать персональной критики автора, должны выражать свои взгляды ясно с аргументацией и ссылками, по мере необходимости должны декларировать конфликт интересов;
+•	отказаться от обзора рукописей, в которых они имеют конфликт интересов в результате конкурентных, совместных или других отношений, или связей с любым из авторов, с любой компанией или любым учреждением;
+76
+КОГДА ВЕРСТАЛСЯ НОМЕР
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОМ МЕДИЦИНЫ 2015 Том 8, вып. 3
+•	соблюдать конфиденциальность материалов, предоставляемых на рецензию, и не должны обсуждать неопубликованные рукописи с коллегами или использовать информацию в своей работе. Если рецензент хочет передать запрос на отзыв коллеге, он должен получить разрешение редактора заранее.
+При рецензировании рецензент проверяет следующие пункты:
+•	Была ли ранее опубликована работа. Был ли случай плагиата (или самоплагиата). Статьи проверяются с помощью поисковых систем и системы антиплагиат. Самоплагиатом считается цитирование самого себя слово в слово из предыдущих публикаций.
+•	Есть ли признаки фабрикации данных или введение читателя в заблуждение.
+•	Есть ли в статье переработанный текст.
+Переработанный текст — это частный случай
+автоплагиата, когда из публикации в публикацию повторяются одни и те же абзацы переработанного текста. Данное явление недопустимо, так как снижает качество и научную новизну публикации. Редколлегия оценивает, как много текста было переработано, где в статье встречается такой текст, есть ли ссылка на литературу. Отличить заимствование нескольких собственных фраз от переработки старой статьи совсем несложно. Если речь идет об описании технического метода, то переработанного текста, конечно, не избежать, но результаты и выводы исследования не должны повторяться. Если переработанный текст повторяется у данного автора в нескольких обзорных статьях, то согласно руководству комитета по публикационной этике (Великобритания, http://publicationethics.org/resources/ guidelines), данная статья должна расцениваться как автоплагиат. Если авторы не дают ссылку на свою предыдущую работу, то это больше говорит об автоплагиате, чем о добросовестном заблуждении.
+Так как такие клоны статей широко распространены, то есть и методические рекомендации по принятию их к публикации, вот несколько вариантов:
+1.	Авторы переписывают обзор литературы полностью за счет новых, ранее не цитированных источников.
+2.	Авторы цитируют собственный текст в кавычках или кратко и тезисно формулируют его с ОБЯЗАТЕЛЬНОЙ ссылкой на свои предыдущие публикации.
+3.	Авторы сокращают статью до тезисов или краткого сообщения со ссылкой на материалы и методы на предыдущую публикацию.
+4.	Авторы публикуют только расчеты и результаты со ссылкой на предыдущую публикацию и сравнивают их с аналогичными работами других авторов.
+Любой из этих вариантов повысит оригинальность и цитируемость статьи.
+При обнаружении переработанного текста в присланной статье редколлегия будет просить авторов переписать эти участки. При обнаружении в опубликованной статье переработанного текста статья будет отозвана или будет опубликована откорректированная статья за счет автора. Вопросы, касающиеся переработанного текста или авто-
+плагиата, рассматриваются с учетом компетенции автора, возраста и научного опыта.
+Публикация членов редколлегии
+в журнале
+Публикация членов редколлегии в журнале допускается. Процесс рецензирования этих рукописей происходит без участия авторов в обсуждении. Член редколлегии особо декларирует свой конфликт интересов с издателем и редакцией; член редколлегии не принимает участие в процессе рецензирования собственной статьи, общение с редакцией по вопросу публикации происходит только через ответственного секретаря.
+Процесс рецензирования происходит независимо от учредителя. Все члены редколлегии имеют письменный договор с учредителем. Учредитель не имеет права влиять на процесс рецензирования.
+Коммерческие публикации и рекламные объявления рассматриваются на общих основаниях с научными публикациями [3].
+Отклонение рукописей/отзыв статей
+из печати
+Рукописи отклоняются в случае, если:
+•	имеются явные признаки недостоверности публикуемых данных как намеренные, так и случайные;
+•	данные были опубликованы ранее;
+•	присутствует плагиат;
+•	исследование неэтичное;
+•	есть подозрения, что расследования, связанного с публикацией, не было или не будет справедливым и беспристрастным, или не будет убедительных доказательств обратного.
+При смене авторов статьи, при условии надежности данных, отклоняться статьи не будут. Процедура отклонения статьи начинается как можно раньше с момента обнаружения поводов для отклонения, как правило, на этапе рецензирования. Напечатанные статьи могут быть отозваны. Процесс отклонения рукописей/отзыв статей из печати может быть инициирован как автором, так и редколлегией или другим журналом.
+как мы поступаем со статьями,
+которые подлежат отклонению
+Если имеется возможность коррекции, то после устранения всех замечаний статья может быть принята к печати. Отклоняются статьи в основном с серьезными нарушениями.
+Если напечатанная статья была опубликована ранее, то в следующем выпуске публикуется примечание со ссылкой на раннюю публикацию, в свою очередь, журнал «Вестник современной клинической медицины» отправляет извещение в издание, где статья была опубликована ранее.
+«Перекрестные статьи». Статьи, содержащие в себе часть ранее опубликованных данных совместно с оригинальными данными, не отклоняются при наличии соответствующих ссылок. Целью процесса отклонения является не наказание авторов, а обеспечение достоверных данных [4].
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+когда верстался номер
+77
+Конфликт интересов
+Каждый автор обязан декларировать конфликт интересов, который возникает в условиях, когда на основной профессиональный интерес оказывает влияние вторичный интерес (финансовая выгода, продвижение по карьерной лестнице, поощрение коллег, друзей, родственников, соотечественников, выделение роли своей кафедры, учреждения). Влияние вторичного интереса приводит к моральноэтическим конфликтам по отношению к пациентам, работникам здравоохранения и научному сообществу в целом.
+В медицине первичные профессиональные интересы связаны с качеством медицинской помощи, надлежащим лечением заболеваний, благополучием пациентов, профессионализмом, беспристрастным и добросовестным проведением научных исследований, а также честной и открытой редакторской работой. Вторичные интересы многочисленны, сложны по своему происхождению и не всегда легко различимы, даже для опытных специалистов. Они могут возникать из желания получить финансовую выгоду от профессиональных действий, чтобы укрепить позиции некоторых научных утверждений и продвинуть их, чтобы подняться по своей карьерной лестнице или по карьерной леснице членов семьи, друзей и коллег из того же города, страны или учреждения и др.
+Конфликт интересов может быть коммерческий (финансовый), интеллектуальный, академический (соревновательный), идеологический, иметь личный характер или территориальные особенности.
+Чаще всего возникает коммерческий конфликт интересов при публикации данных биомедицинских исследований. Необходимо декларировать спонсорство, гранты и иные виды материального поощрения.
+При отсутствии конфликта интересов необходимо его декларировать. При сомнениях редколлегия всегда придет на помощь. Декларирование конфликта интересов помогает читателям критически оценивать статью с учетом влияния вторичных интересов автора [5].
+ЛИТЕРАТУРА
+1.	Guidance for Editors: Research, Audit and Service Evaluations. — URL: http://publicationethics.org/ resources/guidelines
+2.	URL: www.singaporestatement.org
+3.	A short guide to ethical editing for new editors. — URL: http://publicationethics.org/resources/guidelines
+4.	Retraction guidelines. — URL: http://publicationethics.org/ resources/guidelines
+5.	Gasparyan, A.Yu. Conflicts of interest in biomedical publications: considerations for authors, peer reviewers, and editors / A.Yu Gasparyan, L. Ayvazyan, N.A. Akazhanov, G.D. Kitas // Croat. Med. J. — 2013. — Vol.54. — P600—608.
+PUBLiCATiON ETHICS AND EDiTORiAL POLiCY OF JOURNAL
+«the bulletin of contemporary clinical medicine»
+Nail B. AMIROV, D.Med.Sci., Prof. of the Department of general medicine practice of SBEIHPE «Kazan State Medical University» of Russian Ministry of Health, Honored Science and Education Worker, Acad. of RANH, TR Honored Doctor, State Honoree of TR in Science and Technics, Editorial Board of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, e-mail: [email protected]
+ALEXANDER A. VIZEL, D.Med.Sci., Prof., Head of the Department of phthisiopulmonology of SBEI HPE «Kazan State Medical University» of Russian Ministry of Health, Honored Doctor of TR, State Honoree of TR in Science and Technics,
+Deputy Editor in chief of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, e-mail: [email protected] Maria A. DAMINovA, c.Med.Sci., assistant of professor of Department of pediatrics and neonatology of SBEI APE «Kazan State Medical Academy» of Russian Ministry of Health, Responsible Secretary of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, tel. +7-917-262-47-79, e-mail: [email protected]
+Renata N. AMIRoVA, doctor-expert of Open joint-stock company IcGI, chief of Marketing department of journal «The Bulletin of contemporary clinical Medicine», Kazan, Russia, tel. +7-903-307-99-47, e-mail: [email protected] RusTEM I. sHAYMuRAToV, graduate student of the Department of phthisiopulmonology of SBEI HPE «Kazan State Medical University» of Russian Ministry of Health, computer support and web version of journal «The bulletin of contemporary clinical medicine», Kazan, Russia, tel. +7-917-900-55-10, e-mail: [email protected]
+Abstract. In the modern era of scientific communication journals must declare publication ethics and editorial policy to be included in international databases. To develop specified up-to-date recommendations we studied the latest publications and international statements. In current article we discussed ethical aspects of biomedical research, publications transparency. Autorship criteria, conflict of interest and editorial board conflict of interest (when members of the editorial board publish in own journal) were described. Reviewer's ethics was also declared. We gave the definition of autoplagiarizm and provided instructions to avoid it. Retraction guidelines were also showed and information about how we treat articles that are ready to be retracted.
+Key words: publication ethics, editorial policy, peer-review, transparency.
+Publication Ethics of the Bulletin of Contemporary Clinical Medicine journal
+After submission an abstract or article (according to the rules of submitted manuscript) the peer-reviewing process begins. At the first stage, responsible secretary checks the following aspects:
+•	The study need to be scientifically valid with clearly aims and objectives. The sample size is adequate, and the results are adequately and clearly presented and explained.
+•	The investigators excluded or considered the possible confounding factors and/or biases.
+78
+КОГДА ВЕРСТАЛСЯ НОМЕР
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОМ МЕДИЦИНЫ 2015 Том 8, вып. 3
+•	The ethical harms been minimized; confidentiality protected, the risk of physical and psychological harm minimized.
+•	The benefits outweigh the harms in this particular study's case.
+If there is doubt about local law or Russian Federation regulations, editors ask the authors to provide a letter from the ethics committee [1]. To provide the research integrity we offer our authors to follow Singapore Statement on Research Integrity (www. singaporestatement.org): «The value and benefits of research are vitally dependent on the integrity of research. While there can be and are national and disciplinary differences in the way research is organized and conducted, there are also principles and professional responsibilities that are fundamental to the integrity of research wherever it is undertaken».
+Principle:
+•	Honesty in all aspects of research.
+•	Accountability in the conduct of research.
+•	Professional courtesy and fairness in working with others.
+•	Good stewardship of research on behalf of others
+[2].
+Peer-review
+Transparency
+Before peer-review process, secretary assures that the authors have read and understood the Instructions to Authors, Publication Ethics guidelines and check author's statement (see below)
+•	Funding information.
+•	Competing interest declaration.
+•	Permission obtained for use of copyrighted material from other sources (including the Web).
+•	Documentation for any citations to unpublished work (e.g. articles in press/ personal communications).
+•	Information about previous submissions to other journals (e.g. name of journal, reviewer comments).
+•	Confirmation that the manuscript has been submitted solely to your journal and is not published, in press, or submitted elsewhere.
+Each author signs an authorship declaration. Who is the Author? Author is the person who participated in article: created ideas, design, workflow, analyzed and interpreted the data, reviewed drafts, criticized and approved the final version of the article. Editorial board can require statements of each individual's contribution to the research and publication. As usual, Author performed the most work on the article is the first Author. On the other hand, we need to clarify that not all analyze and data interpretation refer to Authorship criteria (for example, X-ray interpretation as a part of the routine work).
+To exclude guest-Authors and to include ghost-Authors please provide statements of each individual's contribution. Someone consider including to Author's list a person who did not contribute in article is a routine practice in scientific world. We think that such behavior is unethical and unacceptable. To avoid this, we recommend discussing this before the publication.
+All people who did not participate in the article we recommend to put in gratitude list after the main text. On the other hand, a “ghost writer” is frequently ignored. A technical writer who only processed the text have conflict of interest too which must be reported. All Authors must be in communications (e.g. acknowledging receipt of a submission) not just the corresponding Author.
+An information letter from the ethics committee with study approval must exist in the article.
+Reviewers’ ethics
+•	Reviews conduct reviews objectively.
+•	Reviews avoid personal criticism of the Author.
+•	Reviewers decline to review manuscripts in which they have conflicts of interest resulting from competitive, collaborative, or other relationships or connections with any of the Authors, companies, or institutions connected to the papers.
+•	Reviewers respect the confidentiality of material supplied to them and should not discuss unpublished manuscripts with colleagues or use the information in their own work. If a reviewer wants to pass a review request onto a colleague, they should get the editor's permission beforehand.
+Reviewers should check ethical aspects
+of the submission such as:
+•	Has the Author published this research before.
+•	Has the Author plagiarised another publication. Was it autoplagiarism. We check articles by antiplagiarism systems.
+•	Is there any indication that the data has been fabricated or inappropriately manipulated.
+•	Did the text has been recycled.
+The recycled text is a special case of autoplagiarism — when from publication to publication Author repeats the same paragraphs of recycled text. This is unacceptable — autoplagiarism reduces the quality and scientific novelty of the publication. Editorial board evaluates how much text was recycled, if there is a reference to the literature is exist. Distinguish a few of their own borrowing phrases from the recycling of old articles is not difficult. When it comes to the materials and methods, the recycled text, of course, can not be avoided but the results and conclusions of the study should not be repeated. If the revised text repeated in Author's several review articles, according to the guidance of the Committee on Publication Ethics (UK, http://publicationethics.org/resources/guidelines) this article should be considered as autoplagiarism. If the Authors do not provide a link to his previous work, it speaks more in favor of autoplagiarism than an honest mistake.
+Since those clones articles are widespread, to adopt them for publication, here are some options:
+1.	The Authors completely rewrite the review with new sources
+2.	The Authors cite own text in quotes or summarizes it with the obligatory reference to their previous publication.
+3.	The Authors cut the article to abstract size or a short message with reference to the materials and methods from the previous publication.
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+когда верстался номер
+79
+4.	The Authors publish only the results and calculations with reference to the previous publications and compare them with those or with other Authors.
+Any of these options will enhance the originality and citation rate of the articles.
+In case of detection a revised text in reviewing article, Editorial Board will ask the Authors to rewrite these parts. Upon detection a revised text in published article, the article will be withdrawn or the correction article will be published by the Author. Questions relating to the text or recycled avtoplagiarism are assessed taking into account the competence of the Author, age and scientific experience.
+Publication of the members
+of the editorial board
+Publication of the members of the editorial board is allowed. The review process of these manuscripts takes place without Authors participation. Member of the Editorial Board declares a conflict of interest with the publisher and the editorial board; a member of the editorial board is not involved in the process of peer-reviewing his own article. Communication with the editors on publication performs only through the executive secretary.
+The review process is independent from the constitutors. All members of the Editorial Board have a written agreement with the constitutors. The constitutors have no right to influence the review process.
+Commercial publications and advertisements are peer-reviewed equally as scientific publications with no benefits [3].
+Manuscripts retraction
+We retract manuscripts in case if:
+•	there any signs that the data has been fabricated or inappropriately manipulated;
+•	they were already published;
+•	plagiarism was found;
+•	the research was unethical;
+•	in case that the investigation of supposed malefaction associated with article were no fair or convincing evidences were not provided.
+In case of Authors replacement and the reliability evidence provided, the manuscripts will not be retracted. Manuscript retraction process begins as soon as we find reasons for retraction, as usual accompanying the peer-review process. Published articles can be retracted too. Manuscript retraction process can be initiated by Author, Editorial Board or other journal.
+How we treat articles that are ready
+to be retracted
+If there is a possibility of correction, after the removal of all the queries, the article can be accepted for publication. Retracted articles, mostly contain severe disabilities.
+If the article was published previously, in the next issue we publish a note referring to an earlier publication.
+VSKM journal notify the journal where the article was published earlier.
+«Cross articles». Articles containing previously published data, together with the original data with appropriate references do not retracts. The purpose of the retraction process is not to punish the Authors, but to provide reliable data [4].
+Conflict of interest
+Each Author must declare a conflict of interest. A conflict of interest occurs in circumstances where the primary professional interest becomes affected by secondary interest (financial benefits, career advancement, encouragement of colleagues, friends, relatives, countrymen, highlighting the role of his department, institution). Influence of secondary interest leads to moral and ethical conflicts in relation to patients, health professionals and the whole scientific community.
+In medicine, the primary professional interests are related to quality of care, proper treatment of diseases, the well-being of patients, professionalism, impartiality and integrity of the research, as well as open and honest editorial work. The secondary interests are numerous, complex in its origin, and not always easily distinguishable, even for professionals. They can arise from a desire to benefit financially from professional activities to strengthen the position of some scientific statements to advance his/her career development, or for the benefit of family members, friends and colleagues from the same city, country or institution, etc.
+A conflict of interest can be commercial (financial), the intellectual, academic (competitive), ideological, have a personal character or territorial characteristics.
+Most often, there is a commercial conflict of interest in the publication of data in biomedical research. You must declare the sponsorship, grants and other types of material incentives.
+In the absence of a conflict of interest must be declared no conflict of interest. When in doubt, the editorial board will always help. Declaring a conflict of interests helps readers to critically evaluate the article with the influence of secondary interests of the Author [5].
+LITERATURE
+1.	Guidance for Editors: Research, Audit and Service Evaluations.— URL: http://publicationethics.org/resources/ guidelines
+2.	URL: www.singaporestatement.org
+3.	A short guide to ethical editing for new editors.— URL: http://publicationethics.org/resources/guidelines
+4.	Retraction guidelines.— URL: http://publicationethics.org/ resources/guidelines
+5.	Croat Med. J. 2013;54:600-8; doi: 10.3325/cmj.2013.54.600 Armen Yuri Gasparyan1, Lilit Ayvazyan2, Nurbek A. Akazhanov3, George D. Kitas1,4 a.gasparyan@gmail. com Conflicts of interest in biomedical publications: considerations for Authors, peer reviewers and editors.
+81
+КОГДА ВЕРСТАЛСЯ НОМЕР
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОМ МЕДИЦИНЫ 2015 Том 8, вып. 3
+ПРАВИЛА ОФОРМЛЕНИЯ СТАТЕЙ И ТЕЗИСОВ ДЛЯ АВТОРОВ В ЖУРНАЛ И ПРИЛОЖЕНИЯ «ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ» ISSN 2071-0240 (PRINT), issN 2079-553x (oNLINE)
+1.	Статья должна быть набрана в текстовом редакторе Word 2003-2013, шрифт Times New Roman, 12, межстрочный интервал 1,5, форматирование по ширине, без переносов, должна быть напечатана на одной стороне листа форматом А4. Поля: сверху 25 мм, снизу 20 мм, слева 30 мм, справа 15 мм. Стиль статей должен быть ясным и лаконичным.
+2.	В начале первой страницы статьи указывают (через пробел между ними):
+1)	© инициалы и фамилии всех авторов через запятую, год (например: © Н.Б. Амиров, А.А. Визель, М.А. Даминова, 2015);
+2)	код по УДК;
+3)	название статьи (ЗАГЛАВНЫМИ БУКВАМИ)
+должно отражать основное содержание работы и обязательно должно быть представлено на русском и английском языках.
+4)	имя, отчество и фамилию(и) автора(ов) полностью, после каждой фамилии указать ученую степень, ученое звание, занимаемую должность, полное название кафедры (подразделения), учреждения, города, страны, где работает(ют) автор(ы), на русском языке и их перевод на английский язык, контактный телефон и e-mail;
+5)	реферат, структурированный и отражающий основное содержание статьи, на русском языке (не менее 100 и не более 250 слов) и перевод структурированного реферата на английский язык (не менее 100 и не более 250 слов).
+Редакция оставляет за собой право исправлять присланные авторами на английском языке без согласования с авторами название статьи, реферат и ключевые слова при противоречии их правилам английского языка или неправильного употребления терминологии. Например: внебольничная пневмония. Неправильный перевод: out-of hospital pneumonia. Правильный перевод: community acquired pneumonia;
+6)	ключевые слова, отражающие смысловую часть статьи (не более 6), на русском языке и их перевод на английский язык.
+3.	Принимаются к опубликованию статьи на английском языке, при этом должны быть выполнены все требования как для русскоязычных статей, но с обратным переводом соответственно.
+4.	Статья должна сопровождаться официальным направлением от учреждения, в котором выполнена работа, иметь визу научного руководителя, направление должно быть скреплено печатью учреждения, направляющего работу в редакцию журнала. Если работа представляется от нескольких учреждений, необходимо сопроводительное письмо, подтверждающее направление статьи для публикации в журнале, от каждого из них (необязательно, если нет конфликта интересов между учреждениями). В направлении можно указать, является ли статья диссертационной.
+5.	Все статьи направляются на рецензирование. Редакция оставляет за собой право сокращать и редактировать присланные статьи. Не допускается направление в редакцию работ, напечатанных в других изданиях или направленных для печати в другие издания.
+6.	В конце статьи должны быть подписи всех авторов с указанием ученой степени и звания, полностью указаны фамилия, имя, отчество, место работы и должности всех авторов, контактный адрес, номер телефона и адрес электронной почты одного из авторов.
+7.	Высылать статью в печатном и электронном виде на удобном для авторов носителе данных (CD-R, CD-RW или флеш-накопитель) одновременно с квитанцией об оплате по адресу: 420043, Казань, ул. Вишневского, 57-83 для Н.Б. Амирова или 420012, Казань, ул. Бутлерова, 49, КГМУ в редколлегию журнала ВСКМ для Н.Б. Амирова и по e-mail: [email protected]. Файл называется по фамилии первого автора. Если у первого автора несколько статей, то им присваиваются номера после фамилии, например: Амиров Н.Б.-1, Амиров Н.Б.-2 и т.д. Приветствуется направление фото первого автора в формате jpeg.
+8.	Рубрикация журнала: Передовая статья. Оригинальные исследования (клинико-теоретические публикации). Обзоры. Клинические лекции. Краткие сообщения. Организация здравоохранения. Дискуссии. Съезды, конференции, симпозиумы. Из практического опыта. История медицины (юбилейные и исторические даты). Экспериментальные исследования - клинической медицине. Клинический случай и др.
+9.	Объем статей в рубрику «Оригинальные исследования» не должен превышать 15 страниц, число рисунков — не более 5—6; таблицы должны быть построены наглядно, иметь название над таблицей, их заголовки должны точно соответствовать содержанию граф (междустрочный интервал в таблицах — 1); таблицы не должны представлять собой отсканированное изображение; рисунки должны иметь номер и название под рисунком. Отсканированные фотографии должны иметь разрешение не ниже 300 dpi. Текст: все части статьи (текст, таблицы, рисунки и т.п.) должны быть приведены полностью в соответствующем месте статьи. Все цифры, итоги, проценты в таблицах должны быть тщательно выверены автором и должны соответствовать цифрам в тексте. В тексте необходимо указать ссылки на таблицы и рисунки и их порядковые номера. Статья должна быть тщательно отредактирована и выверена автором. Статьи объемом до 6 страниц могут быть размещены в рубрике «Краткие сообщения». В рубрику «Из практического опыта» принимаются статьи, освещающие оригинальный опыт авторов в медицинской практике. Объем статьи должен составлять не более 10 страниц машинописного текста.
+Объем обзорно-теоретических статей и статей в рубрику «Клинические лекции» заранее согласовываются с редакцией журнала.
+Рисунки, таблицы, реферат и список литературы входят в общий объем статьи.
+В структуру статей входят разделы: Введение (с указанием в конце целей исследования). Материал и методы. Результаты и их обсуждение. Выводы. Перечень цитируемой литературы.
+10.	Библиографические ссылки в тексте статьи надо давать в квадратных скобках с указанием номера
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+правила оформления статей
+81
+согласно списку литературы: Например: ...согласно данным [11].
+В конце статьи приводится список литературы в соответствии с ГОСТ 7.1-2003 «Библиографическая запись. Библиографическое описание. Общие требования и правила составления» (для обзоров - не более 50, для оригинальных статей - не более 20 источников), в котором цитируемые авторы перечисляются в алфавитном порядке (сначала на русском, затем на иностранных языках). После фамилии автора(ов) указываются названия работ, место издания, издательство, год издания, номер тома и выпуска, страницы (от - до) и ГОСТ Р7.0.5-2008 «Система стандартов по информации, библиотечному и издательскому делу. Библиографическая ссылка. Общие требования и правила составления».
+Для вхождения в базу данных Scopus необходимо подавать список цитируемой русскоязычной литературы в романской транскрипции и перевод на английский язык в квадратных скобках. Для этого можно воспользоваться сайтом: http://translit.ru. Во избежание ошибок, а также для облегчения работы не стоит делать транслитерацию вручную. Представление в References только транслитерированного (без перевода) описания недопустимо, так как делает такое описание совершенно нечитаемым (поэтому, после транслитерированного названия необходимо поместить перевод названия статьи на английском языке в квадратных скобках). N.B.! Если в списке есть иностранные публикации, то они полностью повторяются в русскоязычном списке литературы. Зарубежные базы данных огромное внимание уделяют правильной индексации ссылок. Таким образом, после списка литературы на русском, необходимо поместить References по указанному примеру:
+Borisov, A.G. Spaechnaya bolezn' bryushnoi polosti [Adhesive abdominal disease] / A.G. Borisov, A.A. Volodin, I.R. Mihaylov [i dr.] // Endoskopidieskaya hirurgiya [Endoscopic surgery]. — 2011. — T 4, № 3. -S.51—63.
+Примечание. Допускается порядок списка литературы по мере цитирования.
+ОБРАЗЕЦ ОФОРМЛЕНИЯ СТАТЬИ
+И СПИСКА ЛИТЕРАТУРЫ
+© Н.Н. Крывкина, Э.Н. Ахмадеева, А.Я.Валиуллина, 2015
+Пробел
+УДК 616-053.3:616.329-089
+Пробел
+СРАВНИТЕЛЬНАЯ ХАРАКТЕРИСТИКА ЗДОРОВЬЯ ДЕТЕЙ МЛАДЕНЧЕСКОГО ВОЗРАСТА, РОДИВШИХСЯ НЕДОНОШЕННЫМИ, В ЗАВИСИМОСТИ ОТ МАССЫ ТЕЛА ПРИ РОЖДЕНИИ
+Пробел
+Наталья Николаевна Крывкина, аспирант кафедры госпитальной педиатрии ГБОУ ВПО «Башкирский государственный медицинский университет» Минздрава России, Уфа, Россия, тел. 8-917-34-555-28, e-mail: [email protected]
+Эльза Набиахметовна Ахмадеева, докт. мед. наук, профессор, зав. кафедрой госпитальной педиатрии ГБОУ ВПО «Башкирский государственный медицинский университет» Минздрава России, Уфа, Россия, тел. 8-903-312-37-57, e-mail: [email protected]
+Альфия Ягуфаровна Валиуллина, канд. мед. наук, ассистент кафедры госпитальной педиатрии ГБОУ ВПО «Башкирский государственный медицинский университет» Минздрава России, Уфа, Россия, тел. 8-937-322-60-78, e-mail: [email protected]
+Пробел
+Реферат. Цель исследования — охарактеризовать здоровье детей младенческого возраста, родившихся недоношенными. Материал и методы. Под наблюдением находилось 519 недоношенных детей, которых разделили на 3 группы: 1-я группа — дети с экстремально низкой массой тела при рождении (44 ребенка), 2-я группа — дети с очень низкой массой тела при рождении (142 младенца) и 3-я группа — дети с низкой массой тела при рождении (333 младенца). Результаты и их обсуждение. Выявлено, что исходы перенесенных заболеваний у недоношенных детей исследуемых групп к концу первого года жизни были разнообразными — от практически здоровых до детей с ограниченными возможностями. Заключение. Факторами риска, влияющими на тяжесть исходов, являются отягощенный акушерско-гинекологический анамнез матери в 100% случаев, сам факт недоношенности и весовая категория преждевременно родившихся младенцев.
+Пробел
+Ключевые слова: новорожденные, дети с низкой и экстремально низкой массой тела, раннее развитие недоношенных.
+Пробел
+THE COMPARATIVE CHARACTERISTICS OF HEALTH PREMATURE INFANTS DEPENDING ON THEIRS BIRTH WEIGHT
+Пробел
+Natalia N. Kryvkina, graduate student of Department of hospital pediatrics of SBEI HPE «Bashkir State Medical University» Russian Ministry of Health, Ufa, Russia, tel. 8-917-345-55-28, e-mail: [email protected]
+Elsa N. Akhmadeeva, M.D., Professor, Head of Department of hospital pediatrics of SBEI HPE «Bashkir State Medical University» Russian Ministry of Health, Ufa, Russia, tel. 8-903-312-37-57, e-mail: [email protected]
+Alfia Ya. Valiullina, Ph.D., assistant of Professor of Department of hospital pediatrics of SBEI HPE «Bashkir State Medical University» Russian Ministry of Health, Ufa, Russia, tel. 8-937-322-60-78, e-mail: doctoralfiya@ gmail.com
+Пробел
+Abstract. Aim. The purpose of our study was to characterize health of premature infants. Matherial and method. Under our observation were 519 children. We divided them into 3 groups. In the first group were 44 preterm birth with extremely low birth weight. In the second — 142 premature with very low birth weight. And in the last one — 333 children with low birth weight. Results. It was revealed that outcomes of perinatal pathologies during first year of life were variables. It occur such healthy children as invalid infants. Conclusion. Factors, which may cause severe pathology, were not only the fact of preterm born, but also the compromised obstetric-gynecologic history of mothers in 100% of cases.
+Пробел
+Key words: premature infants, extremely low birth weight, obstetric-gynecologic history.
+Пробел
+82
+ПРАВИЛА ОФОРМЛЕНИЯ СТАТЕЙ
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+Текст структурированной статьи
+Пробел
+Литература
+1.	Аржанова, О.Н. Этиопатогенез невынашивания беременности / О.Н. Аржанова, Н.П Кошелева // Журнал акушерства и женских болезней. — 2004. — Т LIII, № 1. — С.37—41.
+2.	Виноградова, И.В. Катамнестическое наблюдение за детьми с экстремально низкой массой тела при рождении / И.В. Виноградова, М.В. Краснов, Л.П. Ног-тева // Практическая медицина. — 2008. — № 31. — С.67—69.
+3.	Antenatal Corticosteroids Prior to 24 WEEKS «Gestation and Neonatal Outcome of Extremely Low Birth Weight Infants» / S. Abbasi, C. Oxford, J. Gerdes [et al.] // Am. J. Perinatol. — 2009. — Vol. 32. — P19—23.
+4.	Gagliardi, L. Bronchopulmanary dysplasia and brain white matter damage in preterm infants: a complex relationship / L. Gagliardi, R. Bellu, R. Zanini // Pediatr. Perinat. Epidemiol. — 2009. — Vol. 23, № 6. — Р90— 582.
+Пробел
+References
+1.	Arzhanova, O.N. Etiopatogenez nevynashivaniya beremennosti [Aetiopathogenesis of recurrent pregnancy loss] / O.N. Arzhanova, N.G. Kosheleva // Zhurnal akusherstva i zhenskih boleznei [Obstetrics and gynecopathy journal]. — 2004. — T LIII, № 1. — S.37—41.
+2.	Vinogradova, I.V. Katamnesticheskoe nablyudenie za det'mi s ekstremal'no nizkoi massoi tela pri rozhdenii [Follow-up of children with extremally low birth weight] / I.V. Vinogradova, M.V. Krasnov, L.G. Nogteva // Prakticheskaya medicina [Practical medicine]. — 2008. — № 31. — S.67—69.
+3.	Antenatal Corticosteroids Prior to 24 WEEKS «Gestation and Neonatal Outcome of Extremely Low Birth Weight Infants» / S. Abbasi, C. Oxford, J. Gerdes [et al.] // Am. J. Perinatol. — 2009. — Vol. 32. — P19—23.
+4.	Gagliardi, L. Bronchopulmanary dysplasia and brain white matter damage in preterm infants: a complex relationship / L. Gagliardi, R. Bellu, R. Zanini // Pediatr. Perinat. Epidemiol. — 2009. — Vol. 23, № 6. — P.90—582.
+11.	Краткие сообщения и тезисы предоставляются объемом не более 1—4 страниц машинописного текста без иллюстраций, таблиц и списка литературы, структурированные как тезисы: название ЗАГЛАВНЫМИ БУКВАМИ. С новой строки - Ф.И.О. автора(ов) полностью. С новой строки учреждение, город, страна. С новой строки через интервал - цель исследования, материал и методы, результаты и их обсуждение, выводы (заключение). При оформлении кратких сообщений в сокращенном виде редакция оставляет за собой право опубликовать их в приложении к журналу. Перевод кратких сообщений и тезисов на английский язык увеличивает вероятность цитирования англоязычными авторами.
+12.	Сокращения слов, имен, названий (кроме общепринятых сокращений физических мер, химических и математических величин и терминов) не допускаются. Единицы измерений должны быть приведены в системе СИ.
+13.	При формировании материалов конференций и съездов в приложение к журналу принимаются тезисы. Правила оформления тезисов такие же, как для коротких сообщений.
+14.	Уважаемые коллеги! В связи с тем, что статьи и сведения в статьях, публикуемых в научно-практическом журнале «Вестник современной клинической медицины», будут помещаться в ведущих российских и мировых библиографических и реферативных изданиях, в электронных информационных системах, включая размещение их электронных копий в базе данных Научной электронной библиотеки (НЭБ), представленной в виде научного информационного ресурса сети Интернет www.elibrary.ru, а также включаться в одну из трех систем цитирования Web of Science: Science Citation Index Expanded (база по естественным наукам), Social Sciences Citation Index (база по социальным наукам), Arts and Humanites Citation Index (база по искусству и гуманитарным наукам), Scopus, Web of Knowledge, Astrophysics, PubMed, Mathematics, Chemical Abstracts, Springer, Agris, GeoRef, авторы оригинальных статей должны предоставлять на безвозмездной основе редакции журнала права на использование электронных версий статей, соблюдать международные правила построения публикаций и резюме к ним. Направление статей в журнал по умолчанию считается согласием авторов на безвозмездное использование электронных версий статей.
+15.	Статьи, оформленные не в соответствии с указанными правилами, не рассматриваются редколлегией и не возвращаются.
+16.	В связи с тем, что журнал издается на средства авторов и подписчиков, стоимость публикации одной страницы формата А4 составляет 600 (шестьсот) рублей. Квитанция об оплате присылается вместе со статьей.
+Реквизиты для перевода:
+ООО «ММЦ «Современная клиническая медицина» ОПРН 1131690016677:
+ИНН/КПП 1655265546 / 165501001
+Р/счет 40702810500000002685
+в ОАО АИКБ «Татфондбанк» г Казань
+БИК 049205815
+Кор./счет 30101810100000000815 в ПРКЦ НБ РТ
+17.	C очных аспирантов (единственный автор) за публикацию рукописей плата не взимается.
+18.	Правила оформления статей могут совершенствоваться в соответствие с требованиями ВАК и Scopus. Следите за изменениями на сайтах журнала, а также в последнем вышедшем номере журнала.
+По возникающим вопросам обращаться в редколлегию журнала: Амиров Наиль Багаувич (главный редактор), e-mail: [email protected]; Визель Александр Андреевич (зам. главного редактора), e-mail: lordara@ mail.ru; Даминова Мария Анатольевна (ученый секретарь журнала), e-mail: daminova-maria@yandex. ru; Шаймуратов Рустем Ильдарович (компьютерное сопровождение журнала), e-mail: [email protected]. Телефон редакции: +7 (843) 291-26-76, факс +7 (843) 277-88-84, www.vskmjournal.org
+По вопросу размещения рекламы в журнале и оформлению договоров обращаться в отдел договоров и рекламы ООО «ММЦ «Современная клиническая медицина». Контактное лицо, руководитель отдела Амирова Рената Наилевна, 420043, Казань, ул. Вишневского, 57-83, тел. 8-903-307-99-47; e-mail: renata1980@ mail.ru
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+правила оформления статей
+83
+THE BULLETiN OF CONTEMPORARY CLiNiCAL MEDiCiNE iSSN 2071-0240 (PRiNT), iSSN 2079-553X (ON LiNE) THE Rules For ARTiCLES REGiSTRATiON For Authors
+Подробная информация о журнале, а также полные версии публикаций размещаются в открытом доступе на сайтах: www.vskmjoumal.org,www.kgmu.kcn.ru, www.cyberleninka.ru,https://twitter.com/vskmjournal
+1.	The article should be edited in Word, Times New Roman font size of 12, interval of 1,5, in width formatting, non carrying, interval in tables of 1 only on one side of the sheet. Printing fields should be 25 мм from top, 20 мм from the bottom, 30 мм from left, 15 мм from right. Pages should not be numbered. Article style should be laconic and clear.
+2.	Please, register on the first page of article according to the followings: (through the blank):
+1)	© initials and surname of all authors, year (for example: © N.B. Amirov, A.A. Vizel, M.A. Daminova, 2015);
+2)	ODde of the UDC;
+3)	TITLE OF ARTICLE (IN CAPITAL LETTERS) in Russian and English;
+4)	names of authors (full); scientific degrees, position, full name of the department, institution, contact phone number and e-mail address (in Russian and English);
+5)	abstracts of the article in Russian (from 100 to 250 words) and English;
+6)	key words in Russian and English (not more than
+6).
+3.	Article written in English is accepted for publishing (according to the same rules with the abstract and key words translated into Russian).
+4.	The article should be referred by official letter from Institution where the basic material for article was performed with stamp and signed by research director. If article referred from the few foundations letters of recommendation should be applied from each foundation. Please, mention if article reflects materials from thesis.
+5.	All articles are peer-reviewed. Editorial Committee keeps rights to reduce and edit articles (in coordination with authors). Articles already published or directed in (to) other Editions are not accepted.
+6.	Each author of the article should sign in the end of the article and mention his full name, position and scientific degree in foundation, corresponding address with telephone number and e-mail address of one of the authors.
+7.	1 copies of the article should be mailed to the Editorial Committee with electronic copy (floppy 3,5” 1,44 MB, CD-R, CD-RW), e-mail: [email protected], [email protected], [email protected] , hazova_elena@mail. ru, [email protected]. This copy should be named by first author. If the first author sends a few articles they will be consecutively numbered, for example: Amirov N.B.-1, Amirov N.B.-2, and so on. A photo of the first author in jpg format is welcomed.
+8.	Rubrication of articles: Leading article. Original articles (clinical and theoretical papers). Surveys. Lections. Brief information. Reviews. Discussions. Conventions, symposiums, conferences, Meetings, Societies. Jubelee dates, History of Medicine. Clinical trials.
+9.	Volume of paper referring to «Original investigations» should not exceed 15 pages and numbers of pictures 5 - 6, tables must be set presentable, clearly titled, according to the text (with interval of 1). All parts of the text should be placed on its own order. All figures and results, in tables must be thoroughly checked by authors and meet figures in text. All tables should be placed in the right order. Pictures and tables are included in article volume. In rubric «From рractical experience» papers reflecting authors original experience in medical practice are accepted in volume of not more than 10 pages. Volume of the articles of «theoretical review» and «Clinical lections» suppose to be discussed with Editorial Committee beforehand.
+Article content: introduction with aim and tasks of the investigation; material and methods; results; discussion;
+conclusion (s); refereeing literature.
+10.	Bibliographic references in text should be given in numbers in square brackets according to the list of the literature. Example: according to the data [11] ... References list should be given in the end of the article (for Reviews not more than 50 sources, for Original papers not more than 20). Cited authors should be followed by alphabetical order (first in Russian, then in foreign languages (English). After author's names the title of the article, place of edition, editorial year, source volumes, numbers and pagers should be given. (following the ГОСТ 7.1—2003 «Bibliographic description of documents»).
+Note: List of the literature according to citation could be allowed.
+Words, names and titles abbreviation (except terms, rates and values widely used in physics, chemistry, mathematic) not allowed. Measuring units ought to be in the Systeme International (SI) units.
+11.	Abstracts of the conferences and congresses are accepted to the Supplement of the Journal. Rules for the abstracts are the same as for the Brief Information.
+12.	Articles made out of required rules wouldn't be considered and returned back to authors.
+13.	Publication for post-graduate students is free.
+Phone +7(843)291-26-76; fax +7(843)277-88-84. www. vskmjournal.org, www.kgmu.kcn.ru,www.es.rae.ru/vskm, www.cyberleninka.ru,https://twitter.com/vskmjournal. Department of advertising: «Modern Clinical Medicine», 57-83, Vishnevsky str., Kazan-city, Republic of Tatarstan, Russia, 420043. Renata N. Amirova, tel. +7-903-307-9947; e-mail: [email protected]
+84
+ПРАВИЛА ОФОРМЛЕНИЯ СТАТЕЙ
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+порядок РЕЦЕНЗИРОВАНИЯ РУКОПИСЕЙ, НАПРАВЛЯЕМЫХ на публикацию в научно-практический журнал «вестник современной клинической медицины»
+1. Принимаются только рецензии от доктора наук — специалиста той области науки, которой посвящена статья и не являющегося руководителем или консультантом диссертационного исследования автора статьи. Подпись доктора наук должна быть заверена гербовой печатью организации, в которой работает рецензент. К статье
+могут прилагаться рецензии нескольких докторов наук.
+2. Все статьи оцениваются рецензентами по следующим параметрам:
+•	оригинальность статьи;
+•	значимость статьи;
+•	качество статьи;
+•	способ представления материала;
+•	адекватность цитируемых источников;
+•	степень соответствия рубрикам журнала.
+примерная структура рецензии на статью
+В редакцию журнала «Вестник современной клинической медицины»
+« »________________20	г.
+РЕЦЕНЗИЯ
+на статью:<авторы, название>
+Статья посвящена решению актуальной задачи<...>
+В ней рассматривается<...>; предлагается<...>
+По статье можно сделать следующие замечания<...>
+Статья содержит новые результаты, представляет интерес для специалистов в области<...>и может быть рекомендована к публикации в научном журнале «Вестник современной клинической медицины».
+В случае отрицательного мнения рецензента о возможности публикации необходимо обоснование или рекомендации по доработке рукописи.
+Должность, ученая степень, ученое звание
+Подпись	Расшифровка подписи
+Дата
+О себе (рецензент) сообщаю:
+Фамилия________________________________________________________
+Имя, отчество__________________________________________________
+Организация____________________________________________________
+Ученая степень_________________________________________________
+Звание, должность______________________________________________
+E-mail____________@_______________________
+Служ.тел. (с кодом города)__________________
+Факс (с кодом города)_____________________моб. тел. или дом. тел.
+Почтовый адрес (с индексом)____________________________________
+Личная подпись рецензента:_______________________________
+Уважаемые коллеги!
+Направляя рецензию на статью для научного журнала «Вестник современной клинической медицины», вы тем самым удостоверяете, что данная статья содержит новые интересные результаты и заслуживает публикации.
+Редакция журнала благодарит вас за сотрудничество.
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ 2015 Том 8, вып. 3
+порядок рецензирования
+!5
+ВЕСТНИК СОВРЕМЕННОЙ КЛИНИЧЕСКОЙ МЕДИЦИНЫ Том 8, выпуск 3, 2015
+Научно-практический журнал
+В авторской редакции
+Обложка художника С.Ф.Сафаровой Техническая редакция Ю.Р.Валиахметовой Верстка Т.Д.Торсуевой Корректор Н.А.Петрова
+Формат 60х841/8. Подписано в печать 08.06.15. Усл.печ.л. 10,23. Тираж 3000 экз. Заказ 15-78
+Цена договорная
+Оригинал-макет изготовлен издательством «Медицина» ГАУ «РМБИЦ». 420059 Казань, ул. Хади Такташа, 125. Отпечатано отделом оперативной полиграфии ГАУ «РМБИЦ». 420059 Казань, ул. Хади Такташа, 125
+the bulletin of contemporary clinical medicine
+Volume 8, issue 3, 2015
+Scientific-practical journal
+Edited by authors
+Cover’s designer — C.F. Safarova. Technical editing — Ju.R.Valiakhmetova.
+Page make-up — T.D.Torsueva. Proofreader — N.A.Petrova
+Format 60х84У8. Signed for publication 08.06.15. Conventional printer’s sheet 10,23. Circulation — 3000 copies. Order 15-78
+Free price
+Original make-up page is made by the publishing house «Medicina» of SAI «RMLIC»
+420059 Kazan, Khady Taktash St., 125. Printed by the department of operative polygraphy of SAI «RMLIC».
+420059 Kazan, Khady Taktash St., 125
+«ВЕСТНИК современной клинической медицины» ПОДПИСКА НА 2016 ГОД
+Вестник современной клинической медицины
+ООО «ММЦ «Современная клиническая медицина»
+Форма № ПД-4
+(наименование получателя платежа)
+1	6	5	5	2	6	5	5	4	6
+4	0	7	0	2	8	1	0	5	0	0	0	0	0	0	0	2	6	8	5
+(ИНН получателя платежа)
+ОАО АКИБ «Татфондбанк» г. Казань
+(наименование банка получателя платежа) Номер кор./сч. банка получателя платежа:
+(номер счета получателя платежа) ____________БИК:
+0	4	9	2	0	5	8	1	5
+3	0	1	0	1	8	1	0	1	0	0	0	0	0	0	0	0	8	1	5
+подписка на журнал «Вестник современной клинической медицины» (2016 г.)
+(наименование платежа)
+Ф.И.О. плательщика Адрес плательщика
+(номер лицевого счета (код) плательщика)
+БЛАНК ЗАКАЗА
+Я подписываюсь на 6 номеров журнала «Вестник современной клинической медицины», выходящие в 2016 г.
+Сообщаю все необходимые сведения о себе для занесения в базу данных и доставки корреспонденции:
+1.ФИО_____________________________
+2. Место работы, адрес, телефон
+Сумма платежа:
+руб_______коп. Сумма платы за услуги:
+руб.
+Кассир
+Итого: ____________руб______коп.	"______"_________________________201
+С условиями приема указанной в платежном документе суммы, в т.ч. с суммой взимаемой платы за услуги банка, ознакомлен и согласен. Подпись плательщика_______________________
+коп.
+г.
+3. Должность
+4. Специальность
+Вестник современной клинической медицины
+ООО «ММЦ «Современная клиническая медицина»
+(наименование получателя платежа)
+1	6	5	5	2	6	5	5	4	6
+(ИНН получателя платежа)
+ОАО АКИБ «Татфондбанк» г. Казань
+(наименование банка получателя платежа) Номер кор./сч. банка получателя платежа:
+(номер счета получателя платежа) ____________БИК:
+0 4 9 2 0 5 8
+Ш\
+подписка на журнал «Вестник современной клинической медицины» (2016 г.)
+(наименование платежа)
+Ф.И.О. плательщика Адрес плательщика
+(номер лицевого счета (код) плательщика)
+5. Дата рождения
+Адрес доставки:
+1.	Индекс______________
+2.	Район, регион, область
+3. Город
+4. Улица
+Квитанция
+Кассир
+Сумма платежа:	_____________руб_______коп. Сумма платы за услуги: ______________руб______коп.
+Итого: ____________руб_______коп.	"______"__________________________201___г.
+С условиями приема указанной в платежном документе суммы, в т.ч. с суммой взимаемой платы за услуги банка, ознакомлен и согласен. Подпись плательщика_________________________
+5.	Дом__________корпус
+квартира/офис_________
+6.	Телефон____________
+L

@@ -1,0 +1,195 @@
+﻿МИР БИБЛИОТЕК
+УДК 001:004(470) ББК 72.4 + 78.6
+DOI 10.20913/1815-3186-2019-3-47-55
+РОССИЙСКИЙ РЫНОК ЭЛЕКТРОННЫХ РЕСУРСОВ: ПРОИЗВОДИТЕЛИ И ПОЛЬЗОВАТЕЛИ
+© И. К. Разумова, 2019
+Некоммерческое партнерство «Национальный электронно-информационный консорциум» Москва, Россия; e-mail: [email protected]
+Цель статьи. Анализ динамики и структуры российского рынка электронной научной информации в разрезах потребителей (пользователей) и производителей информации. Материалы и методы. Материалы исследования включают данные, полученные в результате обработки опросов российских организаций-подписчиков о затратах на комплектование электронными ресурсами в 2012-2018 гг., а также опубликованные данные международных опросов. Анализ проведен для трех основных и четырех дополнительных референтных групп российских организаций-подписчиков и трех групп поставщиков научной информации. Определена доля затрат каждой референтной группы российских организаций-подписчиков в структуре российского рынка электронных ресурсов и ее временная динамика за 2012-2018 гг. Определены преференции российских организаций-подписчиков в выборе поставщиков и выстроен рейтинг поставщиков научной информации на российском рынке. Определены доли рынка в разрезе трех групп поставщиков научной электронной информации.
+Результаты исследования. Происходит дальнейшая концентрация рынков электронной научной информации в пользу университетов. В 2018 г. доля университетов на рынке электронных ресурсов составила 94%. Начиная с 2015 г. доля университетов группы 5-100 выросла с 36 до 46%, а доля национальных университетов сократилась с 12% в 2017 г. до 9% в 2018 г. Рынок в части поставщиков электронных ресурсов представлен тремя группами примерно в равных долях: зарубежные издательства и компании (прямые продажи) - 35%, агенты по подписке (дистрибьюторы) - 36%, поставщики и создатели российских электронных ресурсов - 29%. При опросе девять из десяти российских организаций указали, что они комплектуются электронными ресурсами через вендоров (агенты и создатели ресурсов), а четыре - напрямую у западных издателей. Такое соотношение в точности совпадает с результатами опроса библиотек американских университетов. Выводы. Российский рынок электронных ресурсов монополизирован в части покупателей научной информации и не монополизирован в части поставщиков и производителей электронных ресурсов. Весь российский рынок научной электронной информации поделен между тремя группами поставщиков и производителей в примерно равных долях. Большая часть российских организаций-подписчиков комплектуются через российских производителей или агентов по подписке.
+Ключевые слова: научные электронные ресурсы, вендоры, производители электронных ресурсов, пользователи, комплектование, национальный университет, проект 5/100
+Для цитирования: Разумова И. К. Российский рынок электронных ресурсов: производители и пользователи // Библиосфера. 2019. № 3. С. 47-55. DOI: 10.20913/1815-3186-2019-2-47-55.
+Russian market of electronic resources: providers and users I. K. Razumova
+Non-for profit Partnership «National Electronic Information Consortium», Moscow, Russia; e-mail: [email protected]
+Aim. The article aims at the analysis of the dynamics and the structure of the Russian markets of scholarly electronic information broken by reference groups of providers and users.
+Materials and Methods. Materials comprise results of the data processing of the Russian surveys on acquisition budgets in 2012-2018 and published results of the international surveys. We analyze three main reference groups and four sub-groups of the Russian organizations and three reference groups of providers of the electronic scholarly information. We obtained market shares of different reference groups of Russian subscribers and analyzed temporal dynamics of the market structure in 2012-2018.
+We obtained subscription chains and preferences broken by resource providers in Russia and compared our results with the results of the 2018 survey of American academics. We developed Russian rating of information providers and estimated market shares of each reference group.
+Results. The market of electronic scholarly information shows continuous concentration towards the group of universities. In 2018, relative share of the university segment of the market of electronic resources made 94%. Since 2015, the share of the reference group of the universities of the 5/100 project increased from 36% to 46%, whereas the share of two national Russian universities shrank from 12% to 9% in 2017-2018. The Russian market of electronic resources is broken in three nearly equal parts related to three groups of resource providers and producers: 35% belong to the group of international publishers, 36% - to the Russian subscription agents and 29% - to the Russian producers and providers of electronic information. Nine of ten organizations responded that they subscribe via Russian information vendors and subscription agents and four of ten - directly via international publishers. This result corresponds to the results of the Academic Library Collection Development Survey 2018.
+Conclusions. One can conclude that the Russian market of electronic resources is monopolized as referred to the users/consumers of scholarly electronic information and non-monopolized referring the providers and producers of electronic resources. The market comprises three almost equal segments related to three reference groups of providers and producers of electronic resources. The majority of Russian organizations subscribe to electronic resources via Russian electronic information producers or agents. Keywords: electronic scholarly resources, vendors, producers of electronic resources, users, acquisition, national university, 5/100 project
+Citation: Razumova I. K. Russian market of electronic resources: providers and users. Bibliosphere. 2019. № 3. P. 47-55. DOI: 10.20913/1815-3186-2019-2-47-55.
+1. Введение
+Статья посвящена исследованию российского рынка научной электронной информации. В продолжение и развитие предыдущих работ [1-4] представлены результаты исследования структуры и динамики российского рынка научной электронной информации.
+Как уже многократно обсуждалось в научной литературе, индикаторы и показатели уровня развития науки напрямую зависят от показателей финансирования науки и уровня информационного обеспечения и потребления информации [5-11]. В частности, напрямую оказываются связаны затраты организаций (или консорциумов организаций) на комплектование научными ресурсами и показатели публикационной активности, что в очередной раз было проиллюстрировано на основании открытых данных о стоимости подписки университетов Великобритании, Нидерландов и Финляндии на журнальные базы ведущих мировых провайдеров научной информации [12-15]. Однако последнее справедливо только при соблюдении двух условий: грамотно о проведенных переговоров, в которых достиг-ос нуто соглашение об адекватной цене подписки, ^ и грамотно выбранных ресурсов, которые най-м дут своего читателя. Понятно, что если подписи сать по завышенной цене ресурсы, которыми [е никто не будет пользоваться, то никакого влия-5 ния на развитие науки в организации такие затраты не окажут.
+Вопросы комплектования научной инфор-48 мации имеют первостепенное значение для
+развития науки и образования. Роль библиотек как комплектаторов и (применим термин из бизнес-словаря) «закупщиков» электронных ресурсов невозможно переоценить.
+Система информационного обеспечения в России включает два основных компонента:
+1. Ресурсы, приобретенные в рамках государственных проектов подписки на глобальные индексы цитирования, патентную информацию, полнотекстовые и реферативные базы данных. Доступ к ресурсам оплачивается в рамках проектов РФФИ и Минобрна-уки. Для организаций-получателей подписки доступ является бесплатным. Подписка осуществляется по модели крупной сделки (Big Deal) либо на уровне консорциума для фиксированного числа организаций, либо на национальном уровне, когда получателем доступа может стать любая организация, отвечающая условиям, регламентированным Минобрна-уки. Вопросы формирования необходимого репертуара ресурсов подписки, использования ресурсов и уровня обеспеченности необходимой информацией исследований, проводимых в рамках федеральных целевых программ, были подробно рассмотрены в нескольких работах [16-19]. Наряду с подпиской за счет государственных проектов научные и образовательные организации проводят комплектование электронными ресурсами за счет собственных средств. Последствия кризиса 2014 г. в части комплектования информационными ресурсами в настоящее время преодолены, и бюджеты организаций на комплектование начали расти [2-4].
+Национальная подписка на глобальные индексы цитирования Web of Science Core Collection и Scopus и на издательства Springer-Nature и Elsevier высвободила в 2017-2018 гг. более 70% средств из собственных бюджетов российских организаций на комплектование [1, 4]. В то же время существующая на сегодня высокая обеспеченность электронной научной периодикой [10, 11] привела к тому, что высвободившиеся средства были истрачены на комплектование книгами, и в частности книгами печатными [20]. Другим эффектом национальной подписки явилось уменьшение финансирования комплектования в ряде ведущих российских научных организаций: центральных научных библиотеках системы РАН, двух национальных российских библиотеках, Российской государственной библиотеке и Российской национальной библиотеке и двух национальных российских университетах - МГУ им. М. В. Ломоносова и СПбГУ [3, 4]. Все это должно было повлиять на структуру российского рынка научной информации в разрезе референтных групп организаций-подписчиков.
+В связи с необходимостью проверки этого предположения нами была поставлена следующая задача: проанализировать изменения, произошедшие в структуре и объемах бюджетов на комплектование электронными ресурсами в российских библиотеках. Отдельной задачей было проведение исследования рынка в разрезе поставщиков научной электронной информации, оценка объемов различных сегментов рынка и выявление преференций российских организаций-подписчиков. Подобные исследования недавно были проведены для университетов и колледжей США журналом Library Journal при поддержке компании EBSCO Information Services [21]. Мы предполагали сопоставить полученные результаты с результатами американского исследования.
+2. Материалы и методы
+Материалы исследования и характеристики участников опросов включают:
+•	исходные данные российского опроса, проведенного среди участников Национального электронно-информационного консорциума (НЭИКОН) весной 2019 г.;
+•	данные предыдущих опросов НЭИКОН, проведенных в 2017-2018 гг.;
+•	опубликованные результаты опросов библиотек, проведенных журналом Library Journal в 2018 г. [21], и международных опросов предыдущих лет [22, 23];
+•	опубликованные на официальных сайтах списки университетов, входящих в число
+участников проекта 5/1001, федеральных университетов2 и национальных исследовательских университетов3;
+• данные опроса НЭИКОН о поставщиках научной электронной информации, проведенного в 2019 г. среди участников референтной группы, объединяющей 75 организаций, участвовавших ранее в большинстве опросов НЭИКОН 2012-2019 гг.
+При анализе результатов опроса о затратах на комплектование электронными ресурсами все организации-участники были разбиты на три основные группы: 1. Университеты (УНИВ); 2. Научно-исследовательские институты и центральные научные и научно-технические библиотеки (НИИ); 3. Публичные библиотеки (Библиотеки). Из группы университетов были выделены две подгруппы: 1. Ведущие университеты (УНИВ 1), куда вошли все национальные, федеральные, национальные исследовательские университеты и университеты проекта 5-100; 2. Университеты, не входящие в группу ведущих университетов и не получающие никакого дополнительного финансирования (УНИВ 2).
+Кроме того, в рамках группы УНИВ 1 были созданы две дополнительные референтные группы:
+1.	Два национальных университета (НУ): Московский государственный университет им. М. В. Ломоносова (МГУ) и Санкт-Петербургский государственный университет (СПбГУ); 2. Группа университетов проекта 5-100 (5-100).
+При анализе результатов опроса о поставщиках научной информации все компании, перечисленные в ответах участников опроса, были разбиты на три основные группы: Группа 1. Производители и поставщики российских электронных ресурсов (назовем эту группу ЭБС). Группа
+2.	Поставщики и производители западных электронных ресурсов, осуществляющие прямые продажи (Издатели). Группа 3. Российские компании-агенты, предоставляющие посреднические услуги по подписке (Агенты).
+Анализ состава участников показал, что в среднем в web-опросах 2012-2018 гг. о затратах на комплектование принимали участие 15% от общего числа всех организаций-участников НЭИКОН. В опросе 2019 г. приняли участие 13% (137 из 1065) организаций-участников НЭИКОН. Опрос о поставщиках научной электронной информации был проведен среди
+1	Проект 5-100. Проект повышения конкурентоспособности ведущих российских университетов среди ведущих мировых научно-образовательных центров. URL: http://5top100.ru/ universities (дата обращения: 01.05.2019).
+2	Федеральные университеты. URL: http://www.edu.ru/vuz/ federal
+3	Национальные исследовательские университеты. URL: http://www.edu.ru/abitur/act.72/index.php
+^
+Ш I— О s с ш s
+LU CL
+75 участников референтной группы организаций, принимавших участие в большинстве опросов 2012-2019 гг. о комплектовании. Были получены ответы от 38% респондентов. Уровень участия во всех российских опросах в несколько раз превосходит уровень участия американских организаций (4%) в опросе Library Journal и компании EBSCO Information Services [21]. В соответствии с данными работ [24,25] цифры выше 4% представляют хорошую выборку для web-опросов и полученные результаты могут считаться надежными. Вопросы анкеты о затратах на комплектование
+В ходе анкетирования организациям было предложено указать общий бюджет на комплектование и бюджет на комплектование электронными ресурсами. Из соображений конфиденциальности мы не приводим в этой статье никаких абсолютных значений в рублях.
+Вопросы анкеты о поставщиках электронных ресурсов: 1. Какой процент от общих затрат на комплектование электронных ресурсов организация тратит при подписке напрямую у западных производителей информации: издателей, агрегаторов и владельцев глобальных индексов цитирования. В итоге определялось среднеарифметическое значение запрашиваемой величины доли затрат.
+2. Перечислить в порядке убывания процента затрат подписку основных поставщиков/агентов, с которыми работает организация-респондент, включая производителей ресурсов. При этом при подписке напрямую у владельца ресурса необходимо было указать «напрямую», а при подписке через агента следовало указать агента. За первое место в списке поставщиков компания получала б баллов, за второе - 5,..за шестое -1 балл. За седьмую и следующие позиции баллы не начислялись. Баллы суммировались и нормировались на сумму баллов для поставщика-лидера рынка. Лидер, таким образом, получал значение 100 баллов. Далее выстраивался рейтинг поставщиков в соответствии с полученными баллами. Поясним, что это именно число баллов, полученных за место в списке, а не объемы продаж в рублях. Кроме того, так же, как и в работе [21], отдельно определялся процент организаций, указавших того или иного поставщика научной информации.
+3. Результаты исследования 3.1. Структура российского рынка электронных ресурсов в разрезе референтных групп организаций-подписчиков
+Результаты анализа рынка электронных ресурсов в разрезе групп приведены на рисунке 1
+Структура российского рынка электронных ресурсов, процентные доли общего объема рынка в рублях
+■ УНИВ 1 ■ УНИВ 2 НИИ Библиотеки
+2012 2013 2014 2015 2016 2017 2018
+Рис. 1. Динамика и структура российского рынка научных электронных ресурсов в разрезе референтных групп организаций-подписчиков
+Fig. 1. The structure and dynamics of the Russian market of scientific e-resources broken in the reference groups of subscribers
+для групп УНИВ 1, УНИВ 2, НИИ, Библиотеки.
+В таблице 1 приведены значения относительных долей рынка электронных ресурсов для всех референтных групп.
+В 2018 г. на долю университетов приходилось 94% рынка научной электронной информации, доля ведущих университетов составила уже 74%, на долю публичных библиотек и научных организаций пришлось всего по 3% общероссийских затрат на электронные ресурсы. Доля университетов проекта 5-100 в 2018 г. была равна 46% и выросла по сравнению с 2016 г. на 4%, а национальные университеты затратили всего 9% от общероссийских затрат на электронные ресурсы, что на 3% меньше, чем в 2017 г.
+3.2. Российский рынок электронных ресурсов в разрезе референтных групп компаний-поставщиков научной информации
+Рейтинг поставщиков научной электронной информации на российском рынке. Результаты определения рейтинга компаний-вендоров научной электронной информации, полученного по числу мест в первой шестерке поставщиков, указанных организациями-подписчиками, приведены на рисунке 2.
+Абсолютным лидером опроса и лидером группы производителей и поставщиков российских ресурсов является компания «Лань» со 100 баллами, группу агентов возглавляет компания НЭИКОН (67 баллов), а группу поставщиков зарубежной информации, осуществляющих прямые подписки, - издательство Elsevier (58 баллов). Компании, занимающие вторые позиции в каждой группе, отстают от лидеров примерно в два раза.
+Предпочтения российских организаций при выборе поставщиков научной электронной информации. Результаты обработки анкет опроса приведены на рисунке 3. Указаны поставщики научной электронной информации в разрезе
+Таблица 1
+Структура российского рынка электронных ресурсов. Относительные доли различных референтных групп 2012-2018 гг.
+Table 1
+The structure of the Russian market of electronic resources. Relative shares of different reference groups 2012-2018
+2012	2013	2014	2015	2016	2017	2018
+Университеты	85%	83%	82%	88%	91%	94%	94%
+Библиотеки	5%	5%	4%	6%	2%	3%	3%
+НИИ	10%	13%	13%	6%	8%	3%	3%
+УНИВ1	47%	50%	55%	66%	73%	76%	74%
+НУ	5%	5%	10%	9%	11%	12%	9%
+УНИВ2	38%	33%	27%	22%	18%	18%	20%
+5-100	27%	30%	22%	36%	42%	43%	46%
+Total	100%	100%	100%	100%	100%	100%	100%
+трех референтных групп и процент организаций, указавших данную компанию среди своих поставщиков. Каждая организация могла отметить любое количество компаний-поставщиков, поэтому суммирование по всем поставщикам дает значение, превосходящее 100%.
+Поставщики сгруппированы в три референтные группы: поставщики российских ресурсов (ЭБС), агенты по подписке на электронные научные ресурсы (Агенты) и производители зарубежных электронных ресурсов (Издатели). Из сравнения рисунков 2 и 3 видно, что лидеры в каждой референтной группе остались прежними, но дальнейший порядок следования компаний-поставщиков частично изменился. Дальнейший анализ результатов опроса показал, что через российские компании (группа ЭБС) комплектуется 81% организаций-участников, через российские посреднические компании (группа Агенты) - 44% и напрямую в зарубежных компаниях и издательствах (Издатели) - 41% респондентов опроса.
+El levier Е9 5СО
+Pr&ÜUDSl С згг-'.Г'. Analytics [Hnital IcMn KIMM
+РУН; Дир
+Гинь НЭР'ЕЧШГЛгу Цирпкт-Медиа Юплот ИВИС Полнгс-кросурс ¿папиm РГБ
+20
+40
+60
+ао
+Рис. 2. Рейтинг поставщиков научной информации, электронных ресурсов на российский рынок. Ось абсцисс - сумма баллов, полученных в результате опроса и нормированных на 100 Fig. 2. Rating of the providers of e-resources on the Russian market. OX - the normalized sum of points received by a given provider
+На рисунке 4 сопоставлены результаты российского опроса 2019 г. с результатами опроса Library Journal в 2018 г. Организации-участники опроса указывали, приобретают ли они электронные ресурсы через российских вендоров (агентов или производителей ресурсов) или же напрямую у зарубежных компаний.
+Из рисунка следует, что 86% российских организаций-участников опроса комплектуются электронными ресурсами через российских поставщиков, а 41% - напрямую у западных компаний и издателей. Очень близкие значения, 88 и 36% соответственно, приведены в работе [21] для американских университетов. Как и в предыдущих случаях, сумма значений по всем референтным группам может превышать 100%.
+Оценка сегментов российского рынка, исчисляемого в рублях, приходящихся на каждую референтную группу поставщиков. При ответе на первый вопрос анкеты о поставщиках научной электронной информации респонденты указали, что тратят на подписку зарубежных
+Digit;
+m
+[arivate cience jQuest
+РУНЭБ^Й
+Директ-жа
+Диссертации Полите
+0%
+20%
+4 0%
+60%
+Рис. 3. Список поставщиков научной электронной информации на российском рынке. Ось абсцисс -процент респондентов, указавших данную компанию среди своих поставщиков Fig. 3. Providers of e-resources on the Russian market. OX - the percent of respondents indicated the given company as a provider
+ш
+c.
+LQ S LO Q.
+Где приобретают электронные ресурсы российские и американские университеты
+Российский рынок. Поставщики 2018 г.
+■Поставщики (Vendors)
+Издатели {прямые продажи (/Publishers Direct
+35%
+29%
+Опрос Library Journal
+Рис. 4. Каналы комплектования на российском и американском рынках электронных информационных ресурсов. Процент респондентов, указавших данный канал комплектования Fig. 4. Acquisition channels of the Russian and the US markets. The percent of respondents indicated the given channel
+ресурсов напрямую у западных производителей 35% (среднее арифметическое по всем респондентам). Сопоставление абсолютных значений, полученных из анкет опроса о затратах на электронные ресурсы, с данными опроса о поставщиках позволило нам сделать оценки доли каждой референтной группы поставщиков на рынке российских электронных ресурсов. При этом объем рынка исчислялся в рублях. Результаты приведены на рисунке 5.
+Доли затрат на электронные ресурсы для трех групп поставщиков: поставщиков российских ресурсов (ЭБС), агентов-посредников (Агенты) и поставщиков зарубежных ресурсов (Издатели) - соотносятся как 29, 36 и 35% соответственно. Из чего можно сделать вывод, что российский рынок электронных ресурсов не монополизирован ни одной компанией и ни одной референтной группой.
+4. Выводы и заключение
+В 2012-2018 гг. продолжилась концентрация российского рынка научной электронной информации. В 2018 г. доля университетов на рынке электронных ресурсов составила 94%, то есть рынок потребителей научной информации монополизирован. С 2015 г. последовательно растет доля организаций, участвующих в проекте 5-100. В 2018 г. она составила 46%, и затраты университетов проекта 5-100 составили почти половину всех российских затрат на электронную инфор-
+Поставщики российских ресурсов
+■Агенты
+Западные издатели (прямые продажи)
+Рис. 5. Доли затрат российских организаций на рынке электронной научной информации для трех групп поставщиков: поставщиков российских ресурсов (ЭБС), агентов-посредников (Агенты) и поставщиков зарубежных ресурсов (Издатели). Данные опросов 2019 года Fig. 5. Expenditures on the Russian market of e-resources broken in providers: providers of Russian resources (Electronic Library Systems, ELS), intermediary agents (Agents) and providers of international resources (Publishers). 2019 Survey
+мацию. Доля двух национальных университетов упала с 12% в 2017 г. до 9% в 2018 г. Два национальных университета постепенно утрачивают лидирующие позиции на рынке информационных ресурсов, что в итоге может привести к смене лидеров и в части публикационной активности.
+Для каждой группы поставщиков определены компании-лидеры: «Лань» возглавляет рейтинг поставщиков российских электронных ресурсов, НЭИКОН - группу организаций-посредников (агентов), а издательство Elsevier - группу западных провайдеров, работающих с российскими организациями напрямую. Поставщики, занимающие вторые позиции в своей референтной группе, набрали примерно в два раза меньше баллов по сравнению с компаниями-лидерами.
+Российские организации предпочитают подписываться через российских агентов и производителей научной информации: 86% респондентов указали на это, а 41% отметили, что подписывают ресурсы напрямую у зарубежных компаний и издателей. Эти данные очень близки к результатам опроса американских университетов и колледжей: 88 и 36% соответственно.
+Рынок поставщиков научной электронной информации не монополизирован. Каждая из трех групп поставщиков научной информации контролирует около трети объема российского рынка электронных ресурсов. □
+Список источников
+1.	Разумова И. К., Кузнецов А. Ю. Мировые и отечественные тенденции информационного обеспечения университетов // Интеграция образования. 2018. Т. 22, № 3, С. 426-440. DOI: 10.15507/19919468.092.022.201803.
+2.	Разумова И. К. Журналы и книги. Подписка на электронные ресурсы в России и в мире: анализ результатов опросов 2016-2017 гг. URL: http://nlr.ru/ tus/20170327/prezent/23.pdf (дата обращения: 25.04.2019).
+3.	Разумова И. К. Затраты на электронные ресурсы. Болевые точки и точки роста. URL: http://nlr.ru/nlr_ pro/dep/artupload/pro/article/RA2032/NA15033.pdf (дата обращения: 25.04.2019).
+4.	Разумова И. К., Кузнецов А. Ю. Национальная подписка и комплектование библиотек. Часть I. Бюджеты на комплектование в российских организациях // Наука и научная информация. 2019. Т. 2, № 2. С. 96-109. DOI: https://doi.org/10.24108/2658-3143-2019-2-2-96-109.
+5.	Sandstrom U. Research quality and diversity of funding: A model for relating research money to output of research // Scientometrics. 2009. Vol. 79, № 2. P. 341349. DOI: 10.1007/s11192-009-0422-2.
+6.	Leydesdorff L., Wagner C. Macro-level indicators of the relations between research funding and research output // Journal of Informetrics. 2009. Vol. 3, iss. 4. P. 353-362. DOI: 10.1016/j.joi.2009.05.005.
+7.	Wang Xianwen, Liu Di, Ding Kun, Wang Xinran. Science funding and research output: a study on 10 countries // Scientometrics. 2012. Vol. 91, № 2. P. 591-599. DOI: 10.1007/s11192-011-0576-6.
+8.	Moed H. F. Statistical relationships between downloads and citations at the level of individual documents within a single journal // Journal of the American Society for Information Science and Technology. 2005. Vol. 56, № 10. P. 1088-1097. DOI: 10.1002/asi.20200.
+9.	Jung Y., Kim J., So M., Kim H. Statistical relationships between journal use and research output at academic institutions in South Korea // Scientometrics. 2015. Vol. 103, № 3. P. 751-777. DOI: 10.1007/s11192-015-1563-0.
+10.	Razumova I., Moskaleva O. Bibliometric and scientometric analysis of subscribed content with InCites Tools. URL: https://conf.neicon.ru/materials/29-Overseas2017Z20170927-08-Razumova.pdf (accessed 25.04.2019).
+11.	Moskaleva O. V., Razumova I. K. Twelve years of access to electronic serials in Russia: results and perspectives // The Serials Librarian. 2017. Vol. 73, № 3/4. P. 305-326. DOI: 10.1080/0361526X.2017.1391151.
+12.	Razumova I. K. Economic feasibility of transition into open access of Russian articles in the resources of the RFBR and Ministry of education subscription projects // World-class scientific publication-2019: strategy and tactics of management and development : 8th Intern. sci. a. pract. conf. Moscow, 2019. URL: https://conf.rasep.ru/files/conferencesA/ materials/2019.04.23_RAZUMOVA.pdf (accessed 25.04.2019).
+13.	Van der Vooren R. Overview of costs incurred by universities for books and journals by publisher. URL: http://www.vsnu.nl/en_GB/cost-of-publication (accessed 25.04.2019).
+14.	Academic publisher costs in Finland 2010-2016 / Ministry of Education a. Culture of Finland a. its Open Science a. Research Initiative. 2014-2017 // Estin. URL: http://urn.fi/urn:nbn:fi:csc-kata20170613104454620616 (accessed 25.04.2019).
+15.	Lawson S., Meghreblian B., Brook M. Journal subscription costs FOIs to UK universities. Figshare. 2015. URL: https://figshare.com/articles/Journal_subscription_ costs_FOIs_ to_UK_universities/1186832 (accessed 25.04.2019).
+16.	Razumova I. K., Kuznetsov A. Yu., Kirillova O. V. Information support of Russian universities in the main branches of science // Integration of Education. 2017. Vol. 27, № 3. P. 505-521. DOI: 10.15507/19919468.088.021.201703.505-521.
+17.	Кузнецов А. Ю., Разумова И. К. Информационное обеспечение науки и образования // Университетская книга. 2014. Вып. 5. С. 46-50. URL: https://elibrary. ru/item.asp?id=21507486 (дата обращения: 25.04.2019).
+18.	Евстигнеева Г. А. Национальный доступ к международным базам данных в рамках федеральной целевой программы «Исследования и разработки по приоритетным направлениям развития научно-технического комплекса России на 2014-2020 годы» // Научные и технические библиотеки. 2016. № 5. С. 29-43. URL: http://www.gpntb.ru/ntb/ntb/2016/5Z NTB5_2016_%D0%905_2.pdf (дата обращения: 25.04.2019).
+19.	Белявский О. В., Журбина И. А., Лутай А. В. Использование полнотекстовых электронных ресурсов в Российской Федерации. Сравнительный анализ централизованной подписки и Sci-Hub. Москва : РФФИ, 2018. 57 с. URL: https://www.rfbr.ru/rffi/ru/popular_science_ articles/o_2074362#1 (дата обращения: 25.04.2019). DOI: 10.22204/гр.2018.а01.
+20.	Разумова И. К., Кузнецов А. Ю. Национальная подписка и комплектование библиотек. Часть II. Бюджеты на комплектование книгами в российских библиотеках. Структура российских рынков информационных ресурсов // Наука и научная информация. 2019. Т. 2, № 2. С. 110-120. DOI: 10.24108/2658-31432019-2-2-110-120.
+21.	Academic Library Collection Development Survey 2018 // Library Journal Research. URL: https://s3.amazonaws. com/WebVault/research/2018_AcademicLibraryCollection Development.pdf (accessed 25.04.2019).
+22.	Library budget predictions for 2016. [S. l.], Publ. Communic. Group, 2016. 41 p. URL: http://www.pcgplus. com/wp-content/uploads/2016/05/Library-Budget-Prediction-2016-Final.pdf (accessed 25.04.2019).
+23.	Library budget predictions for 2017. Boston, Publ. Communic. Group, 2017. 34 p. URL: www.pcgplus.com/ wp-content/.../Library-Budget-Predictions-for-2017-public.pdf (accessed 25.04.2019).
+ш I— О x с ш
+X
+ш
+CL
+GC O
+yy
+GC <
+GC
+m
+24.	Swan A., Brown S. Authors and open access publishing // Learned Publishing. 2004. Vol. 17, № 3. P. 219-224. DOI: https://doi.org/10.1087/095315104323159649.
+25.	Procter R., Williams R., Stewart J., Poschen M., Snee H., Voss A., Asgari-Targhi M. Adoption and use of Web 20 in scholarly communications // Philosophical Transactions of the Royal Society A. 2010. Vol. 368, № 1926. P. 4039-4056. DOI: https://doi.org/10.1098/rsta.2010.0155.
+References
+1.	Razumova I. K., Kuznetsov A. Yu. World and national trends in university information support. Integratsiya obrazovaniya, 2018, 22(3), 426-440 (In Russ.). DOI: 10.15507/19919468.092.022.201803.426-440.
+2.	Razumova I. K. Zhurnaly i knigi. Podpiska na elektronnye resursy v Rossii i v mire: analiz resul'tatov oprosov 2016-2017 [Periodicals and books. Subscription to e-resources in Russia and worldwide: 2016-2017 survey analysis]. URL: http://nlr.ru/tus/20170327/prezent/23.pdf (accessed 25.04.2019). (In Russ.).
+3.	Razumova I. K. Zatraty na elektronnye resursy. Bolevye tochki i tochki rosta [Electronic acquisition expenditures. Pain and growth points]. URL: http://nlr. ru/nlr_pro/dep/artupload/pro/article/RA2032/NA15033. pdf (accessed 25.04.2019). (In Russ.).
+4.	Razumova I. K., Kuznetsov A. Yu. National subscription and library acquisition. Pt. 1. Acquisition budgets in Russian institutions. Nauka i nauchnaya informatsiya, 2019, 2(2), 96-109. (In Russ.). DOI: 10.24108/2658-3143-2019-2-2-96-109.
+5.	Sandstrom U. Research quality and diversity of funding: a model for relating research money to output of research. Scientometrics, 2009, 79(2), 341-349. DOI: 10.1007/s11192-009-0422-2.
+6.	Leydesdorff L., Wagner C. Macro-level indicators of the relations between research funding and research output. Journal of Informetrics, 2009, 3(4), 353-362. DOI: 10.1016/j.joi.2009.05.005.
+7.	Wang Xianwen, Liu Di, Ding Kun, Wang Xinran. Science funding and research output: a study on 10 countries. Scientometrics, 2012, 91(2), 591-599. DOI: 10.1007/s11192-011-0576-6.
+8.	Moed H. F. Statistical relationships between downloads and citations at the level of individual documents within a single journal. Journal of the American Society for Information Science and Technology, 2005, 56(10), 1088-1097. DOI: 10.1002/asi.20200.
+9.	Jung Y., Kim J., So M., Kim H. Statistical relationships between journal use and research output at academic institutions in South Korea. Scientometrics, 2015, 103(3), 751-777. DOI: 10.1007/s11192-015-1563-0.
+10.	Razumova I. K., Moskaleva O. V. Bibliometrich eskii i naukometricheskii analiz podpiski s ispol'zovaniev instrumentov platform InCites [Bibliometric and scientometric analysis of subscribed content with InCites tools]. URL: https://conf.neicon.ru/materials/29-
+Overseas2017/20170927-08-Razumova.pdf (accessed
+01.07.2018).	(In Russ.).
+11.	Moskaleva O. V., Razumova I. K. Twelve years of access to electronic serials in Russia: Results and perspectives. The Serials Librarian. 2017, 73(3/4), 305-326. DOI: 10.1080/0361526X.2017.1391151.
+12.	Razumova I. K. Economic expedience of the OA transfer of Russian articles in resources subscribed by RFBR and the Ministry of science and higher education of Russia. World-class scientific publication-2019: strategy and tactics of management and development : 8th Intern. sci. a. pract. conf. Moscow, 2019. URL: https://conf.rasep.ru/ files/conferences/1/materials/2019.04.23_RAZUM0VA. pdf (accessed 25.04.2019).
+13.	Van der Vooren R. Overview of costs incurred by universities for books and journals by publisher. URL: http://www.vsnu.nl/en_GB/cost-of-publication (accessed
+25.04.2019).
+14.	Academic publisher costs in Finland 2010-2016. Ministry of Education and Culture of Finland and its Open Science and Research Initiative 2014-2017. Estin. URL: http://urn.fi/urn:nbn:fi:csc-kata20170613104454620616 (accessed 25.04.2019).
+15.	Lawson S., Meghreblian B., Brook M. Journal subscription costs FOIs to UK universities. Figshare. 2015. URL: https://figshare.com/articles/Journal_subscription_ costs_FOIs_ to_UK_universities/1186832 (accessed 25.04.2019).
+16.	Razumova I. K., Kuznetsov A. Yu., Kirillova O. V. Information support of Russian universities in core research areas. Integratsiya obrazovaniya. 2017, 21(3), 505-521. (In Russ.). DOI: 10.15507/19919468.088.021.201703.505-521.
+17.	Kuznetsov A. Yu., Razumova I. K Information support of science and education. Universitetskaya kniga, 2014, 5, 46-50 URL: https://elibrary.ru/item.asp?id=21507486 (accessed 25.04.2019). (In Russ.).
+18.	Evstigneeva G. A. National access to international databases within the Federal Target Program "Research and development in priority fields of the science and technology complex of Russia for 2014-2020". Nauchnye i tekhnicheskiye biblioteki, 2016, 5, 29-43. URL: http://www. gpntb.ru/ntb/ntb/2016/5/NTB5_2016_%D0%905_2.pdf (accessed 25.04.2019). (In Russ.).
+19.	Belyavsky O. V., Zhurbina I. A., Lutay A. V. Use of full-text electronic resources in Russian Federation, comparative analysis of centralized subscription and Sci-Hub. (In Russ.). Moscow, RFFI, 2018. 57 p. URL: https://www.rfbr.ru/rffi/ru/popular_science_ articles/o_2074362#1 (accessed 25.04.2019). (In Russ.). DOI: 10.22204/rp.2018.a01.
+20.	Razumova I. K., Kuznetsov A. Yu. National subscription and library acquisition. Pt. 2. Book acquisition budgets in Russian libraries. Structure of Russian markets of information resources. Nauka i nauchnaya informatsiya, 2019, 2(2), 110-120. (In Russ.). DOI: 10.24108/2658-31432019-2-2-110-120.
+21.	Academic library collection development survey 2018. Library Journal Research. URL: https://s3.amazonaws.
+com/WebVault/research/2018_AcademicLibraryCollectio nDevelopment.pdf (accessed 25.04.2019).
+22.	Library budget predictions for 2016. [S. l.], Publ. Communic. Group, 2016. 41 p. URL: http://www.pcgplus. com/wp-content/uploads/2016/05/Library-Budget-Prediction-2016-Final.pdf (accessed 25.04.2019).
+23.	Library Budget Predictions for 2017. Boston, Publ. Communic. Group, 2017. 34 p. URL: www.pcgplus.com/ wp-content/.../Library-Budget-Predictions-for-2017-public.pdf (accessed 25.04.2019).
+24.	Swan A., Brown S. Authors and open access publishing. Learned Publishing, 2004, 17(3), 219-224. DOI: https://doi.org/10.1087/095315104323159649.
+25.	Procter R., Williams R., Stewart J., Poschen M., Snee H., Voss A., Asgari-Targhi M. Adoption and use of Web 20 in scholarly communications. Philosophical Transactions of the Royal Society. Sect. A, 2010, 368(1926), 4039-4056. DOI: https://doi.org/10.1098/rsta.2010.0155.
+Материал поступил в редакцию 25.05.2019 г.
+Сведения об авторе: Разумова Ирина Константиновна - кандидат физико-математических наук, заместитель директора (вице-директор) некоммерческого партнерства «Национальный электронно-информационный консорциум»
+ш I— О s с ш s ш
+CL

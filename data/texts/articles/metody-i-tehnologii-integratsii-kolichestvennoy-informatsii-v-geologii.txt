@@ -1,0 +1,141 @@
+﻿Оригинальная статья / Original article УДК 004.550
+DOI: 10.21285/1814-3520-2017-2-67-74
+МЕТОДЫ И ТЕХНОЛОГИИ ИНТЕГРАЦИИ КОЛИЧЕСТВЕННОЙ ИНФОРМАЦИИ В ГЕОЛОГИИ
+1	9
+© К.А. Платонов1, В.В. Наумова2
+Дальневосточный геологический институт ДВО РАН,
+Российская Федерация, 690022, г. Владивосток, пр-т 100 лет Владивостоку, 159.
+РЕЗЮМЕ. ЦЕЛЬ. Разработка методов и технологий интеграции количественных наборов данных для создания Информационного портала, осуществляющего сбор и предоставление количественной информации по геологии Дальнего Востока России. МЕТОДЫ. Применены стандарты, и протоколы OAI, и методы, основанные на подходах DataCite, DOI-системы. РЕЗУЛЬТАТЫ И ИХ ОБСУЖДЕНИЕ. Предложены методы и технологии для интеграции и предоставления количественной геологической территориально-распределенной информации. ВЫВОДЫ. На основе разработанных и адаптированных методов и технологий разработан Информационный портал количественных данных по геологии Дальнего Востока.
+Ключевые слова: интеграция количественных данных, геология Дальнего Востока, стандартизация количественных данных, проект DataCite.
+Формат цитирования: Платонов К.А., Наумова В.В. Методы и технологии интеграции количественной информации в геологии // Вестник Иркутского государственного технического университета. 2017. Т. 21. № 2. С. 67-74. DOI: 10.21285/1814-3520-2017-2-67-74
+METHODS AND TECHNOLOGIES FOR GEOLOGICAL QUANTITATIVE INFORMATION INTEGRATION K.A. Platonov, V.V. Naumova
+Far East Geological Institute FEB RAS,
+159, Prospekt 100-let Vladivostoku, Vladivostok, 690022, Russian Federation.
+ABSTRACT. The PURPOSE of this paper is to develop the methods and technologies of quantitative data integration for the creation of an Information portal aiming at gathering and provision of quantitative information on geology of the Russian Far East. METHODS. OAI standards and protocols based on DataCite approaches and DOI-systems are used. RESULTS AND THEIR DISCUSSION. The methods and technologies are proposed to integrate and provide quantitative geological spatially distributed information. CONCLUSIONS. The Information Portal of quantitative data on Far East geology has been created on the basis of developed and adapted methods and technologies.
+Keywords: integration of quantitative data, geology of the Far East, standardization of quantitative data, DataCite project
+For citation: Platonov K.A., Naumova V.V. Methods and technologies for geological quantitative information integration. Proceedings of Irkutsk State Technical University. 2017, vol. 21, no 21, pp. 67-74. (In Russian) DOI: 10.21285/18143520-2017-2-67-74
+Введение
+С развитием Интернета и смежных технологий задачи доступности, управления, хранения и распространения количественных научных данных вышли на качественно новый уровень. Множественное дублирование, копирование и публикация количественной информации на интернет-ресурсах создает проблемы по интеграции
+этих данных на основе единых политик. Основная трудность заключается в отсутствии механизмов однозначной идентификации и определения надежности как данных, так и их источников. В последнее двадцатилетие предприняты определенные шаги для решения этих проблем.
+В цифровом пространстве домен-
+1
+Платонов Кирилл Александрович, аспирант, e-mail: [email protected] Kirill A. Platonov, Postgraduate student, email: [email protected]
+2Наумова Вера Викторовна, доктор геолого-минералогических наук, руководитель лаборатории информационных технологий, e-mail: [email protected]
+Vera V. Naumova, Doctor of Geological and Mineralogical sciences, Head of the Laboratory of Information Technologies, email: [email protected]
+ные имена или IP-адреса не обладают необходимой стабильностью для постоянной идентификации цифровых объектов [1]. Для решения данной задачи в 1997 году была создана DOI-система (digital object identifier) [2]. Цель разработки DOI-имен состоит в однозначном определении цифрового объекта и присвоении ему постоянного уникального идентификатора. Разработанная технология, основанная на Han-dle-системе, предлагает для каждого цифрового объекта создание и хранение метаданных в формате DOI-записи (рис. 1).
+В 2009 году начаты работы по международному проекту DataCite [3]. Цель проекта - обеспечение прямого доступа к научным исследовательским данным через Интернет. Проектом предложена методика цитирования наборов данных и способ архивирования для дальнейшей проверки и повторного использования результатов исследований в будущем. Ключевой пункт проекта - создание DOI регистрационного агентства для научных данных. Таким образом, исследовательские наборы данных получают возможность регистрации с использованием идентификатора DOI и ста-
+новятся независимыми и уникальными объектами.
+Создатели проекта DataCite являются партнерами крупного научного объединения CODATA (International Council for Science: Committee on Data for Science and Technology, http://www.codata.org/). Цель проекта - повышение качества, надежности и доступности данных, а также объединение усилий по сбору научных данных, управлению и обмену научными данными. Одним из достижений этого сообщества стала разработка в 2010-2014 гг. принципов цитирования количественных данных. Новый подход предлагает процедуру публикации количественных наборов данных, которая включает присвоение идентификатора DOI, создание унифицированного ме-таописания и регистрацию в центральном репозитории DataCite (http://www. datacite.org/), которая возможна только при условии размещения в специализированных системах с поддержкой протоколов обмена метаданными OAI. По данным портала DataCite, в 2016 году зарегистрировано более 8,6 миллионов наборов данных из 800 научных и образовательных организаций.
+DOI Name / DOI-имя	Тип данных/ Data Type	Состояние записи / DOI record "state" data
+101.1004/123456	URL	http ://www.pub .ru/
+URL	http://www.pub2.ru/
+DLS	loc/repository
+XML	<metadata>author</metadata>...
+APP	100101001101001101...
+и т.д.
+Значение DOI-имени / DOI name value	Связанные данные / Associated Data
+Рис. 1. Пример DOI-записи («DOI-имя» содержит идентификатор, «тип данных» определяет тип связанных данных, «состояние записи» - текущее значение данных) Fig. 1. An example of DOI-record (the "DOI-name" column contains an identifier, the "data type" column defines the types of linked data, the "state" data column shows current data value)
+Задачи и источники Информационного портала количественных данных
+В последние годы в Дальневосточном геологическом институте ДВО РАН разрабатывается Информационный портал, осуществляющий сбор, хранение и управление количественной информацией по геологии Дальнего Востока России (ИПКД). Работа выполняется в рамках создания Информационной инфраструктуры поддержки и сопровождения научных геологических исследований на Дальнем Востоке России [4].
+При этом решаются следующие задачи:
+•	Организация механизма интеграции количественных данных и их описаний из территориально-распределенных источников: научных публикаций, мировых баз данных, авторских наборов данных.
+•	Разработка системы хранения количественных данных и метаданных.
+•	Создание алгоритма для генерации метаданных в формате DataCite.
+•	Разработка алгоритмов для автоматического извлечения количественных данных из источников.
+•	Обеспечение доступности данных в требуемых пользователем форматах через поисковую систему и каталоги.
+•	Обеспечение доступности данных по протоколам Open Archives Initiative (OAI).
+•	Разработка сервисов управления
+метаданными: каталогизация данных, пакетная загрузка, синхронизация, мониторинг и статистика использования и т.д.
+• Создание сервисов обработки методами математической статистики и анализа данных.
+Источниками информации для ИПКД являются интернет-ресурсы, поддерживающие стандарты и протоколы OAI. В качестве базового источника научных публикаций нами рассматривается Цифровой ре-позиторий «Геология Дальнего Востока России» [5], который содержит более 2000 карточек метаданных и полных текстов из разнородных территориально распределенных источников геологических публикаций. Другим источником количественных данных являются авторские базы данных.
+Рабочий прототип системы разработан в виде модуля открытой программной платформы CMF Drupal, реализованной на скриптовом языке общего назначения PHP. Архитектура Drupal позволяет применять его для построения информационных систем любой сложности. Имеющуюся по умолчанию функциональность можно увеличивать подключением дополнительных расширений. Также на портале используется программная среда для статистических вычислений R и набор утилит для чтения и редактирования файлов графических форматов ImageMagick.
+Принципы работы Информационного портала
+Общая функциональная схема ИПКД представлена на рис. 2.
+В ИПКД предусмотрен ввод данных в двух режимах: автоматическом и ручном. При автоматическом занесении по расписанию запускаются функции Блока интеграции количественных данных, которые по протоколам OAI проводят опрос источников на наличие новых записей и осуществляют загрузку метаданных и данных (XML, PDF). Далее применяются методы автоматического извлечения количествен-
+ной информации из таблиц, входящих в научные публикации [6, 7].
+Для извлечения количественных наборов данных предназначен авторский Модуль «GeoEXT», который использует метод обнаружения таблиц на основе автоматической сегментации растрового изображения. Подход основан на последовательном объединении символов из текста PDF-файла в непересекающиеся текстовые блоки, блоки пустого пространства и далее в более сложные структуры (ячей-
+Рис. 2. Функциональная схема ИПКД Fig. 2. Functional scheme of the Information portal of quantitative data
+ка, строка, столбец, зона таблицы и т.д.) [8], завершает процесс автоматическое извлечения набора количественных данных из публикации. Трансформация PDF-формата в растровый осуществляется с помощью виртуального принтера PDFminer [9].
+Авторский Модуль «MetaEXT» присваивает уникальный идентификатор (DOI) количественному набору данных и формирует его карточку согласно спецификации формата метаданных Dublin Core или его модифицированного варианта, используемого в проекте DataCite. В 2016 году рабочая группа DataCite опубликовала четвертую версию схемы метаданных для публикации и цитирования исследовательских данных [10]. Согласно документации, метаданные могут содержать три уровня свойств: обязательные, рекомендованные
+и дополнительные. Для включения записей в базу DataCite достаточно обязательных свойств, в состав которых входит информация об идентификаторах, заголовке коллекции, данные об авторе, издателе и о годе издания, типе или формате ресурса (рис. 3.). Для улучшения поисковых и интеграционных свойств наборов данных необходимо заполнение рекомендованных и дополнительных свойств, таких как предметная область, ключевые слова, участники, описание, дополнительные идентификаторы, геолокации (точка, прямоугольник или полигон), данные о публикации или проекте. По завершении работы модуль сохраняет количественную информацию и ее метаописание в локальную систему хранения, которая организована в виде реляционной СУБД.
+▼ <resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi: schemaLocatiori="http: //datacite .org/schema/kernel-4 http://schema.datacite.org/itieta/kernel-4/metadata.xsd">
+<identifier identifierType="DOI">10.5072/D3P26Q35R-Test</identifier> T<creators> ▼ <creator>
+<creatorName>Purzer, Senay</creatorName> </creator> </creators> ▼<titles>
+<title>Critical Engineering Literacy Test (CELT)</title> </titles>
+<publisher>Purdue University Research Repository (PURR)</publisher> <publicationYear>2013</publicationYear> ▼ <subjects>
+<subject> Assessment-:/sub ject> </subjects>
+<language>eng</language>
+<resourceType resourceTypeGeneral="Dataset">Dataset</resaurceType> <version>l</version> T<descriptions> T<description descriptionType="Abstract">
+We developed an instrument. Critical Engineering Literacy Test (CELT), which is a multiple choice instrument designed to measure undergraduate students' scientific and information literacy skills. </description> </descriptions>
+</resource>_
+Рис. 3. Фрагмент карточки набора количественных данных в формате метаданных DataCite Fig. 3. A fragment of a quantitative data set in the DataCite metadata format
+ИПКД доступен в Интернете по адресу: http://data-center.fareastgeology.ru (рис. 4).
+Пользователь через Модуль поиска выполняет запрос к порталу в одном из трех режимов: простом, расширенном и
+пространственном. Модуль предоставления формирует ответ и дает возможность получить карточку таблицы количественных данных со всей выходной информацией в форматах PDF и Excel (рис. 5.).
+WlJ РОССИИ	Портал количественных данных
+m è	M	üb	Ê3 И ttt .ill ✓	'f
+Поиск
+Геологические
+комплексы
+ых
+Авторские базы данных	3
+Рабочий кабинет
+Моя учётная запись
+Выйти
+Геологические комплексы
+Введите название геологического комплекса (з и более символов)
+Кемский металл огеннческнй пояс
+Кемский терр ейн
+Кемский террейн ••
+Copyright ©2014-2016 Лаборатория информационных технологий Д ВГИ Д ВО РАН
+Рис. 4. Страница портала количественных данных Fig. 4. One page of the portal of quantitative data
+Рис. 5. Пример предоставления данных пользователю в формате PDF (справа) и Excel (слева) Fig. 5. An example of data provision in the PDF format (on the right) and in the Excel format (on the left)
+Модуль предоставления управляет системой каталогов, которая организована по тематическому принципу. Каталог месторождений содержит более 10 000 наименований (Список государственного кадастрового учета месторождений ФГБУ «РОСГЕОЛФОНД»). Каталог геологических
+комплексов Дальнего Востока России включает 540 наименований [11].
+Проектом предусмотрен Модуль обработки данных на стороне сервера. Подключены методы и функции программной среды Р для статистической обработки данных и построения графиков (рис. 6.).
+Рис. 6. Примеры сервисов обработки данных на стороне сервера Fig. 6. Examples of server-side processing of data
+Пользователю доступен Рабочий кабинет, который хранит отмеченные наборы количественных данных и результаты их обработки. Через Рабочий кабинет выполняется ручное занесение информации.
+Через Блок администратора осуществляется управление и настройка всех процессов и сервисов Портала, зада-
+ется периодичность и время запуска служб портала, производится мониторинг состояния и использования ресурса.
+В настоящий момент ИПКД содержит 250 таблиц количественных данных из 130 публикаций. В состав ИПКД внесена авторская база данных Попова В.К. (ДВГИ ДВО РАН).
+Заключение
+На основе разработанных и адаптированных методов и технологий реализован Информационный портал количественных данных по геологии Дальнего Востока (http://data-center.fareastgeology.ru ). Информационный портал может быть исполь-
+зован научными сотрудниками, практическими геологами и студентами геологических специальностей.
+Работа выполняется при финансовой поддержке гранта РФФИ № 14-07-00068
+Библиографический список
+1.	Green B., Bide M. Unique Identifiers: a brief introduction // Book Industry Communication/EDItEUR. 1998. pp. 11.
+2.	Paskin N. "Digital Object Identifier (DOI®) System" // Encyclopedia of Library and Information Sciences, 3rd Edition. 2010. 1:1. pp. 1586-1592.
+3.	Brase J. DataCite - a global registration agency for research data // Fourth International Conference on Cooperation and Promotion of Information Resources in Science and Technology (COINFO 09.). 2009. p. 257261.
+4.	Наумова В.В., Горячев И.Н., Дьяков С.В., Белоусов А.В., Платонов К.А. Современные технологии формирования информационной инфраструктуры для поддержки научных геологических исследований на Дальнем Востоке России // Информационные технологии. 2015. Т. 21. № 7. С. 551-559.
+5.	Naumova V.V., Belousov A.V. Digital repository "Geology of the Russian Far East" - an open access to the spatially distributed online scientific publications // Russian Journal of Earth Sciences, 2014, vol. 14, ES1004, pp. 1-8. DOI: 10.2205/2014ES000538
+6.	Platonov K.A. Methods and technologies for creation of the information processing system applied to publications on geology of the Russian Far East // Rus-
+sian Journal of Earth Sciences, 2015, vol. 15, ES4005, pp. 1-7. DOI:10.2205/2015ES000560
+7.	Платонов К.А. Технологии извлечения количественной информации из геологических научных публикаций и сервисы их обработки // Abstracts of the International Conference "Computational and Informational Technologies in Science, Engineering and Education" (September 24-27, 2015). Almaty: Казак университету 2015. 296 С.
+8.	Tkaczyk D., Szostek P., Fedoryszak M., Dendek P.J., Bolikowski L. "CERMINE": automatic extraction of structured metadata from scientific literature. International Journal on Document Analysis and Recognition, 2015, vol. 18 (4), pp. 317-335.
+9.	PDFMiner. [Электронный ресурс] URL: http://www.unixuser.org/~euske/python/pdfminer/index. html (09.12.2016).
+10.	DataCite Metadata Working Group. DataCite Metadata Schema for the Publication and Citation of Research Data. Version 4.0. // DataCite. 2016. DOI: 10.5438/0013
+11.	Геодинамика, магматизм и металлогения Востока России. Владивосток: Дальнаука. 2006. Кн. 2. C. 573-981.
+References
+1.	Green B., Bide M. Unique Identifiers: a brief introduction // Book Industry Communication/EDItEUR. 1998, pp. 11.
+2.	Paskin N. "Digital Object Identifier (DOI®) System" // Encyclopedia of Library and Infor-mation Sciences, 3rd Edition. 2010, 1:1, pp. 1586-1592.
+3.	Brase J. DataCite - a global registration agency for research data // Fourth International Conference on Cooperation and Promotion of Information Resources in Science and Technology (COINFO 09.). 2009, pp. 257261.
+4.	Naumova V.V., Goryachev I.N., D'yakov S.V., Belousov A.V., Platonov K.A. Sovremennye tekhnologii
+formirovaniya informatsionnoi infrastruktury dlya pod-derzhki nauchnykh geologicheskikh issledovanii na Dal'nem Vostoke Rossii [Modern technologies for development of the information infrastructure supporting scientific geological investigations in the Russian Far East]. // Informatsionnye tekhnologii [Information Technologies]. 2015, t. 21, no. 7, pp. 551-559. (In Russian)
+5.	Naumova V.V., Belousov A.V. Digital repository "Geology of the Russian Far East" - an open access to the spatially distributed online scientific publications // Russian Journal of Earth Sciences, 2014, vol. 14, ES1004, DOI:10.2205/2014ES000538
+6.	Platonov K.A. Methods and technologies for creation of the information processing system applied to publications on geology of the Russian Far East // Russian Journal of Earth Sciences, 2015, vol. 15, ES4005. DOI:10.2205/2015ES000560
+7.	Platonov K.A. Tekhnologii izvlecheniya kolich-estvennoi informatsii iz geologicheskikh nauchnykh publikatsii i servisy ikh obrabotki [Technologies of quantitative information extraction from geological scientific
+Критерии авторства
+Платонов К.А., Наумова В.В. имеют равные авторские права и несут равную ответственность за плагиат.
+Конфликт интересов
+Авторы заявляют об отсутствии конфликта интересов.
+Статья поступила 13.12.2016 г.
+publications and their processing services]. Abstracts of the International Conference "Computational and Informational Technologies in Science, Engineering and Education" (September 24-27, 2015). Almaty: Казак университету 2015. 296 p. (In Russian)
+8.	Tkaczyk D., Szostek P., Fedoryszak M., Dendek P.J., Bolikowski t., "CERMINE": automatic extraction of structured metadata from scientific literature, International Journal on Document Analysis and Recognition, 2015, vol. 18 (4), pp. 1-19.
+9.	PDFMiner.	Available	at: http://www.unixuser.org/~euske/python/pdfminer/index. html (accessed 09.12.2016).
+10.	DataCite Metadata Working Group. DataCite Metadata Schema for the Publication and Citation of Research Data. Version 4.0. // DataCite. 2016. DOI : 10.5438/0013
+11.	Geodinamika, magmatizm i metallogeniya Vostoka Rossii [Geodynamics, magmatism and metallogeny of Eastern Russia]. Vladivostok, Dal'nauka Publ., 2006, vol. 2, pp. 573-981. (In Russian)
+Authorship criteria
+Platonov K.A., Naumova V.V. have equal authors rights and bear equal responsibility for plagiarism.
+Conflict of interest
+The authors declare that there is no conflict of interests regarding the publication of this article.
+The article was received 13 December 2016

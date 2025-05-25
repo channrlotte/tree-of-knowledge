@@ -1,0 +1,239 @@
+﻿RUSSIAN JOURNAL OF EARTH SCIENCES, VOL. 10, ES6002, doi:10.2205/2007ES000285, 2008
+Analysis of evolution and ore-bearing factors of rare-metal carbonatites and diamondiferous kimberlites
+S. V. Belov,1 E. O. Kedrov,1 A. A. Burmistrov,2 and A. A. Soloviev1 Received 19 January 2008; accepted 27 April 2008; published 26 August 2008.
+[1] Modern progress in the solution of fundamental and application tasks in the field of Earth sciences is related mainly to development of scientific-information data and information communication technologies. The databases of the portal “Geophysics”, elaborated by the Geophysical Center in the framework of the project “Electronic Earth” of the Russian Academy of Sciences led to the solution of a complicated and resource-intensive task: exploring of the evolution and ore-bearing factors of rare-metal carbonatites and diamondiferous kimberlitic magmatism. INDEX TERMS: 1025 Geochemistry: Composition of the mantle; 1037 Geochemistry: Magma genesis and partial melting; 8011 Structural Geology: Kinematics of crustal and mantle deformation; 8035 Structural Geology: Pluton emplacement; 8109 Tectonophysics: Continental
+tectonics: extensional; 8110 Tectonophysics:	Continental	tectonics:
+carbonatites, diamond, kimberlites.
+Citation: Belov, S. V., E. O. Kedrov, A. A. Burmistrov, and A. of rare-metal carbonatites and diamondiferous kimberlites, Russ.
+1.	Introduction
+[2]	To date development of scientific information resources and information-communication technologies becomes exceptionally important for solving fundamental and application tasks facing geoscience. A prominent place is occupied by the database “Carbonatite and Kimberlite Diamondiferous Massifs of the World”, elaborated in the framework of the project “Electronic Earth”. This database contains extensive geological information, accumulated by the present time, related to the peculiarities of tectonic position, structure, composition and ore-bearing parameters of the main part of carbonatite and kimberlitic massifs of various regions of the world. Carbonatites and kimberlites are derivatives of the earth mantle magmas. They attract the interest of scientists dealing with problems of mantle research, and also according to their considerable practical value due to their tremendous industrial mineral potential. Kimberlites are associated with the main industrial deposits of diamonds, and their genetic relatives - carbonatites - with large deposits of niobium, tantalum, rare-metals, titanium, phosphates, phl-ogopite and other minerals.
+[3]	Several attempts were made to generalize data in the form of monographs or database directories. Among those
+1 Geophysical Center, Russian Academy of Sciences, Moscow, Russia
+2Moscow State University, Geological faculty, Moscow, Russia
+Copyright 2008 by the Russian Journal of Earth Sciences.
+ISSN: 1681-1208 (online)
+general;	KEYWORDS: Rare-metal,
+A. Soloviev (2008), Analysis of evolution and ore-bearing factors J. Earth. Sci., 10, ES6002, doi:10.2205/2007ES000285.
+worth to be mentioned are the works by A. Yanse [Janse and Sheahan, 1995] A. D. Kharkiv, N. N. Zinchuk, A. I. Kruchkov [Kharkiv et al., 1998]; V. A. Milashev [Milashev, 1974; Mi-lashev and Tretyakova, 2003], B. V. Vasilenko and others [Vsilenko et al., 1997]; I. P. Ilupin with co-authors [Ilupin et al, 1978, 1990]; A. R. Vuli [Wooley, 1989, 2001]; L. N. Koga-rko [Kogarko et al., 2000]; J. Armstrong [Armstrong, 1998], E. Heinrich [Heinrich, 1966], A. A. Frolov, A. V. Tolstov, S. V. Belov [Frolov et al., 2003]. However, all of them described only separate characteristics either of carbonatites or kimberlites. Hence there is a need of a unified global database, comprising a wide range of geographical parameters, organized according to the general rules of providing quantitative or semi-quantitative information. This is not a simple task, given the limited access to initial data, absence of some data due to insufficient knowledge, difficulty in preparing their generalized description essential for their statistical processing. However, it’s a necessary condition for comparing carbonatite and kimberlitic massifs and revealing new massifs or confirming the known ore-bearing factors and the criteria of their evaluation. Exactly this data on carbonatites and kimberlites was accumulated and presented by A. A. Burmistrov and co-authors [Frolov et al., 2005]. It was used as a basis for the distributed network system on carbonatites and kimberlites of the world developed by the Geophysical Center of the Russian Academy of Sciences (GC RAS) in the framework of the project “Electronic Earth”. This database is available on the GC RAS portal “Geophysics”. The portal’s brief description is given in the Appendix.
+[4]	It has to be emphasized that the correct target setting
+Figure 1. Scheme of interconnection of the database with GIS software for further visualization and data analysis.
+of a geological task is an essential requirement of the use of information resources and potentialities, provided by modern geoinformation technologies. On the basis of this task the correct target setting is formulated for its subsequent realization using information systems. Hence the role of a high-qualified geologist, possessing profound knowledge of a problem, becomes vitally important. Without his participation (speaking about solution of minerogenic tasks) it would be difficult to come to principally new prognostic conclusions, for the purpose of detecting new ore-bearing objects. The aforementioned relates in the full to diamond deposits, deposits of rare-metals and other minerals, connected to car-bonatite and kimberlitic magmatic complexes. The joint system analysis of such complexes is the main objective of the present work.
+2.	Database Structure
+[5]	The relational database “Rare-metal Carbonatites and Diamondiferous Kimberlites of the World” comprises four tables:
+1.	The table of carbonatite ultrabasic alkaline complexes of the world (tabl_karb);
+2.	The table of diamondiferous kimberlitic and lamproite massifs of the world (tabl-kimb);
+3.	The table deciphering table columns tabl_karb, the abbreviations of parameters (tabl-fieldNames-karb);
+4.	The table deciphering table columns tabl-kimb, abbreviations of parameters (tabl-fieldNames-kimb);
+03 0 Карбонатиты	1
+в 0 |ЯИЖ8ВВЯЯ
+Субпровинция 4 (Сев. Индия)
+4 (Юж. Индия)
+4 Арканзас, США 4 Венесуэла
+4 Вост. Кимберли, Австралия 4 Вост.Финляндия 4 Восточ-ю-Африканская Танзания 4 Зап. Кимберли, Австралия 4 Западно-Африканская, Гвинея 4 Западно-Африканская, Кот-ди-Вуар 4 Западно-Африканская, Мали 4* Западно-Африканская, Сьерра-Леоне 4 Кольско-Двинская (Архангельская), РФ 4* Лунда-Норте, Аі-гола 4 Ляонш, Китай 4 Мато-Г россо, Бразилия 4 Намибия 4- Приморье, РФ + Свазиленд 4 Слейв, Канада 4 Шаньдун, Китай 4 Южно-Африканская, Ботсвана + Южно-Африканская, Лесото 4 Южно-Африканская, ЮАР 4 Якутская, РФ а 0 Государственные гранты
+а 0 /Vk-ии
+—	Рамка
+*-*- г раница провинции на суше
+-	г раница провинции на воде Контур матері/ка
+I э 0 Провинции название
+Северо- американская
+■	Южно-американская
+■	Африканская
+■	Восточно-европейская Сибирская Китайская
+■	Индийская Австралийская 9
+Display I Source | Selection |
+Figure 2. Fragment of legend.
+[6]	The database section on carbonatites (table tabl-karb) describes 156 global massifs, predominantly related to ore-bearing ultrabasic alkaline complexes with carbonatites of the central type, either incorporated into eight provinces, or confined to middle massifs of the continental shelf. The quantative information on 62 geological parameters of the massifs (for the first time in the world) is presented on the absolute, and in separate cases on the numerical arithmetic scale. The table contains the massifs affiliation to regions, sub-regions and countries and their geographical coordinates. Based on the initial parameters, the interim additive or multiplicative indices were calculated (not mentioned in the database). They were used in the statistical data processing for obtaining a high-quality criteria of the data.
+[7]	The database section on 200 global kimberlitic massifs (table tabl-kimb), located in eight regions, includes the data on 43 geological parameters. Geographic location (country), sub-provinces (regions) and kimberlitic fields, geographic coordinates are described. The major part of presented massifs is diamondiferous. In addition to the kimberlitic massifs, the database includes the most explored lamproite complexes
+Figure З. Examples of visualization of layers of objects in GIS ESRI ArcMap 9.0.
+and maggavanites. As it was done for carbonatites, various geographical parameters were evaluated either on the absolute or numerical scale. For the contrast expansion of some criteria combined parameters were used: summarized systems of deep and crust faults, controlling kimberlitic fields and massifs; a cumulative structural-morphological index of a massif (a number of feeders, apophyses, sills).
+З.	Database Correlation with GIS Environment and Visualization of Data
+[8]	The universal and popular data format used for digital processing in various GIS systems is a shape format, including a set of separate shape files. The format contains descriptions of point, vector and polygonal objects. Each type of similar objects has a separate set of shape files. These three types of spatial objects are examined by GIS systems. The database “Carbonatites and Diamondiferous Kimberlite Massifs of the World” contains the data on point objects. At the present time the scheme of correlation between the GIS system and the database, shown in Figure 1, is developed. The scheme is efficient and easy to use, when it is necessary to update the tables containing data on point objects, because, in the first place, editing of such tables in Microsoft Excel is easy and, secondly, the data in GIS are automatically updated.
+[9]	The program ESRI ArcGIS 9.0. serves as GIS environment. The program ESRI ArcMap 9.0 is used directly for transmitting data, kept in the database. Besides visualization, the program allows to analyze and process data
+by multiple embedded methods and additional modules, developed and downloaded by a user (for example, a cluster analysis of spatial data based on artificial intelligence methods).
+[10]	The GIS projects, developed in ArcMap 9.0, comprises the following layers of objects given in geographical projection:
+1.	“Lines”: map margin, continental margin, land border of a province; sea border of a province;
+2.	“State borders”;
+3.	“Provinces” (9 provinces);
+4.	“Carbonatites” (data from table tabl-karb);
+5.	“Kimberlites” (data from table tabl-kimb);
+[11]	Descriptions of the layers of objects form a legend. Its fragment is shown in Figure 2, examples of visualization of the layers of objects are given in Figure 3. The program provides an opportunity for a user to choose any of the visualized objects on a map and obtain the complete data from the database, and also use different variants of search of objects. An example of obtaining data on an object, selected by a user, is shown in Figure 4, an example of a search of objects according to the given parameters is shown in Figure 5. Other layers of objects, available in shape-format, or GIS servers in the Internet (Figure 6) can be added and visualized. In the second case they can be downloaded with the WMS (Web Map Service) or WFS (Web Feature Service) protocols.
+Figure 4. Example of multifactor information about kimberlitic massif “Maggavan” map by a user.
+selected on the
+4.	Methodology of Database Application at Solving Geological Prognosis Tasks
+[12]	Based on the information, accumulated in the Database, the complex comparative analysis of the structure, composition, age, condition of formation, tectonic pattern and ore-bearing characteristics of carbonatites and kimber-lites was carried out successfully. It allowed deeper understanding of peculiar features of their mineragenic qualities and factors of productivity. New positions of justifying criteria of prognosis and evaluating the prospects of detecting new objects were elaborated. To achieve the general task the following interim tasks have to be solved:
+•	The quantative analysis of spatio-temporal interactions of carbonatites and kimberlites;
+•	Detecting the most prolific epochs of manifestation of types of the mantle magmatism during the entire period of geological history;
+•	Revealing of interactions of carbonatites and kimber-lites with the specific types of the crust structure and elements of the deep interior structure;
+•	The analysis of scale, mineral types and mineralization qualities with parameters, characterizing morphological and structural and mineral-geochemical specifications of carbonatite massifs and kimberlitic pipes.
+[13]	The work was devoted to solving the abovementioned tasks using information technologies and carrying out the cluster, correlation and factorial analysis.
+5.	Carbonatites
+[14]	Statistical data analysis of a section of the database related to carbonatites was carried out by the method of correlation and factorial analysis. The highest values of pair correlation coefficients were close to those significant for selection of about 150 objects (+0.38 - between the summarized iron reserves and phosphorus pentoxide and integral tectonic indices). The higher level of correlations was revealed between the summarized ore reserves of sub-provinces and the parameters of their tectonic control.
+[15]	On analyzing small samples of several large massifs (for example, Maimecha-Kotuiskaya), separate significant
+Figure 5. Example of search of all objects of layer “Carbonatites” from sub-province “Yeniseiskaya”.
+correlations of iron reserves, uranium octoxide and phosphorus pentoxide were established (correlation coefficients +0.6 and more) with the massifs position related to rift structures and with a number of controlling lineaments. It has to be mentioned that the results obtained confirm a correlation between carbonatite magmatism and riftogenic structures. At the same time, since it was not the relation of the number of the massifs with other structures that was analyzed, but a dependency of the level of their ore content on the tectonic and structural factors of localization, this relation turned out to be weaker, because the concentration of ore components in carbonatite complexes was determined by other factors as well. The factorial analysis appeared to be more efficient, including the multiple regression method, allowing to obtain a set of predicting evaluating criteria. On the basis of the obtained regression dependencies of the information criteria (parameters of the massifs) and their ore content a prognostic evaluation of the content of various ore types for the majority of the massifs was made. The correlation coefficients (pair correlation) of the predicted reserves to the real ones turned out to be quite high (0.51-0.71). The obtained estimations of factor loadings showed that informative geological parameters and corresponding indicators of reserves concur with each other when there is a connection between
+them. A significant connection of the iron and phosphorus reserves with the massifs position within the limits of rift zones in intersection nodes with lineaments of different orientation, and also a connection of niobium and rare-metal ores with several structural-morphological types of mineralization, characteristic for multiple-phase long-term forming complexes, was established. A positive connection between these ore reserves and the volume of siderite and ankerite carbonatites in the massifs was also noted.
+[16]	For the study of evolution of the productive ultraba-sic alkaline and carbonatite magmatism in time the reserves were summarized and geological characteristics of the massifs were averaged according to the main geological epochs. Reserves of uranium, thorium, zirconium and rare-metal ores for convenience of comparison were increased several times. Together with the volumes of development and correlations of the volumes of ultrabasic alkaline and carbonatite mag-matism the fascial structure of the massifs was examined. It is related to the level of erosive truncation of the massifs and to the great extent determines the type of their ore content as a result of the vertical ore zoning of these complexes. The maxima of manifestation of ultrabasic alkaline and carbon-atite magmatism were established to occur in the Middle Proterozoic, Palaeozoic, with the absolute maximum in the
+Figure 6. Example of visualization of an additional layer (geological world map) in shape format.
+Mezozoic. The peaks of manifestation of the carbonatite phase (by the area of exposure and by its relative amount in the massifs), that took place in the Early and Late Protero-zoic age, and also in Mezozoic, correspond to the maxima of summarized reserves of niobium-iron-phosphorus ores and to the great extent of the uranium, thorium, fluorite, polymetallic, tantalum, phlogopite-vermiculite, rare-metal and titanium mineralization. Wide development of ijolites in palaeozoic complexes correlates with the maximum of reserves of apatite ores, formed during that epoch. The content of iron ore reserves in the massifs increases with growing relative volumes of ultrabasic rocks.
+[17]	A more precise evaluation of a correlation between the geological parameters, averaged in accordance to geological epochs, and of the ore content was implemented with the help of factorial analysis - by maximum-likelihood method using varimax rotation. The weight of factors, determined as their contribution to mutability of properties, decreases from first to fourth factor. A sign of factor loadings allows to determine groups, directly or inversely related to mineralization of parameters. In our opinion, in geological respect the first is related to the size of massifs and the area of carbon-atite phase in them, and also to the development of siderite carbonatites. It determines the scale of mineralization (increased reserves) of many types of ores. Their significant
+positive factor loadings are shown in the first factor’s column (first of all, iron, titanium, vermiculite, boxites). Siderite carbonatites determine the development of torium mineralization. The second factor is slightly less significant and is connected to a higher role of ankerite carbonatites in the massifs at a small share of calcite differences. It determines the development of niobium and rare-metal, and in some cases polymetallic mineralization (Beloziminsky massif can serve as an example). The third factor is determined by the prevalence of ultramafite phase of the ancient massifs with considerable erosion truncation, where shallow phase is missing. This factor determines the development of uranium, copper and tantalum mineralization. The fourth factor results from prevailing ijolitic phase in the massifs. It determines the development of phosphorus, complex iron-phosphorus with niobium, phlogopite and circonium mineralization.
+[18]	In addition the statistical analysis of the scale of manifestation of alkaline-ultrabasic magmatism was carried out, in relation to separate geological periods. It included both the areas of outcrop of the massifs and of carbonatites themselves (Figure 7). The data analysis has provided the evidence that in the geological history alkaline-ultrabasic mag-matism manifested unevenly. The most active manifestation occurred in the Late Proterozoic, Devonian, Triassic
+Figure 7. Scale of manifestation of alkaline ultrabasic magmatism of carbonatite formation during the period of geological history.
+and Cretaceous periods. It is worthy of note that the same pattern remains for carbonatites as well. The data obtained have indicated that the rate of magmatism (characterized by the number of magmatic outbursts during a certain period of time) was growing in time, reaching its maximum over the past 200 Ma (11 outbursts). Whereas over the past 200 Ma there were only 5-6 of such outbursts, in earlier epochs in the beginning of Palaeozoic and in Late Precambrian their number was equal to 4 and in the beginning of Palaeozoic and Middle Proterozoic their number didn’t exceed 3 (Figure 8). Reserves and average content of minerals are unevenly distributed according to geological epochs. The highest average contents (taking into account the sum of components) are also characteristic for Proterozoic, Devon, Triassic, Cre-
+taceous and also Neogene (Figure 9). Remarkably, the subsequent evolution of multimetal maxima is observed for the reserves from earlier geological epochs to the younger ones: Nb^TR^P^Fe (Figure 10). The analysis data of alkaline-ultrabasic magmatism and the data related to sub-provinces are interesting (Figure 11). As it can be observed this type of magmatism has manifested In the Maimecha-Kotuiskaya sub-province in the north of Eastern Siberia, and also in the Kola-Dvinskaya sub-province on the Russian platform.
+[19]	Therefore, the described variants of statistic analysis of ore-bearing parameters of carbonatite complexes are characterized by good convergence of results. The main conclusion of research related to this section of the database is the possibility of reliable prediction of ore content of carbonatite
+Figure 8. Rate of alkaline ultrabasic magmatism (above) and carbonatite formation (down), characterized by a number of outbreaks (peaks) of each 200 Ma.
+complexes based on an informative set of criteria, including both structural-tectonic and magmatic parameters of the massifs (depending on the types of mineralization). Very interesting statistical data on the evolution of ore-bearing alkaline ultrabasic magmatism were obtained for the first time.
+6.	Kimberlites
+[20]	The kimberlitic section of the information database dealt with comparative analysis of spatio-temporal laws of development of carbonatites and kimberlites of the world (age analysis of scale and productivity of magmatism,
+Figure 9. Distribution by geological epochs of basic mineral components, associated with carbonatites.
+regional-tectonic laws of localization of fields and massifs, structural-morphological parameters of massifs). Thus a statistical analysis was carried out in order determine coefficients of pair and partial correlation and factor analysis. Correlations for average values of tectonic and magmatic characteristics of kimberlitic fields were also established. Average ratios of a number of diamondiferous kimberlites to their total number in separate fields is directly linked to a cumulative index of a number of systems of controlling deep faults. This criterion has the significant partial correlation coefficient (0.4S), obtained by excluding the influence of other interrelated factors. Moreover, a significant reverse correlation is mentioned for diamondiferous rocks with the manifestation rate in the regions of rocks, affiliated to kim-berlites, and carbonatites (-0.45). The partial coefficient of correlation in this case is equal to -0.6. It’s worth to be mentioned that the share of diamondiferous massifs in the fields is closely linked to the age of kimberlitic magmatism (0.53).
+[21]	A positive correlation of diamondiferous parameters of kimberlites with their age, cumulative index of crustal faults, a number of a massif’s phases, i.e. the life-span of their formation, fraction of autolithic breccias (reversely connected to a fraction of porphyric facies), fraction of octahedral forms and achromatic differences of diamonds was established. It is well known that kimberlitic massifs of Canada and the Republic of South Africa are confined to the zones of deep lineaments of predominantly submerid-
+ional orientation, traceable by gravity-magnetic anomalies, dike zones and linear morphological relief structures. Thus, the fraction of rhombic-dodecahedron, cubic and corroded crystals is much more directly linked (coefficient of correlation 0.4-0.5) to separate systems of lineaments and their intersection, than the diamondiferous fraction as a whole or the content of octahedrons. The last-mentioned, in their turn, correlate directly with a number of systems of crustal disturbances. Kimberlitic hearths are more exposed due to the presence of intersecting lineament structures. It entailed the increase of oxygen potential and the rapid drop of temperatures at the stage of formation of the diamond content in the mantle. At the same time the presence of differently oriented crustal faults, controlling a massif, could have led to a faster incorporation of massifs. It preserved the primary formations and ensured the high diamondiferous characteristics of kimberlites as a whole.
+[22]	Additionally, same as for carbonatites, a statistical analysis of the scale of manifestation of kimberlitic magma-tism in the leading provinces was carried out (Figure 12), and also according to geological periods. The analysis also included the areas of outcrop of the massifs (Figure 13). These data have shown that in the geological history the manifestations of kimberlitic magmatism occurred unevenly. The most active manifestations took place in the Middle Proterozoic, Ordovician, Carbon and most of all in the Cretaceous period. The highest diamond content in kimberlites also was determined for those periods. It is also noteworthy
+тими	Ait	тптіА	і .
+Age, Ma
+I	I	1	і	1 1
+L#iAnOnti	u	и	^
+І і 1
+I 1	1 At. л {
+4- о O IT
+О О Ю О T-
+СЧСМОЧ-ОЛСМОЮ
+оооооооооооою
+_и><0Ю'тгао17>
+ООМСЧММИг
+Аде, Ма
+і
+A	X	ГТІ III 1^'rTTt 1
+Аде, Ма
+Аде, Ма
+Figure 10. Evolution of successive manifestation of multimetal mineralization (Nb-ancient to more recent epochs.
+>TR—P—Fe) from
+that the combined analysis of these data with the results of the age evolution of carbonatites (that was mentioned above), confirmed the earlier discovered tendency of kim-berlites being late in comparison to carbonatites [Belov et
+10000
+1000
+100
+CM
+1	2	3	4	5	6	7	8	9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
+Sub-provinces
+Figure 11. Global distribution of alkaline ultrabasic magmatism by sub-provinces. 1-28 - sub-provinces: 1 -Maimecha-Kotuiskaya; 2 - Kola-Dvinskaya; 3 - Greenland; 4 - East Brazilian; 5 - East Canadian; 6 - Udzhinskaya; 7 - Rhine; 8 - East-African; 9 - Aldanskaya; 10 - Colorado and Arkansas; 11 - South African; 12 - African North-West 13 - West Canadian; 14 - West African; 15 - Scandinavian; 16 - East-Sayanskaya; 17 - Yeniseiskaya; 18 - West Brazilian; 19 - Khankaiskaya; 20 - Polish; 21 - Sette-Dabanskaya; 22 - Priazovskaya; 23 - Chelyabiskaya; 24 - Anatolian; 25 -West Australian; 26 - Voronezhskaya; 27 - Timanskaya; 28 -Uralskaya.
+al., 1999]. As for carbonatites, the rate of kimberlitic mag-matism was escalating in time, characterized by a number of magmatic outbursts during a fixed period. Over the last 100 million years 10 of such outbursts were detected, in the preceding 100 million years there were 5 such outbursts, and in the earlier epochs the number of them went down to 3-4 (Figure 14).
+[23]	As a result of the statistical processing of the entire database it was concluded that significant criteria predicting diamondiferous qualities of massifs could be reliably revealed for the separate provinces and regions, taking into account their specific geological parameters. Hence, the Yakut province serving as an example, the similar dependencies at
+1200
+1000
+CM F	800-
+in	600-
+Ш <	400-
+200-
+OH--------1------1------1-------1------1 ■ ’—і--------1------
+1	2	3	4	5	6	7	8
+Provinces
+Figure 12. Distribution of kimberlitic magmatism by provinces. 1-8 provinces: 1 - African; 2 - North American; 3 - Australian; 4 - Siberian; 5 - East European; 6 - Indian; 7 - South American; 8 - Chinese.
+750
+600
+450
+(a)
+і
+riJ	j ■
+300
+150
+Absolute age, Ma
+Pti
+Pt 2
+Pt3
+I і -
+К rv
+30
+25
+20
+15
+10
+b
+J
+p ■
+Absolute age, Ma
+Pti
+Pt 2
+Pt3
+O' D
+T J
+К >s,N
+1
+12
+Figure 13. Scale of manifestation (1) and diamondiferous content of kimberlitic magmatism (2) during the period of geological history.
+a significant level of correlations were established. Therefore the parameters of tectonic-magmatic control of the regions (sub-provinces and fields) could be determined. Their linkage to the zones of intersections of deep faults of different orientation, the presence of a small fraction of rocks, related to kimberlites, and carbonatites, and also the Archaean age of cratons, confirming the Clifford rule, were established. However, the correlation analysis failed to reveal this rule due to the absence of mutability of this parameter. A less informative criterion of the diamond content of fields is their age. It was shown by the abovementioned analysis of histograms in the section, devoted to the age evolution of kimberlitic
+magmatism. The rule of temporal lagging of kimberlites behind carbonatites appears to be the general tendency (Figure 15). At that in many provinces and regions the maxima of manifestation of productive kimberlitic magmatism differ considerably in age.
+[24]	We suppose that for the sake of a real predicting evaluation it would be necessary to apply a wide range of examined cumulative parameters, reliably connected to the productivity of massifs. Applying the factorial analysis in the variant, using semi-quantitative data (maximum likelihood factors), we need to assess the contribution of parameters into the change of the evaluated characteristics (the diamond
+Figure 14. Rate of kimberlitic magmatism (upper diagram) and diamonds formation (two lower diagrams) characterized by the number of outbursts over 100 Ma of geological history.
+content). One of the main factors of diamondiferous qualities related to the factor loadings values is the intersection node of deep faults and the crust type. The prognostic productivity of kimberlites (Fp) was calculated by the regression equation, well-known in the factorial analysis:
+Fp = Cm + St ■ (F1 ■ Sc1 + ...Fn ■ ScN) ,
+where Cm is the average value of diamond content of the massifs in a sampling, St is its standard deviation.
+[25]	A certain shortcoming of the selected criteria is their insignificant summarized contribution into the mutability of the evaluated parameter - about 40%. The comparison of the obtained evaluations of diamond concentration of 57 massifs with the real ones (evaluated by computer)
+has shown satisfactory results. The coefficient of correlation was 0.57. On excluding separate parameters with relatively small factor loadings this coefficient was equal to 0.52. Thus we could come to a conclusion that factorial analysis could be applied for evaluating the diamond content of massifs, even belonging to different provinces and regions, on the basis of structural-tectonic data.
+[26]	In the framework of solving this complicated prognostic information task a comparative analysis of the tectonic position data and the structure of kimberlites and carbon-atite complexes was carried out, which shown the number of ore-bearing ultrabasic alkaline complexes with carbon-atites, diamondiferous and non-diamondiferous kimberlites (and lamproites) and related rocks (associated in the same fields). Some of the positions show an acute difference between the two formations. First of all, it’s the localization in the regions with different type of the basement. For kim-berlites such comparison was made only in relation to fields. Within the borders of the Archaean cratons an absolute majority of the fields with diamondiferous massifs was localized. The reverse correlation was observed for the carbonatite complexes. The Anabarsky shield can serve as an example of the revealed tendency. The data analysis by V. V. Kovalsky and the others [Kovalsky et al., 1974] has established that moving in the north-eastern direction kimberlites tend to be replaced by carbonatites. The first ones are mainly concentrated within the Archaean basement, the second - in the area of Proterozoic development. Further east lies the Tom-torsky massif, confined to the zone of Udzhinsky paleorift, superimposed on the Proterozoic basement. The analogical pattern is noticeable in the position of the both formations related to riftogenic structures. Carbonatites tend to lie close to rift structures. Kimberlites and their fields (first of all diamondiferous) lie at a distant from them. According to the data of E. D. Cherny and the others, within the borders of the Chadobetsky uplift, and also at a part of the Maimecha-Kotuiskaya province (the region of massif Dal-bykha), located in the area of the Taimyr-Angarsky auloco-gen, there is a large number of kimberlitic bodies, a part of them is diamondiferous. These kimberlites are often associated with related rocks. In the Kola peninsula in close vicinity (at a distance of several kilometers) lie the Yermakovsky field of poor diamondiferous kimberlites and related rocks and the carbonatite complex Tsentralny at the edge of the Kandalaksha graben. Moving away from the rift the number of rock related to kimberlites decreases in their fields or in adjacent territories. Thus in the south-eastern field of sub-province Slave in Canada single carbonatite dykes were established. The specific index of the areal distribution of rocks related to kimberlites is understated, because for the majority of fields an exact number of massifs of alpicrites, kimpicrites and carbonatites cannot be established.
+[27]	At the same time a similarity was revealed between kimberlites and carbonatites. This is a predominant control of massifs and fields by submeridional and to a less extent by north-western and north-eastern lineaments. A part of massifs and fields is controlled by two and even several lineaments. Therefore a summarized number of massifs, mentioned in the corresponding table columns, often exceeds their total number. A prevailing number of massifs
+Figure 15. Age interrelations of carbonatites and kimber-lites. 1 - carbonatites, 2 - kimberlites, 3 - “lagging behind” of kimberlites in relation to carbonatites and its share in %, 4 - simultaneous manifestation of carbonatites and kimber-lites and its share in %, 5 - autonomous manifestation of both types of alkaline ultrabasic magmatism and its share in %.
+of carbonatites and kimberlites is controlled by intersection nodes of crustal faults. For kimberlitic massifs there is no sufficient information related to this criterion, so the number of massifs, controlled by a three-directional intersection node is obviously understated. According to the data obtained by V. A. Milashev and Yu. V. Tretyakov [Milashev and Tretyakova, 2003; Vasilenko et al., 1997], the most productive massifs of Yakutia are localized in zones of triple junction of linear anomalies, less productive in the zones of conjugated two-directional anomalies. Anomalies are established by data of aerial photography. It confirms the information content of tectonic criteria. The majority of massifs of carbonatites are of a circular shape, that is close to the morphology of the major part of diamondiferous kimberlites, with isometric index of outcrop shape more than 0.5.
+[28]	It has to be mentioned that the data analysis in the database, has confirmed the Clifford rule related to industrially diamondiferous kimberlites. Regarding lamproits, ko-matiits, alkaline basaltoids, not submitting to Clifford rule, they practically don’t have any industrial diamondiferous deposits. Note that even the famous Argyle mine deposite related to lamproites, is located near the Archeaen craton. The statistical analysis has also shown that large submeridional and to the less extent north-eastern lineaments play a considerable part in forming highly diamondiferous kimber-lites. During several tectonic-magmatic cycles they could have served as suppliers of deep energy and fluids. Regrettably, these structures are poorly represented in the upper crust and it’s difficult to detect them by the traditional geological-geophysical methods.
+Т. Conclusion
+[29]	Summing up we can assume that to date the portal “Geophysics” of GC RAS is an important component of the systems of portals “Electronic Earth”. The data resources and algorithms, presented in the portal, are diverse and extensive. Their correct application allows to solve complicated and resource-consuming tasks, which is shown by the example of the database “Carbonatites and Kimberlitic Massifs of the World”.
+[30]	The system analysis of this database has provided the evidence that a complex joint application of tectonic, age and structural criteria is highly efficient for analysis of mineragenic evolution and prognostic evaluation of the entire set of carbonatite and kimberlitic complexes, fields, regions and provinces. A necessary requirement of evaluation of data criteria is the statistical analysis of their interaction and integral character of their relation to mineralization of various information factors. Information content of criteria depends on a range of objects of prognostic evaluation: regional-tectonic factors to a great extent determine the productivity of large fields and sub-provinces; local structural parameters determine the mineralization of massifs; parameters of the mineral and chemical structure can serve as the criteria of ore content of separate phases of massifs.
+[31]	Therefore a complicated and resource-consuming geoinformation task was solved with the help of the project “Electronic Earth”. It was devoted to the analysis of the magmatic and mineragenic evolution and productivity factors of rare-metal carbonatites and diamondiferous kimber-lites. Principally new mineragenic conclusions were made according to the rules of manifestation in the lithosphere of the given types of the mantle magmatism and related diverse minerals, important interrelations were revealed between different parameters and ore-bearing characteristics of rare-metal carbonatites and diamondiferous kimberlites and the traditional strategy of predicting, searching and evaluating complex (Nb, Ta, TR, P, Fe, Ti, Zr) carbonatite and diamondiferous kimberlitic deposits was significantly amplified.
+Appendix. Information Portal “GEOPHYSICS”. Short Description.
+Figure 16.
+physics”.
+Main page of GC RAS web-portal “Geo-
+prises the sections “About the Project”, “Participants” and “Contacts”.
+[34]	Section “About the Project” comprises officially approved short summary of the project and the role of GC RAS in it.
+[35]	Section “Participants” contains constantly updated references to all the official web-portals and to al scientific establishments, taking part in project “Electronic Earth”.
+[36]	Section “Contacts” provided the contact information of GC RAS.
+[37]	Thematic data is represented by navigation references in the left part of the web-portal’s page.
+[38]	Section “Information Resources” (http://eearth.wdcb. ru/infor-r.htm) comprises the data presented by the Geophysical Center RAS, including:
+1.	Interactive Data Resource on Solar-terrestrial Physics (Space Physics Interactive Data Resource, SPIDR);
+2.	Visualization of data of GPS stations network - the system of remote access to data on the modern motions of the Earth crust;
+[32]	To date the information web-portal of the Geophysical Center (GC) RAS “Geophysics” can be found at: http://eearth.wdcb.ru/. Figure 16 shown the main page of the web-portal, providing data on the project.
+[33]	Each page heading of the portal in the center has the portal’s title and to the left - the logo of the project “Electronic Earth”, which is a reference to page “Project” of the central web-portal of the project. In the lower part of a page there is the logo of the Russian Academy of Sciences (RAS), the reference to the RAS web-site. Each page of the portal also has a menu, divided into two parts: the horizontal part contains administrative information of the project and the vertical part contains thematic data. The first part com-
+3.	Database on strong earthquakes of the world;
+4.	Database on seismic stations of Russia;
+5.	Database on the lithosphere of marginal and inland
+seas;
+6.	Seismological component in the catastrophic movement of the Kolka glacier;
+7.	Strong movements database (SMDB) version 3.1;
+8.	Operative catalogue of earthquakes;
+9.	Integrated database of satellite altimetry data;
+10.	System of computerized processing of satellite altimetry and geophysical data;
+11.	Database on geotraverses;
+12.	Database “Catalogue of Earthquakes of the Toktogul-sky Region, 1929-1991”;
+13.	Visualization of data of the urgent reporting service.
+[39]	At the present time in GC RAS a problem-oriented database on kimberlites and carbonatites and related to them diamonds and rare-metals deposits and is being developed. After the database “CarKimberlite and Carbonatite Massifs”, available on the GC RAS web-portal, a solution of a complex information task is planned, related to the system analysis of the database on global kimberlite and carbonatite massifs with elaborating the main factors of mineralization and their predicting criteria.
+[40]	The chart of the horizontal component of the main magnetic field of Earth \H\ in 2000 and 2005 in the equal-area Mollweide projection will be available on the portal.
+[41]	Section “Projects of the Information Society Technologies of EU” (http://eearth.wdcb.ru/proj_r.htm) includes the following projects:
+1.	IST4Balt - Information Society Technologies Promotion in Baltic States
+2.	TELEBALT - Teleworking as a Tool for Information Society Technologies Programme Promotion to Baltic States
+3.	TELESOL - Telework Solutions for Promotion of EU Cooperation in Business and Research with the Commonwealth of Independent States
+4.	WISTCIS - New Methods of Working for Information Society Technologies Programme Promotion to Commonwealth of Independent States.
+[42]	Section “Navigator for Primary Scientific Publications” (http://eos.wdcb.ru/icsu/navigator/) is designed for searching primary scientific publications in the field of geosciences. Its first version was developed according to the initiative of the committee on scientific data of the International Council for Science (ICSU Press). This resource is available on the electronic publications server of GC RAS (http://eos.wdcb.ru/).
+[43]	Section “Electronic Publications” (http://eos.wdcb. ru/) is a web-site, comprising electronic versions of magazines, publishing scientific articles related to the subject-matter of web-portal “Geophysics”.
+[44]	Section “Conferences” (http://eearth.wdcb.ru/conf_ r.htm) comprises constantly updated information on international events related to the subject-matter of web-portal “Geophysics”.
+[45]	Section “Geophysical Resources Navigator” (http:// eearth.wdcb.ru/links_r.htm) comprises constantly updated references to geophysical - subsection “Seismology”, and geodetic - subsection “GPS-technologies”, resources in the Internet.
+References
+Armstrong, J. (1998), NWT kimberlite occurrences, EGS Open File 199S-13, p. 1, NWT Geology Division, Yellowknife, Northwest Territories.
+Belov, S. V., A. A. Burmistrov, and A. A. Frolov (1999), Tectonic position, tectonic and physical conditions of formation and ore content of massifs of ultrabasic alkaline rocks and car-bonatites, Otechestvennaya Geologiya, no. 1, 24.
+Frolov, A. A., A. V. Tolstov, and S. V. Belov (2003), Carbon-atite Deposits of Russia, 494 pp., National Information Agency “Priroda”, Moscow.
+Frolov, A. A., A. V. Lapin, A. V. Tolstov, N. N. Zinchuk, S. V. Belov, and A. A. Burmistrov (2005), Carbonatites and Kimberlites (Interrelations, Minerageny, Prediction), 539 pp., National Information Agency “Priroda”, Moscow.
+Heinrich, E. (1966), Geology of Carbonatites, 555 pp., Rand McNally, Chicago.
+Ilupin, I. P., F. V. Kaminsky, and E. V. Frantsesson (1978), Geochemistry of Kimberlites, 352 pp., Nedra, Moscow.
+Ilupin, I. P., V. I. Vaganov, and B. I. Prokopchuk (1990), Kim-berlites (Directory), 248 pp., Nedra, Moscow.
+Janse, A. J. A., and P. A. Sheahan (1995), Catalogue of world wide diamond and kimberlite occurrences: A selective and an-notative approach, J. Geochem. Explor., 53, 73.
+Kharkiv, A. D., N. Zinchuk, and A. Kruchkov (1998), Global Indigenous Diamonds Deposits, 555 pp., Nedra, Moscow.
+Kogarko, L. N., V. A. Kononova, M. Orlova, and A. Woolley (2000),	Alcaline Rocks and Carbonatites of the World,
+Part 2: Former USSR, 226 pp., CHAPMAN & HALL, London.
+Kovalsky, V. V., K. N. Nikishov, and O. S. Yegorov (1974), Kimberlitic and Carbonatite Formations of the Eastern and South-Eastern Slopes of Anabar Anteclise, 288 pp., Nauka, Moscow.
+Milashev, V. A. (1974), Kimberlitic Provinces, 238 pp., Nedra, Leningrad.
+Milashev, V. A., and Yu. V. Tretyakova (2003), Regime and Factors of Formation of Kimberlites, 112 pp., Nedra, St. Petersburg.
+Vasilenko, V. B., N. N. Zinchuk, and L. G. Kuznetsova (1997), Petrochemical Models of Diamond Deposits of Yakutia, 575 pp., Nauka, Novosibirsk.
+Wooley, A. R. (1989), Alcaline Rocks and carbonatites of the World, Part 1, North and South America, 215 pp., British Museum (Natural History) and University of Texas Press, Austin.
+Wooley, A. R. (2001),	Alcaline Rocks and Carbonatites of
+the World, Part 3, Africa, 125 pp., The Geological Society Publishing House, Bath, UK, USA.
+S. V. Belov, E. O. Kedrov, A. A. Soloviev, Geophysical Center, Russian Academy of Sciences, Moscow; e-mail: [email protected] A. A. Burmistrov, Moscow State University, Geological faculty, Moscow

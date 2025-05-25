@@ -1,0 +1,300 @@
+﻿RUSSIAN JOURNAL OF EARTH SCIENCES, VOL. 18, ES3002, doi:10.2205/2018ES000621, 2018
+The world's largest oil and gas hydrocarbon deposits: ROSA database and GIS project development
+A. Odintsova1, A. Gvishiani1'2, N. Nakicenovic3, A. Rybkina1'2, S. Busch3, and J. Nikolova1 Received 30 March 2018; accepted 23 April 2018; published 27 June 2018.
+This article proposes the use of Big Data principles to support the future extraction of hydrocarbon resources. It starts out by assessing the possible energy-system transformations in order to shed some light on the future need for hydrocarbon resource extraction and corresponding drilling needs. The core contribution of this work is the development of a new database and the corresponding GIS (geographic information system) visualization project as basis for an analytical study of worldwide hydrocarbon occurrences and development of extraction methods. The historical period for the analytical study is from 1900 to 2000. A number of tasks had to be implemented to develop the database and include information about data collection, processing, and development of geospatial data on hydrocarbon deposits. Collecting relevant information made it possible to compile a list of hydrocarbon fields, which have served as the basis for the attribute database tables and its further filling. To develop an attribute table, the authors took into account that all accumulated data features on hydrocarbon deposits and divided them into two types: static and dynamic. Static data included the deposit parameters that do not change over time. On the other hand, dynamic data are constantly changing. Creation of a web service with advanced functionality based on the Esri Geoportal Server software platform included search by parameter presets, viewing and filtering of selected data layers using online mapping application, sorting of metadata, corresponding bibliographic information for each field and keywords accordingly. The collected and processed information by ROSA database and GIS visualization project includes more than 100 hydrocarbon fields across different countries. KEYWORDS: Database; extraction; exploration; system analysis; oil and gas deposits; GIS project; CO2 storage; drilling needs.
+Citation: Odintsova, A., A. Gvishiani, N. Nakicenovic, A. Rybkina, S. Busch, and J. Nikolova (2018), The world's largest oil and gas hydrocarbon deposits: ROSA database and GIS project development, Russ. J. Earth. Sci., 18, ES3002, doi:10.2205/2018ES000621.
+1	Geophysical Center of the Russian Academy of Sciences, Moscow, Russia
+2	The Schmidt Institute of Physics of the Earth of the Russian Academy of Sciences, Moscow, Russia
+3International Institute for Applied Systems Analysis, Laxenburg, Austria
+Copyright 2018 by the Geophysical Center RAS. http://rjes.wdcb.ru/doi/2018ES000621-res.html
+Introduction
+Despite great progress in renewable energy sources, fossil energy sources provide some 80% of global energy needs. Particularly, the role of oil and natural gas is expected to be important in the future ease. Even energy pathways that explore the stabilization of global temperature include significant amounts of fossil energy, and in particular natural gas. Some of them assume decarboniza-
+ES3002
+1 of 14
+Figure 1. History of world primary energy use, by Source (in EJ) [GEA, 2012].
+tion of natural gas and coal, which indicates additional drilling needs to store underground large amounts of separated CO2. It is argued that new technologies based on Big Data concept need to be developed that make use of the vast amount of geologic and technological information now available in order to identify the most suitable drilling sites for hydrocarbon resource extraction and CO2 storage. This is a prerequisite for the safe and efficient development of these sites.
+An integral part of the multicomponent geoin-formation project is ROSA database that includes static and dynamic information of the largest hydrocarbon fields in Russia and other countries. Its further visualization in the ArcGIS environment provides users various tools to analyze data by parameter presets. Such a complex approach plays an important role for further comparative analytical study on the development of the oil and gas industry in the world.
+Thus, we analyzed two fundamentally different positions of the oil and gas industry development: the historical evolution of the global energy system and the current state of the industry based on ROSA GIS Project. The application of a system analysis methods as the most effective tool allows to conduct such an extensive analytical study.
+The Role Oil and Gas in Energy Futures
+Historical Perspective
+From the dawn of civilization, humanity relied on traditional energy sources such as biomass and human and animal muscle power. The industrial revolution led to fundamental changes in the energy system, which resulted in the replacement of traditional energy sources first by coal and then by oil and natural gas. This transformation of the energy systems was enabled by technological innovations and was a salient contributor to a long period of unprecedented economic growth as shown in Figure 1. The first phase was characterized by coal, the invention of the steam engine and iron and steel industries. The second phase was characterized by increasing diversification of energy end-use technologies and energy supply sources and led to even stronger growth of global energy needs. In particular, the invention of the internal combustion and electricity triggered the move towards oil and later gas as primary energy sources.
+Figure 2. Global primary energy requirements (in EJ) in one of the six GEA pathways that informed SDG7 targets [Riahi et al., 2012].
+Energy System Decarbonization
+Increases in global energy needs and mitigation of dangerous climate change would require a fundamental transformation of the energy systems. Energy sources like renewables can provide both, carbon-free energy and efficient provision of needed service. Fossil energy like natural gas can achieve the same in conjunction with carbon capture and storage. More than a dozen carbon capture and storage facilities exist around the world, but they are still in the pre-commercial development phase and can remove on the order of million rather than billion tons of carbon [Benson et al., 2012; Metz et al., 2005; Pachauri et al., 2014]. Natural gas is well-suited for carbon capture and storage (CCS) as it contains half of carbon per unit energy compared to coal. In fact a transformational pathway developed in the Global Energy Assessment (GEA) as shown in Figure 2 foresees a continued major role for fossil based primary energy carriers - often in conjunction with CCS - towards 2050 and this despite stark energy efficiency improvements and renewable growth rates. Energy scenarios that
+are consistent with limiting global warming below two degrees Celsius generally also rely on net negative emissions, which can be achieved by using bioenergy in conjunction with CCS. Current global emissions are about 40 billion tons (40 GtCO2) of carbon dioxide [Le Quere et al., 2015]. The Paris agreement to stabilize climate at less than two degrees Celsius above the pre-industrial levels implies reduction of emissions to zero by mid-century [Pachauri et al., 2014; Rockstrom et al., 2017; WBGU, 2016]. Many scenarios in the literature overshoot this limit meaning that the excess cumulative carbon needs to be removed from the atmosphere. The range in the literature goes up to some 2500 GtCO2 to be removed from the atmosphere this century (cf. Figure 3b).
+The GEA pathway also reveals that gas as "bridging technology" towards zero CO2 emissions can take over an important role in this regards. This is amplified by growing cumulative gas use across the whole suite of GEA scenarios, even the ones that put a high focus on efficiency (cf. Figure 3a). The continued growth in cumulative fossil resource extraction needs to be covered up an available resource base. Recent estimates [Rogner et al., 2012]
+25
+2000	2020	2040	2060	2080	2100
+3000
+2000	2020	2040	2060	2080 2100
+Figure 3. Cumulative gas use (ZJ) and CO2 storage (GtCO2) across GEA pathways [GEA, 2012; IIASA, 2017].
+suggest that resource scarcity will not be an issue and this study also intends to add to the information base in this regards. In particular gas resources are abundant, where gas hydrates are the most abundant form of hydrocarbons and with estimated up to 800 ZJ (ZettaJouls or 800,000 EJ) they represent an essentially unlimited potential source of natural gas which exceeds the current global energy demand per year of 500 EJ by a factor of 1600. [Krey et al., 2009; Rogner et al., 2012]. However, extraction technologies would yet need to be developed. Shale gas sources with estimated global resource base of over 15 ZJ are already commercial due to recent improvements of steering techniques allowing long stretches of horizontal drilling with fracture stimulation (fracking) to keep the gas and oil flowing.
+Global Drilling Perspectives
+Drilling needs in the scenarios discussed above arise both from extraction of fossil resources and for storing carbon. According to (Cook, M., 2014, "670,000+ Wells to Be Drilled through 2020". http://www.drillingcontractor.org/670000-wells-to-be-drilled-through-2020-28709), oil and gas development wells will exceed 100,000 per year by 2020, of which about 2500 will be offshore development drills. In comparison, about 80,000 development wells were drilled in 2013 and in addition about 10,000 exploratory well drills were made. Taking the expected 2020 number of 100,000 per year until 2100 translates into some nine million oil and gas wells to be drilled cumulatively. This
+number, based on current drilling activity, could even be exceeded, in case the high gas demand projections in Figure 3 would materialize. Assuming an estimated ultimate recovery of 1.5PJ/well as global average (Energy Information Administration (EIA), 2017: Assumptions to the Annual Energy Outlook 2017), the cumulative gas use shown in Figure 3 could translate into « 4 to 16 (median 8) million wells that would need to be drilled over the course of the century (excl. drills for supporting wells).
+Drilling needs consistent with the cumulative carbon injection in the GEA scenarios from 400 to 2500 (median 1200) GtCO2 can be derived based on an assumed average capacity of each well of about one million tons of CO2 (1 Mt CO2) per year (Blunt, M., 2010, "Grantham Institute for Climate Change, Briefing Paper No. 4, Carbon Dioxide Storage" https://www.imperial.ac.uk/media/imperial-college/grantham-institute/public/publications/ briefing-papers/Carbon-dioxide-storage—-Granth am-BP-4.pdf and lifetime of about 20 years [IEAGHG, 2017]. This translates into « 25 to 150 (median 75) thousand wells that would need to be drilled until the end of the century. In addition it can be assumed that for each injection well an average of one to four wells would be required to support the geological storage activities [IEAGHG, 2017].
+Implications for This Study
+So far, we have discussed the essential role of oil and in particular gas in the global energy supply that would extend into the future until the mid-century and beyond. Both safer and cheaper extraction of oil and gas as well as storing separated carbon would require further advances in drilling technologies Steering methods from geo to magnetic steering can significantly improve both extraction of oil and gas as well as storage of separated carbon. It is at the core of the contribution of this paper to develop a database as an information basis for analytical studies of worldwide hydrocarbon extraction methods. The work resulting from this paper can thus be regarded as useful reference to inform best practice standards of future oil and gas extraction and also aid site selection.
+Increasing demands for oil and gas, more difficult
+deposits will require not only new technological developments but also greatly improved geoscientific data.
+Projects on Collection, Analysis and Management of Geosciences Data
+Recently, there has been a rapid growth in the geoscience data volume. Thus, analytical processing, verification and systematization of large amounts of incoming data is an important area in the field of Earth sciences. Furthermore, some Earth data volumes can be considered as Big Data. Indeed following the definition [Roberts, 2016; Science International, 2015] Big Data possesses four Vs: volume, variety, velocity and veracity.
+The Russian Academy of Sciences is successfully implementing fundamental projects on collection, analysis and management of geosciences data of various fields. For example, Vernadsky State Geological Museum of RAS carries out research on solid mineral database on large and super-large deposits [Rundkvist et al, 2004; Tkachev et al., 2015]. The Geoinformatics Laboratory of the Institute of Geology of Ore Deposits, Petrography, Mineralogy and Geochemistry (IGEM RAS) develops data banks of information support for geological exploration in the field of geology of ore deposits, mineralogy, petrology, geochemistry and volcanology [Plate and Veselovsky, 2016; Shchukin et al., 2015]. A group of researchers of the World Data Center for Solid Earth Physics, which is a functioning in the Geophysical Center (GC RAS) (World Data System -WDS, http://icsu-wds.org/), deals with accumulation, storage of various geophysical data, providing access to them for relevant scientific research [Sergeyeva et al., 2016].
+Database on mineral resources in other countries differs in content. Industrial web libraries are widely used, for example, including ones on drilling wells in certain areas (Mineral Resources Database, Electronic resource, https://mineralseducationcoalition.org/mining-mi nerals-information/minerals-database/ (application date 28.10.2017); Oil and gas well database, Electronic resource, http://www.drillbox.co/ (application date 09.11.2017); Ohaio oil and gas well database, Electronic resource,	http://oilandgas.ohiodnr.gov/well-
+information/oil-gas-well-database (application date 19.11.2017)). In addition, mineralogi-cal databases supported by the Mineralogical Community of America and Canadian Min-eralogical Association (American Mineralogist Crystal Structure Database, Electronic resource, http://rruff.geo.arizona.edu/AMS/amcsd.php (application date 01.11.2017)) are actively developed. Some of the databases, both in terms of minerals and tectonics, operate on a platform of specialized services designed to exchange data among scientists all over the world and equipped with special software that allows to visualize data online (EarthByte, Electronic resource, https://www.earthbyte.org/category/resources/ (application date 05.11.2017)).
+However, despite active development of databases on various disciplines in Earth sciences, there remain a number of issues to be addressed. Among them: providing access to a wide range of online users; creation of new databases to attract high scientific and applied interest; use of the newest means of visualization of geospatial data by creating of digital maps in GIS environment; equipping such databases with special software tools that provide a user with easy and convenient access for analytical work with presented data.
+The ROSA Database and GIS Visualization Project
+The goal of this project is to conduct an analytical study of the multidimensional database development of oil and gas industry in Russia and the entire world. To achieve this goal, the following tasks have been accomplished: development of the multilevel database by analyzing relevant literature and other sources; GIS visualization by integrating spatial data on hydrocarbon deposits with following metadata - ID; Latitude & Longitude; Name; Location; Type of hydrocarbon resource; Exploration methods; Discovery date; Start of production; Type & Age of reservoir; Mass density; Operator; Reserves; Extraction and Recovery methods; Technology & Features of extraction; Production. As a result, collected geospatial data was incorporated in the unite GIS project with the additional tools for further data analytics based on field parameters at user's choice. Integration of the col-
+lected multilevel database and GIS tools provides availability to conduct an analytical research of the oil and gas industry worldwide development within 20 century.
+For the verification purpose, on the first stage of the project the open source specialized Russian and foreign bibliographic resources were analyzed [Cumo, 2014; Facey, 1994; Fattah et al., 2011; Golf-Racht, 1986; Nahai and Kimbell, 1963; Nehring, 1978]. It included reference books and monographies, articles in specialized profile journals and books of the conferences, encyclopedias and reports of research centers and commercial oil and gas companies; materials of the open data sources. Separate thematic blocks linked to the corresponding bibliographic source that will testify the reliability of obtained results and provide verification tool for its analysis.
+To reflect the process of the oil and gas industry establishment and its development within 20 century, the database attributive tables were constructed dividing all data into static and dynamic blocks [Odintsova et al., 2017; Rybkina et al., 2016].
+•	Static data includes the characteristics of deposits that are constant over time: ID; Latitude & Longitude; Name; Location; Type of hydrocarbon resource; Exploration methods; Discovery date; Start of production; Type & Age of reservoir; Mass density; Operator; Reserves (Figure 4).
+•	Dynamic data includes the parameters that are changing over time: Extraction and Recovery methods; Technology & Features of extraction; Production (Figure 5).
+Dynamic parameters changes with the fixed interval of one year. To provide the visibility of the multilevel database every oil and gas field could be illustrated as a single rectangular matrix. The columns show historical periods (years from 1900 to 2000) and rows - the values of the static (S\ —Sn) and dynamic parameters (D\ — Dn) in the corresponding years. Thus, every element of the matrix indicates the value of the parameter in an exact period. The matrix is shown schematically on Figure 6.
+The database structure is multidimensional and multilevel. It could be divided into three levels: ROSA 1.0, ROSA 2.0 and ROSA 3.0. The first in-
+н
+сс со о о ю
+ArcGIS ■■■ Моя карта
+Щ Детали ни Базовая карта
+Изменить карту S Войти
+. Печать - | i ¡' Измерить Найти адрес или место
+-а
+о
+о и
+Ресурсы
+* 0 oil gas 20th century
+► @ Динамика развития нефтегазовой отрасли в XX веке - крупнейшие месторождения мира
+0 Статические данные
+□	1928 год
+□	1929 год О 1930 год
+□	1931 год
+□	1932 год @ 1933 год
+□	1934 год
+□	193Б год
+□	1936 гад
+□	1937 год Е 1938 год Е 1939 год О 1940 год
+а 1<ЗЛЛ «Т1П com Справка - Условия использования Конфиден] Esri Сообифдть
+SWEDEN NORWAY
+Пдцоб
+Ш)Ы I
+9
+Каранаганак
+KAZAKHSTAN
+GREECE TURKEY
+Киркук ® Восточней Батад Хаош-Мессауд	*A®®M4ftrtiH
+*	Серир	Агаджа|^Ге1сарж
+lLCERIa	•	ЭупЛКатиф
+EGYPT 5дисгЛа.?да#а6
+,.S Л Н А д А	а%уХаса
+Даг|шт
+10ОО 200QKM
+Pacific Ос(
+Праахо-Бэй Купарук-Ривер
+Eari. HERE. Garmin, FAQ. NOAA Geo
+Статические данные (Объекты: 43, Выбрано: О)
+LAT 55,95
+LON
+54,22
+NAME_RUS_
+Арланское
+NAME_ENG_
+Arlanskoe Field
+Красноканекий район, республика Башкирия, Россия
+CLASSIFICA Нефтяные
+EXPLO RATIO
+DISCOVERY
+Общерегиональные 1955
+исследования;
+геофизические и
+геологические
+съемки; глубокое
+поисково-
+разведочное бурение
+START_OF_P 1953
+COLLECTOR С1-С2
+О Ö
+н
+сс О
+£ Н
+н >
+г
+г
+>
+я
+о н
+1Г1
+Н
+О р
+>
+22 а
+а >
+СГ1
+а н я о
+СГ1
+Н
+СГ1
+Figure 4. Visualization of the database in ArcGIS. In the frame - the list of static parameters Arlanskoe Field is presented.
+for
+H сс со О
+о to
+H сс со о о to
+ArcGIS Моя карта
+Щ Детали ни Базовая карта
+Изменить карту £ Войти Печать - | I1 ¡' Измерить Найти адрес или место	О.
+00 о
+о s
+Ресурсы
+□	1961 год
+□	1962 ГОД
+□	1963 год
+□	1964 год
+0 196Б год
+□ 1966 гад 13 1967 год 13 1968 гад 3 1969 гад S 1970 гад S 1971 гад В 1972 ГОД В 1973 ГОД В 1974 год В 1975 год 3 1976 год 3 1977 год
+Esri.com Справка Условия «польз«
+Сказаться с Es ri Сооби^пь о неправо
+Kuwait City
+KUWAIT
+Большой Бурган
+AI Jubayl #Кагиф
+^Манифа
+Damnpäiftp
+AI Man amah
+Абкайк
+»	BAHRAIN
+AI Mubarraz Hofuf
+Sharjah Dubai
+Riyadh
+SO 10QKM
+Бу Хаса
+UNITED ARAB EMIRATES
+Geophysical Center RAS I Esri. HERE [ Eari. HERE. Garmin. NGA. USGS
+oil gas 20th century	- 1965 год (Объекты: 23, Выбрано: 0)	=	X
+YEAR	ID	LAT	LON	NAME_RUS_	NAME_ENG_	EXTRACTION	EXTRACTI_1	FEATURES	GAS_PRODUC	OIL_PRODUC	О
+1 965,00	20,00	25,93	49,67	Абкайк	Abqaiq Field	Первичный	Фонтанирующие скважины	Нет данных	Нет данных	22	:
+I 965,00	30,00	30,70	49,83	Агаджари	Aghajari Field	Первичный	Нет данных	Нет данных	42,5	Нет данных
+1 965,00	1,00	55,95	54,22	Арланское	Arlanskoe Field	Вторичный	Скважинные штанговые и электроцентробежны	Законтурное заводнение признано неэффективным	1,3	Нет данных	-
+Figure 5. Visualization of the database in ArcGIS. In the frame fields of 1965 year.
+the list of dynamic parameters for
+о a
+H
+ITl
+О %
+H
+H >
+tr4
+tr4
+>
+Я
+a
+H
+Wl
+H О
+F
+>
+22 a
+a >
+Wl
+a
+H я о
+Wl
+H
+Wl
+H сс со о о to
+1900
+1901
+1928
+2000
+S1	Sn	D1	Dn
+0	0
+///	////	0	0
+o	/p/	0	0
+I	v/A	1	210
+/A	10	346
+Figure 6. Schematic example of the matrix where Si — Sn indicate static parameters, Di — Dn dynamic parameters. Zero (0) means absence of data.
+formation level ROSA 1.0 contains static and dynamic data on the largest hydrocarbon fields in Russia and other countries discovered in the 20th century with the reserves more than billion tons of oil and equivalent billion cubic meters of gas in place. The second and third information levels ROSA 2.0 and ROSA 3.0 contain Russia's oil and gas deposits discovered in 20th and 21st centuries. ROSA 2 includes 38 objects with reserves of that range from 100 million to a billion tons. ROSA 3.0 includes 18 strategically important oil and gas fields with reserves from 100 to 50 million tons. Every single object is characterized by unique and unified parameters. For example, "location", "coordinates" or "identification number" are unique for every field. Other parameters of attributive table, such as "exploration methods", "collector type" or "field characteristics" are unified for the whole database ROSA 1.0-2.0-3.0. In addition, attributive tables are accompanied with keywords that serve as an effective tool for navigation and data processing and ease the processing of a large volume of heterogeneous data in both numerical and text formats.
+Within ROSA GIS visualization project, we track the development of technologies and production volumes in each country and recognize the patterns of oil and gas deposits distribution worldwide. Further analysis review a strong correlation between leading countries in oil and gas industry and their economic positions within 20 century. The database reflects the periods in economic transformation and the growth of science and technology development that strongly correlates with implementation of a new oil and gas extraction and exploration methods. Thus, emergence of new
+breakthrough technologies allows to rise the share of production from hard-to-recover oil and gas reserves, as well as the re-development fields previously recognized as unprofitable and whose reserves are depleted. At the same time, in the development of new technologies, special attention is paid to the following requirements: maintaining economic profitability; maximum automation of processes; reduction of crude oil and natural gas losses during production; reduction of negative impact on the environment.
+The next and important stage of this project is visualization of multilevel database in ArcGIS. All data was incorporated to ArcMap as a shapefile with point objects. "World Imagery" and "World Boundaries and Places" Esri default maps were used as the background (Figure 7). To process and analyze described data the geoprocessing Clustering tool package was applied including Clustering methods developed at the Geophysical Center [Soloviev et al., 2016]. For a future development of the ROSA GIS project new methods of data analysis will be incorporated to the existing algorithmic tool package.
+To present possible applications of the clustering tool package the discrete perfect sets (DPS) algorithm was used for the basic analysis within existing database. The DPS algorithm was created to isolate dense regions with a certain density level a in a set of point objects. This method is a part of the discrete mathematical analysis (DMA), which is based on elements of artificial intelligence, as well as the basic concepts of fuzzy mathematics and logic [Agayan et al., 2014; Gvishiani et al., 2002, 2010, 2013; Nikolov et al., 2015]. DMA helps to solve various tasks related to the analysis of geospatial data.
+To procced with the DPS geoprocessing tool user must specify the following parameters:
+•	choose the layer for the analysis;
+•	indicate free operation parameters: u (u < 0) for determining the proximity radius and /3 £ [—1,1] for calculating the a density level;
+•	indicate the folder where result will be saved [Soloviev et al., 2016].
+Figure 8 shows the result of applying DPS algorithm to the layer with the largest oil and gas deposits (ROSA 1.0). Clusters selected in the course of the algorithm work are shown in yellow.
+Figure 8. Visualization of the DPS algorithm application result in ArcMap. Clusters are shown in yellow.
+H
+CO co o o to
+o 1-b
+M
+Q _gas,mxd - ArcMap
+File Edit View Bookmarks Insert Selection Geoprocessing Customize Windows Help □	H X ^ <j> ^ ||1=40 000 0GP
+s^ggo ii»■ *
+Table Of Contents
+B S Layers
+B 0 R0SA1_dps *
+B 0 R0SA1 ★
+B 0 World Boundaries and Places B 0 Basemap
+B 0 World Imagery
+O
+a
+H
+ITl
+O %
+H
+H >
+>
+fS a
+H
+ITl
+H O
+P >
+22 a
+a >
+ITl
+a
+H 13
+o
+ITl
+H
+ITl
+H co co o o to
+Figure 9. Model for representing the structure of a multilevel ROSA database according to the principle of an inverted pyramid.
+As a result, the authors propose a multidimensional ROSA GIS project with unified identifiers for all levels of the ROSA database (ROSA 1.0, ROSA 2.0, ROSA 3.0). Applied systems approach for data analysis and implication of the cross-cutting parameters significantly simplify the processing of large amounts of heterogeneous data by sorting them according to the given values and/or keywords depending on the user's requirements. The general structure of the database is shown on the Figure 9. Suggested block scheme present interaction of all levels of the ROSA database. The principle of the inverted pyramid is applied. ROSA 1.0 includes the largest deposits of the oil and gas in the world and on the ROSA 2.0-3.0 level only deposits with the territory of the Russian Federation are considered. ROSA 4.0 contains more detailed and narrowly focused information and is currently under development. From the upper part of the pyramid, the geographical cover, as well as the volume of the oil and gas in place, decreases. This principle is universal and could be further applied in other thematic databases. All levels can be analyzed independently, or within the whole database using cross-cutting parameters unified for all levels for a comparative analytical review.
+Discussion
+The purpose of this research is to develop a database and conduct the analytical study of the hydrocarbon deposits in Russia and worldwide. As illustrated in the Figure 1, Figure 2 and Figure 9 the main trends in the development of the oil and gas industry are presented from two different perspectives. Together, they provide the combined overview of the industry development based on two different approaches, namely from historical evolution of the global energy system toward a major role of oil and gas and from the perspective of development of oil and gas fields base on the unique database and visualization of the geoscientific data. In both cases the systems analysis is applied to provide as effective tool for further analytical research.
+The result of this work is the development of a multicomponent and multidimensional geoinforma-tion and visualization project that can serve as an effective tool for applied and analytical research. The main component of this project is a unique database that includes static and dynamic parameters of the largest hydrocarbon fields in Russia and other countries of the world. Visualization of the database objects and its attributive field in the ArcGIS environment became the next step in the course of the project implementation. It allows to present all deposits as a single world map with various backgrounds and provides the user with the opportunity to analyze the data with spatial algorithmic tools (Clustering Tool Package). To work and sort the deposits according to the desired parameters the built-in capabilities of the ArcGIS system analysis software package methods and algorithmic tools created in the Geophysical Center of RAS are applied.
+Such a database with its static and dynamic parameters will provide a comparative analytical study of the oil and gas industry development in Russia and worldwide. Countries positions in the world arena will be revealed according to the influence of oil and gas industry development on the economic situation and the development of extraction and exploration tools.
+The geoinformation and visualization project provides a facility and framework for viewing and analyzing the regularity of hydrocarbon distribution on the world map, to reveal the leaders in extraction, to track the development of technologies and
+production volumes in each country. The database could be efficiently used as an effective tool for educational purposes. The wide scale and thematic focus of the ROSA GIS visualization project will support effective interaction and collaboration across scientific communities, production organizations, and educational institutions.
+Acknowledgments. This work was carried out in the framework of the Fundamental Research Program of the RAS Presidium No. 19 "Fundamental problems of geological and geophysical study of lithospheric processes". Project "System analysis of variable ranges of hydrocarbon deposits in the framework of the ROSA GIS project" (No. 0145-2018-0006).
+References
+Agayan, S., Sh. Bogoutdinov, M. Dobrovolsky (2014), Discrete perfect sets and their application in cluster analysis, Cybernetics and Systems Analysis, 50, No. 2, 17-32. (in Russian)
+Benson, S. M., et al.	(2012), Chapter 13
+- Carbon Capture and Storage, Global Energy Assessment - Toward a Sustainable Future p.993-1068, Cambridge University Press, NY, USA and the International Institute for Applied Systems Analysis, Cambridge, UK and New York, and Laxenburg, Austria. (www.globalenergyassessment.org)
+Cumo, C. (2014), Ghawar field (Saudi Arabia), Oil: A Cultural and Geographic Encyclopedia of Black Gold, 1 p.105-107, ABC-Clio, Santa Barbara, California, USA.
+Facey, W. (1994), The Story of the Eastern Province of Saudi Arabia, 160 pp. Stacey International, London.
+Fattah, K., S. El-Katatney, A. Dahab (2011), Potential implementation of underbalanced drilling technique in Egyptian oil fields, Journal of King Saud University - Engineering Sciences, 23, No. 1, 4966.
+GEA (2012), Global Energy Assessment - Toward a Sustainable Future, Cambridge University Press, NY, USA and the International Institute for Applied Systems Analysis, Cambridge, UK and New York, and Laxenburg, Austria.
+Golf-Rakht, T. (1986), Fundamentals of Oilfield Geology and the Development of Fractured Reservoirs, 608 pp. Nedra, Moscow. (in Russian)
+Gvishiani, A., S. Agayan, Sh. Bogoutdinov (2002), Mathematical Methods of Geoinformatics. I. A New Approach to Clustering, Cybernetics and Systems, Springer, New York, USA.
+Gvishiani, A., et al. (2010), Discrete mathematical analysis and geological and geophysical applica-
+tions. Bulletin of Kamchatka Regional Association "Educational-Scientific Center", Earth Sciences, 16, No. 2, 109-125. (in Russian) Gvishiani, A., et al.	(2013), Objective classifi-
+cation of epicenters and recognition of places of possible occurrence of strong earthquakes in California, Geoinformatics, No. 2, 44-57. (in Russian) IEAGHG (2017), CCS Industry Build-Out Rates - Comparison with Industry Analogues. IEAGHG Technical Review 2017-TR6, June 2017, Technical report, IEA Greenhouse Gas, Cheltenham, UK. IIASA (2017), GEA Scenario database, Version 2.0.2, IIASA, Vienna, Austria. (Updated ex-post analysis of GEA pathways) Krey, V., et al. (2009), Gas Hydrates: Entrance to a Methane Age or Climate Threat?, Environmental Research Letters, 4, No. 3, 034007, Crossref Le Quere, C., et al.	(2015), Global Carbon
+Budget 2015, Earth System Science Data, 1, No. 2, 349-396, Crossref Metz, B., O. Davidson, H. De Coninck, M. Loos, L. Meyer (2005), "IPCC Special Report on Carbon Dioxide Capture and Storage", Working Group III, Intergov. Panel on Climate Change, Geneva, Switzerland.
+Nahai, L., C. Kimbell (1963), The Petroleum Industry of Iran, 112 pp. Dept. of the Interior, Bureau of Mines, Washington, US. Nehring, R. (1978), Giant Oil Fields and World Oil Resources., Report R-2284-CIA, Rand Corporation, Santa-Monica, CA. Nikolov, B., et al. (2015), Integration of data mining methods for Earth science data analysis in GIS environment, Russian Journal of Earth Sciences, 15, No. 4, ES4004, Crossref Odintsova, A., et al. (2017), Dynamics of oil and gas industry development in the 20th century using the world's largest deposits as an example: GIS project and web service, Geoinformatics, No. 4, 2-6, (in Russian) Crossref Pachauri, R. K., et al. (2014), Climate Change 2014: Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, Synthesis Report, IPCC, Geneva, Switzerland. Plate, A., A. Veselovsky (2016),	Geological
+and Geophysical Database in the Context of Creating a Geo-Information System, Subsoil use Problems, 2, 39-45 pp. IGD UB RAS, Ekaterinburg. (in Russian)
+Riahi, K., et al.	(2012), Chapter 17 - En-
+ergy Pathways for Sustainable Development, Global Energy Assessment - Toward a Sustainable Future p.1203-1306, Cambridge University Press, NY, USA and the International Institute for Applied Systems Analysis, Cambridge, UK and New York, and Laxenburg, Austria. Roberts, F. S. (2016), What is Big Data and how has it changed?, Book of Abstracts of the International Conference "Data Intensive System Analysis
+ES3002
+for Geohazard Studies", Sochi region, Mountain cluster, Russia, 18-21 July 2016, Edited by E. Kedrov p.BS4002, GC RAS, Moscow. Crossref Rockstrom, J., et al. (2017), A Roadmap for Rapid Decarbonization, Science, 355, No. 6331, 12691271.
+Rogner, H.-H., et al.	(2012), Chapter 7 -
+Energy Resources and Potentials, Global Energy Assessment - Toward a Sustainable Future p.423-512, Cambridge University Press, NY, USA and the International Institute for Applied Systems Analysis, Cambridge, UK and New York, and Laxenburg, Austria. (www.globalenergyassessment.org) Rundkvist, D., et al. (2004), Principles of compilation and preliminary analysis of results: Large and super large deposits: patterns of location and conditions of education, Database and metallogenetic map of large and super-large deposits of the world p.391-422, IGEM RAS, Moscow. (in Russian) Rybkina, A., et al.	(2016), Development of
+geospatial database on hydrocarbon extraction methods in the 20th century for large and super large oil and gas deposits in Russia and other countries, Russian Journal of Earth Sciences, 16, No. 6, ES6002, Crossref
+Science International (2015),	Open Data in a
+Big Data World. Paris: International Council for Science (ICSU), International Social Science Council (ISSC), The World Academy of Sciences (TWAS), InterAcademy Partnership (IAP), 17 pp. ICSU, Paris.
+ES3002
+Sergeyeva, N., et al.	(2016), Development of
+the user interface for geomagnetic database, Geoin-formatics Research Papers, 4, BS4002, Crossref Shchukin, S., V. Petrov, V. Poluektov, S. Ustinov (2015), Geological database for modeling and forecasting rock deformations of the Antaeus deposit of Streletsky ore cluster, Gornyi Zhurnal, No. 2, 2126. (in Russian) Soloviev, A., et al. (2016), GIS-oriented solutions for advanced clustering analysis of geoscience data using ArcGIS platform, Russian Journal of Earth Sciences, 16, No. 6, ES4004, Crossref Tkachev, A., S. Bulov, D. Rundqvist, S. Pokhno, N. Vishnevskaya, R. Nikonov (2015), Web-GIS "Largest deposits of the world", Geoinformatics, No. 1, 47-59. (in Russian) WBGU (2016), Development and Justice through Transformation: The Four BIG "I"s, Special Report. 1. Auflage, Wissenschaftlicher Beirat d. Bundesregierung Globale Umweltveranderungen, Berlin, Germany.
+A. Gvishiani, A. Odintsova, J. Nikolova, A. Rybkina, Geophysical Center of the Russian Academy of Sciences, Molodezhnaya St. 3, 119296 Moscow, Russia. ([email protected])
+S. Busch and N. Nakicenovic, International Institute for Applied Systems Analysis, Schlossplatz 1, A-2361 Laxenburg, Austria
+ODINTSOVA ET AL.: LARGEST OIL AND GAS DEPOSITS...
