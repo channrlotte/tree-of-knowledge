@@ -65,6 +65,11 @@ def squeeze_graph(file_name: str) -> None:
     vertices = set(graph.vertices.values())
     vertices_to_clusters = cluster_vertices(list(vertices))
 
+    import json
+
+    with open(f"{file_name}.json", "wt", encoding="utf-8") as f:
+        json.dump(vertices_to_clusters, f, ensure_ascii=False, indent=4)
+
     clustered_graph = Graph()
     added_edges = set()
 
@@ -95,5 +100,5 @@ def squeeze_graph(file_name: str) -> None:
 
 
 if __name__ == "__main__":
-    squeeze_graph("data/graphs/higher_dim_graphs/articles.pickle")
-    squeeze_graph("data/graphs/higher_dim_graphs/fiction.pickle")
+    squeeze_graph("articles")
+    squeeze_graph("fiction")
